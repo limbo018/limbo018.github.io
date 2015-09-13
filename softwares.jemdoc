@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{softwares.html}
+# jemdoc: addcss{yibolin_homepage/jemdoc.css}
+# jemdoc: title{Yibo Lin's Homepage}
+
+
+= Softwares
+
+=== Tools Released
+
+- [http://www.cerc.utexas.edu/utda/download/MPLD MPLD]:
+  Multiple Patterning Lithography Layout Decomposition
+
+- [http://www.cerc.utexas.edu/utda/download/TPLPlace TPLPlace]:
+  Triple Patterning Lithography Aware Detailed Placement

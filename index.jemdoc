@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{yibolin_homepage/jemdoc.css}
+# jemdoc: title{Yibo Lin's Homepage}
+
+
+~~~
+{}{img_left}{yibolin_homepage/image/YiboLinAtFireValley_small.jpg}{YiboLin}{170}{}{}
+= [http://www.cerc.utexas.edu/~yibolin/ Yibo Lin]
+
+Ph\.D\.\n
+[http://www.ece.utexas.edu/ Department of Electrical and Computer Engineering] \n
+[http://www.utexas.edu/ University of Texas at Austin]
+
+*E-mail:* yibolin\[at\]cerc\[doc\]utexas\[dot\]edu
+~~~
+
+# ==== About
+== About
+
+I'm a Ph.D. student in the Department of Electrical and Computer Engineering, University of Texas at Austin, 
+working with [http://www.ece.utexas.edu/~dpan/ Prof. David Z. Pan].
+Previously, I received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
+
+My research interests include physical design and design for manufacturing.
+

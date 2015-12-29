@@ -8,12 +8,16 @@
 
 - \[J1\] Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, *Yibo Lin*, Zhuo Li, Charles Alpert, and David Z. Pan,
   "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7036058 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
-  accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
-  ([yibolin_homepage/papers/J1_paper.pdf pdf])
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2015.
 
 === Conference Papers
 
 ==== 2015
+
+ - \[C5\] *Yibo Lin*, Xiaoqing Xu, Bei Yu, Ross Baldick, and David Z. Pan, 
+    "Triple/Quadruple Patterning Layout Decomposition via Novel Linear Programming and Iterative Rounding", 
+    SPIE Advanced Lithography Conference, San Jose, CA, Feb. 21-25, 2016
+    (to appear)
 
  - \[C4\] *Yibo Lin*, Bei Yu, Yi Zou, Zhuo Li, Charles J. Alpert and David Z. Pan, 
     "Stitch Aware Detailed Placement for Multiple E-Beam Lithography", 
@@ -21,7 +25,7 @@
     (to appear)
 
  - \[C3\] *Yibo Lin*, Bei Yu, Biying Xu and David Z. Pan, 
-    "Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict", 
+    "[http://dl.acm.org/citation.cfm?id=2840875 Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict]", 
     IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 2-6, 2015.
     ([yibolin_homepage/papers/C3_paper.pdf pdf])
     ([yibolin_homepage/papers/C3_slides.pdf slides])

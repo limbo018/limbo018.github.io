@@ -1,0 +1,3 @@
+Yibo Lin received the B.S. degree in microelectronics from Shanghai Jiaotong University, Shanghai, China, in 2013. 
+He is currently pursuing the Ph.D. degree in the Department of Electrical and Computer Engineering, University of Texas at Austin, under supervision of Professor David Z. Pan. 
+His research interests include physical design and design for manufacturability.

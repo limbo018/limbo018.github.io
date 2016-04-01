@@ -1,5 +1,5 @@
 papers
 *.aux
 *.log
-*.cls
 *.out
+*.DS_Store

@@ -6,6 +6,11 @@
 
 === Journal Papers
 
+- \[J2\] Bei Yu, Xiaoqing Xu, Subhendu Roy, *Yibo Lin*, Jiaojiao Ou, and David Z. Pan,
+  "[http://link.springer.com/article/10.1007%2Fs11432-016-5560-6 Design for Manufacturability and Reliability in Extreme-Scaling VLSI]",
+  Science China Information Sciences, 2016.
+  *(Invited Paper)*
+
 - \[J1\] Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, *Yibo Lin*, Zhuo Li, Charles Alpert, and David Z. Pan,
   "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=7036058 Methodology for Standard Cell Compliance and Detailed Placement for Triple Patterning Lithography]",
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2015.
@@ -14,38 +19,38 @@
 
 ==== 2015
 
- - \[C6\] *Yibo Lin*, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J. Alpert and David Z. Pan, 
-    "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
-    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7–10, 2016. 
+- \[C6\] *Yibo Lin*, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J. Alpert and David Z. Pan, 
+   "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
+   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7–10, 2016. 
 
- - \[C5\] *Yibo Lin*, Xiaoqing Xu, Bei Yu, Ross Baldick, and David Z. Pan, 
-    "[http://dx.doi.org/10.1117/12.2218628 Triple/Quadruple Patterning Layout Decomposition via Novel Linear Programming and Iterative Rounding]", 
-    SPIE Advanced Lithography Conference, San Jose, CA, Feb. 21-25, 2016
-    *(Best Student Paper Award)*
-    ([yibolin_homepage/papers/C5_paper.pdf pdf])
-    ([yibolin_homepage/papers/C5_slides.pptx slides])
+- \[C5\] *Yibo Lin*, Xiaoqing Xu, Bei Yu, Ross Baldick, and David Z. Pan, 
+   "[http://dx.doi.org/10.1117/12.2218628 Triple/Quadruple Patterning Layout Decomposition via Novel Linear Programming and Iterative Rounding]", 
+   SPIE Advanced Lithography Conference, San Jose, CA, Feb. 21-25, 2016
+   *(Best Student Paper Award)*
+   ([yibolin_homepage/papers/C5_paper.pdf pdf])
+   ([yibolin_homepage/papers/C5_slides.pptx slides])
 
- - \[C4\] *Yibo Lin*, Bei Yu, Yi Zou, Zhuo Li, Charles J. Alpert and David Z. Pan, 
-    "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7428009 Stitch Aware Detailed Placement for Multiple E-Beam Lithography]", 
-    IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Macau, Jan. 25-28, 2016.
-    ([yibolin_homepage/papers/C4_paper.pdf pdf])
-    ([yibolin_homepage/papers/C4_slides.pptx slides])
+- \[C4\] *Yibo Lin*, Bei Yu, Yi Zou, Zhuo Li, Charles J. Alpert and David Z. Pan, 
+   "[http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7428009 Stitch Aware Detailed Placement for Multiple E-Beam Lithography]", 
+   IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Macau, Jan. 25-28, 2016.
+   ([yibolin_homepage/papers/C4_paper.pdf pdf])
+   ([yibolin_homepage/papers/C4_slides.pptx slides])
 
- - \[C3\] *Yibo Lin*, Bei Yu, Biying Xu and David Z. Pan, 
-    "[http://dl.acm.org/citation.cfm?id=2840875 Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict]", 
-    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 2-6, 2015.
-    ([yibolin_homepage/papers/C3_paper.pdf pdf])
-    ([yibolin_homepage/papers/C3_slides.pdf slides])
+- \[C3\] *Yibo Lin*, Bei Yu, Biying Xu and David Z. Pan, 
+   "[http://dl.acm.org/citation.cfm?id=2840875 Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict]", 
+   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 2-6, 2015.
+   ([yibolin_homepage/papers/C3_paper.pdf pdf])
+   ([yibolin_homepage/papers/C3_slides.pdf slides])
 
- - \[C2\] David Z. Pan, Lars Liebmann, Bei Yu, Xiaoqing Xu and *Yibo Lin*, 
-    "[http://dl.acm.org/citation.cfm?id=2744769.2747940 Pushing Multiple Patterning in Sub-10nm: Are We Ready?]", 
-    ACM/IEEE Design Automation Conference (DAC), pp. 197:1-197:6, San Francisco, CA, June 7-11, 2015. 
-    ([yibolin_homepage/papers/C2_paper.pdf pdf])
-    *(Invited Paper)*
+- \[C2\] David Z. Pan, Lars Liebmann, Bei Yu, Xiaoqing Xu and *Yibo Lin*, 
+   "[http://dl.acm.org/citation.cfm?id=2744769.2747940 Pushing Multiple Patterning in Sub-10nm: Are We Ready?]", 
+   ACM/IEEE Design Automation Conference (DAC), pp. 197:1-197:6, San Francisco, CA, June 7-11, 2015. 
+   ([yibolin_homepage/papers/C2_paper.pdf pdf])
+   *(Invited Paper)*
 
- - \[C1\] *Yibo Lin*, Bei Yu and David Z. Pan, 
-    "[http://dl.acm.org/citation.cfm?id=2744769.2744850 High Performance Dummy Fill Insertion with Coupling and Uniformity Constraints]", 
-    ACM/IEEE Design Automation Conference (DAC), pp. 71:1-71:6, San Francisco, CA, June 7-11, 2015. 
-    ([yibolin_homepage/papers/C1_paper.pdf pdf])
-    ([yibolin_homepage/papers/C1_slides.pdf slides])
+- \[C1\] *Yibo Lin*, Bei Yu and David Z. Pan, 
+   "[http://dl.acm.org/citation.cfm?id=2744769.2744850 High Performance Dummy Fill Insertion with Coupling and Uniformity Constraints]", 
+   ACM/IEEE Design Automation Conference (DAC), pp. 71:1-71:6, San Francisco, CA, June 7-11, 2015. 
+   ([yibolin_homepage/papers/C1_paper.pdf pdf])
+   ([yibolin_homepage/papers/C1_slides.pdf slides])
 

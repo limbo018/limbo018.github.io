@@ -17,7 +17,11 @@
 
 === Conference Papers
 
-==== 2015
+==== 2016
+
+- \[C7\] Yudong Tao, Changhao Yan, *Yibo Lin*, Shengguo Wang, David Z. Pan, and Xuan Zeng, 
+   "A Novel Unified Dummy Fill Insertion Framework with SQP-Based Optimization Method", 
+   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7–10, 2016. 
 
 - \[C6\] *Yibo Lin*, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J. Alpert and David Z. Pan, 
    "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
@@ -35,6 +39,8 @@
    IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC), Macau, Jan. 25-28, 2016.
    ([yibolin_homepage/papers/C4_paper.pdf pdf])
    ([yibolin_homepage/papers/C4_slides.pptx slides])
+
+==== 2015
 
 - \[C3\] *Yibo Lin*, Bei Yu, Biying Xu and David Z. Pan, 
    "[http://dl.acm.org/citation.cfm?id=2840875 Triple Patterning Aware Detailed Placement Toward Zero Cross-Row Middle-of-Line Conflict]", 

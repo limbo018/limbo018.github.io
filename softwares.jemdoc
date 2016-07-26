@@ -16,6 +16,5 @@
 - [http://www.cerc.utexas.edu/utda/download/DFI/index.html DFI]:
   Dummy fill insertion framework
 
-# prepare for release 
-#- [http://www.cerc.utexas.edu/utda/download/MrDP/index.html MrDP]:
-#  Multiple-row detailed placement
+- [http://www.cerc.utexas.edu/utda/download/MrDP/index.html MrDP]:
+  Multiple-row detailed placement

@@ -19,14 +19,19 @@
 
 ==== 2016
 
+- \[C9\] Jiaojiao Ou, Bei Yu, Xiaoqing Xu, Joydeep Mitra, *Yibo Lin* and David Z. Pan, 
+   "DSAR: DSA aware Routing with Simultaneous DSA Guiding Pattern and Double Patterning Assignment", 
+   ACM International Symposium on Physical Design (ISPD), Portland, OR, Mar. 19–22, 2017. 
+
 - \[C8\] Yudong Tao, Changhao Yan, *Yibo Lin*, Shengguo Wang, David Z. Pan, and Xuan Zeng, 
-   "A Novel Unified Dummy Fill Insertion Framework with SQP-Based Optimization Method", 
+   "[http://dx.doi.org/10.1145/2966986.2966994 A Novel Unified Dummy Fill Insertion Framework with SQP-Based Optimization Method]", 
    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7-10, 2016. 
 
 - \[C7\] *Yibo Lin*, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J. Alpert and David Z. Pan, 
-   "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
+   "[http://dx.doi.org/10.1145/2966986.2967055 MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes]", 
    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7-10, 2016. 
    ([yibolin_homepage/papers/C7_paper.pdf preprint])
+   ([yibolin_homepage/papers/C7_slides.pdf slides])
    ([http://www.cerc.utexas.edu/utda/download/MrDP/index.html releases])
 
 - \[C6\] *Yibo Lin*, Bei Yu, and David Z. Pan, 

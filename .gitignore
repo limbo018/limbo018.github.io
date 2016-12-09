@@ -3,3 +3,4 @@ papers
 *.log
 *.out
 *.DS_Store
+tmp.jemdoc

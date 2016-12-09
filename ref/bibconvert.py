@@ -8,6 +8,7 @@
 
 import sys
 import re
+import datetime
 import bibtexparser 
 
 def read(filenames, commentPrefix):
@@ -25,6 +26,33 @@ def read(filenames, commentPrefix):
     bibDB = bibtexparser.loads(content)
     return bibDB
 
+def getDatetime(entry):
+    date = entry['year']
+    timeFormat = "%Y"
+    if 'month' in entry and entry['month']:
+        date = date+","+entry['month']
+        timeFormat = "%Y,%B"
+        if 'day' in entry and entry['day']:
+            date = date+","+entry['day'].split('-', 1)[0]
+            timeFormat = "%Y,%B,%d"
+    return datetime.datetime.strptime(date, timeFormat)
+
+def getAddressAndDate(entry):
+    addressAndDate = ""
+    prefix = ""
+    if 'address' in entry and entry['address']:
+        addressAndDate += prefix + entry['address']
+        prefix = ", "
+    if 'month' in entry and entry['month']:
+        addressAndDate += prefix + datetime.datetime.strptime(entry['month'], "%B").strftime("%b")
+        prefix = " " if 'day' in entry and entry['day'] else ", "
+    if 'day' in entry and entry['day']:
+        addressAndDate += prefix + entry['day'].replace("--", "-")
+        prefix = ", "
+    if 'year' in entry and entry['year']:
+        addressAndDate += prefix + entry['year']
+    return addressAndDate
+
 def printBibDB(bibDB, highlightAuthors, suffix):
     # differentiate journal and conference 
     # I assume journal uses 'journal' 
@@ -38,8 +66,8 @@ def printBibDB(bibDB, highlightAuthors, suffix):
         else:
             conferenceEntries.append(entry)
     # sort by years from large to small 
-    journalEntries.sort(key=lambda entry: entry['year'], reverse=True)
-    conferenceEntries.sort(key=lambda entry: entry['year'], reverse=True)
+    journalEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
+    conferenceEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
     stringMap = dict(bibDB.strings)
 
     # call kernel print functions 
@@ -61,6 +89,10 @@ def printBibDB(bibDB, highlightAuthors, suffix):
 """
         printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        print """
+\end{rSection}
+
+"""
     else:
         assert 0, "unknown suffix = %s" % suffix
 
@@ -82,19 +114,21 @@ def printWeb(bibDB, stringMap, highlightAuthors, entries, publishType, booktitle
         author = entry['author']
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
-                author.replace(highlightAuthor, "*"+highlightAuthor+"*")
+                author = author.replace(highlightAuthor, "*"+highlightAuthor+"*")
         title = entry['title'].replace("{", "").replace("}", "")
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotateweb'] if 'annotateweb' in entry else ""
         if publishlink: # create link if publishlink is set 
             title = "[" + publishlink + " " + title +"]"
+        addressAndDate = getAddressAndDate(entry)
         print """
 - \[%s%d\] %s, 
   "%s", 
   %s, %s. 
   %s
-        """ % (prefix, count, author, title, booktitle, currentYear, annotate)
+        """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
         count = count-1
 
 def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
@@ -123,13 +157,14 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
         author = entry['author']
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
-                author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")
+                author = author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")
         title = entry['title']
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotatecv'] if 'annotatecv' in entry else ""
         if publishlink: # create link if publishlink is set 
             title = "\\href{" + publishlink + "}{" + title +"}"
+        addressAndDate = getAddressAndDate(entry)
         print """
 \item[{[%s%d]}]{
         %s, 
@@ -137,30 +172,45 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
     %s, %s.
     %s
 }
-        """ % (prefix, count, author, title, booktitle, currentYear, annotate)
+        """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
         count = count-1
 
     print """
 %}}}
 \end{description}
     """
-    print """
-\end{rSection}
 
+def printHelp():
+    print """
+usage: python bibconvert.py --suffix suffix --highlight author1 [--highlight author2] --input 1.bib [--input 2.bib]
+suffix can be 'web' or 'cv'
+    'web': jemdoc format for personal webpage 
+    'cv': latex format for resume 
 """
 
 if __name__ == "__main__":
-    filenames = []
     suffix = None
-    if len(sys.argv) > 1:
-        suffix = sys.argv[1]
-        filenames = [sys.argv[i] for i in range(2, len(sys.argv))]
-    else:
-        print "usage: python bibconvert.py suffix 1.bib [2.bib [3.bib]...]"
+    highlightAuthors = []
+    filenames = []
+
+    if len(sys.argv) < 3 or sys.argv[1] in ('--help', '-h'):
+        printHelp()
+        raise SystemExit
+    for i in range(1, len(sys.argv), 2):
+        if sys.argv[i] == '--suffix':
+            if suffix:
+                raise RuntimeError("only one suffix can be accepted")
+            suffix = sys.argv[i+1]
+        elif sys.argv[i] == '--highlight':
+            highlightAuthors.append(sys.argv[i+1])
+        elif sys.argv[i] == '--input':
+            filenames.append(sys.argv[i+1])
+        else:
+            break
 
     bibDB = read(filenames, "%")
     #print(bibDB.strings)
     #print(bibDB.entries)
     
     # write 
-    printBibDB(bibDB, "", suffix)
+    printBibDB(bibDB, highlightAuthors, suffix)

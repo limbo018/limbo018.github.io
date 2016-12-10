@@ -4,3 +4,4 @@ papers
 *.out
 *.DS_Store
 tmp.jemdoc
+cv_yibo/*.pdf

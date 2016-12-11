@@ -5,3 +5,5 @@ papers
 *.DS_Store
 tmp.jemdoc
 cv_yibo/*.pdf
+cv_yibo/doc/publication.tex
+publications.jemdoc

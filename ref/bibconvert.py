@@ -69,7 +69,7 @@ def switchToFirstLastNameStyle(author):
             author += " and " + authorArray[i]
     return author
 
-def printBibDB(bibDB, highlightAuthors, suffix):
+def printBibDB(bibDB, highlightAuthors, suffix, header):
     # differentiate journal and conference 
     # I assume journal uses 'journal' 
     # conference uses 'booktitle'
@@ -87,11 +87,10 @@ def printBibDB(bibDB, highlightAuthors, suffix):
     stringMap = dict(bibDB.strings)
 
     # call kernel print functions 
+    if header:
+        print header
     if suffix.lower() == 'web':
-        print """# jemdoc: menu{MENU}{publications.html}
-# jemdoc: addcss{yibolin_homepage/jemdoc.css}
-# jemdoc: title{Yibo Lin's Homepage}
-
+        print """
 = Publications
 
 """
@@ -208,6 +207,7 @@ if __name__ == "__main__":
     suffix = None
     highlightAuthors = []
     filenames = []
+    header = ""
 
     if len(sys.argv) < 3 or sys.argv[1] in ('--help', '-h'):
         printHelp()
@@ -221,6 +221,9 @@ if __name__ == "__main__":
             highlightAuthors.append(sys.argv[i+1])
         elif sys.argv[i] == '--input':
             filenames.append(sys.argv[i+1])
+        elif sys.argv[i] == '--header':
+            with open(sys.argv[i+1]) as headerFile:
+                header = headerFile.read()
         else:
             break
 
@@ -229,4 +232,4 @@ if __name__ == "__main__":
     #print(bibDB.entries)
     
     # write 
-    printBibDB(bibDB, highlightAuthors, suffix)
+    printBibDB(bibDB, highlightAuthors, suffix, header)

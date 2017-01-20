@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{index.html}
-# jemdoc: addcss{yibolin_homepage/jemdoc.css}
+# jemdoc: addcss{limbo018.github.io/jemdoc/jemdoc.css}
 # jemdoc: title{Yibo Lin's Homepage}
 # jemdoc: addjs{"//cdn.clustrmaps.com/map_v2.js?u=esUb&d=TvxtKI_wYGA9Ve-FGGx5Ee5FWbxMZuXwXu_WYEt1QYo"}
 
 
 ~~~
-{}{img_left}{yibolin_homepage/image/YiboLinAtFireValley_small.jpg}{YiboLin}{170}{}{}
+{}{img_left}{limbo018.github.io/image/YiboLinAtFireValley_small.jpg}{YiboLin}{170}{}{}
 = [http://www.cerc.utexas.edu/~yibolin/ Yibo Lin]
 
 Ph\.D\.\n
@@ -28,7 +28,7 @@ I have received Franco Cerrina Memorial Best Student Paper Award at SPIE Advance
 and National Scholarship at Shanghai Jiaotong University in 2012. 
 I have interned at IMEC, Cadence, and Oracle. 
 
-*[yibolin_homepage/cv_yibo/cv_yibo.pdf My Resume]*
+*[limbo018.github.io/cv_yibo/cv_yibo.pdf My Resume]*
 
 *[https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en My Citations (from Google Scholar)]*
 

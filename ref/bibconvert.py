@@ -129,7 +129,7 @@ def printWeb(bibDB, stringMap, highlightAuthors, entries, publishType, booktitle
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "*"+highlightAuthor+"*")
-        title = entry['title'].replace("{", "").replace("}", "")
+        title = entry['title'].replace("/", "\\/").replace("{", "").replace("}", "")
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""

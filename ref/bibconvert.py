@@ -31,10 +31,12 @@ def getDatetime(entry):
     timeFormat = "%Y"
     if 'month' in entry and entry['month']:
         date = date+","+entry['month']
-        timeFormat = "%Y,%B"
-        if 'day' in entry and entry['day']:
-            date = date+","+entry['day'].split('-', 1)[0]
-            timeFormat = "%Y,%B,%d"
+    else:
+        date = date+","+'December'
+    timeFormat = "%Y,%B"
+    if 'day' in entry and entry['day']:
+        date = date+","+entry['day'].split('-', 1)[0]
+        timeFormat = "%Y,%B,%d"
     return datetime.datetime.strptime(date, timeFormat)
 
 def getAddressAndDate(entry):

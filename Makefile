@@ -1,4 +1,5 @@
 all: jemdoc cv 
+.PHONY: jemdoc cv
 
 cv: 
 	make -C cv_yibo

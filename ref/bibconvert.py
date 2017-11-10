@@ -141,7 +141,7 @@ def printWeb(bibDB, stringMap, highlightAuthors, entries, publishType, booktitle
         addressAndDate = getAddressAndDate(entry)
         print """
 - \[%s%d\] %s, 
-  "%s", 
+  "%s," 
   %s, %s. 
   %s
         """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
@@ -185,7 +185,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
         print """
 \item[{[%s%d]}]{
         %s, 
-    ``%s'', 
+    ``%s,'' 
     %s, %s.
     %s
 }

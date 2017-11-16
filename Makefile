@@ -1,12 +1,12 @@
-all: jemdoc cv 
-.PHONY: jemdoc cv
+all: ref cv 
+.PHONY: ref cv
 
-cv: 
+ref: 
+	make -C ref
+
+cv: ref
 	make -C cv_yibo
-
-jemdoc:
-	make -C jemdoc
 
 clean: 
 	make clean -C cv_yibo
-	make clean -C jemdoc
+	make clean -C ref

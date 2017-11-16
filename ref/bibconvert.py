@@ -96,8 +96,25 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
 = Publications
 
 """
-        printWeb(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printWeb(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+    elif suffix.lower() == 'jekyll':
+        print """---
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+"""
+        printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     elif suffix.lower() == 'cv':
         print """\\begin{rSection}{Publications}
 
@@ -108,10 +125,16 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
 \end{rSection}
 
 """
+    elif suffix.lower() == 'cvjekyll':
+        print """
+{% include base_path %}
+"""
+        printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     else:
         assert 0, "unknown suffix = %s" % suffix
 
-def printWeb(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
     if publishType == 'journal':
         print "=== Journal Papers\n"
@@ -141,9 +164,96 @@ def printWeb(bibDB, stringMap, highlightAuthors, entries, publishType, booktitle
         addressAndDate = getAddressAndDate(entry)
         print """
 - \[%s%d\] %s, 
-  "%s," 
+  "%s", 
   %s, %s. 
   %s
+        """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+        count = count-1
+
+def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+    prefix = ""
+    if publishType == 'journal':
+        print "Journal Papers\n======\n"
+        prefix = "J"
+    else:
+        print "Conference Papers\n======\n"
+        prefix = "C"
+    # print 
+    currentYear = '' 
+    count = len(entries)
+    for i, entry in enumerate(entries):
+        if not currentYear or currentYear.lower() != entry['year'].lower():
+            currentYear = entry['year']
+            print "* %s\n" % (currentYear)
+        # switch from [last name, first name] to [first name last name]
+        author = switchToFirstLastNameStyle(entry['author'])
+        if highlightAuthors: # highlight some authors 
+            for highlightAuthor in highlightAuthors:
+                author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
+        title = entry['title'].replace("{", "").replace("}", "")
+        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        address = entry['address'] if 'address' in entry else ""
+        publishlink = entry['publishlink'] if 'publishlink' in entry else ""
+        annotate = entry['annotateweb'] if 'annotateweb' in entry else ""
+        # change delimiter
+        annotate = annotate.replace(")(", " \\| ").replace("(", "").replace(")", "")
+        # change link syntax 
+        annotateLinks = re.findall('\[([^\]]*)\]', annotate)
+        for annotateLink in annotateLinks: 
+            tokens = annotateLink.strip().split()
+            link = tokens[0]
+            link = link.replace("limbo018.github.io", "/publications")
+            content = tokens[1]
+            annotate = annotate.replace("["+annotateLink+"]", "["+content+"]("+link+")"+"{: .share-button-noborder}")
+        if annotate: 
+            annotate = """
+     * %s""" % (annotate)
+        if publishlink: # create link if publishlink is set 
+            title = "[" + title + "](" + publishlink + ")"
+        addressAndDate = getAddressAndDate(entry)
+        print """\
+  ### %s%d. %s %s
+     * %s, "%s," %s, %s.
+        """ % (prefix, count, title, annotate, author, title, booktitle, addressAndDate)
+        count = count-1
+
+def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+    prefix = ""
+    if publishType == 'journal':
+        print "**Journal Papers**\n\n"
+        prefix = "J"
+    else:
+        print "**Conference Papers**\n\n"
+        prefix = "C"
+    # print 
+    currentYear = '' 
+    count = len(entries)
+    for i, entry in enumerate(entries):
+        if not currentYear or currentYear.lower() != entry['year'].lower():
+            currentYear = entry['year']
+        # switch from [last name, first name] to [first name last name]
+        author = switchToFirstLastNameStyle(entry['author'])
+        if highlightAuthors: # highlight some authors 
+            for highlightAuthor in highlightAuthors:
+                author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
+        title = entry['title'].replace("{", "").replace("}", "")
+        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        address = entry['address'] if 'address' in entry else ""
+        publishlink = entry['publishlink'] if 'publishlink' in entry else ""
+        annotate = entry['annotateweb'] if 'annotateweb' in entry else ""
+        # change link syntax 
+        annotateLinks = re.findall('\[([^\]]*)\]', annotate)
+        for annotateLink in annotateLinks: 
+            tokens = annotateLink.strip().split()
+            link = tokens[0]
+            link = link.replace("limbo018.github.io", "/publications")
+            content = tokens[1]
+            annotate = annotate.replace("["+annotateLink+"]", "["+content+"]("+link+")"+"{: .share-button-noborder}")
+        if publishlink: # create link if publishlink is set 
+            title = "[" + title + "](" + publishlink + ")"
+        addressAndDate = getAddressAndDate(entry)
+        print """\
+* %s%d. %s, "%s," %s, %s. %s
         """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
         count = count-1
 
@@ -185,7 +295,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
         print """
 \item[{[%s%d]}]{
         %s, 
-    ``%s,'' 
+    ``%s'', 
     %s, %s.
     %s
 }

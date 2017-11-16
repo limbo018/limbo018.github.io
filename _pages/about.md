@@ -15,3 +15,13 @@ My research interests include physical design, machine learning applications and
 
 I have received Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, and National Scholarship at Shanghai Jiaotong University in 2012. 
 I have interned at Toshiba, IMEC, Cadence, and Oracle.
+
+
+News
+======
+
+* 09/2017: A VLSI CAD library [Limbo](https://github.com/limbo018/Limbo) that contains various utilities for CAD developement is released!
+
+* 05/2017: Yibo Lin starts his summer intern at Toshiba, Japan!
+
+* 03/2017: Congratulations to Yibo Lin for winning the prestigious University Graduate Continuing Fellowship!

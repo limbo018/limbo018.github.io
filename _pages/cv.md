@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Also available in PDF format](/cv_yibo/cv_yibo.pdf)
+[PDF format](/cv_yibo/cv_yibo.pdf){: .share-button}
 
 {% include base_path %}
 

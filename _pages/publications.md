@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+<br>
 
 
 Journal Papers

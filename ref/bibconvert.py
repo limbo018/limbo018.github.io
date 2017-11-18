@@ -101,7 +101,7 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
     elif suffix.lower() == 'jekyll':
         print """---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -111,6 +111,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+<br>
 
 """
         printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')

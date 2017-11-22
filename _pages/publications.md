@@ -64,6 +64,10 @@ Conference Papers
 
 * 2018
 
+  ### C15. Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning 
+     * accepted
+     * **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan, "Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning," ACM International Symposium on Physical Design (ISPD), Monterey, CA, Mar 25-28, 2018.
+        
   ### C14. A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion 
      * accepted
      * Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan, "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018.

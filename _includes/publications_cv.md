@@ -27,6 +27,8 @@
 **Conference Papers**
 
 
+* C15. **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan, "Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning," ACM International Symposium on Physical Design (ISPD), Monterey, CA, Mar 25-28, 2018. (accepted)
+        
 * C14. Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan, "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018. (accepted)
         
 * C13. **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan, "Patterning Aware Design Optimization of Selective Etching in N5 and Beyond," IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017. ([preprint](/publications/papers/C8_paper.pdf){: .share-button-noborder})

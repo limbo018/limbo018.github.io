@@ -215,7 +215,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         addressAndDate = getAddressAndDate(entry)
         print """\
   ### %s%d. %s %s
-     * %s, "%s{: .fa-facebook-official}," %s, %s.
+     * %s, "%s," %s, %s.
         """ % (prefix, count, title, annotate, author, title, booktitle, addressAndDate)
         count = count-1
 

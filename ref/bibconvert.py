@@ -206,7 +206,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             link = tokens[0]
             link = link.replace("limbo018.github.io", "/publications")
             content = tokens[1]
-            annotate = annotate.replace("["+annotateLink+"]", "["+content+"]("+link+")"+"{: .share-button-noborder}")
+            annotate = annotate.replace("["+annotateLink+"]", "["+content+"]("+link+")"+"{: .button-noborder}")
         if annotate: 
             annotate = """
      * %s""" % (annotate)

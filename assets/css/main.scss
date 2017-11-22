@@ -38,15 +38,19 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Share Bar */
-#share-bar {
-    font-size: 20px;
-}
-
-/* Title */
-#share-bar h4 {
+.button-noborder {
+    margin: 0px;
     margin-bottom: 10px;
-    font-weight: 500;
+    margin-right: 3px;
+    color: blue;
+}
+.button-noborder:link {
+    opacity: 1;
+    color: blue;
+}
+.button-noborder:hover {
+    opacity: 1;
+    color: #99ccff;
 }
 
 /* All buttons */
@@ -64,16 +68,6 @@
 .share-button:hover {
     opacity: 1;
     color: #ffffff;
-}
-.share-button-noborder {
-    margin: 0px;
-    margin-bottom: 10px;
-    margin-right: 3px;
-    color: #000080;
-}
-.share-button-noborder:hover {
-    opacity: 1;
-    background-color: #4c4c4c;
 }
 
 /* Facebook button */

@@ -12,7 +12,7 @@
         
 * J7. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/J5_paper.pdf){: .share-button-noborder})
         
-* J6. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), May 18, 2017. 
+* J6. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), May 18, 2017. ([preprint](/publications/papers/J6_paper.pdf){: .share-button-noborder})
         
 * J5. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan 11, 2017. 
         

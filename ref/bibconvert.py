@@ -193,6 +193,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
         title = entry['title'].replace("{", "").replace("}", "")
+        htmltitle = title
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
@@ -206,11 +207,12 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             link = tokens[0]
             link = link.replace("limbo018.github.io", "/publications")
             content = tokens[1]
-            annotate = annotate.replace("["+annotateLink+"]", "<a href=\"%s\" style=\"color:#005F86\">%s</a>" % (link, content))
+            annotate = annotate.replace("["+annotateLink+"]", "<a href=\"%s\" style=\"color:#3793ae\">%s</a>" % (link, content))
         if annotate: 
             annotate = """
      * %s""" % (annotate)
         if publishlink: # create link if publishlink is set 
+            htmltitle = "<a href=\"%s\" style=\"color:#3793ae\">%s</a>" % (publishlink, title) # not used
             title = "[" + title + "](" + publishlink + ")"
         addressAndDate = getAddressAndDate(entry)
         print """\

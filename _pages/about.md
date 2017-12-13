@@ -20,6 +20,8 @@ I have interned at Toshiba, IMEC, Cadence, and Oracle.
 News
 ======
 
+* 12/2017: One co-authored paper, _UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine_, is accepted by TODAES 2017. Cheers!
+
 * 09/2017: A VLSI CAD library [Limbo](https://github.com/limbo018/Limbo) that contains various utilities for CAD developement is released!
 
 * 05/2017: Yibo Lin starts his summer intern at Toshiba, Japan!

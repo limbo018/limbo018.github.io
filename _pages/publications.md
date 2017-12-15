@@ -78,9 +78,9 @@ Conference Papers
         
 * 2017
 
-  ### C13. Patterning Aware Design Optimization of Selective Etching in N5 and Beyond 
+  ### C13. [Patterning Aware Design Optimization of Selective Etching in N5 and Beyond](https://doi.org/10.1109/ICCD.2017.72) 
      * <a href="/publications/papers/DFM_ICCD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ICCD2017_Lin.slides.pptx" style="color:#3793ae">slides</a>
-     * **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan, "Patterning Aware Design Optimization of Selective Etching in N5 and Beyond," IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017.
+     * **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan, "[Patterning Aware Design Optimization of Selective Etching in N5 and Beyond](https://doi.org/10.1109/ICCD.2017.72)," IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017.
         
   ### C12. [Machine learning for mask/wafer hotspot detection and mask synthesis](http://dx.doi.org/10.1117/12.2282943) 
      * <a href="/publications/papers/MASK_PT2017_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited paper*

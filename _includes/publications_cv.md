@@ -31,7 +31,7 @@
         
 * C14. Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan, "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018. ([preprint](/publications/papers/SPM_ASPDAC2018_Li.pdf){: .share-button-noborder})(accepted)
         
-* C13. **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan, "Patterning Aware Design Optimization of Selective Etching in N5 and Beyond," IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017. ([preprint](/publications/papers/DFM_ICCD2017_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/DFM_ICCD2017_Lin.slides.pptx){: .share-button-noborder})
+* C13. **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan, "[Patterning Aware Design Optimization of Selective Etching in N5 and Beyond](https://doi.org/10.1109/ICCD.2017.72)," IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017. ([preprint](/publications/papers/DFM_ICCD2017_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/DFM_ICCD2017_Lin.slides.pptx){: .share-button-noborder})
         
 * C12. **Yibo Lin**, Xiaoqing Xu, Jiaojiao Ou and David Z Pan, "[Machine learning for mask/wafer hotspot detection and mask synthesis](http://dx.doi.org/10.1117/12.2282943)," Photomask Technology, Oct 16, 2017. ([preprint](/publications/papers/MASK_PT2017_Lin.pdf){: .share-button-noborder})(*Invited paper*)
         

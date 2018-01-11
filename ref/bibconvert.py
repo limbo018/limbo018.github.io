@@ -133,6 +133,9 @@ author_profile: true
 """
         printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+    elif suffix.lower() == 'shortref': 
+        printShortRef(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printShortRef(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     else:
         assert 0, "unknown suffix = %s" % suffix
 
@@ -310,6 +313,19 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
 %}}}
 \end{description}
     """
+
+def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+    prefix = ""
+    if publishType == 'journal':
+        prefix = "J"
+    else:
+        prefix = "C"
+
+    # print 
+    count = len(entries)
+    for i, entry in enumerate(entries):
+        print "\\DefMacro{%s}{%s%d}" % (entry['ID'], prefix, count)
+        count = count-1
 
 def printHelp():
     print """

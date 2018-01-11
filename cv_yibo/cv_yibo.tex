@@ -12,12 +12,44 @@
     urlcolor={blue!80!black}
 }
 
+\makeatletter
+
+% Functional foreach construct 
+% #1 - Function to call on each comma-separated item in #2
+% #2 - Comma-separated list of items to pass as second parameter to function #1
+\def\foreach#1#2{%
+  \@foreach{#1}#2,\@end@token%
+}
+
+% Internal helper function - Eats one input
+\def\@swallow#1{}
+
+% Internal helper function - Checks the next character after #1 and 
+% continues loop iteration if \@end@token is not found 
+\def\@test@foreach#1{%
+  \@ifnextchar\@end@token%
+    {\@swallow}%
+    {, \@foreach{#1}}%
+}
+
+% Internal helper function - Calls #1{#2} and recurses
+% The magic of splitting the third parameter occurs in the pattern matching of the \def
+\def\@foreach#1#2,#3\@end@token{%
+  #1{#2}%
+  \@test@foreach{#1}#3\@end@token%
+}
+
+\makeatother
+
+\newcommand{\DefMacro}[2]{\expandafter\newcommand\csname rmk-#1\endcsname{#2}}
+\newcommand{\UseMacro}[1]{\csname rmk-#1\endcsname}
+\def\CiteMacro#1{[\foreach{\UseMacro}{#1}]}
+
 \name{Yibo Lin}
 
 \address{University of Texas at Austin, Austin, TX 78712 \\ University of Texas at Austin}
 \address{yibolin@utexas.edu \\ \url{www.yibolin.com}}
 \address{PhD candidate \\ Department of Eletrical \& Computer Engineering}
-
 
 \begin{document}
 

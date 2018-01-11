@@ -52,6 +52,14 @@ Work experience
   * Toshiba Memory Corporation, Yokohama, Japan
   * Memory lithography group
   * Manager: Shigeki Nojima 
+
+Teaching experience
+======
+* Fall 2017: Guest Lecture 
+  * EE382M: VLSI Physical Design Automation
+
+* Fall 2014: Graduate Teaching Assistant
+  * EE382M: VLSI I
   
 Skills
 ======

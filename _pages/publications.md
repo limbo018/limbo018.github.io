@@ -69,7 +69,7 @@ Conference Papers
 * 2018
 
   ### C15. [Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242) 
-     * accepted
+     * <a href="/publications/papers/DFM_ISPD2018_Lin.pdf" style="color:#3793ae">preprint</a> \| accepted
      * **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan, "[Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242)," ACM International Symposium on Physical Design (ISPD), Monterey, CA, Mar 25-28, 2018.
         
   ### C14. A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion 

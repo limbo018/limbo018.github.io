@@ -75,11 +75,14 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
     # differentiate journal and conference 
     # I assume journal uses 'journal' 
     # conference uses 'booktitle'
+    bookEntries = []
     journalEntries = []
     conferenceEntries = []
 
     for entry in bibDB.entries:
-        if 'journal' in entry:
+        if 'editor' in entry and 'publisher' in entry:
+            bookEntries.append(entry)
+        elif 'journal' in entry:
             journalEntries.append(entry)
         else:
             conferenceEntries.append(entry)
@@ -96,6 +99,7 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
 = Publications
 
 """
+        printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     elif suffix.lower() == 'jekyll':
@@ -115,12 +119,14 @@ author_profile: true
 <br>
 
 """
+        printJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     elif suffix.lower() == 'cv':
         print """\\begin{rSection}{Publications}
 
 """
+        printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
         print """
@@ -131,9 +137,11 @@ author_profile: true
         print """
 {% include base_path %}
 """
+        printCVJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     elif suffix.lower() == 'shortref': 
+        printShortRef(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printShortRef(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printShortRef(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
     else:
@@ -141,7 +149,10 @@ author_profile: true
 
 def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
-    if publishType == 'journal':
+    if publishType == 'book':
+        print "=== Book Chapters\n"
+        prefix = "B"
+    elif publishType == 'journal':
         print "=== Journal Papers\n"
         prefix = "J"
     else:
@@ -167,17 +178,30 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         if publishlink: # create link if publishlink is set 
             title = "[" + publishlink + " " + title +"]"
         addressAndDate = getAddressAndDate(entry)
-        print """
+        if publishType == 'book': 
+            editor = switchToFirstLastNameStyle(entry['editor'])
+            publisher = entry['publisher']
+            print """
+- \[%s%d\] %s, 
+  "%s", 
+  %s, %s, %s, edited by %s. 
+  %s
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+        else:
+            print """
 - \[%s%d\] %s, 
   "%s", 
   %s, %s. 
   %s
-        """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
         count = count-1
 
 def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
-    if publishType == 'journal':
+    if publishType == 'book':
+        print "Book Chapters\n======\n"
+        prefix = "B"
+    elif publishType == 'journal':
         print "Journal Papers\n======\n"
         prefix = "J"
     else:
@@ -218,15 +242,27 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             htmltitle = "<a href=\"%s\" style=\"color:#3793ae\">%s</a>" % (publishlink, title) # not used
             title = "[" + title + "](" + publishlink + ")"
         addressAndDate = getAddressAndDate(entry)
-        print """\
+        if publishType == 'book': 
+            editor = switchToFirstLastNameStyle(entry['editor'])
+            publisher = entry['publisher']
+            print """\
+  ### %s%d. %s %s
+     * %s, "%s," %s, %s, %s.
+     * Edited by %s. 
+            """ % (prefix, count, title, annotate, author, title, booktitle, publisher, addressAndDate, editor)
+        else:
+            print """\
   ### %s%d. %s %s
      * %s, "%s," %s, %s.
-        """ % (prefix, count, title, annotate, author, title, booktitle, addressAndDate)
+            """ % (prefix, count, title, annotate, author, title, booktitle, addressAndDate)
         count = count-1
 
 def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
-    if publishType == 'journal':
+    if publishType == 'book':
+        print "**Book Chapters**\n\n"
+        prefix = "B"
+    elif publishType == 'journal':
         print "**Journal Papers**\n\n"
         prefix = "J"
     else:
@@ -259,14 +295,26 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, book
         if publishlink: # create link if publishlink is set 
             title = "[" + title + "](" + publishlink + ")"
         addressAndDate = getAddressAndDate(entry)
-        print """\
+        if publishType == 'book': 
+            editor = switchToFirstLastNameStyle(entry['editor'])
+            publisher = entry['publisher']
+            print """\
+* %s%d. %s, "%s," %s, %s, %s, edited by %s. %s
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+        else:
+            print """\
 * %s%d. %s, "%s," %s, %s. %s
-        """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
         count = count-1
 
 def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
-    if publishType == 'journal':
+    if publishType == 'book':
+        print """
+\\textbf{Book Chapters}
+        """
+        prefix = "B"
+    elif publishType == 'journal':
         print """
 \\textbf{Journal Papers}
         """
@@ -299,14 +347,26 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
         if publishlink: # create link if publishlink is set 
             title = "\\href{" + publishlink + "}{" + title +"}"
         addressAndDate = getAddressAndDate(entry)
-        print """
+        if publishType == 'book': 
+            editor = switchToFirstLastNameStyle(entry['editor'])
+            publisher = entry['publisher']
+            print """
+\item[{[%s%d]}]{
+        %s, 
+    ``%s'', 
+    %s, %s, %s, edited by %s.
+    %s
+}
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+        else:
+            print """
 \item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s.
     %s
 }
-        """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
         count = count-1
 
     print """
@@ -316,7 +376,9 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
 
 def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
-    if publishType == 'journal':
+    if publishType == 'book':
+        prefix = "B"
+    elif publishType == 'journal':
         prefix = "J"
     else:
         prefix = "C"

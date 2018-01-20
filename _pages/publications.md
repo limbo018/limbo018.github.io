@@ -20,7 +20,7 @@ Journal Papers
 * 2017
 
   ### J11. UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine 
-     * <a href="/publications/papers/FPGA_TODAES2017_Li.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/FPGA_TODAES2017_Li.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Wuxi Li, **Yibo Lin**, Meng Li, Shounak Dhar and David Z. Pan, "UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2017.
         
   ### J10. [Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511) 

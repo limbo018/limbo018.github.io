@@ -4,6 +4,8 @@
 **Journal Papers**
 
 
+* J11. Wuxi Li, **Yibo Lin**, Meng Li, Shounak Dhar and David Z. Pan, "UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2017. ([preprint](/publications/papers/FPGA_TODAES2017_Li.pdf){: .share-button-noborder})
+        
 * J10. **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 6, 2017. ([preprint](/publications/papers/QUANTUM_TCAD2017_Lin.pdf){: .share-button-noborder})
         
 * J9. Xiaoqing Xu, **Yibo Lin**, Meng Li, Tetsuaki Matsunawa, Shigeki Nojima, Chikaaki Kodama, Toshiya Kotani and David Z. Pan, "[Sub-Resolution Assist Feature Generation with Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug 31, 2017. ([preprint](/publications/papers/SRAF_TCAD2017_Xu.pdf){: .share-button-noborder})

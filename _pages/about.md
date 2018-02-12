@@ -11,11 +11,12 @@ redirect_from:
 I'm a Ph.D. student at the Department of Electrical and Computer Engineering, University of Texas at Austin, 
 working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
 Previously, I received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
-My research interests include physical design, machine learning applications and emerging technology in VLSI CAD. 
+My research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
 
 I have received Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, and National Scholarship at Shanghai Jiaotong University in 2012. 
 I have interned at Toshiba, IMEC, Cadence, and Oracle.
 
+I am currently in the **academia job market**. 
 
 News
 ======

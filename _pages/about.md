@@ -21,7 +21,7 @@ I am currently in the **academia job market**.
 News
 ======
 
-* 03/2018: Yibo visited Texas A&M University and presented his works at Computer Engineering & Systems Group (CESG). 
+* 03/2018: Yibo visited Texas A&M University and presented his recent research at Computer Engineering & Systems Group (CESG). 
 Thanks Dr. Alex Sprintson and Ms. Vickie Winston for hosting the event. 
 
 * 12/2017: One co-authored paper, _UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine_, is accepted by TODAES 2017. Cheers!

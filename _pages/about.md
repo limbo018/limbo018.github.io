@@ -21,6 +21,8 @@ I am currently in the **academia job market**.
 News
 ======
 
+* 03/2018: Yibo presented his work on transfer learning at ISPD 2018, Monterey, CA.
+
 * 03/2018: Yibo visited Texas A&M University and presented his recent research at Computer Engineering & Systems Group (CESG). 
 Thanks Dr. Alex Sprintson and Ms. Vickie Winston for hosting the event. 
 

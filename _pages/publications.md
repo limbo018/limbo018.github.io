@@ -86,9 +86,9 @@ Conference Papers
      * <a href="/publications/papers/DFM_ISPD2018_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ISPD2018_Lin.slides.pptx" style="color:#3793ae">slides</a>
      * **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan, "[Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242)," ACM International Symposium on Physical Design (ISPD), Monterey, CA, Mar 25-28, 2018.
             
-  ### C14. A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion 
-     * <a href="/publications/papers/SPM_ASPDAC2018_Li.pdf" style="color:#3793ae">preprint</a> \| accepted
-     * Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan, "A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018.
+  ### C14. [A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion](https://doi.org/10.1109/ASPDAC.2018.8297316) 
+     * <a href="/publications/papers/SPM_ASPDAC2018_Li.pdf" style="color:#3793ae">preprint</a>
+     * Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan, "[A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion](https://doi.org/10.1109/ASPDAC.2018.8297316)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018.
             
 * 2017
 

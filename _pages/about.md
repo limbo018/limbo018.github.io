@@ -21,6 +21,9 @@ I am currently in the **academia job market**.
 News
 ======
 
+* 03/2018: Yibo visited Texas A&M University and presented his recent research at Computer Engineering & Systems Group (CESG). 
+Thanks Dr. Alex Sprintson and Ms. Vickie Winston for hosting the event. 
+
 * 12/2017: One co-authored paper, _UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine_, is accepted by TODAES 2017. Cheers!
 
 * 09/2017: A VLSI CAD library [Limbo](https://github.com/limbo018/Limbo) that contains various utilities for CAD developement is released!

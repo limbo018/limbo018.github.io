@@ -21,7 +21,7 @@
             
 * J6. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), May 18, 2017. ([preprint](/publications/papers/MPL_JM32017_Lin.pdf){: .share-button-noborder})
             
-* J5. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan 11, 2017. [preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder}
+* J5. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan 11, 2017. ([preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder})
             
 * J4. **Yibo Lin**, Bei Yu, Biying Xu and David Z. Pan, "[Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict](http://dx.doi.org/10.1109/TCAD.2017.2648843)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan 05, 2017. ([preprint](/publications/papers/DFMP_TCAD2017_Lin.pdf){: .share-button-noborder})([releases](http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html){: .share-button-noborder})
             

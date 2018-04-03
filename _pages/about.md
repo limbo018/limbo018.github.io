@@ -21,6 +21,8 @@ I am currently in the **academia job market**.
 News
 ======
 
+* 04/2018: Yibo passed his PhD defense. Cheers!
+
 * 03/2018: Yibo presented his work on transfer learning at ISPD 2018, Monterey, CA.
 
 * 03/2018: Yibo visited Texas A&M University and presented his recent research at Computer Engineering & Systems Group (CESG). 

@@ -17,7 +17,7 @@
             
 * J8. **Yibo Lin**, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan, "[MrDP: Multiple-row detailed placement of heterogeneous-sized cells for advanced nodes](https://doi.org/10.1109/TCAD.2017.2748025)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug 31, 2017. ([preprint](/publications/papers/PLACE_TCAD2017_Lin.pdf){: .share-button-noborder})([releases](http://www.cerc.utexas.edu/utda/download/MrDP/index.html){: .share-button-noborder})
             
-* J7. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/DFMP_JVLSI2017_Lin.pdf){: .share-button-noborder})
+* J7. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/DFMP_JVLSI2017_Lin.pdf){: .share-button-noborder})(*Best Paper Award*)
             
 * J6. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), May 18, 2017. ([preprint](/publications/papers/MPL_JM32017_Lin.pdf){: .share-button-noborder})
             

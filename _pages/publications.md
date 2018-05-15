@@ -46,7 +46,7 @@ Journal Papers
      * **Yibo Lin**, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan, "[MrDP: Multiple-row detailed placement of heterogeneous-sized cells for advanced nodes](https://doi.org/10.1109/TCAD.2017.2748025)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug 31, 2017.
             
   ### J7. [Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004) 
-     * <a href="/publications/papers/DFMP_JVLSI2017_Lin.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/DFMP_JVLSI2017_Lin.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Award*
      * **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017.
             
   ### J6. [Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507) 

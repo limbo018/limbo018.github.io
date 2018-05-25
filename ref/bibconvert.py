@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #########################################################################
 # File Name: bibconvert.py
 # Author: Yibo Lin
@@ -129,6 +131,17 @@ author_profile: true
         printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        print """
+\end{rSection}
+
+"""
+    elif suffix.lower() == 'cv_cn': 
+        print """\\begin{rSection}{出版物}
+
+"""
+        printCVCN(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
+        printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
         print """
 \end{rSection}
 
@@ -322,6 +335,73 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
     else:
         print """
 \\textbf{Conference Papers}
+        """
+        prefix = "C"
+    print """
+\\begin{description}[font=\\normalfont]
+%{{{
+    """
+
+    # print 
+    currentYear = '' 
+    count = len(entries)
+    for i, entry in enumerate(entries):
+        if not currentYear or currentYear.lower() != entry['year'].lower():
+            currentYear = entry['year']
+        # switch from [last name, first name] to [first name last name]
+        author = switchToFirstLastNameStyle(entry['author'])
+        if highlightAuthors: # highlight some authors 
+            for highlightAuthor in highlightAuthors:
+                author = author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")
+        title = entry['title']
+        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        publishlink = entry['publishlink'] if 'publishlink' in entry else ""
+        annotate = entry['annotatecv'] if 'annotatecv' in entry else ""
+        if publishlink: # create link if publishlink is set 
+            title = "\\href{" + publishlink + "}{" + title +"}"
+        addressAndDate = getAddressAndDate(entry)
+        if publishType == 'book': 
+            editor = switchToFirstLastNameStyle(entry['editor'])
+            publisher = entry['publisher']
+            print """
+\item[{[%s%d]}]{
+        %s, 
+    ``%s'', 
+    %s, %s, %s, edited by %s.
+    %s
+}
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+        else:
+            print """
+\item[{[%s%d]}]{
+        %s, 
+    ``%s'', 
+    %s, %s.
+    %s
+}
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+        count = count-1
+
+    print """
+%}}}
+\end{description}
+    """
+
+def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+    prefix = ""
+    if publishType == 'book':
+        print """
+\\textbf{书籍章节}
+        """
+        prefix = "B"
+    elif publishType == 'journal':
+        print """
+\\textbf{期刊论文}
+        """
+        prefix = "J"
+    else:
+        print """
+\\textbf{会议论文}
         """
         prefix = "C"
     print """

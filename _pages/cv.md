@@ -18,13 +18,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Texas at Austin, Texas, US, 2018 (expected)
+* Ph.D in University of Texas at Austin, Texas, US, 2018 
 * M.S. in University of Texas at Austin, Texas, US, 2017
 * B.S. in Shanghai Jiao Tong University, Shanghai, P.R.China, 2013
 
 Work experience
 ======
-* Since spring 2014: Graduate Research Assistant
+* Since Summer 2018: Postdoctoral Researcher 
+  * ECE department, University of Texas at Austin 
+  * Supervisor: Professor [David Z. Pan](http://www.ece.utexas.edu/~dpan/)
+
+* Spring 2014 - Spring 2018: Graduate Research Assistant
   * ECE department, University of Texas at Austin 
   * Physical design and design for manufacturability
   * Supervisor: Professor [David Z. Pan](http://www.ece.utexas.edu/~dpan/)

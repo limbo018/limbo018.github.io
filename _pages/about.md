@@ -8,18 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at the Department of Electrical and Computer Engineering, University of Texas at Austin, 
-working with Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
-Previously, I received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
-My research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
+Yibo Lin is now a postdoctoral researcher in the Electrical and Computer Engineering Department of the University of Texas at Austin. 
+Dr. Lin received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
+Previously, he received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
+His research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
 
-I have received Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, and National Scholarship at Shanghai Jiaotong University in 2012. 
-I have interned at Toshiba, IMEC, Cadence, and Oracle.
+Dr. Lin is a recipient of 
+Best Paper Award at Integration, the VLSI Journal 2018, 
+Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, 
+and the University Continuing Fellowship at the University of Texas at Austin in 2017. 
+He has interned at Toshiba, IMEC, Cadence, and Oracle.
 
-I am currently in the **academia job market**. 
+He is currently in the **academia job market**. 
 
 News
 ======
+
+* 06/2018: Yibo presented his work at Lithography Workshop 2018, Sun Valley, Idaho. 
 
 * 04/2018: Yibo passed his PhD defense. Cheers!
 

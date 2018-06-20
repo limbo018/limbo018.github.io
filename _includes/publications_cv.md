@@ -9,6 +9,8 @@
 **Journal Papers**
 
 
+* J12. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018. ([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})(submitted)
+            
 * J11. Wuxi Li, **Yibo Lin**, Meng Li, Shounak Dhar and David Z. Pan, "UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2017. ([preprint](/publications/papers/FPGA_TODAES2017_Li.pdf){: .share-button-noborder})(accepted)
             
 * J10. **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct 6, 2017. ([preprint](/publications/papers/QUANTUM_TCAD2017_Lin.pdf){: .share-button-noborder})

@@ -27,6 +27,12 @@ Book Chapters
 Journal Papers
 ======
 
+* 2018
+
+  ### J12. Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection 
+     * <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a> \| submitted
+     * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018.
+            
 * 2017
 
   ### J11. UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine 

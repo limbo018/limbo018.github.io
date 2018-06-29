@@ -24,6 +24,8 @@ He is currently in the **academia job market**.
 News
 ======
 
+* 06/2018: Yibo attended PhD forum at the 55th Design Automation Conference (DAC), San Francisco, CA. 
+
 * 06/2018: Yibo presented his work at Lithography Workshop 2018, Sun Valley, Idaho. 
 
 * 04/2018: Yibo passed his PhD defense. Cheers!

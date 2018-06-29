@@ -14,7 +14,7 @@ Previously, he received the B.S. in Microelectronics, Shanghai Jiaotong Universi
 His research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
 
 Dr. Lin is a recipient of 
-Best Paper Award at Integration, the VLSI Journal 2018, 
+the Best Paper Award at Integration, the VLSI Journal 2018, 
 Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, 
 and the University Continuing Fellowship at the University of Texas at Austin in 2017. 
 He has interned at Toshiba, IMEC, Cadence, and Oracle.

@@ -1,7 +1,3 @@
-Yibo Lin received the B.S. degree in microelectronics from Shanghai Jiaotong University, Shanghai, China, in 2013. 
-He is currently pursuing the Ph.D. degree at the Department of Electrical and Computer Engineering, University of Texas at Austin, under supervision of Professor David Z. Pan. 
-His research interests include physical design and design for manufacturability.
+Yibo Lin is a postdoctoral researcher in the Electrical and Computer Engineering Department of the University of Texas at Austin. He received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin. Previously, he received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013. His research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security.
 
-He has received Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, 
-and National Scholarship at Shanghai Jiaotong University in 2012. 
-He has interned at IMEC, Cadence, and Oracle. 
+Yibo is a recipient of the Best Paper Award at Integration, the VLSI Journal 2018, Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, and the University Continuing Fellowship at the University of Texas at Austin in 2017. He has interned at Toshiba, IMEC, Cadence, and Oracle.

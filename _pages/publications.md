@@ -36,8 +36,8 @@ Journal Papers
 * 2018
 
   ### J11. [Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511) 
-     * <a href="/publications/papers/QUANTUM_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| accepted
-     * **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018.
+     * <a href="/publications/papers/QUANTUM_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a>
+     * **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2018.
             
   ### J10. [Sub-Resolution Assist Feature Generation with Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029) 
      * <a href="/publications/papers/SRAF_TCAD2017_Xu.pdf" style="color:#3793ae">preprint</a>

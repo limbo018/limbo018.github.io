@@ -260,14 +260,16 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             publisher = entry['publisher']
             print """\
   ### %s%d. %s %s
-     * %s, "%s," %s, %s, %s.
+     * %s 
+     * %s, %s, %s.
      * Edited by %s. 
-            """ % (prefix, count, title, annotate, author, title, booktitle, publisher, addressAndDate, editor)
+            """ % (prefix, count, title, annotate, author, booktitle, publisher, addressAndDate, editor)
         else:
             print """\
   ### %s%d. %s %s
-     * %s, "%s," %s, %s.
-            """ % (prefix, count, title, annotate, author, title, booktitle, addressAndDate)
+     * %s 
+     * %s, %s.
+            """ % (prefix, count, title, annotate, author, booktitle, addressAndDate)
         count = count-1
 
 def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):

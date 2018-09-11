@@ -36,6 +36,12 @@
 **Conference Papers**
 
 
+* C18. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
+            
+* C17. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
+            
+* C16. Jiong Zhang, **Yibo Lin**, Zhao Song and Inderjit S Dhillon, "[Learning Long Term Dependencies via Fourier Recurrent Units](https://arxiv.org/pdf/1803.06585.pdf)," International Conference on Machine Learning (ICML), Stockholm, Sweden, Jun 10-15, 2018. ([preprint](https://arxiv.org/pdf/1803.06585.pdf){: .share-button-noborder})([release](https://github.com/limbo018/FRU){: .share-button-noborder})
+            
 * C15. **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan, "[Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242)," ACM International Symposium on Physical Design (ISPD), Monterey, CA, Mar 25-28, 2018. ([preprint](/publications/papers/DFM_ISPD2018_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/DFM_ISPD2018_Lin.slides.pptx){: .share-button-noborder})
             
 * C14. Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan, "[A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion](https://doi.org/10.1109/ASPDAC.2018.8297316)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018. ([preprint](/publications/papers/SPM_ASPDAC2018_Li.pdf){: .share-button-noborder})

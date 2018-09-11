@@ -101,8 +101,25 @@ Journal Papers
 Conference Papers
 ======
 
+* 2019
+
+  ### C18. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
+     * accepted
+     * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
+            
+  ### C17. Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation 
+     * accepted
+     * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
+            
 * 2018
 
+  ### C16. [Learning Long Term Dependencies via Fourier Recurrent Units](https://arxiv.org/pdf/1803.06585.pdf) 
+     * <a href="https://arxiv.org/pdf/1803.06585.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/FRU" style="color:#3793ae">release</a>
+     * Jiong Zhang, **Yibo Lin**, Zhao Song and Inderjit S Dhillon 
+     * International Conference on Machine Learning (ICML), Stockholm, Sweden, Jun 10-15, 2018.
+            
   ### C15. [Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242) 
      * <a href="/publications/papers/DFM_ISPD2018_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ISPD2018_Lin.slides.pptx" style="color:#3793ae">slides</a>
      * **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan 

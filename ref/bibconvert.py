@@ -12,6 +12,7 @@ import sys
 import re
 import datetime
 import bibtexparser 
+import pdb
 
 def read(filenames, commentPrefix):
     # read content from bibtex files 
@@ -80,17 +81,21 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
     bookEntries = []
     journalEntries = []
     conferenceEntries = []
+    thesisEntries = []
 
     for entry in bibDB.entries:
         if 'editor' in entry and 'publisher' in entry:
             bookEntries.append(entry)
         elif 'journal' in entry:
             journalEntries.append(entry)
+        elif entry['ENTRYTYPE'].lower() == 'phdthesis':
+            thesisEntries.append(entry)
         else:
             conferenceEntries.append(entry)
     # sort by years from large to small 
     journalEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
     conferenceEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
+    thesisEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
     stringMap = dict(bibDB.strings)
 
     # call kernel print functions 
@@ -104,6 +109,7 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
         printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printJemdoc(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
     elif suffix.lower() == 'jekyll':
         print """---
 layout: archive
@@ -124,6 +130,7 @@ author_profile: true
         printJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printJekyll(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
     elif suffix.lower() == 'cv':
         print """\\begin{rSection}{Publications}
 
@@ -157,6 +164,7 @@ author_profile: true
         printShortRef(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printShortRef(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printShortRef(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printShortRef(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
     else:
         assert 0, "unknown suffix = %s" % suffix
 
@@ -168,6 +176,9 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
     elif publishType == 'journal':
         print "=== Journal Papers\n"
         prefix = "J"
+    elif publishType == 'phdthesis': 
+        print "=== PhD Thesis\n"
+        prefix = ""
     else:
         print "=== Conference Papers\n"
         prefix = "C"
@@ -217,6 +228,9 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
     elif publishType == 'journal':
         print "Journal Papers\n======\n"
         prefix = "J"
+    elif publishType == 'phdthesis':
+        print "PhD Thesis\n======\n"
+        prefix = ""
     else:
         print "Conference Papers\n======\n"
         prefix = "C"
@@ -462,6 +476,8 @@ def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, book
         prefix = "B"
     elif publishType == 'journal':
         prefix = "J"
+    elif publishType == 'phdthesis':
+        prefix = ""
     else:
         prefix = "C"
 

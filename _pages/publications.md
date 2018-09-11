@@ -201,3 +201,12 @@ Conference Papers
      * David Z. Pan, Lars Liebmann, Bei Yu, Xiaoqing Xu and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 7-11, 2015.
             
+PhD Thesis
+======
+
+* 2018
+
+  ### 1. [Bridging Design and Manufacturing Gap through Machine Learning and Machine-Generated Layout](https://repositories.lib.utexas.edu/bitstream/handle/2152/65900/LIN-DISSERTATION-2018.pdf?sequence=1) 
+     * **Yibo Lin** 
+     * PhD Thesis, University of Texas at Austin, 2018.
+            

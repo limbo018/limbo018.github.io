@@ -30,7 +30,7 @@ Journal Papers
 
 * 2019
 
-  ### J12. Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection 
+  ### J12. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
      * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a> \| accepted
      * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.

@@ -116,7 +116,7 @@ Conference Papers
 * 2018
 
   ### C17. Machine Learning for Yield Learning and Optimization 
-     * Invited
+     * *Invited Paper*
      * **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan 
      * IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018.
             

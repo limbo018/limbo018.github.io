@@ -1,5 +1,5 @@
 ---
-title: "OpenMPL: Open-source Multiple Patterning Layout Decomposition"
+title: "Open-source Multiple Patterning Layout Decomposition"
 collection: softwares
 type: "Softwares"
 permalink: /softwares/5-Limbo

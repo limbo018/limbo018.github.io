@@ -9,7 +9,9 @@
 **Journal Papers**
 
 
-* J12. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})(accepted)
+* J13. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})(accepted)
+            
+* J12. Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan, "[OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554)," arXiv preprint arXiv:1809.07554, 2018. ([preprint](https://arxiv.org/pdf/1809.07554.pdf){: .share-button-noborder})([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
             
 * J11. **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2018. ([preprint](/publications/papers/QUANTUM_TCAD2017_Lin.pdf){: .share-button-noborder})
             

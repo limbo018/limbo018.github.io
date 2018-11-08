@@ -44,7 +44,7 @@
             
 * C18. Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan, "LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (*Invited Paper*)
             
-* C17. **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan, "Machine Learning for Yield Learning and Optimization," IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018. (*Invited Paper*)
+* C17. **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan, "Machine Learning for Yield Learning and Optimization," IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018. ([preprint](/publications/papers/DFM_ITC2018_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C16. Jiong Zhang, **Yibo Lin**, Zhao Song and Inderjit S Dhillon, "[Learning Long Term Dependencies via Fourier Recurrent Units](https://arxiv.org/pdf/1803.06585.pdf)," International Conference on Machine Learning (ICML), Stockholm, Sweden, Jun 10-15, 2018. ([preprint](https://arxiv.org/pdf/1803.06585.pdf){: .share-button-noborder})([release](https://github.com/limbo018/FRU){: .share-button-noborder})
             

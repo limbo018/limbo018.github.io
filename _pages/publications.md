@@ -108,14 +108,19 @@ Conference Papers
 
 * 2019
 
-  ### C19. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
+  ### C20. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
      * accepted
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
-  ### C18. Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation 
+  ### C19. Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation 
      * accepted
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
+            
+  ### C18. LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization 
+     * *Invited Paper*
+     * Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
 * 2018

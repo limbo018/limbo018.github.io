@@ -38,9 +38,11 @@
 **Conference Papers**
 
 
-* C19. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
+* C20. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
             
-* C18. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
+* C19. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
+            
+* C18. Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan, "LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (*Invited Paper*)
             
 * C17. **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan, "Machine Learning for Yield Learning and Optimization," IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018. (*Invited Paper*)
             

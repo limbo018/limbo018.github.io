@@ -108,6 +108,11 @@ Conference Papers
 
 * 2019
 
+  ### C21. Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection 
+     * accepted
+     * Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
+            
   ### C20. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
      * accepted
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 

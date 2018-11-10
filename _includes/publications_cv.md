@@ -38,6 +38,8 @@
 **Conference Papers**
 
 
+* C21. Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan, "Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019. (accepted)
+            
 * C20. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
             
 * C19. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)

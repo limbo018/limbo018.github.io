@@ -114,7 +114,7 @@ Conference Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
             
   ### C20. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
-     * accepted
+     * <a href="/publications/papers/HSD_ASPDAC2019_Chen.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             

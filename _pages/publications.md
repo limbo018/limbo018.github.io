@@ -109,7 +109,7 @@ Conference Papers
 * 2019
 
   ### C21. Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection 
-     * accepted
+     * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
             
@@ -124,7 +124,7 @@ Conference Papers
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
   ### C18. LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization 
-     * *Invited Paper*
+     * <a href="/publications/papers/HSD_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             

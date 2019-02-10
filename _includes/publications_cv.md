@@ -38,15 +38,23 @@
 **Conference Papers**
 
 
+* C25. **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan, "DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+            
+* C24. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+            
+* C23. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+            
+* C22. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+            
 * C21. Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan, "Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019. ([preprint](/publications/papers/HSD_DATE2019_Ye.pdf){: .share-button-noborder})(accepted)
             
-* C20. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/HSD_ASPDAC2019_Chen.pdf){: .share-button-noborder})(accepted)
+* C20. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1145/3287624.3287685)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/HSD_ASPDAC2019_Chen.pdf){: .share-button-noborder})([release](https://github.com/qwepi/SSL){: .share-button-noborder})
             
-* C19. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. (accepted)
+* C19. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "[Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/DFM_ASPDAC2019_Ye.pdf){: .share-button-noborder})
             
 * C18. Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan, "LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/HSD_ASPDAC2019_Ye.pdf){: .share-button-noborder})(*Invited Paper*)
             
-* C17. **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan, "Machine Learning for Yield Learning and Optimization," IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018. ([preprint](/publications/papers/DFM_ITC2018_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
+* C17. **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan, "[Machine Learning for Yield Learning and Optimization](https://doi.org/10.1109/TEST.2018.8624733)," IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018. ([preprint](/publications/papers/DFM_ITC2018_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C16. Jiong Zhang, **Yibo Lin**, Zhao Song and Inderjit S Dhillon, "[Learning Long Term Dependencies via Fourier Recurrent Units](https://arxiv.org/pdf/1803.06585.pdf)," International Conference on Machine Learning (ICML), Stockholm, Sweden, Jun 10-15, 2018. ([preprint](https://arxiv.org/pdf/1803.06585.pdf){: .share-button-noborder})([release](https://github.com/limbo018/FRU){: .share-button-noborder})
             

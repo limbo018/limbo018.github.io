@@ -108,18 +108,38 @@ Conference Papers
 
 * 2019
 
+  ### C25. DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement 
+     * accepted
+     * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
+     * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+            
+  ### C24. LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks 
+     * accepted
+     * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
+     * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+            
+  ### C23. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout 
+     * accepted
+     * Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan 
+     * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+            
+  ### C22. GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks 
+     * accepted
+     * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
+     * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+            
   ### C21. Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection 
      * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
             
-  ### C20. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
-     * <a href="/publications/papers/HSD_ASPDAC2019_Chen.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C20. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1145/3287624.3287685) 
+     * <a href="/publications/papers/HSD_ASPDAC2019_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/qwepi/SSL" style="color:#3793ae">release</a>
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
-  ### C19. Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation 
-     * accepted
+  ### C19. [Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688) 
+     * <a href="/publications/papers/DFM_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a>
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
@@ -130,7 +150,7 @@ Conference Papers
             
 * 2018
 
-  ### C17. Machine Learning for Yield Learning and Optimization 
+  ### C17. [Machine Learning for Yield Learning and Optimization](https://doi.org/10.1109/TEST.2018.8624733) 
      * <a href="/publications/papers/DFM_ITC2018_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan 
      * IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018.

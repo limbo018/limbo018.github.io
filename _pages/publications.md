@@ -143,7 +143,7 @@ Conference Papers
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
-  ### C18. LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization 
+  ### C18. [LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization](https://doi.org/10.1145/3287624.3288746) 
      * <a href="/publications/papers/HSD_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.

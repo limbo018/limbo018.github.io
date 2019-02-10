@@ -52,7 +52,7 @@
             
 * C19. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "[Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/DFM_ASPDAC2019_Ye.pdf){: .share-button-noborder})
             
-* C18. Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan, "LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/HSD_ASPDAC2019_Ye.pdf){: .share-button-noborder})(*Invited Paper*)
+* C18. Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan, "[LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization](https://doi.org/10.1145/3287624.3288746)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019. ([preprint](/publications/papers/HSD_ASPDAC2019_Ye.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C17. **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan, "[Machine Learning for Yield Learning and Optimization](https://doi.org/10.1109/TEST.2018.8624733)," IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018. ([preprint](/publications/papers/DFM_ITC2018_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             

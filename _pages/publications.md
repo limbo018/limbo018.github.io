@@ -30,9 +30,19 @@ Journal Papers
 
 * 2019
 
-  ### J13. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
+  ### J15. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
      * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a> \| accepted
      * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
+            
+  ### J14. Lithography Hotspot Detection Using a Double Inception Module Architecture 
+     * accepted
+     * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
+     * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019.
+            
+  ### J13. Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning 
+     * accepted
+     * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
             
 * 2018
@@ -108,25 +118,30 @@ Conference Papers
 
 * 2019
 
-  ### C25. DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement 
+  ### C26. DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement 
      * accepted
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C24. LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks 
+  ### C25. LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks 
      * accepted
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C23. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout 
+  ### C24. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout 
      * accepted
      * Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C22. GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks 
+  ### C23. GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks 
      * accepted
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+            
+  ### C22. Device Layer-Aware Analytical Placement for Analog Circuits 
+     * accepted
+     * Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan 
+     * ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019.
             
   ### C21. Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection 
      * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a> \| accepted

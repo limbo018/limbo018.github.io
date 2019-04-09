@@ -9,7 +9,11 @@
 **Journal Papers**
 
 
-* J13. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})(accepted)
+* J15. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})(accepted)
+            
+* J14. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "Lithography Hotspot Detection Using a Double Inception Module Architecture," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. (accepted)
+            
+* J13. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. (accepted)
             
 * J12. Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan, "[OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554)," arXiv preprint arXiv:1809.07554, 2018. ([preprint](https://arxiv.org/pdf/1809.07554.pdf){: .share-button-noborder})([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
             
@@ -38,13 +42,15 @@
 **Conference Papers**
 
 
-* C25. **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan, "DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C26. **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan, "DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
             
-* C24. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C25. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
             
-* C23. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C24. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
             
-* C22. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C23. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+            
+* C22. Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan, "Device Layer-Aware Analytical Placement for Analog Circuits," ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019. (accepted)
             
 * C21. Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan, "Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019. ([preprint](/publications/papers/HSD_DATE2019_Ye.pdf){: .share-button-noborder})(accepted)
             

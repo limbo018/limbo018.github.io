@@ -129,12 +129,12 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
   ### C24. WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout 
-     * accepted
+     * <a href="/publications/papers/ANALOG_DAC2019_Xu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
   ### C23. GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks 
-     * accepted
+     * <a href="/publications/papers/DFM_DAC2019_Alawieh.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             

@@ -46,9 +46,9 @@
             
 * C25. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
             
-* C24. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C24. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/ANALOG_DAC2019_Xu.pdf){: .share-button-noborder})(accepted)
             
-* C23. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C23. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/DFM_DAC2019_Alawieh.pdf){: .share-button-noborder})(accepted)
             
 * C22. Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan, "Device Layer-Aware Analytical Placement for Analog Circuits," ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019. ([preprint](/publications/papers/ANALOG_ISPD2019_Xu.pdf){: .share-button-noborder})(accepted)
             

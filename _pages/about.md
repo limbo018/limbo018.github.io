@@ -24,6 +24,8 @@ He is currently in the **academia job market**.
 News
 ======
 
+* 04/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, is accepted by DAC 2019. Please checkout the [preprint](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers!
+
 * 06/2018: Yibo attended PhD forum at the 55th Design Automation Conference (DAC), San Francisco, CA. 
 
 * 06/2018: Yibo presented his work at Lithography Workshop 2018, Sun Valley, Idaho. 

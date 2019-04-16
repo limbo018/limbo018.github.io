@@ -119,7 +119,7 @@ Conference Papers
 * 2019
 
   ### C26. DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| accepted
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             

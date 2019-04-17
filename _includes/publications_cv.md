@@ -44,7 +44,7 @@
 
 * C26. **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan, "DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/PLACE_DAC2019_Lin.pdf){: .share-button-noborder})([releases](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
             
-* C25. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. (accepted)
+* C25. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/DFM_DAC2019_Ye.pdf){: .share-button-noborder})(accepted)
             
 * C24. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/ANALOG_DAC2019_Xu.pdf){: .share-button-noborder})(accepted)
             

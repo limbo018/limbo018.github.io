@@ -124,7 +124,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
   ### C25. LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks 
-     * accepted
+     * <a href="/publications/papers/DFM_DAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             

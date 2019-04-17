@@ -138,7 +138,7 @@ Conference Papers
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C22. Device Layer-Aware Analytical Placement for Analog Circuits 
+  ### C22. [Device Layer-Aware Analytical Placement for Analog Circuits](https://doi.org/10.1145/3299902.3309751) 
      * <a href="/publications/papers/ANALOG_ISPD2019_Xu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019.

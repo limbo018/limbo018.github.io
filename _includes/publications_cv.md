@@ -50,7 +50,7 @@
             
 * C23. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "[GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/DFM_DAC2019_Alawieh.pdf){: .share-button-noborder})(accepted)
             
-* C22. Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan, "Device Layer-Aware Analytical Placement for Analog Circuits," ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019. ([preprint](/publications/papers/ANALOG_ISPD2019_Xu.pdf){: .share-button-noborder})(accepted)
+* C22. Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan, "[Device Layer-Aware Analytical Placement for Analog Circuits](https://doi.org/10.1145/3299902.3309751)," ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019. ([preprint](/publications/papers/ANALOG_ISPD2019_Xu.pdf){: .share-button-noborder})(accepted)
             
 * C21. Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan, "Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019. ([preprint](/publications/papers/HSD_DATE2019_Ye.pdf){: .share-button-noborder})(accepted)
             

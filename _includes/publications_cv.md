@@ -13,7 +13,7 @@
             
 * J14. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "Lithography Hotspot Detection Using a Double Inception Module Architecture," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. (accepted)
             
-* J13. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. (accepted)
+* J13. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](http://dx.doi.org/10.1109/TCAD.2019.2912948)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. (accepted)
             
 * J12. Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan, "[OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554)," arXiv preprint arXiv:1809.07554, 2018. ([preprint](https://arxiv.org/pdf/1809.07554.pdf){: .share-button-noborder})([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
             

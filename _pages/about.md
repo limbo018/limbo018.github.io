@@ -19,7 +19,7 @@ Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Co
 and the University Continuing Fellowship at the University of Texas at Austin in 2017. 
 He has interned at Toshiba, IMEC, Cadence, and Oracle.
 
-He will join *Center for Energy-Efficient Computing and Applications (CECA) at Peking University* in July. 
+He will join *Center for Energy-Efficient Computing and Applications (CECA)* at **Peking University** in July as an assistant professor. 
 
 News
 ======

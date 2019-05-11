@@ -60,6 +60,9 @@ Work experience
 
 Teaching experience
 ======
+* Fall 2018: Guest Lecture 
+  * EE382M: VLSI CAD & Optimizations 
+
 * Fall 2017: Guest Lecture 
   * EE382M: VLSI Physical Design Automation
 

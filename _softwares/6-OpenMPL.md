@@ -2,7 +2,7 @@
 title: "Open-source Multiple Patterning Layout Decomposition"
 collection: softwares
 type: "Softwares"
-permalink: /softwares/5-OpenMPL
+permalink: /softwares/6-OpenMPL
 date: 2018-08-28
 ---
 

@@ -90,7 +90,7 @@ Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017.
             
   ### J4. [Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004) 
-     * <a href="/publications/papers/DFMP_JVLSI2017_Lin.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Award*
+     * <a href="/publications/papers/DFMP_JVLSI2017_Lin.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan 
      * Integration, the VLSI Journal, Jun, 2017.
             
@@ -119,7 +119,7 @@ Conference Papers
 * 2019
 
   ### C27. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
-     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| *Best Paper*
+     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| **Best Paper Award**
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             

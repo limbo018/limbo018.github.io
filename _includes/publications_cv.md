@@ -31,7 +31,7 @@
             
 * J5. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder})
             
-* J4. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/DFMP_JVLSI2017_Lin.pdf){: .share-button-noborder})(*Best Paper Award*)
+* J4. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/DFMP_JVLSI2017_Lin.pdf){: .share-button-noborder})(**Best Paper Award**)
             
 * J3. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Jun, 2017. ([preprint](/publications/papers/MPL_JM32017_Lin.pdf){: .share-button-noborder})
             
@@ -42,7 +42,7 @@
 **Conference Papers**
 
 
-* C27. **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan, "[DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/PLACE_DAC2019_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/PLACE_DAC2019_Lin.slides.pptx){: .share-button-noborder})([releases](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(*Best Paper*)
+* C27. **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan, "[DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/PLACE_DAC2019_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/PLACE_DAC2019_Lin.slides.pptx){: .share-button-noborder})([releases](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(**Best Paper Award**)
             
 * C26. Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan, "[LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/DFM_DAC2019_Ye.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

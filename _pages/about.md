@@ -24,6 +24,8 @@ He will join *Center for Energy-Efficient Computing and Applications (CECA)* at 
 News
 ======
 
+* 05/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the *Best Paper Aware* at DAC 2019. Please checkout the [preprint](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.pdf), [slides](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.slides.pptx), and source code [release](https://github.com/limbo018/DREAMPlace). Cheers and thanks to all the co-authors!
+
 * 04/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, is accepted by DAC 2019. Please checkout the [preprint](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers!
 
 * 06/2018: Yibo attended PhD forum at the 55th Design Automation Conference (DAC), San Francisco, CA. 

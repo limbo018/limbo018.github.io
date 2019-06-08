@@ -118,25 +118,30 @@ Conference Papers
 
 * 2019
 
-  ### C26. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
-     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| *Best Paper Nomination*
+  ### C27. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
+     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| *Best Paper*
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C25. [LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852) 
+  ### C26. [LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852) 
      * <a href="/publications/papers/DFM_DAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C24. [WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout](https://doi.org/10.1145/3316781.3317930) 
+  ### C25. [WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout](https://doi.org/10.1145/3316781.3317930) 
      * <a href="/publications/papers/ANALOG_DAC2019_Xu.pdf" style="color:#3793ae">preprint</a>
      * Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C23. [GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832) 
+  ### C24. [GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832) 
      * <a href="/publications/papers/DFM_DAC2019_Alawieh.pdf" style="color:#3793ae">preprint</a>
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
+            
+  ### C23. [Towards a Theoretical Understanding of Hashing-Based Neural Nets](https://arxiv.org/abs/1812.10244) 
+     * <a href="https://arxiv.org/pdf/1812.10244.pdf" style="color:#3793ae">preprint</a>
+     * **Yibo Lin**, Zhao Song and Lin F. Yang 
+     * International Conference on Artificial Intelligence and Statistics (AISTATS), Okinawa, Japan, Apr 16-18, 2019.
             
   ### C22. [Device Layer-Aware Analytical Placement for Analog Circuits](https://doi.org/10.1145/3299902.3309751) 
      * <a href="/publications/papers/ANALOG_ISPD2019_Xu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*

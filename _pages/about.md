@@ -16,7 +16,9 @@ I am a recipient of
 the Best Paper Awards at DAC 2019, Integration, the VLSI Journal 2018, and SPIE Advanced Lithography Conference 2016. 
 
 I will join *Center for Energy-Efficient Computing and Applications (CECA)* at **Peking University** in July as an assistant professor. 
-I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electronic engineering, or mathematics, working on research fields of 1) machine learning assisted design automation; 2) GPU/FPGA acceleration for CAD. 
+I am always looking for motivated undergraduate and graduate students with background in computer science, electrical engineering, mathematics, statistics, or related areas, working on research fields of 
+1. machine learning assisted CAD; 
+2.GPU/FPGA acceleration. 
 
 News
 ======

@@ -20,7 +20,7 @@ I am always looking for motivated undergraduate and graduate students with backg
 
 1. machine learning assisted CAD; 
 
-2.GPU/FPGA acceleration. 
+2. GPU/FPGA acceleration. 
 
 News
 ======

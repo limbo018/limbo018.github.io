@@ -90,6 +90,8 @@ Publications
   
 Awards and Honors
 ======
+* Best Paper Award, DAC 2019
+* Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
 * Graduate Continuing Fellowship, University of Texas at Austin, 2017
 * Franco Cerrina Memorial Best Student Paper Award, SPIE Advanced Lithography Conference, 2016
 * A. Richard Newton Young Student Fellow, Design Automation Conference (DAC), 2014 

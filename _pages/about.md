@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Yibo Lin is now a postdoctoral researcher in the Electrical and Computer Engineering Department of the University of Texas at Austin. 
-Dr. Lin received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
-Previously, he received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
-His research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
+I am now a postdoctoral researcher in the Electrical and Computer Engineering Department of the University of Texas at Austin. 
+I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
+Previously, I received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
+My research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
+I am a recipient of 
+the Best Paper Awards at DAC 2019, Integration, the VLSI Journal 2018, and SPIE Advanced Lithography Conference 2016. 
 
-Dr. Lin is a recipient of 
-the Best Paper Award at Integration, the VLSI Journal 2018, 
-Franco Cerrina Memorial Best Student Paper Award at SPIE Advanced Lithography Conference 2016, 
-and the University Continuing Fellowship at the University of Texas at Austin in 2017. 
-He has interned at Toshiba, IMEC, Cadence, and Oracle.
-
-He will join *Center for Energy-Efficient Computing and Applications (CECA)* at **Peking University** in July as an assistant professor. 
+I will join *Center for Energy-Efficient Computing and Applications (CECA)* at **Peking University** in July as an assistant professor. 
+I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electronic engineering, or mathematics, working on research fields of 1) machine learning assisted design automation; 2) GPU/FPGA acceleration for CAD. 
 
 News
 ======

@@ -235,7 +235,7 @@ Conference Papers
      * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Hangzhou, China, Oct 25-28, 2016.
             
   ### C5. [Triple/quadruple patterning layout decomposition via novel linear programming and iterative rounding](http://dx.doi.org/10.1117/12.2218628) 
-     * <a href="/publications/papers/MPL_SPIE2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/MPL_SPIE2016_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MPLD/index.html" style="color:#3793ae">releases</a> \| *Best Student Paper Award*
+     * <a href="/publications/papers/MPL_SPIE2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/MPL_SPIE2016_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MPLD/index.html" style="color:#3793ae">releases</a> \| **Best Student Paper Award**
      * **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan 
      * Proceedings of SPIE, San Jose, CA, Feb 21-25, 2016.
             

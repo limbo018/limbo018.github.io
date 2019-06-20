@@ -134,7 +134,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
   ### C24. [GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832) 
-     * <a href="/publications/papers/DFM_DAC2019_Alawieh.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/DFM_DAC2019_Alawieh.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_DAC2019_Alawieh.slides.pdf" style="color:#3793ae">slides</a>
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             

@@ -48,7 +48,7 @@
             
 * C25. Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan, "[WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout](https://doi.org/10.1145/3316781.3317930)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/ANALOG_DAC2019_Xu.pdf){: .share-button-noborder})
             
-* C24. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "[GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/DFM_DAC2019_Alawieh.pdf){: .share-button-noborder})
+* C24. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "[GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832)," ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019. ([preprint](/publications/papers/DFM_DAC2019_Alawieh.pdf){: .share-button-noborder})([slides](/publications/papers/DFM_DAC2019_Alawieh.slides.pdf){: .share-button-noborder})
             
 * C23. **Yibo Lin**, Zhao Song and Lin F. Yang, "[Towards a Theoretical Understanding of Hashing-Based Neural Nets](https://arxiv.org/abs/1812.10244)," International Conference on Artificial Intelligence and Statistics (AISTATS), Okinawa, Japan, Apr 16-18, 2019. ([preprint](https://arxiv.org/pdf/1812.10244.pdf){: .share-button-noborder})
             

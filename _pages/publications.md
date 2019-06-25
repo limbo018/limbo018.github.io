@@ -118,6 +118,21 @@ Conference Papers
 
 * 2019
 
+  ### C30. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
+     * accepted
+     * Wuxi Li, **Yibo Lin** and David Z. Pan 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
+            
+  ### C29. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
+     * accepted
+     * Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
+            
+  ### C28. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
+     * accepted
+     * Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
+            
   ### C27. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
      * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| **Best Paper Award**
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 

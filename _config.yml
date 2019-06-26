@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Yibo Lin"
-  avatar           : "YiboLinAtFireValley_portrait.jpg"
-  bio              : "Postdoc at <a href='http://www.ece.utexas.edu/'>ECE Department, UT Austin</a>"
-  location         : "Austin, TX"
+  avatar           : "YiboLinAtDeathValley.jpg"
+  bio              : "Assistant Professor at <a href='http://ceca.pku.edu.cn/index.htm'>CECA, Peking University</a>"
+  location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en"
   email            : "yibolin@utexas.edu"

@@ -14,7 +14,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Yibo Lin</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">yibolin at  utexas.edu | <a href="http://www.yibolin.com/">http://www.yibolin.com</a> | <a href="https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en">Google Scholar</a></span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">yibolin at  pku.edu.cn | <a href="http://www.yibolin.com/">http://www.yibolin.com</a> | <a href="https://scholar.google.com/citations?user=155hQCcAAAAJ&hl=en">Google Scholar</a></span></p>
 
 Education
 ======

@@ -118,91 +118,96 @@ Conference Papers
 
 * 2019
 
-  ### C30. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
+  ### C31. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
      * accepted
      * Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C29. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
+  ### C30. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
      * accepted
      * Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C28. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
+  ### C29. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
      * accepted
      * Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C27. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
+  ### C28. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
      * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| **Best Paper Award**
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C26. [LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852) 
+  ### C27. [LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317852) 
      * <a href="/publications/papers/DFM_DAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_DAC2019_Ye.slides.pptx" style="color:#3793ae">slides</a> \| *Best Paper Nomination*
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C25. [WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout](https://doi.org/10.1145/3316781.3317930) 
+  ### C26. [WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout](https://doi.org/10.1145/3316781.3317930) 
      * <a href="/publications/papers/ANALOG_DAC2019_Xu.pdf" style="color:#3793ae">preprint</a>
      * Biying Xu, **Yibo Lin**, Xiyuan Tang, Shaolan Li, Linxiao Shen, Nan Sun and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C24. [GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832) 
+  ### C25. [GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks](https://doi.org/10.1145/3316781.3317832) 
      * <a href="/publications/papers/DFM_DAC2019_Alawieh.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_DAC2019_Alawieh.slides.pdf" style="color:#3793ae">slides</a>
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
-  ### C23. [Towards a Theoretical Understanding of Hashing-Based Neural Nets](https://arxiv.org/abs/1812.10244) 
+  ### C24. [Towards a Theoretical Understanding of Hashing-Based Neural Nets](https://arxiv.org/abs/1812.10244) 
      * <a href="https://arxiv.org/pdf/1812.10244.pdf" style="color:#3793ae">preprint</a>
      * **Yibo Lin**, Zhao Song and Lin F. Yang 
      * International Conference on Artificial Intelligence and Statistics (AISTATS), Okinawa, Japan, Apr 16-18, 2019.
             
-  ### C22. [Device Layer-Aware Analytical Placement for Analog Circuits](https://doi.org/10.1145/3299902.3309751) 
+  ### C23. [Device Layer-Aware Analytical Placement for Analog Circuits](https://doi.org/10.1145/3299902.3309751) 
      * <a href="/publications/papers/ANALOG_ISPD2019_Xu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Biying Xu, Shaolan Li, Chak-Wa Pui, Derong Liu, Linxiao Shen, **Yibo Lin**, Nan Sun and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), San Francisco, CA, Apr 14-17, 2019.
             
-  ### C21. [Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection](https://doi.org/10.23919/DATE.2019.8714960) 
+  ### C22. [Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection](https://doi.org/10.23919/DATE.2019.8714960) 
      * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a>
      * Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
             
-  ### C20. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1145/3287624.3287685) 
+  ### C21. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1145/3287624.3287685) 
      * <a href="/publications/papers/HSD_ASPDAC2019_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/qwepi/SSL" style="color:#3793ae">release</a>
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
-  ### C19. [Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688) 
+  ### C20. [Tackling Signal Electromigration with Learning-Based Detection and Multistage Mitigation](https://doi.org/10.1145/3287624.3287688) 
      * <a href="/publications/papers/DFM_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a>
      * Wei Ye, Mohamed Baker Alawieh, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
-  ### C18. [LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization](https://doi.org/10.1145/3287624.3288746) 
+  ### C19. [LithoROC: Lithography Hotspot Detection with Explicit ROC Optimization](https://doi.org/10.1145/3287624.3288746) 
      * <a href="/publications/papers/HSD_ASPDAC2019_Ye.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Wei Ye, **Yibo Lin**, Meng Li, Qiang Liu and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 21-24, 2019.
             
 * 2018
 
-  ### C17. [Machine Learning for Yield Learning and Optimization](https://doi.org/10.1109/TEST.2018.8624733) 
+  ### C18. [Machine Learning for Yield Learning and Optimization](https://doi.org/10.1109/TEST.2018.8624733) 
      * <a href="/publications/papers/DFM_ITC2018_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * **Yibo Lin**, Mohamed Baker Alawieh, Wei Ye and David Z. Pan 
      * IEEE International Test Conference (ITC), Phoenix, Arizona, Oct, 2018.
             
-  ### C16. [Learning Long Term Dependencies via Fourier Recurrent Units](https://arxiv.org/pdf/1803.06585.pdf) 
+  ### C17. [Learning Long Term Dependencies via Fourier Recurrent Units](https://arxiv.org/pdf/1803.06585.pdf) 
      * <a href="https://arxiv.org/pdf/1803.06585.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/FRU" style="color:#3793ae">release</a>
      * Jiong Zhang, **Yibo Lin**, Zhao Song and Inderjit S Dhillon 
      * International Conference on Machine Learning (ICML), Stockholm, Sweden, Jun 10-15, 2018.
             
-  ### C15. [Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242) 
+  ### C16. [Data Efficient Lithography Modeling with Residual Neural Networks and Transfer Learning](https://doi.org/10.1145/3177540.3178242) 
      * <a href="/publications/papers/DFM_ISPD2018_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ISPD2018_Lin.slides.pptx" style="color:#3793ae">slides</a>
      * **Yibo Lin**, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima, Meng Li and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), Monterey, CA, Mar 25-28, 2018.
             
-  ### C14. [A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion](https://doi.org/10.1109/ASPDAC.2018.8297316) 
+  ### C15. [A Practical Split Manufacturing Framework for Trojan Prevention via Simultaneous Wire Lifting and Cell Insertion](https://doi.org/10.1109/ASPDAC.2018.8297316) 
      * <a href="/publications/papers/SPM_ASPDAC2018_Li.pdf" style="color:#3793ae">preprint</a>
      * Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z. Pan 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018.
+            
+  ### C14. [Layout-dependent aging mitigation for critical path timing](https://doi.org/10.1109/ASPDAC.2018.8297298) 
+     * <a href="/publications/papers/DFR_ASPDAC2018_Hsu.pdf" style="color:#3793ae">preprint</a>
+     * Che-Lun Hsu, Shaofeng Guo, **Yibo Lin**, Xiaoqing Xu, Meng Li, Runsheng Wang, Ru Huang and David Z Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jeju, Korea, Jan 22-25, 2018.
             
 * 2017

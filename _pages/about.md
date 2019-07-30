@@ -25,6 +25,8 @@ I am always looking for motivated undergraduate and graduate students with backg
 News
 ======
 
+* 07/2019: Yibo co-taught the class with Prof. David Z. Pan on _Machine Learning and Its Applications in IC Physical Design_ in the 3rd [IEEE/ACM Physical Design Automation Summer School](http://www.pda2019.com/). Please checkout the [slides](http://yibolin.com/publications/tutorials/PDSeasonableSchool_ML4PD.pdf). Thanks to the organizers!
+
 * 06/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Best Paper Award** at DAC 2019. Please checkout the [preprint](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.pdf), [slides](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.slides.pptx), and source code [release](https://github.com/limbo018/DREAMPlace). Cheers and thanks to all the co-authors!
 
 * 04/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, is accepted by DAC 2019. Please checkout the [preprint](http://yibolin.com/publications/papers/PLACE_DAC2019_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers!

@@ -57,7 +57,7 @@ Journal Papers
      * **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2018.
             
-  ### J10. [Sub-Resolution Assist Feature Generation with Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029) 
+  ### J10. [Subresolution Assist Feature Generation With Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029) 
      * <a href="/publications/papers/SRAF_TCAD2017_Xu.pdf" style="color:#3793ae">preprint</a>
      * Xiaoqing Xu, **Yibo Lin**, Meng Li, Tetsuaki Matsunawa, Shigeki Nojima, Chikaaki Kodama, Toshiya Kotani and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018.

@@ -4,7 +4,7 @@
 **Book Chapters**
 
 
-* B1. **Yibo Lin** and David Z. Pan, "[Machine Learning in Physical Verification, Mask Synthesis, and Physical Design](http://dx.doi.org/10.1007/978-3-030-04666-8_4)," Machine Learning in VLSI Computer-Aided Design, Springer, 2018, edited by Abe Elfedel, Duane Boning and Xin Li. (*Invited Book Chapter*)
+* B1. **Yibo Lin** and David Z. Pan, "[Machine Learning in Physical Verification, Mask Synthesis, and Physical Design](http://dx.doi.org/10.1007/978-3-030-04666-8_4)," Machine Learning in VLSI Computer-Aided Design, Springer, 2018, edited by Abe Elfedel, Duane Boning and Xin Li. ([preprint](/publications/papers/ML4CAD_Springer2018_Pan.pdf){: .share-button-noborder})(*Invited Book Chapter*)
             
 **Journal Papers**
 

@@ -20,7 +20,7 @@ Book Chapters
 * 2018
 
   ### B1. [Machine Learning in Physical Verification, Mask Synthesis, and Physical Design](http://dx.doi.org/10.1007/978-3-030-04666-8_4) 
-     * *Invited Book Chapter*
+     * <a href="/publications/papers/ML4CAD_Springer2018_Pan.pdf" style="color:#3793ae">preprint</a> \| *Invited Book Chapter*
      * **Yibo Lin** and David Z. Pan 
      * Machine Learning in VLSI Computer-Aided Design, Springer, 2018.
      * Edited by Abe Elfedel, Duane Boning and Xin Li. 

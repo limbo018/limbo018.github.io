@@ -35,13 +35,13 @@ Journal Papers
      * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
             
-  ### J14. Lithography Hotspot Detection Using a Double Inception Module Architecture 
-     * accepted
+  ### J14. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
+     * <a href="/publications/papers/HSD_JM32019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
      * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019.
             
   ### J13. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
-     * accepted
+     * <a href="/publications/papers/HSD_TCAD2019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
             

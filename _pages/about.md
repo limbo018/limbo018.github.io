@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am now a postdoctoral researcher in the Electrical and Computer Engineering Department of the University of Texas at Austin. 
-I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
-Previously, I received the B.S. in Microelectronics, Shanghai Jiaotong University in 2013.
+I am an assistant professor in the Department of Computer Science at Peking University associated with the Center for Energy-Efficient Computing and Applications (CECA). 
+Previously, I worked as a postdoctoral researcher at the University of Texas at Austin from 2018 to 2019. 
+I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin in 2018 advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) 
+and the B.S. degree in Microelectronics from Shanghai Jiaotong University in 2013.
 My research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
 I am a recipient of 
 the Best Paper Awards at DAC 2019, Integration, the VLSI Journal 2018, and SPIE Advanced Lithography Conference 2016. 
 
-I will join *Center for Energy-Efficient Computing and Applications (CECA)* at **Peking University** in July as an assistant professor. 
-I am always looking for motivated undergraduate and graduate students with background in computer science, electrical engineering, microelectronics, mathematics, statistics, or related areas, working on research fields of 
+I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electrical engineering, mathematics, statistics, or related areas, working on research fields of 
 
 1. machine learning assisted CAD; 
 

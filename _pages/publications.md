@@ -30,32 +30,37 @@ Journal Papers
 
 * 2019
 
-  ### J15. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
+  ### J16. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
      * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a> \| accepted
      * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
             
-  ### J14. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
+  ### J15. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
      * <a href="/publications/papers/HSD_JM32019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
      * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019.
             
-  ### J13. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
+  ### J14. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
      * <a href="/publications/papers/HSD_TCAD2019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
             
 * 2018
 
-  ### J12. [OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554) 
+  ### J13. [OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554) 
      * <a href="https://arxiv.org/pdf/1809.07554.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a>
      * Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan 
      * arXiv preprint arXiv:1809.07554, 2018.
             
-  ### J11. [Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511) 
+  ### J12. [Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511) 
      * <a href="/publications/papers/QUANTUM_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a>
      * **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2018.
+            
+  ### J11. [A practical split manufacturing framework for trojan prevention via simultaneous wire lifting and cell insertion](https://doi.org/10.1109/TCAD.2018.2859402) 
+     * <a href="/publications/papers/SPM_TCAD2018_Li.pdf" style="color:#3793ae">preprint</a>
+     * Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2018.
             
   ### J10. [Subresolution Assist Feature Generation With Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029) 
      * <a href="/publications/papers/SRAF_TCAD2017_Xu.pdf" style="color:#3793ae">preprint</a>

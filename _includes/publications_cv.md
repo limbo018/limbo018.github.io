@@ -46,7 +46,7 @@
 
 * C31. Wuxi Li, **Yibo Lin** and David Z. Pan, "elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. (accepted)
             
-* C30. Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. (accepted)
+* C30. Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Zhu.pdf){: .share-button-noborder})(accepted)
             
 * C29. Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan, "Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. (accepted)
             

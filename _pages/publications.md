@@ -136,12 +136,12 @@ Conference Papers
 * 2019
 
   ### C31. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
-     * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination* \| accepted
      * Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
   ### C30. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
-     * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination* \| accepted
      * Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             

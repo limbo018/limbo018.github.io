@@ -17,12 +17,12 @@ Visiting Students
 
 | <img src="http://yibolin.com/images/students/HaoyuYang.jpg" style="width:100px;" /> | [Haoyu Yang](https://phdyang007.github.io/)<br>PhD candidate, CUHK<br>Jul. 2019 - Oct. 2019 | <img src="http://yibolin.com/images/students/PeiyuLiao.jpg" style="width:100px;" /> | [Peiyu Liao](https://enzoleo.github.io/)<br>PRg, CUHK<br>Sep. 2019 - Oct. 2019 |
 
-<table style="undefined;table-layout: fixed; width: 900px">
+<table style="undefined;table-layout: fixed; width: 500px">
 <colgroup>
-<col style="width: 200px">
-<col style="width: 250px">
-<col style="width: 200px">
-<col style="width: 250px">
+<col style="width: 100px; text-align:right">
+<col style="width: 150px; text-align:left">
+<col style="width: 100px; text-align:right">
+<col style="width: 150px; text-align:left">
 </colgroup>
   <tr>
     <th><img src="http://yibolin.com/images/students/HaoyuYang.jpg" style="width:100px;" /></th>

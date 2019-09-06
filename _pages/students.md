@@ -10,7 +10,7 @@ author_profile: true
 Undergraduate Students
 ======
 
-<table style="undefined;table-layout: fixed; width: 600px; border=none">
+<table style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
 <col style="width: 100px; text-align:right">
 <col style="width: 200px; text-align:left">
@@ -28,7 +28,7 @@ Undergraduate Students
 Visiting Students
 ======
 
-<table style="undefined;table-layout: fixed; width: 600px; border=none">
+<table style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
 <col style="width: 100px; text-align:right">
 <col style="width: 200px; text-align:left">

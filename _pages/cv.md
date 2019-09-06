@@ -24,7 +24,11 @@ Education
 
 Work experience
 ======
-* Since Summer 2018: Postdoctoral Researcher 
+* Since Summer 2019: Assistant Professor
+  * Center for Energy-efficient Computing and Applications, School of EECS 
+  * Peking University
+
+* Summer 2018 to Summer 2019: Postdoctoral Researcher 
   * ECE department, University of Texas at Austin 
   * Supervisor: Professor [David Z. Pan](http://www.ece.utexas.edu/~dpan/)
 

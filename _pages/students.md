@@ -10,9 +10,7 @@ author_profile: true
 Undergraduate Students
 ======
 
-| <img src="http://yibolin.com/images/students/XiaohanGao.jpg" style="width:100px;" /> | Xiaohan Gao<br>Since Jul. 2019 | <img src="http://yibolin.com/images/students/KunpengJiang.jpg" style="width:100px;" />  | Kunpeng Jiang<br>Since Aug. 2019 |
-
-<table style="undefined;table-layout: fixed; width: 600px">
+<table style="undefined;table-layout: fixed; width: 600px; font-weight:normal">
 <colgroup>
 <col style="width: 100px; text-align:right">
 <col style="width: 200px; text-align:left">
@@ -30,7 +28,7 @@ Undergraduate Students
 Visiting Students
 ======
 
-<table style="undefined;table-layout: fixed; width: 600px">
+<table style="undefined;table-layout: fixed; width: 600px; font-weight:normal">
 <colgroup>
 <col style="width: 100px; text-align:right">
 <col style="width: 200px; text-align:left">

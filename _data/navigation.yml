@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "UTDA"
-    url: http://www.cerc.utexas.edu/utda/
+  - title: "Students"
+    url: /students/
+    
+  - title: "CECA"
+    url: http://ceca.pku.edu.cn/en/home/index.htm

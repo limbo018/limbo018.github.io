@@ -18,7 +18,7 @@ Undergraduate Students
 <col style="width: 200px; text-align:left">
 </colgroup>
   <tr>
-    <th style="padding: 0;"><img src="http://yibolin.com/images/students/XiaohanGao.jpg" style="width:100px;" /></th>
+    <th style="padding: 0;"><img src="http://yibolin.com/images/profile.png" style="width:100px;" /></th>
     <th><a href="">Xiaohan Gao</a><br>Since Jul. 2019</th>
     <th style="padding: 0;"><img src="http://yibolin.com/images/students/KunpengJiang.jpg" style="width:100px;" /></th>
     <th><a href="">Kunpeng Jiang</a><br>Since Aug. 2019</th>

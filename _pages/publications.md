@@ -30,20 +30,20 @@ Journal Papers
 
 * 2019
 
-  ### J16. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
-     * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a> \| accepted
-     * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
-            
-  ### J15. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
+  ### J16. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
      * <a href="/publications/papers/HSD_JM32019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
      * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019.
             
-  ### J14. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
+  ### J15. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
      * <a href="/publications/papers/HSD_TCAD2019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
+            
+  ### J14. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
+     * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a>
+     * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2019.
             
 * 2018
 

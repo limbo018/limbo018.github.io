@@ -9,11 +9,11 @@
 **Journal Papers**
 
 
-* J16. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})(accepted)
+* J16. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
             
-* J15. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
+* J15. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](/publications/papers/HSD_TCAD2019_Chen.pdf){: .share-button-noborder})
             
-* J14. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](/publications/papers/HSD_TCAD2019_Chen.pdf){: .share-button-noborder})
+* J14. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})
             
 * J13. Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan, "[OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554)," arXiv preprint arXiv:1809.07554, 2018. ([preprint](https://arxiv.org/pdf/1809.07554.pdf){: .share-button-noborder})([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
             

@@ -40,18 +40,18 @@ Journal Papers
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
             
-  ### J14. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
+  ### J14. [OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554) 
+     * <a href="https://arxiv.org/abs/1809.07554" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ASICON2019_Li.slides.pdf" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a> \| *Invited Paper*
+     * Wei Li, Yuzhe Ma, Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan 
+     * International Conference on ASIC (ASICON), Chongqing, China, Oct, 2019.
+            
+  ### J13. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
      * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a>
      * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2019.
             
 * 2018
 
-  ### J13. [OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554) 
-     * <a href="https://arxiv.org/pdf/1809.07554.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a>
-     * Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan 
-     * arXiv preprint arXiv:1809.07554, 2018.
-            
   ### J12. [Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511) 
      * <a href="/publications/papers/QUANTUM_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a>
      * **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan 

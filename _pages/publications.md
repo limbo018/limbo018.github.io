@@ -30,20 +30,15 @@ Journal Papers
 
 * 2019
 
-  ### J16. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
+  ### J15. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
      * <a href="/publications/papers/HSD_JM32019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
      * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019.
             
-  ### J15. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
+  ### J14. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
      * <a href="/publications/papers/HSD_TCAD2019_Chen.pdf" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
-            
-  ### J14. [OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554) 
-     * <a href="https://arxiv.org/abs/1809.07554" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ASICON2019_Li.slides.pdf" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a> \| *Invited Paper*
-     * Wei Li, Yuzhe Ma, Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan 
-     * International Conference on ASIC (ASICON), Chongqing, China, Oct, 2019.
             
   ### J13. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
      * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a>
@@ -123,32 +118,37 @@ Conference Papers
 
 * 2020
 
-  ### C33. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
+  ### C34. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
      * accepted
      * Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
-  ### C32. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
+  ### C33. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
      * accepted
      * Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
 * 2019
 
-  ### C31. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
+  ### C32. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
      * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination* \| accepted
      * Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C30. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
+  ### C31. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
      * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination* \| accepted
      * Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C29. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
+  ### C30. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
      * accepted
      * Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
+            
+  ### C29. [OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554) 
+     * <a href="https://arxiv.org/abs/1809.07554" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ASICON2019_Li.slides.pdf" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a> \| *Invited Paper*
+     * Wei Li, Yuzhe Ma, Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan 
+     * International Conference on ASIC (ASICON), Chongqing, China, Oct, 2019.
             
   ### C28. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
      * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| **Best Paper Award**

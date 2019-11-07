@@ -42,15 +42,17 @@
 **Conference Papers**
 
 
-* C34. Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan, "S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. (accepted)
+* C35. Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan, "S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. (accepted)
             
-* C33. Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan, "High-Definition Routing Congestion Prediction for Large-Scale FPGAs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. (accepted)
+* C34. Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan, "High-Definition Routing Congestion Prediction for Large-Scale FPGAs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. (accepted)
             
-* C32. Wuxi Li, **Yibo Lin** and David Z. Pan, "elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/PLACE_ICCAD2019_Li.pdf){: .share-button-noborder})(accepted)
+* C33. Wuxi Li, **Yibo Lin** and David Z. Pan, "elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/PLACE_ICCAD2019_Li.pdf){: .share-button-noborder})(accepted)
             
-* C31. Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Zhu.pdf){: .share-button-noborder})(accepted)
+* C32. Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Zhu.pdf){: .share-button-noborder})(accepted)
             
-* C30. Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan, "Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. (accepted)
+* C31. Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan, "Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/NAS_ICCAD2019_Gong.pdf){: .share-button-noborder})(accepted)
+            
+* C30. Biying Xu, Keren Zhu, Mingjie Liu, **Yibo Lin**, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Xu.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C29. Wei Li, Yuzhe Ma, Qi Sun, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z Pan, "[OpenMPL: An Open Source Layout Decomposer](https://arxiv.org/abs/1809.07554)," International Conference on ASIC (ASICON), Chongqing, China, Oct, 2019. ([preprint](https://arxiv.org/abs/1809.07554){: .share-button-noborder})([slides](/publications/papers/DFM_ASICON2019_Li.slides.pdf){: .share-button-noborder})([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})(*Invited Paper*)
             

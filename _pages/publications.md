@@ -70,7 +70,7 @@ Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018.
             
   ### J9. [MrDP: Multiple-row detailed placement of heterogeneous-sized cells for advanced nodes](https://doi.org/10.1109/TCAD.2017.2748025) 
-     * <a href="/publications/papers/PLACE_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MrDP/index.html" style="color:#3793ae">releases</a>
+     * <a href="/publications/papers/PLACE_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MrDP/index.html" style="color:#3793ae">release</a>
      * **Yibo Lin**, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018.
             
@@ -82,12 +82,12 @@ Journal Papers
 * 2017
 
   ### J7. [High performance dummy fill insertion with coupling and uniformity constraints](http://dx.doi.org/10.1109/TCAD.2016.2638452) 
-     * <a href="/publications/papers/CMP_TCAD2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cerc.utexas.edu/utda/download/DFI/index.html" style="color:#3793ae">releases</a>
+     * <a href="/publications/papers/CMP_TCAD2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cerc.utexas.edu/utda/download/DFI/index.html" style="color:#3793ae">release</a>
      * **Yibo Lin**, Bei Yu and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2017.
             
   ### J6. [Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict](http://dx.doi.org/10.1109/TCAD.2017.2648843) 
-     * <a href="/publications/papers/DFMP_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html" style="color:#3793ae">releases</a>
+     * <a href="/publications/papers/DFMP_TCAD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html" style="color:#3793ae">release</a>
      * **Yibo Lin**, Bei Yu, Biying Xu and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017.
             
@@ -163,7 +163,7 @@ Conference Papers
      * International Conference on ASIC (ASICON), Chongqing, China, Oct, 2019.
             
   ### C28. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1145/3316781.3317803) 
-     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">releases</a> \| **Best Paper Award**
+     * <a href="/publications/papers/PLACE_DAC2019_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_DAC2019_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| **Best Paper Award**
      * **Yibo Lin**, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun 2-6, 2019.
             
@@ -269,7 +269,7 @@ Conference Papers
 * 2016
 
   ### C8. [MrDP: Multiple-row detailed placement of heterogeneous-sized cells for advanced nodes](http://dx.doi.org/10.1145/2966986.2967055) 
-     * <a href="/publications/papers/PLACE_ICCAD2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2016_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MrDP/index.html" style="color:#3793ae">releases</a>
+     * <a href="/publications/papers/PLACE_ICCAD2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2016_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MrDP/index.html" style="color:#3793ae">release</a>
      * **Yibo Lin**, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov 7-10, 2016.
             
@@ -284,7 +284,7 @@ Conference Papers
      * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Hangzhou, China, Oct 25-28, 2016.
             
   ### C5. [Triple/quadruple patterning layout decomposition via novel linear programming and iterative rounding](http://dx.doi.org/10.1117/12.2218628) 
-     * <a href="/publications/papers/MPL_SPIE2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/MPL_SPIE2016_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MPLD/index.html" style="color:#3793ae">releases</a> \| **Best Student Paper Award**
+     * <a href="/publications/papers/MPL_SPIE2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/MPL_SPIE2016_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MPLD/index.html" style="color:#3793ae">release</a> \| **Best Student Paper Award**
      * **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan 
      * Proceedings of SPIE, San Jose, CA, Feb 21-25, 2016.
             
@@ -296,12 +296,12 @@ Conference Papers
 * 2015
 
   ### C3. [Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict](http://dl.acm.org/citation.cfm?id=2840875) 
-     * <a href="/publications/papers/DFMP_ICCAD2015_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFMP_ICCAD2015_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html" style="color:#3793ae">releases</a>
+     * <a href="/publications/papers/DFMP_ICCAD2015_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFMP_ICCAD2015_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html" style="color:#3793ae">release</a>
      * **Yibo Lin**, Bei Yu, Biying Xu and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov 2-6, 2015.
             
   ### C2. [High performance dummy fill insertion with coupling and uniformity constraints](http://dl.acm.org/citation.cfm?id=2744769.2744850) 
-     * <a href="/publications/papers/CMP_DAC2015_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/CMP_DAC2015_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/DFI/index.html" style="color:#3793ae">releases</a>
+     * <a href="/publications/papers/CMP_DAC2015_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/CMP_DAC2015_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/DFI/index.html" style="color:#3793ae">release</a>
      * **Yibo Lin**, Bei Yu and David Z. Pan 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 7-11, 2015.
             

@@ -9,6 +9,8 @@
 **Journal Papers**
 
 
+* J16. Ying Chen, **Yibo Lin**, Lisong Dong, Tianyang Gai, Rui Chen, Yajuan Su, Yayi Wei and David Z. Pan, "SoulNet: Ultrafast Optical Source Optimization Utilizing Generative Neural Networks for Advanced Lithography," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2020. (accepted)
+            
 * J15. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
             
 * J14. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019. ([preprint](/publications/papers/HSD_TCAD2019_Chen.pdf){: .share-button-noborder})
@@ -46,11 +48,11 @@
             
 * C34. Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan, "High-Definition Routing Congestion Prediction for Large-Scale FPGAs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. (accepted)
             
-* C33. Wuxi Li, **Yibo Lin** and David Z. Pan, "elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/PLACE_ICCAD2019_Li.pdf){: .share-button-noborder})(accepted)
+* C33. Wuxi Li, **Yibo Lin** and David Z. Pan, "elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/PLACE_ICCAD2019_Li.pdf){: .share-button-noborder})([slides](http://wuxili.net/pdf/ICCAD19_elfPlace_Li_slides.pdf){: .share-button-noborder})(accepted)
             
-* C32. Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Zhu.pdf){: .share-button-noborder})(accepted)
+* C32. Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Zhu.pdf){: .share-button-noborder})([slides](/publications/papers/ANALOG_ICCAD2019_Zhu.slides.pdf){: .share-button-noborder})(accepted)
             
-* C31. Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan, "Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/NAS_ICCAD2019_Gong.pdf){: .share-button-noborder})(accepted)
+* C31. Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan, "Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/NAS_ICCAD2019_Gong.pdf){: .share-button-noborder})([slides](/publications/papers/NAS_ICCAD2019_Gong.slides.pdf){: .share-button-noborder})(accepted)
             
 * C30. Biying Xu, Keren Zhu, Mingjie Liu, **Yibo Lin**, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan, "MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/ANALOG_ICCAD2019_Xu.pdf){: .share-button-noborder})(*Invited Paper*)
             

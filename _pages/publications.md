@@ -28,6 +28,13 @@ Book Chapters
 Journal Papers
 ======
 
+* 2020
+
+  ### J16. SoulNet: Ultrafast Optical Source Optimization Utilizing Generative Neural Networks for Advanced Lithography 
+     * accepted
+     * Ying Chen, **Yibo Lin**, Lisong Dong, Tianyang Gai, Rui Chen, Yajuan Su, Yayi Wei and David Z. Pan 
+     * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2020.
+            
 * 2019
 
   ### J15. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
@@ -131,17 +138,17 @@ Conference Papers
 * 2019
 
   ### C33. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
-     * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| <a href="http://wuxili.net/pdf/ICCAD19_elfPlace_Li_slides.pdf" style="color:#3793ae">slides</a> \| accepted
      * Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
   ### C32. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
-     * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.slides.pdf" style="color:#3793ae">slides</a> \| accepted
      * Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
   ### C31. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
-     * <a href="/publications/papers/NAS_ICCAD2019_Gong.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/NAS_ICCAD2019_Gong.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/NAS_ICCAD2019_Gong.slides.pdf" style="color:#3793ae">slides</a> \| accepted
      * Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             

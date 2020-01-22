@@ -124,12 +124,12 @@ Conference Papers
 * 2020
 
   ### C35. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
-     * accepted
+     * <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
   ### C34. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
-     * accepted
+     * <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             

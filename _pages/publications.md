@@ -28,6 +28,13 @@ Book Chapters
 Journal Papers
 ======
 
+* 2020
+
+  ### J17. ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs 
+     * <a href="/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
+     * **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
+            
 * 2019
 
   ### J16. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 

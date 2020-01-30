@@ -73,6 +73,18 @@ Teaching experience
 * Fall 2014: Graduate Teaching Assistant
   * EE382M: VLSI I
   
+Awards and Honors
+======
+* Best Paper Award & Nomination (x2), DAC 2019
+* Best Paper Award Nomination, ISPD 2019
+* Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
+* Graduate Continuing Fellowship, University of Texas at Austin, 2017
+* Franco Cerrina Memorial Best Student Paper Award, SPIE Advanced Lithography Conference, 2016
+* A. Richard Newton Young Student Fellow, Design Automation Conference (DAC), 2014 
+* National Scholarship, Shanghai Jiao Tong University, 2012 
+* Samsung Scholarship, Shanghai Jiao Tong University, 2011 
+* The Second Prize Scholarship, Shanghai Jiao Tong University, 2010 
+
 Skills
 ======
 * Programming languages
@@ -86,22 +98,6 @@ Skills
   * Cadence Virtuoso 
   * Synopsys Design Compiler
   * Synopsys IC Compiler
-
-Publications
-======
-
-    {% include publications_cv.md %}
-  
-Awards and Honors
-======
-* Best Paper Award, DAC 2019
-* Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
-* Graduate Continuing Fellowship, University of Texas at Austin, 2017
-* Franco Cerrina Memorial Best Student Paper Award, SPIE Advanced Lithography Conference, 2016
-* A. Richard Newton Young Student Fellow, Design Automation Conference (DAC), 2014 
-* National Scholarship, Shanghai Jiao Tong University, 2012 
-* Samsung Scholarship, Shanghai Jiao Tong University, 2011 
-* The Second Prize Scholarship, Shanghai Jiao Tong University, 2010 
 
 Related Courses 
 ======
@@ -127,3 +123,9 @@ Related Courses
   * Prof. Ross Baldick 
 * CS383C: Numerical Analysis: Linear Algebra
   * Prof. Robert van de Geijn 
+
+Publications
+======
+
+    {% include publications_cv.md %}
+  

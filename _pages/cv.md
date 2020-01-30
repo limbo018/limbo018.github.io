@@ -75,7 +75,7 @@ Teaching experience
   
 Awards and Honors
 ======
-* Best Paper Award & Nomination (x2), DAC 2019
+* Best Paper Award (x1) & Nomination (x1), DAC 2019
 * Best Paper Award Nomination, ISPD 2019
 * Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
 * Graduate Continuing Fellowship, University of Texas at Austin, 2017

@@ -131,12 +131,12 @@ Conference Papers
 * 2020
 
   ### C36. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
-     * <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
   ### C35. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
-     * <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf" style="color:#3793ae">preprint</a>
      * Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
@@ -147,22 +147,22 @@ Conference Papers
             
 * 2019
 
-  ### C33. elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs 
-     * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| <a href="http://wuxili.net/pdf/ICCAD19_elfPlace_Li_slides.pdf" style="color:#3793ae">slides</a> \| accepted
+  ### C33. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/ICCAD45719.2019.8942075) 
+     * <a href="/publications/papers/PLACE_ICCAD2019_Li.pdf" style="color:#3793ae">preprint</a> \| <a href="http://wuxili.net/pdf/ICCAD19_elfPlace_Li_slides.pdf" style="color:#3793ae">slides</a>
      * Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C32. GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance 
-     * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.slides.pdf" style="color:#3793ae">slides</a> \| accepted
+  ### C32. [GeniusRoute: A New Analog Routing Paradigm Using Generative Neural Network Guidance](https://doi.org/10.1109/ICCAD45719.2019.8942164) 
+     * <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ANALOG_ICCAD2019_Zhu.slides.pdf" style="color:#3793ae">slides</a>
      * Keren Zhu, Mingjie Liu, **Yibo Lin**, Biying Xu, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C31. Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning 
-     * <a href="/publications/papers/NAS_ICCAD2019_Gong.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/NAS_ICCAD2019_Gong.slides.pdf" style="color:#3793ae">slides</a> \| accepted
+  ### C31. [Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning](https://doi.org/10.1109/ICCAD45719.2019.8942147) 
+     * <a href="/publications/papers/NAS_ICCAD2019_Gong.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/NAS_ICCAD2019_Gong.slides.pdf" style="color:#3793ae">slides</a>
      * Chengyue Gong, Zixuan Jiang, Dilin Wang, **Yibo Lin**, Qiang Liu and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.
             
-  ### C30. MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence 
+  ### C30. [MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence](https://doi.org/10.1109/ICCAD45719.2019.8942060) 
      * <a href="/publications/papers/ANALOG_ICCAD2019_Xu.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Biying Xu, Keren Zhu, Mingjie Liu, **Yibo Lin**, Shaolan Li, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019.

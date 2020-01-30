@@ -75,6 +75,7 @@ Teaching experience
   
 Awards and Honors
 ======
+* Best Paper Award Nomination, ASPDAC 2020
 * Best Paper Award (x1) & Nomination (x1), DAC 2019
 * Best Paper Award Nomination, ISPD 2019
 * Inaugural Best Paper Award, Integration, the VLSI Journal, 2018

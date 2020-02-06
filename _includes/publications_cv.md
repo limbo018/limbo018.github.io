@@ -9,7 +9,7 @@
 **Journal Papers**
 
 
-* J17. **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan, "ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([preprint](/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
+* J17. **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan, "[ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([preprint](/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
             
 * J16. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
             

@@ -146,12 +146,12 @@ Conference Papers
      * IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020.
             
   ### C35. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
-     * <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
+     * <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.slides.pdf" style="color:#3793ae">slides</a> \| *Best Paper Nomination*
      * Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jan 13-16, 2020.
             
   ### C34. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
-     * <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.slides.pdf" style="color:#3793ae">slides</a>
      * Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jan 13-16, 2020.
             
@@ -262,7 +262,7 @@ Conference Papers
 * 2017
 
   ### C13. [Patterning Aware Design Optimization of Selective Etching in N5 and Beyond](https://doi.org/10.1109/ICCD.2017.72) 
-     * <a href="/publications/papers/DFM_ICCD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ICCD2017_Lin.slides.pptx" style="color:#3793ae">slides</a>
+     * <a href="/publications/papers/DFM_ICCD2017_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_ICCD2017_Lin.slides.pdf" style="color:#3793ae">slides</a>
      * **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan 
      * IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017.
             
@@ -304,12 +304,12 @@ Conference Papers
      * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Hangzhou, China, Oct 25-28, 2016.
             
   ### C5. [Triple/quadruple patterning layout decomposition via novel linear programming and iterative rounding](http://dx.doi.org/10.1117/12.2218628) 
-     * <a href="/publications/papers/MPL_SPIE2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/MPL_SPIE2016_Lin.slides.pptx" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MPLD/index.html" style="color:#3793ae">release</a> \| **Best Student Paper Award**
+     * <a href="/publications/papers/MPL_SPIE2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/MPL_SPIE2016_Lin.slides.pdf" style="color:#3793ae">slides</a> \| <a href="http://www.cerc.utexas.edu/utda/download/MPLD/index.html" style="color:#3793ae">release</a> \| **Best Student Paper Award**
      * **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan 
      * Proceedings of SPIE, San Jose, CA, Feb 21-25, 2016.
             
   ### C4. [Stitch aware detailed placement for multiple e-beam lithography](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7428009) 
-     * <a href="/publications/papers/DFMP_ASPDAC2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFMP_ASPDAC2016_Lin.slides.pptx" style="color:#3793ae">slides</a>
+     * <a href="/publications/papers/DFMP_ASPDAC2016_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFMP_ASPDAC2016_Lin.slides.pdf" style="color:#3793ae">slides</a>
      * **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Macau, China, Jan 25-28, 2016.
             

@@ -135,20 +135,25 @@ Conference Papers
 
 * 2020
 
-  ### C36. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
+  ### C37. S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity 
      * <a href="/publications/papers/ANALOG_ASPDAC2020_Liu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
-  ### C35. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
+  ### C36. High-Definition Routing Congestion Prediction for Large-Scale FPGAs 
      * <a href="/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf" style="color:#3793ae">preprint</a>
      * Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
             
-  ### C34. TEMPO: Fast Mask Topography Effect Modeling with Deep Learning 
+  ### C35. TEMPO: Fast Mask Topography Effect Modeling with Deep Learning 
      * accepted
      * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, 2020.
+            
+  ### C34. ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist 
+     * accepted
+     * Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan 
+     * IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020.
             
 * 2019
 

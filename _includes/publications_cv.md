@@ -48,13 +48,13 @@
 **Conference Papers**
 
 
-* C37. Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan, "S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. ([preprint](/publications/papers/ANALOG_ASPDAC2020_Liu.pdf){: .share-button-noborder})(*Best Paper Nomination*)
+* C37. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "TEMPO: Fast Mask Topography Effect Modeling with Deep Learning," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. (accepted)
             
-* C36. Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan, "High-Definition Routing Congestion Prediction for Large-Scale FPGAs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2020. ([preprint](/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf){: .share-button-noborder})
+* C36. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. (accepted)
             
-* C35. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "TEMPO: Fast Mask Topography Effect Modeling with Deep Learning," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, 2020. (accepted)
+* C35. Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan, "S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jan 13-16, 2020. ([preprint](/publications/papers/ANALOG_ASPDAC2020_Liu.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             
-* C34. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. (accepted)
+* C34. Mohamed Baker Alawieh, Wuxi Li, **Yibo Lin**, Love Singhal, Mahesh Iyer and David Z. Pan, "High-Definition Routing Congestion Prediction for Large-Scale FPGAs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jan 13-16, 2020. ([preprint](/publications/papers/FPGA_ASPDAC2020_Alawieh.pdf){: .share-button-noborder})
             
 * C33. Wuxi Li, **Yibo Lin** and David Z. Pan, "[elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/ICCAD45719.2019.8942075)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Westminster, CO, Nov 4-7, 2019. ([preprint](/publications/papers/PLACE_ICCAD2019_Li.pdf){: .share-button-noborder})([slides](http://wuxili.net/pdf/ICCAD19_elfPlace_Li_slides.pdf){: .share-button-noborder})
             

@@ -40,7 +40,7 @@ Journal Papers
      * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
      * IEEE Access, Dec, 2020.
             
-  ### J17. GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks 
+  ### J17. GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks 
      * accepted
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.

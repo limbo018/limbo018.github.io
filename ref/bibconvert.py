@@ -100,18 +100,18 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
 
     # call kernel print functions 
     if header:
-        print header
+        print(header)
     if suffix.lower() == 'web':
-        print """
+        print("""
 = Publications
 
-"""
+""")
         printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
         printJemdoc(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
     elif suffix.lower() == 'jekyll':
-        print """---
+        print("""---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -126,37 +126,37 @@ author_profile: true
 
 <br>
 
-"""
+""")
         printJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
         printJekyll(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
     elif suffix.lower() == 'cv':
-        print """\\begin{rSection}{Publications}
+        print("""\\begin{rSection}{Publications}
 
-"""
+""")
         printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        print """
+        print("""
 \end{rSection}
 
-"""
+""")
     elif suffix.lower() == 'cv_cn': 
-        print """\\begin{rSection}{出版物}
+        print("""\\begin{rSection}{出版物}
 
-"""
+""")
         printCVCN(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        print """
+        print("""
 \end{rSection}
 
-"""
+""")
     elif suffix.lower() == 'cvjekyll':
-        print """
+        print("""
 {% include base_path %}
-"""
+""")
         printCVJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
@@ -171,16 +171,16 @@ author_profile: true
 def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
     if publishType == 'book':
-        print "=== Book Chapters\n"
+        print("=== Book Chapters\n")
         prefix = "B"
     elif publishType == 'journal':
-        print "=== Journal Papers\n"
+        print("=== Journal Papers\n")
         prefix = "J"
     elif publishType == 'phdthesis': 
-        print "=== PhD Thesis\n"
+        print("=== PhD Thesis\n")
         prefix = ""
     else:
-        print "=== Conference Papers\n"
+        print("=== Conference Papers\n")
         prefix = "C"
     # print 
     currentYear = '' 
@@ -188,7 +188,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
     for i, entry in enumerate(entries):
         if not currentYear or currentYear.lower() != entry['year'].lower():
             currentYear = entry['year']
-            print "==== %s\n" % (currentYear)
+            print("==== %s\n" % (currentYear))
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
         if highlightAuthors: # highlight some authors 
@@ -205,34 +205,34 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
-            print """
+            print("""
 - \[%s%d\] %s, 
   "%s", 
   %s, %s, %s, edited by %s. 
   %s
-            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate))
         else:
-            print """
+            print("""
 - \[%s%d\] %s, 
   "%s", 
   %s, %s. 
   %s
-            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
 def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
     if publishType == 'book':
-        print "Book Chapters\n======\n"
+        print("Book Chapters\n======\n")
         prefix = "B"
     elif publishType == 'journal':
-        print "Journal Papers\n======\n"
+        print("Journal Papers\n======\n")
         prefix = "J"
     elif publishType == 'phdthesis':
-        print "PhD Thesis\n======\n"
+        print("PhD Thesis\n======\n")
         prefix = ""
     else:
-        print "Conference Papers\n======\n"
+        print("Conference Papers\n======\n")
         prefix = "C"
     # print 
     currentYear = '' 
@@ -240,7 +240,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
     for i, entry in enumerate(entries):
         if not currentYear or currentYear.lower() != entry['year'].lower():
             currentYear = entry['year']
-            print "* %s\n" % (currentYear)
+            print("* %s\n" % (currentYear))
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
         if highlightAuthors: # highlight some authors 
@@ -272,30 +272,30 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
-            print """\
+            print("""\
   ### %s%d. %s %s
      * %s 
      * %s, %s, %s.
      * Edited by %s. 
-            """ % (prefix, count, title, annotate, author, booktitle, publisher, addressAndDate, editor)
+            """ % (prefix, count, title, annotate, author, booktitle, publisher, addressAndDate, editor))
         else:
-            print """\
+            print("""\
   ### %s%d. %s %s
      * %s 
      * %s, %s.
-            """ % (prefix, count, title, annotate, author, booktitle, addressAndDate)
+            """ % (prefix, count, title, annotate, author, booktitle, addressAndDate))
         count = count-1
 
 def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
     if publishType == 'book':
-        print "**Book Chapters**\n\n"
+        print("**Book Chapters**\n\n")
         prefix = "B"
     elif publishType == 'journal':
-        print "**Journal Papers**\n\n"
+        print("**Journal Papers**\n\n")
         prefix = "J"
     else:
-        print "**Conference Papers**\n\n"
+        print("**Conference Papers**\n\n")
         prefix = "C"
     # print 
     currentYear = '' 
@@ -327,36 +327,36 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, book
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
-            print """\
+            print("""\
 * %s%d. %s, "%s," %s, %s, %s, edited by %s. %s
-            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate))
         else:
-            print """\
+            print("""\
 * %s%d. %s, "%s," %s, %s. %s
-            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
 def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
     if publishType == 'book':
-        print """
+        print("""
 \\textbf{Book Chapters}
-        """
+        """)
         prefix = "B"
     elif publishType == 'journal':
-        print """
+        print("""
 \\textbf{Journal Papers}
-        """
+        """)
         prefix = "J"
     else:
-        print """
+        print("""
 \\textbf{Conference Papers}
-        """
+        """)
         prefix = "C"
-    print """
+    print("""
 \\begin{description}[font=\\normalfont]
 %{{{
-    """
+    """)
 
     # print 
     currentYear = '' 
@@ -379,51 +379,51 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
-            print """
+            print("""
 \item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s, %s, edited by %s.
     %s
 }
-            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate))
         else:
-            print """
+            print("""
 \item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s.
     %s
 }
-            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
-    print """
+    print("""
 %}}}
 \end{description}
-    """
+    """)
 
 def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
     if publishType == 'book':
-        print """
+        print("""
 \\textbf{书籍章节}
-        """
+        """)
         prefix = "B"
     elif publishType == 'journal':
-        print """
+        print("""
 \\textbf{期刊论文}
-        """
+        """)
         prefix = "J"
     else:
-        print """
+        print("""
 \\textbf{会议论文}
-        """
+        """)
         prefix = "C"
-    print """
+    print("""
 \\begin{description}[font=\\normalfont]
 %{{{
-    """
+    """)
 
     # print 
     currentYear = '' 
@@ -446,29 +446,29 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
-            print """
+            print("""
 \item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s, %s, edited by %s.
     %s
 }
-            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate)
+            """ % (prefix, count, author, title, booktitle, publisher, addressAndDate, editor, annotate))
         else:
-            print """
+            print("""
 \item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s.
     %s
 }
-            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate)
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
-    print """
+    print("""
 %}}}
 \end{description}
-    """
+    """)
 
 def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
     prefix = ""
@@ -484,16 +484,16 @@ def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, book
     # print 
     count = len(entries)
     for i, entry in enumerate(entries):
-        print "\\DefMacro{%s}{%s%d}" % (entry['ID'], prefix, count)
+        print("\\DefMacro{%s}{%s%d}" % (entry['ID'], prefix, count))
         count = count-1
 
 def printHelp():
-    print """
+    print("""
 usage: python bibconvert.py --suffix suffix --highlight author1 [--highlight author2] --input 1.bib [--input 2.bib]
 suffix can be 'web' or 'cv'
     'web': jemdoc format for personal webpage 
     'cv': latex format for resume 
-"""
+""")
 
 if __name__ == "__main__":
     suffix = None

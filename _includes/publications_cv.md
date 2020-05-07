@@ -9,9 +9,11 @@
 **Journal Papers**
 
 
-* J18. **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan, "[ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([preprint](/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
+* J19. **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan, "[ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([preprint](/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
             
-* J17. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966)," IEEE Access, Dec, 2020. ([preprint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944){: .share-button-noborder})
+* J18. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966)," IEEE Access, Dec, 2020. ([preprint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944){: .share-button-noborder})
+            
+* J17. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. (accepted)
             
 * J16. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
             

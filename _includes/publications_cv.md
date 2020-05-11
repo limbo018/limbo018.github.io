@@ -52,7 +52,7 @@
 
 * C37. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "TEMPO: Fast Mask Topography Effect Modeling with Deep Learning," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. (accepted)
             
-* C36. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. (accepted)
+* C36. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. ([preprint](/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf){: .share-button-noborder})
             
 * C35. Mingjie Liu, Wuxi Li, Keren Zhu, Biying Xu, **Yibo Lin**, Linxiao Shen, Xiyuan Tang, Nan Sun and David Z. Pan, "S3DET: Detecting System Symmetry Constraints for Analog Circuits with Graph Similarity," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Jan 13-16, 2020. ([preprint](/publications/papers/ANALOG_ASPDAC2020_Liu.pdf){: .share-button-noborder})([slides](/publications/papers/ANALOG_ASPDAC2020_Liu.slides.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

@@ -146,7 +146,7 @@ Conference Papers
      * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020.
             
   ### C36. ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist 
-     * <a href="/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan 
      * IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020.
             

@@ -22,7 +22,7 @@ I am always looking for motivated undergraduate and graduate students with backg
 
 2. GPU/FPGA acceleration. 
 
-I am hiring **posdocs** as well. 
+I am hiring **postdocs** as well. 
 
 News
 ======

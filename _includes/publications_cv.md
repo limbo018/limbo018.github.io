@@ -50,7 +50,7 @@
 **Conference Papers**
 
 
-* C37. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "TEMPO: Fast Mask Topography Effect Modeling with Deep Learning," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. (accepted)(**Best Paper Award**)
+* C37. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "[TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. ([preprint](/publications/papers/DFM_ISPD2020_Ye.pdf){: .share-button-noborder})(**Best Paper Award**)
             
 * C36. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. ([preprint](/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf){: .share-button-noborder})(accepted)
             

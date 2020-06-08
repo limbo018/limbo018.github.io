@@ -27,6 +27,8 @@ I am hiring **postdocs** as well.
 News
 ======
 
+* 06/2020: Our co-authored paper, _TEMPO: Fast Mask Topography Effect Modeling with Deep Learning_, received the **Best Paper Award** at ISPD 2020. Please checkout the [preprint](https://limbo018.github.io/publications/papers/DFM_ISPD2020_Ye.pdf). Cheers!
+
 * 11/2019: Yibo presented _OpenMPL 2.0_ at ASICON 2019. Please checkout the [slides](https://limbo018.github.io/publications/papers/DFM_ASICON2019_Li.slides.pdf) and source code [release](https://github.com/limbo018/OpenMPL). Cheers and thanks to all the co-authors!
 
 * 07/2019: Yibo co-taught the class with Prof. David Z. Pan on _Machine Learning and Its Applications in IC Physical Design_ in the 3rd [IEEE/ACM Physical Design Automation Summer School](http://www.pda2019.com/). Please checkout the [slides](https://limbo018.github.io/publications/tutorials/PDSeasonableSchool_ML4PD.pdf). Thanks to the organizers!

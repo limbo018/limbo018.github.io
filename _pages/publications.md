@@ -140,8 +140,8 @@ Conference Papers
 
 * 2020
 
-  ### C37. TEMPO: Fast Mask Topography Effect Modeling with Deep Learning 
-     * accepted \| **Best Paper Award**
+  ### C37. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 
+     * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020.
             

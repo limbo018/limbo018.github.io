@@ -30,20 +30,25 @@ Journal Papers
 
 * 2020
 
-  ### J19. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531) 
+  ### J20. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531) 
      * <a href="/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
      * **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
             
-  ### J18. [Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966) 
+  ### J19. [Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966) 
      * <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944" style="color:#3793ae">preprint</a>
      * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
      * IEEE Access, Dec, 2020.
             
-  ### J17. [GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks](https://doi.org/10.1109/TCAD.2020.2995338) 
+  ### J18. [GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks](https://doi.org/10.1109/TCAD.2020.2995338) 
      * <a href="/publications/papers/SRAF_TCAD2020_Alawieh.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
+            
+  ### J17. [EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590) 
+     * <a href="https://doi.org/10.1364/OE.394590" style="color:#3793ae">preprint</a>
+     * Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei 
+     * Optics Express, 2020.
             
 * 2019
 

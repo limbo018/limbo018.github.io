@@ -64,6 +64,10 @@ Work experience
 
 Teaching experience
 ======
+
+* Fall 2020
+  * Introduction to Computing 
+
 * Fall 2018: Guest Lecture 
   * EE382M: VLSI CAD & Optimizations 
 
@@ -75,6 +79,7 @@ Teaching experience
   
 Awards and Honors
 ======
+* Best Paper Award, ISPD 2020
 * Best Paper Award Nomination, ASPDAC 2020
 * Best Paper Award (x1) & Nomination (x1), DAC 2019
 * Best Paper Award Nomination, ISPD 2019
@@ -85,6 +90,11 @@ Awards and Honors
 * National Scholarship, Shanghai Jiao Tong University, 2012 
 * Samsung Scholarship, Shanghai Jiao Tong University, 2011 
 * The Second Prize Scholarship, Shanghai Jiao Tong University, 2010 
+
+Services
+======
+* TPC members
+  * ICCAD 2018, ICCAD 2019, ICCD 2019, ISPD 2020, DAC 2020, ICCAD 2020
 
 Skills
 ======

@@ -50,8 +50,8 @@ Journal Papers
      * Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei 
      * Optics Express, 2020.
             
-  ### J17. DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement 
-     * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
+  ### J17. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843) 
+     * <a href="/publications/papers/PLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
      * **Yibo Lin**, Zixuan Jiang, Jiaqi Gu, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
             

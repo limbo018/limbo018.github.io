@@ -155,6 +155,16 @@ Conference Papers
 
 * 2020
 
+  ### C39. Multi-Electrostatics Based Robust VLSI Placement with Region Constraints 
+     * accepted
+     * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
+            
+  ### C38. GPU-Accelerated Static Timing Analysis 
+     * accepted
+     * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
+            
   ### C37. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 
      * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan 

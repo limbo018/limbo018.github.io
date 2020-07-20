@@ -10,35 +10,23 @@ author_profile: true
 Undergraduate Students
 ======
 
-<table style="undefined;table-layout: fixed; width: 600px">
-<colgroup>
-<col style="width: 100px; text-align:right">
-<col style="width: 200px; text-align:left">
-<col style="width: 100px; text-align:right">
-<col style="width: 200px; text-align:left">
-</colgroup>
-  <tr>
-    <th style="padding: 0;"><img src="https://limbo018.github.io/images/profile.png" style="width:100px;" /></th>
-    <th><a href="">Xiaohan Gao</a><br>Since Jul. 2019</th>
-    <th style="padding: 0;"><img src="https://limbo018.github.io/images/students/KunpengJiang.jpg" style="width:100px;" /></th>
-    <th><a href="">Kunpeng Jiang</a><br>Since Aug. 2019</th>
-  </tr>
-</table>
+|--------------------|--------------------------------------|--------------------------------------|
+| Xiaohan Gao        | Since Jul. 2019                      | BS @ Yuanpei, PKU                    |
+|--------------------|--------------------------------------|--------------------------------------|
+| Jing Mai           | Since Jun. 2020                      | BS @ EECS, PKU                       |
+|--------------------|--------------------------------------|--------------------------------------|
 
-Visiting Students
+Alumni
 ======
 
-<table style="undefined;table-layout: fixed; width: 600px">
-<colgroup>
-<col style="width: 100px; text-align:right">
-<col style="width: 200px; text-align:left">
-<col style="width: 100px; text-align:right">
-<col style="width: 200px; text-align:left">
-</colgroup>
-  <tr>
-    <th style="padding: 0;"><img src="https://limbo018.github.io/images/students/HaoyuYang.jpg" style="width:100px;" /></th>
-    <th><a href="https://phdyang007.github.io/">Haoyu Yang</a><br>PhD candidate, CUHK<br>Jul. 2019 - Oct. 2019</th>
-    <th style="padding: 0;"><img src="https://limbo018.github.io/images/students/PeiyuLiao.jpg" style="width:100px;" /></th>
-    <th><a href="https://enzoleo.github.io/">Peiyu Liao</a><br>PRg, CUHK<br>Sep. 2019 - Oct. 2019</th>
-  </tr>
-</table>
+(Including visiting students)
+
+|--------------------|--------------------------------------|--------------------------------------|
+| Research Assistant | Period                               | Affiliation                          |
+|--------------------|--------------------------------------|--------------------------------------|
+| Haoyu Yang         | Jul. - Oct. 2019                     | PhD @ CUHK                           |
+|--------------------|--------------------------------------|--------------------------------------|
+| Peiyu Liao         | Sep. - Oct. 2019                     | PhD @ CUHK                           |
+|--------------------|--------------------------------------|--------------------------------------|
+| Kunpeng Jiang      | Fall 2019                            | BS @ EECS, PKU                       |
+|--------------------|--------------------------------------|--------------------------------------|

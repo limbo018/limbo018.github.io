@@ -160,7 +160,7 @@ Conference Papers
 
 * 2020
 
-  ### C40. Multi-Electrostatics Based Robust VLSI Placement with Region Constraints 
+  ### C40. DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints 
      * accepted
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.

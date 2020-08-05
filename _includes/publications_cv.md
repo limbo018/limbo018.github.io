@@ -58,7 +58,7 @@
 **Conference Papers**
 
 
-* C40. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "Multi-Electrostatics Based Robust VLSI Placement with Region Constraints," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
+* C40. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
             
 * C39. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "GPU-Accelerated Static Timing Analysis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
             

@@ -58,13 +58,15 @@
 **Conference Papers**
 
 
-* C40. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
+* C41. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
             
-* C39. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "GPU-Accelerated Static Timing Analysis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
+* C40. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "GPU-Accelerated Static Timing Analysis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
             
-* C38. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "[TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. ([preprint](/publications/papers/DFM_ISPD2020_Ye.pdf){: .share-button-noborder})(**Best Paper Award**)
+* C39. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "[TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. ([preprint](/publications/papers/DFM_ISPD2020_Ye.pdf){: .share-button-noborder})(**Best Paper Award**)
             
-* C37. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "Adaptive Layout Decomposition with Graph Embedding Neural Networks," ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020. (accepted)
+* C38. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "Adaptive Layout Decomposition with Graph Embedding Neural Networks," ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020. (accepted)
+            
+* C37. **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany, "DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs," China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020. ([preprint](/publications/papers/PLACE_CSTIC2020_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C36. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. ([preprint](/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf){: .share-button-noborder})(accepted)
             

@@ -58,6 +58,8 @@
 **Conference Papers**
 
 
+* C42. Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin**, "Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021. (accepted)
+            
 * C41. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)
             
 * C40. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "GPU-Accelerated Static Timing Analysis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. (accepted)

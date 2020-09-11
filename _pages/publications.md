@@ -158,6 +158,13 @@ Journal Papers
 Conference Papers
 ======
 
+* 2021
+
+  ### C42. Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks 
+     * accepted
+     * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
+            
 * 2020
 
   ### C41. DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints 

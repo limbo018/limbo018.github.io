@@ -25,7 +25,7 @@
             
 * J18. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
             
-* J17. Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan, "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)," IEEE Design \& Test, Sep, 2020. (accepted)
+* J17. Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan, "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)," IEEE Design & Test, Sep, 2020. (accepted)
             
 * J16. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
             

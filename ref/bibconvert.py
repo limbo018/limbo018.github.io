@@ -196,6 +196,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
                 author = author.replace(highlightAuthor, "*"+highlightAuthor+"*")
         title = entry['title'].replace("/", "\\/").replace("{", "").replace("}", "")
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = booktitle.replace("\\", "")
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotateweb'] if 'annotateweb' in entry else ""
@@ -204,7 +205,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         addressAndDate = getAddressAndDate(entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
-            publisher = entry['publisher'].replace("\\", "")
+            publisher = entry['publisher']
             print("""
 - \[%s%d\] %s, 
   "%s", 
@@ -249,6 +250,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         title = entry['title'].replace("{", "").replace("}", "")
         htmltitle = title
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = booktitle.replace("\\", "")
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotateweb'] if 'annotateweb' in entry else ""
@@ -271,7 +273,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         addressAndDate = getAddressAndDate(entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
-            publisher = entry['publisher'].replace("\\", "")
+            publisher = entry['publisher']
             print("""\
   ### %s%d. %s %s
      * %s 
@@ -310,6 +312,7 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, book
                 author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
         title = entry['title'].replace("{", "").replace("}", "")
         booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = booktitle.replace("\\", "")
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotateweb'] if 'annotateweb' in entry else ""

@@ -35,20 +35,20 @@ Journal Papers
      * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
      * IEEE Access, Dec, 2020.
             
-  ### J24. [Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571) 
-     * accepted
-     * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
-     * IEEE Electron Device Letters (EDL), 2020.
-            
-  ### J23. Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale 
+  ### J24. Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale 
      * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a> \| accepted
      * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
             
-  ### J22. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
+  ### J23. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
      * accepted
      * Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan 
      * IEEE Design & Test, Sep, 2020.
+            
+  ### J22. [Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571) 
+     * accepted
+     * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
+     * IEEE Electron Device Letters (EDL), Aug, 2020.
             
   ### J21. [EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590) 
      * <a href="https://doi.org/10.1364/OE.394590" style="color:#3793ae">preprint</a>

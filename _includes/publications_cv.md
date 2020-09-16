@@ -11,11 +11,11 @@
 
 * J25. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966)," IEEE Access, Dec, 2020. ([preprint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944){: .share-button-noborder})
             
-* J24. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571)," IEEE Electron Device Letters (EDL), 2020. (accepted)
+* J24. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
             
-* J23. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
+* J23. Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan, "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)," IEEE Design & Test, Sep, 2020. (accepted)
             
-* J22. Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan, "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)," IEEE Design & Test, Sep, 2020. (accepted)
+* J22. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571)," IEEE Electron Device Letters (EDL), Aug, 2020. (accepted)
             
 * J21. Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei, "[EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590)," Optics Express, Jun, 2020. ([preprint](https://doi.org/10.1364/OE.394590){: .share-button-noborder})
             

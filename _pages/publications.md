@@ -77,25 +77,25 @@ Journal Papers
             
 * 2019
 
-  ### J16. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
-     * <a href="/publications/papers/HSD_JM32019_Chen.pdf" style="color:#3793ae">preprint</a>
-     * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
-     * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), 2019.
-            
-  ### J15. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
-     * <a href="/publications/papers/HSD_TCAD2019_Chen.pdf" style="color:#3793ae">preprint</a>
-     * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019.
-            
-  ### J14. [SoulNet: Ultrafast Optical Source Optimization Utilizing Generative Neural Networks for Advanced Lithography](https://dx.doi.org/10.1117/1.JMM.18.4.043506) 
+  ### J16. [SoulNet: Ultrafast Optical Source Optimization Utilizing Generative Neural Networks for Advanced Lithography](https://dx.doi.org/10.1117/1.JMM.18.4.043506) 
      * <a href="/publications/papers/SMO_JM32020_Chen.pdf" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Lisong Dong, Tianyang Gai, Rui Chen, Yajuan Su, Yayi Wei and David Z. Pan 
      * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Nov, 2019.
             
-  ### J13. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
+  ### J15. [Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251) 
      * <a href="https://arxiv.org/pdf/1807.03257.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf" style="color:#3793ae">poster</a>
      * **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2019.
+            
+  ### J14. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948) 
+     * <a href="/publications/papers/HSD_TCAD2019_Chen.pdf" style="color:#3793ae">preprint</a>
+     * Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Apr, 2019.
+            
+  ### J13. [Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507) 
+     * <a href="/publications/papers/HSD_JM32019_Chen.pdf" style="color:#3793ae">preprint</a>
+     * Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan 
+     * Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Mar, 2019.
             
 * 2018
 
@@ -156,7 +156,7 @@ Journal Papers
   ### J2. [Design for manufacturability and reliability in extreme-scaling VLSI](http://link.springer.com/article/10.1007%2Fs11432-016-5560-6) 
      * <a href="/publications/papers/DFM_SCIS2016_Yu.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Bei Yu, Xiaoqing Xu, Subhendu Roy, **Yibo Lin**, Jiaojiao Ou and David Z. Pan 
-     * Science China Information Sciences, 2016.
+     * Science China Information Sciences, May, 2016.
             
 * 2015
 

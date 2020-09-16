@@ -204,7 +204,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         addressAndDate = getAddressAndDate(entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
-            publisher = entry['publisher']
+            publisher = entry['publisher'].replace("\\", "")
             print("""
 - \[%s%d\] %s, 
   "%s", 
@@ -271,7 +271,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         addressAndDate = getAddressAndDate(entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
-            publisher = entry['publisher']
+            publisher = entry['publisher'].replace("\\", "")
             print("""\
   ### %s%d. %s %s
      * %s 

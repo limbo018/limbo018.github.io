@@ -73,7 +73,7 @@ Journal Papers
   ### J17. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
      * accepted
      * Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan 
-     * IEEE Design \& Test, 2020.
+     * IEEE Design \& Test, Sep, 2020.
             
 * 2019
 

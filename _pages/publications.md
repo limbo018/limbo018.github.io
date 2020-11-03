@@ -177,13 +177,13 @@ Conference Papers
             
 * 2020
 
-  ### C41. DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints 
-     * accepted
+  ### C41. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
+     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C40. GPU-Accelerated Static Timing Analysis 
-     * accepted
+  ### C40. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
+     * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             

@@ -62,11 +62,13 @@
 **Conference Papers**
 
 
-* C42. Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin**, "Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021. (accepted)
+* C43. Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin**, "Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021. (accepted)
             
-* C41. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "[DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/PLACE_ICCAD2020_Gu.pdf){: .share-button-noborder})(accepted)
+* C42. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "[DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/PLACE_ICCAD2020_Gu.pdf){: .share-button-noborder})(accepted)
             
-* C40. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/TIMER_ICCAD2020_Guo.pdf){: .share-button-noborder})(accepted)
+* C41. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/TIMER_ICCAD2020_Guo.pdf){: .share-button-noborder})(accepted)
+            
+* C40. **Yibo Lin**, "[GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/GPUCAD_ICCAD2020_Lin.pdf){: .share-button-noborder})(*Invited Tutorial*)
             
 * C39. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "[TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. ([preprint](/publications/papers/DFM_ISPD2020_Ye.pdf){: .share-button-noborder})(**Best Paper Award**)
             

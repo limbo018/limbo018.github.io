@@ -170,21 +170,26 @@ Conference Papers
 
 * 2021
 
-  ### C42. Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks 
+  ### C43. Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks 
      * accepted
      * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
 * 2020
 
-  ### C41. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
+  ### C42. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
      * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C40. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
+  ### C41. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
      * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
+            
+  ### C40. [GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765) 
+     * <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Tutorial*
+     * **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
   ### C39. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 

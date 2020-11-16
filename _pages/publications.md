@@ -170,6 +170,21 @@ Conference Papers
 
 * 2021
 
+  ### C46. Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing 
+     * accepted
+     * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
+            
+  ### C45. Global Placement with Deep Learning-Enabled Explicit Routability Optimization 
+     * accepted
+     * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
+            
+  ### C44. AQFP-Capable Physical Design Automation 
+     * accepted
+     * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
+            
   ### C43. Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks 
      * accepted
      * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 

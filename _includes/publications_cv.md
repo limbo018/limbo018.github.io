@@ -62,6 +62,12 @@
 **Conference Papers**
 
 
+* C46. Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei, "Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
+            
+* C45. Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu, "Global Placement with Deep Learning-Enabled Explicit Routability Optimization," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
+            
+* C44. Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin**, "AQFP-Capable Physical Design Automation," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
+            
 * C43. Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin**, "Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021. (accepted)
             
 * C42. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "[DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/PLACE_ICCAD2020_Gu.pdf){: .share-button-noborder})(accepted)

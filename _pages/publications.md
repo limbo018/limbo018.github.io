@@ -198,17 +198,17 @@ Conference Papers
 * 2020
 
   ### C42. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
-     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a> \| accepted
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
   ### C41. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
-     * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://guozz.cn/publication/gputimericcad-20/slides-gputimer.pdf" style="color:#3793ae">slides</a> \| accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
   ### C40. [GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765) 
-     * <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Tutorial*
+     * <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.slides.pdf" style="color:#3793ae">slides</a> \| *Invited Tutorial*
      * **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             

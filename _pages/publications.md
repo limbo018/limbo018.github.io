@@ -170,24 +170,29 @@ Conference Papers
 
 * 2021
 
-  ### C46. Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing 
+  ### C47. Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing 
      * accepted
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C45. Global Placement with Deep Learning-Enabled Explicit Routability Optimization 
+  ### C46. Global Placement with Deep Learning-Enabled Explicit Routability Optimization 
      * accepted
      * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C44. AQFP-Capable Physical Design Automation 
+  ### C45. AQFP-Capable Physical Design Automation 
      * accepted
      * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C43. Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks 
-     * accepted
+  ### C44. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
+     * <a href="/publications/papers/ANALOG_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
+            
+  ### C43. [Deep Learning for Mask Synthesis and Verification: A Survey](https://doi.org/10.1145/3394885.3431624) 
+     * <a href="/publications/papers/DFM_ASPDAC2021_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
+     * **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
 * 2020

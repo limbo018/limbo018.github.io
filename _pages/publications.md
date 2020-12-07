@@ -30,9 +30,14 @@ Journal Papers
 
 * 2020
 
-  ### J25. Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale 
+  ### J26. Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale 
      * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a> \| accepted
      * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
+            
+  ### J25. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
+     * <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a> \| accepted
+     * Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
             
   ### J24. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 

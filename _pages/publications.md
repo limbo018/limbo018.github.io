@@ -232,7 +232,7 @@ Conference Papers
      * **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany 
      * China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020.
             
-  ### C36. ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist 
+  ### C36. [ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist](https://doi.org/10.1109/HOST45689.2020.9300272) 
      * <a href="/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan 
      * IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020.

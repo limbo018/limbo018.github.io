@@ -28,6 +28,13 @@ Book Chapters
 Journal Papers
 ======
 
+* 2021
+
+  ### J27. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
+     * accepted
+     * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
+            
 * 2020
 
   ### J26. Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale 

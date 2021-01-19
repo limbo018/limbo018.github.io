@@ -183,7 +183,7 @@ Conference Papers
 * 2021
 
   ### C47. Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing 
-     * accepted
+     * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             

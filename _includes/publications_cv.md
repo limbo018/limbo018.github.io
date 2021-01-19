@@ -66,7 +66,7 @@
 **Conference Papers**
 
 
-* C47. Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei, "Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
+* C47. Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei, "Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. ([preprint](/publications/papers/ROUTE_DATE2021_Qu.pdf){: .share-button-noborder})(accepted)
             
 * C46. Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu, "Global Placement with Deep Learning-Enabled Explicit Routability Optimization," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
             

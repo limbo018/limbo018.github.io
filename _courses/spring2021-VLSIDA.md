@@ -12,9 +12,7 @@ This is an undergraduate-level course on electronic design automation (EDA) for 
 {% include base_path %}
 
 | -------- | ----------- | 
-| <img src=https://github.com/limbo018/DREAMPlace/raw/master/images/bigblue4-nofiller_SLD.gif width=250> | <img src=images/sequential.png width=500> |
-
-![DREAMPlace](https://github.com/limbo018/DREAMPlace/raw/master/images/bigblue4-nofiller_SLD.gif)
+| <img src=/images/bigblue4-nofiller_SLD.gif width=250> | ![Sequential circuit](images/sequential.png) |
 
 Course Material (Tentative)
 ======

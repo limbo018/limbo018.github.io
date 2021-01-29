@@ -16,6 +16,12 @@ permalink: /courses/spring2021-VLSICAD
 
 {% include base_path %}
 
+Recommended Prerequisite 
+======
+
+- Data structure and algorithms (数据结构与算法)
+- 本课程对数字逻辑设计和物理相关知识要求很低
+
 Course Material (Tentative)
 ======
 

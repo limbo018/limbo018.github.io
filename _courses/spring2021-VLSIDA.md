@@ -9,10 +9,10 @@ This is an undergraduate-level course on electronic design automation (EDA) for 
 
 本课程将向学生介绍计算机辅助大规模芯片设计的自动化算法（EDA，是现代芯片产业的重要组成部分），包括：逻辑综合、布局布线、时序分析、基于机器学习的自动化算法及硬件加速、可制造性优化、热门课题等等。同时，该课程会辅以实际EDA软件应用项目开发，从而使学生获得近距离设计和应用自动化算法的机会。该课程由本人主讲，并鼓励和指导学生参与国内外EDA竞赛。本课程将采用中英文双语教学，面向对EDA未来发展感兴趣的，具有一定创新精神，对科研学术有一定兴趣的本科学生。本课程的学习对于帮助学生深入理解计算机辅助芯片设计，设计和应用算法/软件解决实际问题，建立全面科学的知识体系，激发学生的求知欲和创新潜能，具有重要的意义。
 
-{% include base_path %}
-
 | -------- | ----------- | 
 | <img src=/images/bigblue4-nofiller_SLD.gif width=250> | ![Sequential circuit](images/sequential.png) |
+
+{% include base_path %}
 
 Course Material (Tentative)
 ======

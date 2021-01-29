@@ -1,5 +1,5 @@
 ---
-title: "Spring2021: Optimization and Machine Learning in VLSI Design Automation (芯片设计自动化与智能优化)"
+title: "Spring2021: 芯片设计自动化与智能优化 (Optimization and Machine Learning in VLSI Design Automation)"
 collection: courses
 type: "Courses"
 permalink: /courses/spring2021-VLSIDA

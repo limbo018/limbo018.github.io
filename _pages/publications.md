@@ -182,18 +182,38 @@ Conference Papers
 
 * 2021
 
+  ### C51. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
+     * accepted
+     * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
+            
+  ### C50. GPU-accelerated Path-based Timing Analysis 
+     * accepted
+     * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
+            
+  ### C49. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
+     * accepted
+     * Zizheng Guo, Jing Mai and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
+            
+  ### C48. Interactive Analog Layout Editing with Instant Placement Legalization 
+     * accepted
+     * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
+            
   ### C47. Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing 
      * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
   ### C46. Global Placement with Deep Learning-Enabled Explicit Routability Optimization 
-     * accepted
+     * <a href="/publications/papers/PLACE_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
   ### C45. AQFP-Capable Physical Design Automation 
-     * accepted
+     * <a href="/publications/papers/QUANTUM_DATE2021_Li.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             

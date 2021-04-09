@@ -66,11 +66,19 @@
 **Conference Papers**
 
 
+* C51. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+            
+* C50. Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong, "GPU-accelerated Path-based Timing Analysis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+            
+* C49. Zizheng Guo, Jing Mai and **Yibo Lin**, "Ultrafast CPU/GPU Kernels for Density Accumulation in Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+            
+* C48. Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin**, "Interactive Analog Layout Editing with Instant Placement Legalization," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+            
 * C47. Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei, "Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. ([preprint](/publications/papers/ROUTE_DATE2021_Qu.pdf){: .share-button-noborder})(accepted)
             
-* C46. Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu, "Global Placement with Deep Learning-Enabled Explicit Routability Optimization," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
+* C46. Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu, "Global Placement with Deep Learning-Enabled Explicit Routability Optimization," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. ([preprint](/publications/papers/PLACE_DATE2021_Liu.pdf){: .share-button-noborder})(accepted)
             
-* C45. Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin**, "AQFP-Capable Physical Design Automation," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. (accepted)
+* C45. Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin**, "AQFP-Capable Physical Design Automation," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. ([preprint](/publications/papers/QUANTUM_DATE2021_Li.pdf){: .share-button-noborder})(accepted)
             
 * C44. Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin**, "[Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021. ([preprint](/publications/papers/ANALOG_ASPDAC2021_Gao.pdf){: .share-button-noborder})(accepted)
             

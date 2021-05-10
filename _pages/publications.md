@@ -218,7 +218,7 @@ Conference Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
   ### C44. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
-     * <a href="/publications/papers/ANALOG_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/ANALOG_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
@@ -230,12 +230,12 @@ Conference Papers
 * 2020
 
   ### C42. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
-     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a> \| accepted
+     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a>
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
   ### C41. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
-     * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://guozz.cn/publication/gputimericcad-20/slides-gputimer.pdf" style="color:#3793ae">slides</a> \| accepted
+     * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://guozz.cn/publication/gputimericcad-20/slides-gputimer.pdf" style="color:#3793ae">slides</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
@@ -249,8 +249,8 @@ Conference Papers
      * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020.
             
-  ### C38. Adaptive Layout Decomposition with Graph Embedding Neural Networks 
-     * accepted
+  ### C38. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706) 
+     * <a href="http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector.pdf" style="color:#3793ae">preprint</a> \| http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector-slides.pdf slides
      * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020.
             
@@ -260,7 +260,7 @@ Conference Papers
      * China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020.
             
   ### C36. [ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist](https://doi.org/10.1109/HOST45689.2020.9300272) 
-     * <a href="/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf" style="color:#3793ae">preprint</a>
      * Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan 
      * IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020.
             

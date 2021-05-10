@@ -92,7 +92,7 @@
             
 * C39. Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan, "[TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565)," ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020. ([preprint](/publications/papers/DFM_ISPD2020_Ye.pdf){: .share-button-noborder})(**Best Paper Award**)
             
-* C38. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "[Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706)," ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020. ([preprint](http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector.pdf){: .share-button-noborder})(http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector-slides.pdf slides)
+* C38. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "[Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706)," ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020. ([preprint](http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector.pdf){: .share-button-noborder})([slides](http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector-slides.pdf){: .share-button-noborder})
             
 * C37. **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany, "DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs," China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020. ([preprint](/publications/papers/PLACE_CSTIC2020_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             

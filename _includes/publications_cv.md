@@ -11,7 +11,7 @@
 
 * J27. Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan, "[elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
-* J26. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
+* J26. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "[Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
             
 * J25. Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan, "[OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})(accepted)
             

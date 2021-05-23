@@ -37,7 +37,7 @@ Journal Papers
             
 * 2020
 
-  ### J26. Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale 
+  ### J26. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507) 
      * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a> \| accepted
      * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.

@@ -183,22 +183,22 @@ Conference Papers
 * 2021
 
   ### C51. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
-     * accepted
+     * <a href="/publications/papers/TIMER_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
   ### C50. GPU-accelerated Path-based Timing Analysis 
-     * accepted
+     * <a href="/publications/papers/TIMER_TopK_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
   ### C49. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Jing Mai and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
   ### C48. Interactive Analog Layout Editing with Instant Placement Legalization 
-     * accepted
+     * <a href="/publications/papers/ANALOG_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             

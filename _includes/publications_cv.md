@@ -66,13 +66,13 @@
 **Conference Papers**
 
 
-* C51. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+* C51. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. ([preprint](/publications/papers/TIMER_DAC2021_Guo.pdf){: .share-button-noborder})(accepted)
             
-* C50. Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong, "GPU-accelerated Path-based Timing Analysis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+* C50. Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong, "GPU-accelerated Path-based Timing Analysis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. ([preprint](/publications/papers/TIMER_TopK_DAC2021_Guo.pdf){: .share-button-noborder})(accepted)
             
-* C49. Zizheng Guo, Jing Mai and **Yibo Lin**, "Ultrafast CPU/GPU Kernels for Density Accumulation in Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+* C49. Zizheng Guo, Jing Mai and **Yibo Lin**, "Ultrafast CPU/GPU Kernels for Density Accumulation in Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. ([preprint](/publications/papers/PLACE_DAC2021_Guo.pdf){: .share-button-noborder})(accepted)
             
-* C48. Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin**, "Interactive Analog Layout Editing with Instant Placement Legalization," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. (accepted)
+* C48. Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin**, "Interactive Analog Layout Editing with Instant Placement Legalization," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. ([preprint](/publications/papers/ANALOG_DAC2021_Gao.pdf){: .share-button-noborder})(accepted)
             
 * C47. Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei, "Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. ([preprint](/publications/papers/ROUTE_DATE2021_Qu.pdf){: .share-button-noborder})(accepted)
             

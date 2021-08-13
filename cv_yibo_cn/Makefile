@@ -1,5 +1,5 @@
 all:
-	python2 ../ref/bibconvert.py --suffix cv_cn --highlight "Yibo Lin" --highlight "Lin, Yibo" --input ../ref/Top.bib --input ../ref/publications.bib > doc/publication.tex
+	python3 ../ref/bibconvert.py --suffix cv_cn --highlight "Yibo Lin" --highlight "Lin, Yibo" --input ../ref/Top.bib --input ../ref/publications.bib > doc/publication.tex
 	xelatex cv_yibo.tex
 
 clean:

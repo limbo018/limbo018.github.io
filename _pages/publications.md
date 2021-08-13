@@ -30,10 +30,15 @@ Journal Papers
 
 * 2021
 
-  ### J27. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
+  ### J28. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
      * accepted
      * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
+            
+  ### J27. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
+     * <a href="https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a> \| accepted
+     * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
+     * IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021.
             
 * 2020
 

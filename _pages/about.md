@@ -24,6 +24,8 @@ I am always looking for motivated undergraduate and graduate students with backg
 
 **Opening positions available**: Ph.D., Post Doc, Engineer, Interns. 
 
+招收2022年入学的申请考核制博士生（普博，硕士起点），欢迎申请！
+
 News
 ======
 

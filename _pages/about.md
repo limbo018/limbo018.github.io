@@ -29,6 +29,8 @@ I am always looking for motivated undergraduate and graduate students with backg
 News
 ======
 
+* 08/2021: DREAMPlace 3.0 has been released on Github. Please checkout the source code [release](https://github.com/limbo018/DREAMPlace). Cheers!
+
 * 06/2020: Our co-authored paper, _TEMPO: Fast Mask Topography Effect Modeling with Deep Learning_, received the **Best Paper Award** at ISPD 2020. Please checkout the [preprint](https://limbo018.github.io/publications/papers/DFM_ISPD2020_Ye.pdf). Cheers!
 
 * 11/2019: Yibo presented _OpenMPL 2.0_ at ASICON 2019. Please checkout the [slides](https://limbo018.github.io/publications/papers/DFM_ASICON2019_Li.slides.pdf) and source code [release](https://github.com/limbo018/OpenMPL). Cheers and thanks to all the co-authors!

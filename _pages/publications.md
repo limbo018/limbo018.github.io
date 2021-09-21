@@ -187,52 +187,52 @@ Conference Papers
 
 * 2022
 
-  ### C56. Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network 
-     * accepted
-     * Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei 
-     * Proceedings of SPIE, San Jose, CA, Feb 27, 2022.
-            
-  ### C55. FPGA-Accelerated Maze Routing Kernel for VLSI Designs 
+  ### C56. FPGA-Accelerated Maze Routing Kernel for VLSI Designs 
      * accepted
      * Xun Jiang, **Yibo Lin** and Zhongfeng Wang 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
             
-  ### C54. Efficient Critical Paths Search Algorithm using Mergeable Heap 
+  ### C55. Efficient Critical Paths Search Algorithm using Mergeable Heap 
      * accepted
      * Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
             
 * 2021
 
-  ### C53. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
+  ### C54. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
      * <a href="/publications/papers/TIMER_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C52. GPU-accelerated Path-based Timing Analysis 
+  ### C53. GPU-accelerated Path-based Timing Analysis 
      * <a href="/publications/papers/TIMER_TopK_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C51. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
+  ### C52. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
      * <a href="/publications/papers/PLACE_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Jing Mai and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C50. Interactive Analog Layout Editing with Instant Placement Legalization 
+  ### C51. Interactive Analog Layout Editing with Instant Placement Legalization 
      * <a href="/publications/papers/ANALOG_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C49. HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism 
+  ### C50. HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism 
      * accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
             
-  ### C48. GPU-accelerated Critical Path Generation with Path Constraints 
+  ### C49. GPU-accelerated Critical Path Generation with Path Constraints 
      * accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
+            
+  ### C48. Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network 
+     * accepted
+     * Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei 
+     * Proceedings of SPIE, San Jose, CA, Sep 27, 2021.
             
   ### C47. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
      * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a>

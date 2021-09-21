@@ -185,40 +185,67 @@ Journal Papers
 Conference Papers
 ======
 
+* 2022
+
+  ### C56. Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network 
+     * accepted
+     * Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei 
+     * Proceedings of SPIE, San Jose, CA, Feb 27, 2022.
+            
+  ### C55. FPGA-Accelerated Maze Routing Kernel for VLSI Designs 
+     * accepted
+     * Xun Jiang, **Yibo Lin** and Zhongfeng Wang 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
+            
+  ### C54. Efficient Critical Paths Search Algorithm using Mergeable Heap 
+     * accepted
+     * Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
+            
 * 2021
 
-  ### C51. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
+  ### C53. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
      * <a href="/publications/papers/TIMER_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C50. GPU-accelerated Path-based Timing Analysis 
+  ### C52. GPU-accelerated Path-based Timing Analysis 
      * <a href="/publications/papers/TIMER_TopK_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C49. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
+  ### C51. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
      * <a href="/publications/papers/PLACE_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zizheng Guo, Jing Mai and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C48. Interactive Analog Layout Editing with Instant Placement Legalization 
+  ### C50. Interactive Analog Layout Editing with Instant Placement Legalization 
      * <a href="/publications/papers/ANALOG_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C47. Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing 
-     * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C49. HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism 
+     * accepted
+     * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
+            
+  ### C48. GPU-accelerated Critical Path Generation with Path Constraints 
+     * accepted
+     * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
+            
+  ### C47. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
+     * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a>
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C46. Global Placement with Deep Learning-Enabled Explicit Routability Optimization 
-     * <a href="/publications/papers/PLACE_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C46. [Global Placement with Deep Learning-Enabled Explicit Routability Optimization](https://doi.org/10.23919/DATE51398.2021.9473959) 
+     * <a href="/publications/papers/PLACE_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C45. AQFP-Capable Physical Design Automation 
-     * <a href="/publications/papers/QUANTUM_DATE2021_Li.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C45. [Towards AQFP-Capable Physical Design Automation](https://doi.org/10.23919/DATE51398.2021.9474259) 
+     * <a href="/publications/papers/QUANTUM_DATE2021_Li.pdf" style="color:#3793ae">preprint</a>
      * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
             

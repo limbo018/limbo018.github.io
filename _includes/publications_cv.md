@@ -9,9 +9,11 @@
 **Journal Papers**
 
 
-* J28. Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan, "[elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
+* J29. Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan, "[elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
-* J27. Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin**, "[Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255)," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021. ([preprint](https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf){: .share-button-noborder})([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
+* J28. Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin**, "[Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255)," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021. ([preprint](https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf){: .share-button-noborder})([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
+            
+* J27. **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
 * J26. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "[Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})(accepted)
             

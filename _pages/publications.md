@@ -35,27 +35,27 @@ Journal Papers
      * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
             
-  ### J28. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
-     * <a href="https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a> \| accepted
-     * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
-     * IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021.
-            
-  ### J27. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
+  ### J28. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
      * accepted
      * **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
             
+  ### J27. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
+     * <a href="https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
+     * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
+     * IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021.
+            
 * 2020
 
-  ### J26. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507) 
-     * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a> \| accepted
-     * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
-            
-  ### J25. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
+  ### J26. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
      * <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a> \| accepted
      * Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
+            
+  ### J25. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507) 
+     * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
+     * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2020.
             
   ### J24. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
      * accepted

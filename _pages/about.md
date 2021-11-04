@@ -29,7 +29,7 @@ I am always looking for motivated undergraduate and graduate students with backg
 News
 ======
 
-* 11/2021: Congratulations to Zizheng Guo for winning the **Gold Medal** at the [2021 ACM/SIGDA Student Research Competition](https://www.sigda.org/sigda-events/src/) (Undergraduate Category)! 
+* 11/2021: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **Gold Medal** at the [2021 ACM/SIGDA Student Research Competition](https://www.sigda.org/sigda-events/src/) (Undergraduate Category)! 
 
 * 10/2021: Our journal paper, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Best Paper Award** at TCAD 2021. Please checkout the [preprint](https://limbo018.github.io/publications/papers/PLACE_TCAD2020_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers and thanks to all the co-authors!
 

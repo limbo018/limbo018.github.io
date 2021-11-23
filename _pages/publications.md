@@ -202,6 +202,26 @@ Conference Papers
 
 * 2022
 
+  ### C60. EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis 
+     * <a href="/publications/papers/TIMER_DATE2022_Zhang.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+            
+  ### C59. FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler 
+     * accepted
+     * Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+            
+  ### C58. DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting 
+     * accepted
+     * Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+            
+  ### C57. Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems 
+     * accepted
+     * Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+            
   ### C56. FPGA-Accelerated Maze Routing Kernel for VLSI Designs 
      * accepted
      * Xun Jiang, **Yibo Lin** and Zhongfeng Wang 

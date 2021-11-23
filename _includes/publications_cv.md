@@ -74,6 +74,14 @@
 **Conference Papers**
 
 
+* C60. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/TIMER_DATE2022_Zhang.pdf){: .share-button-noborder})(accepted)
+            
+* C59. Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
+            
+* C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
+            
+* C57. Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu, "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
+            
 * C56. Xun Jiang, **Yibo Lin** and Zhongfeng Wang, "FPGA-Accelerated Maze Routing Kernel for VLSI Designs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. (accepted)
             
 * C55. Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "Efficient Critical Paths Search Algorithm using Mergeable Heap," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. (accepted)

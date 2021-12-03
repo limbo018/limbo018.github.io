@@ -78,7 +78,7 @@
             
 * C59. Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
             
-* C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
+* C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Liao.pdf){: .share-button-noborder})(accepted)
             
 * C57. Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu, "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
             

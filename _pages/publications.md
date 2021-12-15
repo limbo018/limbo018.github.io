@@ -218,7 +218,7 @@ Conference Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C57. Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems 
-     * accepted
+     * <a href="/publications/papers/PLACE_DATE2022_Yang.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             

@@ -80,7 +80,7 @@
             
 * C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Liao.pdf){: .share-button-noborder})(accepted)
             
-* C57. Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu, "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
+* C57. Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu, "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Yang.pdf){: .share-button-noborder})(accepted)
             
 * C56. Xun Jiang, **Yibo Lin** and Zhongfeng Wang, "FPGA-Accelerated Maze Routing Kernel for VLSI Designs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. (accepted)
             

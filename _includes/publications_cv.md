@@ -76,7 +76,7 @@
 
 * C60. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/TIMER_DATE2022_Zhang.pdf){: .share-button-noborder})(accepted)
             
-* C59. Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. (accepted)
+* C59. Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/ROUTE_DATE2022_Liu.pdf){: .share-button-noborder})(accepted)
             
 * C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Liao.pdf){: .share-button-noborder})(accepted)
             

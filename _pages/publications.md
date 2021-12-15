@@ -208,7 +208,7 @@ Conference Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C59. FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler 
-     * accepted
+     * <a href="/publications/papers/ROUTE_DATE2022_Liu.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             

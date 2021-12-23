@@ -234,23 +234,23 @@ Conference Papers
             
 * 2021
 
-  ### C54. A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs 
-     * <a href="/publications/papers/TIMER_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C54. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/DAC18074.2021.9586085) 
+     * <a href="/publications/papers/TIMER_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C53. GPU-accelerated Path-based Timing Analysis 
-     * <a href="/publications/papers/TIMER_TopK_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C53. [GPU-accelerated Path-based Timing Analysis](https://doi.org/10.1109/DAC18074.2021.9586316) 
+     * <a href="/publications/papers/TIMER_TopK_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C52. Ultrafast CPU/GPU Kernels for Density Accumulation in Placement 
-     * <a href="/publications/papers/PLACE_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C52. [Ultrafast CPU/GPU Kernels for Density Accumulation in Placement](https://doi.org/10.1109/DAC18074.2021.9586149) 
+     * <a href="/publications/papers/PLACE_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Jing Mai and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C51. Interactive Analog Layout Editing with Instant Placement Legalization 
-     * <a href="/publications/papers/ANALOG_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a> \| accepted
+  ### C51. [Interactive Analog Layout Editing with Instant Placement Legalization](https://doi.org/10.1109/DAC18074.2021.9586234) 
+     * <a href="/publications/papers/ANALOG_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
@@ -264,8 +264,7 @@ Conference Papers
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
             
-  ### C48. Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network 
-     * accepted
+  ### C48. [Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network](https://doi.org/10.1117/12.2601685) 
      * Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei 
      * Proceedings of SPIE, San Jose, CA, Sep 27, 2021.
             

@@ -96,11 +96,11 @@
             
 * C51. Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin**, "[Interactive Analog Layout Editing with Instant Placement Legalization](https://doi.org/10.1109/DAC18074.2021.9586234)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. ([preprint](/publications/papers/ANALOG_DAC2021_Gao.pdf){: .share-button-noborder})
             
-* C50. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021. (accepted)
+* C50. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism](https://doi.org/10.1109/ICCAD51958.2021.9643457)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021. ([preprint](/publications/papers/TIMER_ICCAD2021_Guo.pdf){: .share-button-noborder})
             
-* C49. Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong, "GPU-accelerated Critical Path Generation with Path Constraints," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021. (accepted)
+* C49. Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong, "[GPU-accelerated Critical Path Generation with Path Constraints](https://doi.org/10.1109/ICCAD51958.2021.9643504)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021. ([preprint](/publications/papers/TIMER_TopK_ICCAD2021_Guo.pdf){: .share-button-noborder})
             
-* C48. Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei, "[Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network](https://doi.org/10.1117/12.2601685)," Proceedings of SPIE, San Jose, CA, Sep 27, 2021. 
+* C48. Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei, "[Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network](https://doi.org/10.1117/12.2601685)," Proceedings of SPIE, San Jose, CA, Sep 27, 2021. ([preprint](/publications/papers/ROUTE_SPIE2021_Qu.pdf){: .share-button-noborder})
             
 * C47. Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007)," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021. ([preprint](/publications/papers/ROUTE_DATE2021_Qu.pdf){: .share-button-noborder})
             

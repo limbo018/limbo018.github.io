@@ -258,17 +258,18 @@ Conference Papers
      * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C50. HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism 
-     * accepted
+  ### C50. [HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism](https://doi.org/10.1109/ICCAD51958.2021.9643457) 
+     * <a href="/publications/papers/TIMER_ICCAD2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
             
-  ### C49. GPU-accelerated Critical Path Generation with Path Constraints 
-     * accepted
+  ### C49. [GPU-accelerated Critical Path Generation with Path Constraints](https://doi.org/10.1109/ICCAD51958.2021.9643504) 
+     * <a href="/publications/papers/TIMER_TopK_ICCAD2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
             
   ### C48. [Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network](https://doi.org/10.1117/12.2601685) 
+     * <a href="/publications/papers/ROUTE_SPIE2021_Qu.pdf" style="color:#3793ae">preprint</a>
      * Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei 
      * Proceedings of SPIE, San Jose, CA, Sep 27, 2021.
             

@@ -30,19 +30,24 @@ Journal Papers
 
 * 2021
 
-  ### J31. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
+  ### J32. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
      * accepted
      * **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
             
-  ### J30. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758) 
+  ### J31. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758) 
      * accepted
      * Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
             
-  ### J29. [MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762) 
+  ### J30. [MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762) 
      * accepted
      * Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
+            
+  ### J29. Adaptive Layout Decomposition with Graph Embedding Neural Networks 
+     * accepted
+     * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
             
   ### J28. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 

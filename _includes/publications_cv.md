@@ -9,11 +9,13 @@
 **Journal Papers**
 
 
-* J31. **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
+* J32. **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
-* J30. Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin**, "[A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
+* J31. Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin**, "[A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
-* J29. Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel, "[MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
+* J30. Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel, "[MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
+            
+* J29. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "Adaptive Layout Decomposition with Graph Embedding Neural Networks," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
 * J28. Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin**, "[Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255)," IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021. ([preprint](https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf){: .share-button-noborder})([release](https://github.com/taskflow/taskflow){: .share-button-noborder})
             

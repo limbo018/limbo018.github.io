@@ -45,7 +45,7 @@ Journal Papers
      * Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
             
-  ### J29. Adaptive Layout Decomposition with Graph Embedding Neural Networks 
+  ### J29. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729) 
      * accepted
      * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.

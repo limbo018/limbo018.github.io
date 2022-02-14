@@ -62,4 +62,10 @@ Reference Material
   -	ISBN-13 : 978-0849372421
   -	Publisher : Auerbach Publications; 1st Edition (November 12, 2008)
 
+Schedule and Classroom
+======
+
+- 1~16周 双周周三5-6节 二教319
+- 1~16周 每周周一5-6节 二教319
+
 [Course Syllabus](/courses/spring2022-VLSICAD/syllabus.pdf){: .share-button}

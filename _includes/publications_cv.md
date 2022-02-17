@@ -76,6 +76,14 @@
 **Conference Papers**
 
 
+* C64. Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin**, "Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+            
+* C63. Zizheng Guo and **Yibo Lin**, "Differentiable Timing Driven Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+            
+* C62. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+            
+* C61. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+            
 * C60. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/TIMER_DATE2022_Zhang.pdf){: .share-button-noborder})(accepted)
             
 * C59. Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/ROUTE_DATE2022_Liu.pdf){: .share-button-noborder})(accepted)

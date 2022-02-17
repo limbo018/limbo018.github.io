@@ -206,6 +206,26 @@ Conference Papers
 
 * 2022
 
+  ### C64. Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility 
+     * accepted
+     * Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
+            
+  ### C63. Differentiable Timing Driven Global Placement 
+     * accepted
+     * Zizheng Guo and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
+            
+  ### C62. A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction 
+     * accepted
+     * Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
+            
+  ### C61. AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS 
+     * accepted
+     * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
+            
   ### C60. EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis 
      * <a href="/publications/papers/TIMER_DATE2022_Zhang.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 

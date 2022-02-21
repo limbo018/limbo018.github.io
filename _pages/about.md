@@ -24,6 +24,11 @@ I am always looking for motivated undergraduate and graduate students with backg
 
 **Opening positions available**: Ph.D., Post Doc, Engineer, Interns. 
 
+Highly-Recommended Resources
+======
+
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 News
 ======
 

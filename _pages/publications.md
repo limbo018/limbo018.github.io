@@ -56,6 +56,7 @@ Journal Papers
      * IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021.
             
   ### J27. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
+     * <a href="/publications/papers/FPGA_TCAD2021_Meng.pdf" style="color:#3793ae">preprint</a>
      * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2021.
             

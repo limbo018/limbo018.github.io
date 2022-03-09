@@ -247,13 +247,13 @@ Conference Papers
      * Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
-  ### C56. FPGA-Accelerated Maze Routing Kernel for VLSI Designs 
-     * accepted
+  ### C56. [FPGA-Accelerated Maze Routing Kernel for VLSI Designs](https://doi.org/10.1109/ASP-DAC52403.2022.9712533) 
+     * <a href="/publications/papers/ROUTE_ASPDAC2022_Jiang.pdf" style="color:#3793ae">preprint</a>
      * Xun Jiang, **Yibo Lin** and Zhongfeng Wang 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
             
-  ### C55. Efficient Critical Paths Search Algorithm using Mergeable Heap 
-     * accepted
+  ### C55. [Efficient Critical Paths Search Algorithm using Mergeable Heap](https://doi.org/10.1109/ASP-DAC52403.2022.9712566) 
+     * <a href="/publications/papers/Timing_ASPDAC2022_Zhou.pdf" style="color:#3793ae">preprint</a>
      * Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
             

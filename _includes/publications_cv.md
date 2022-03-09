@@ -92,9 +92,9 @@
             
 * C57. Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu, "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Yang.pdf){: .share-button-noborder})(accepted)
             
-* C56. Xun Jiang, **Yibo Lin** and Zhongfeng Wang, "FPGA-Accelerated Maze Routing Kernel for VLSI Designs," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. (accepted)
+* C56. Xun Jiang, **Yibo Lin** and Zhongfeng Wang, "[FPGA-Accelerated Maze Routing Kernel for VLSI Designs](https://doi.org/10.1109/ASP-DAC52403.2022.9712533)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. ([preprint](/publications/papers/ROUTE_ASPDAC2022_Jiang.pdf){: .share-button-noborder})
             
-* C55. Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "Efficient Critical Paths Search Algorithm using Mergeable Heap," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. (accepted)
+* C55. Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[Efficient Critical Paths Search Algorithm using Mergeable Heap](https://doi.org/10.1109/ASP-DAC52403.2022.9712566)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022. ([preprint](/publications/papers/Timing_ASPDAC2022_Zhou.pdf){: .share-button-noborder})
             
 * C54. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/DAC18074.2021.9586085)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021. ([preprint](/publications/papers/TIMER_DAC2021_Guo.pdf){: .share-button-noborder})
             

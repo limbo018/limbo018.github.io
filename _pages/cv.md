@@ -25,7 +25,8 @@ Education
 Work experience
 ======
 * Since Summer 2019: Assistant Professor
-  * Center for Energy-efficient Computing and Applications, School of EECS 
+  * Department of Design Automation and Computing System, School of Integrated Circuits (since Nov. 2021) 
+  * Center for Energy-efficient Computing and Applications, School of EECS
   * Peking University
 
 * Summer 2018 to Summer 2019: Postdoctoral Researcher 
@@ -65,8 +66,11 @@ Work experience
 Teaching experience
 ======
 
-* Fall 2020
-  * Introduction to Computing 
+* Spring 2021-2022
+  * 芯片设计自动化与智能优化 (Optimization and Machine Learning in VLSI Design Automation)
+
+* Fall 2020-2021
+  * 计算概论B (Introduction to Computing B)
 
 * Fall 2018: Guest Lecture 
   * EE382M: VLSI CAD & Optimizations 
@@ -79,6 +83,8 @@ Teaching experience
   
 Awards and Honors
 ======
+* Best Paper Award, DATE 2022
+* Donald O. Pederson Best Paper Award, TCAD 2021
 * Best Paper Award, ISPD 2020
 * Best Paper Award Nomination, ASPDAC 2020
 * Best Paper Award (x1) & Nomination (x1), DAC 2019
@@ -93,8 +99,26 @@ Awards and Honors
 
 Services
 ======
-* TPC members
-  * ICCAD 2018, ICCAD 2019, ICCD 2019, ISPD 2020, DAC 2020, ICCAD 2020
+* TPC member
+  * ACM/IEEE DAC: 2020 
+  * IEEE/ACM ICCAD: 2018, 2019, 2020, 2021
+  * IEEE ICCD: 2019
+  * IEEE/ACM ASPDAC: 2021, 2022 
+  * ACM ISPD: 2020 
+  * ACM/IEEE MLCAD: 2021 
+  * SASIMI: 2021
+  * IEEE EDTM: 2021
+  * IEEE AICAS: 2022
+* Journal reviewer
+  * IEEE TCAD
+  * IEEE TOC
+  * ACM TODAES
+  * SPIE JM3
+  * Elsevier Integration
+* Journal editor
+  * ACM TODAES Special Issue on MLCAD, 2022
+* EC member
+  * ACM/IEEE MLCAD 2021, financial chair
 
 Skills
 ======

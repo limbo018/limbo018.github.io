@@ -97,7 +97,7 @@ Awards and Honors
 * Samsung Scholarship, Shanghai Jiao Tong University, 2011 
 * The Second Prize Scholarship, Shanghai Jiao Tong University, 2010 
 
-Services
+Professional Service
 ======
 * TPC member
   * ACM/IEEE DAC: 2020 

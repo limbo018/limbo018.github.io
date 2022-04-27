@@ -207,24 +207,29 @@ Conference Papers
 
 * 2022
 
-  ### C64. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
+  ### C65. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
      * accepted
      * Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C63. [Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486) 
+  ### C64. [Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486) 
      * accepted
      * Zizheng Guo and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C62. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
+  ### C63. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
      * accepted
      * Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C61. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530) 
+  ### C62. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
+            
+  ### C61. LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction 
+     * <a href="https://arxiv.org/pdf/2203.12831.pdf" style="color:#3793ae">preprint</a>accepted
+     * Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, **Yibo Lin**, Guangyong Chen and Pheng Ann Heng 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
   ### C60. EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis 

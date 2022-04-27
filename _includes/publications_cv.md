@@ -76,13 +76,15 @@
 **Conference Papers**
 
 
-* C64. Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+* C65. Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
             
-* C63. Zizheng Guo and **Yibo Lin**, "[Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+* C64. Zizheng Guo and **Yibo Lin**, "[Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
             
-* C62. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "[A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+* C63. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "[A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
             
-* C61. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+* C62. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. (accepted)
+            
+* C61. Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, **Yibo Lin**, Guangyong Chen and Pheng Ann Heng, "LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. [preprint](https://arxiv.org/pdf/2203.12831.pdf){: .share-button-noborder}(accepted)
             
 * C60. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/TIMER_DATE2022_Zhang.pdf){: .share-button-noborder})(accepted)
             

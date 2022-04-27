@@ -207,22 +207,22 @@ Conference Papers
 
 * 2022
 
-  ### C64. Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility 
+  ### C64. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
      * accepted
      * Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C63. Differentiable Timing Driven Global Placement 
+  ### C63. [Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486) 
      * accepted
      * Zizheng Guo and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C62. A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction 
+  ### C62. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
      * accepted
      * Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C61. AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS 
+  ### C61. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.

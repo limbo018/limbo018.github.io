@@ -111,7 +111,7 @@ Professional Service
   * IEEE AICAS: 2022
 * Journal reviewer
   * IEEE TCAD
-  * IEEE TOC
+  * IEEE TC
   * ACM TODAES
   * SPIE JM3
   * Elsevier Integration

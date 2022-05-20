@@ -228,7 +228,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
   ### C61. LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction 
-     * <a href="https://arxiv.org/pdf/2203.12831.pdf" style="color:#3793ae">preprint</a>accepted
+     * <a href="https://arxiv.org/pdf/2203.12831.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, **Yibo Lin**, Guangyong Chen and Pheng Ann Heng 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             

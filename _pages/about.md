@@ -32,6 +32,8 @@ Highly-Recommended Resources
 News
 ======
 
+* 6/2022: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **First Place** at the [2022 ACM Student Research Competition Grand Finals](https://src.acm.org/) (Undergraduate Category)! 
+
 * 11/2021: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **Gold Medal** at the [2021 ACM/SIGDA Student Research Competition](https://www.sigda.org/sigda-events/src/) (Undergraduate Category)! 
 
 * 10/2021: Our journal paper, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Best Paper Award** at TCAD 2021. Please checkout the [preprint](https://limbo018.github.io/publications/papers/PLACE_TCAD2020_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers and thanks to all the co-authors!

@@ -9,6 +9,8 @@
 **Journal Papers**
 
 
+* J33. Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang, "[Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. (accepted)
+            
 * J32. **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)
             
 * J31. Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin**, "[A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021. (accepted)

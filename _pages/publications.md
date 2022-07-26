@@ -28,6 +28,13 @@ Book Chapters
 Journal Papers
 ======
 
+* 2022
+
+  ### J33. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234) 
+     * accepted
+     * Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.
+            
 * 2021
 
   ### J32. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 

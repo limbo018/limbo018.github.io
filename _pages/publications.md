@@ -214,6 +214,16 @@ Conference Papers
 
 * 2022
 
+  ### C67. GPU-Accelerated Rectilinear Steiner Tree Generation 
+     * accepted
+     * Zizheng Guo, Feng Gu and **Yibo Lin** 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
+            
+  ### C66. DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography 
+     * accepted
+     * Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
+            
   ### C65. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
      * accepted
      * Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin** 

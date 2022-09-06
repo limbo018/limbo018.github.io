@@ -32,6 +32,8 @@ Highly-Recommended Resources
 News
 ======
 
+* 8/2022: We are pleased to release an open-source dataset [CircuitNet](https://circuitnet.github.io/) for ML tasks in EDA! You are very welcome to check it out and provide feedbacks. 
+
 * 6/2022: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **First Place** at the [2022 ACM Student Research Competition Grand Finals](https://src.acm.org/) (Undergraduate Category)! 
 
 * 11/2021: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **Gold Medal** at the [2021 ACM/SIGDA Student Research Competition](https://www.sigda.org/sigda-events/src/) (Undergraduate Category)! 

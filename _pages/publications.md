@@ -236,7 +236,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
   ### C63. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
-     * <a href="/publications/papers/Timing_DAC2022_Guo.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/Timing_DAC2022_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/TimingPredict" style="color:#3793ae">release</a>
      * Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             

@@ -88,7 +88,7 @@
             
 * C64. Zizheng Guo and **Yibo Lin**, "[Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/PLACE_DAC2022_Guo.pdf){: .share-button-noborder})
             
-* C63. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "[A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/Timing_DAC2022_Guo.pdf){: .share-button-noborder})
+* C63. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "[A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/Timing_DAC2022_Guo.pdf){: .share-button-noborder})([release](https://github.com/TimingPredict){: .share-button-noborder})
             
 * C62. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/Timing_DAC2022_Zhang.pdf){: .share-button-noborder})
             

@@ -9,6 +9,8 @@
 **Journal Papers**
 
 
+* J34. Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Wei Liu, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8)," SCIENCE CHINA Information Sciences, 2022. ([preprint](https://arxiv.org/pdf/2208.01040){: .share-button-noborder})([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
+            
 * J33. Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang, "[Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022. (accepted)
             
 * J32. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "[Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2022. (accepted)

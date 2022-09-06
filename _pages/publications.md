@@ -30,6 +30,11 @@ Journal Papers
 
 * 2022
 
+  ### J34. [CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8) 
+     * <a href="https://arxiv.org/pdf/2208.01040" style="color:#3793ae">preprint</a> \| <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
+     * Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Wei Liu, Runsheng Wang and Ru Huang 
+     * SCIENCE CHINA Information Sciences, 2022.
+            
   ### J33. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234) 
      * accepted
      * Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 

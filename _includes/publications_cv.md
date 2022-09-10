@@ -80,11 +80,13 @@
 **Conference Papers**
 
 
-* C68. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
+* C69. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
             
-* C67. Zizheng Guo, Feng Gu and **Yibo Lin**, "GPU-Accelerated Rectilinear Steiner Tree Generation," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. (accepted)
+* C68. Zizheng Guo, Feng Gu and **Yibo Lin**, "GPU-Accelerated Rectilinear Steiner Tree Generation," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. (accepted)
             
-* C66. Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang, "DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. (accepted)
+* C67. Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang, "DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. (accepted)
+            
+* C66. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "[Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494)," ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022. (accepted)
             
 * C65. Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/PLACE_DAC2022_Mai.pdf){: .share-button-noborder})
             

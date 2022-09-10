@@ -215,20 +215,25 @@ Conference Papers
 
 * 2022
 
-  ### C68. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
+  ### C69. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
      * <a href="https://arxiv.org/pdf/2202.13564.pdf" style="color:#3793ae">preprint</a>
      * Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin** 
      * arXiv preprint, 2022.
             
-  ### C67. GPU-Accelerated Rectilinear Steiner Tree Generation 
+  ### C68. GPU-Accelerated Rectilinear Steiner Tree Generation 
      * accepted
      * Zizheng Guo, Feng Gu and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
             
-  ### C66. DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography 
+  ### C67. DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography 
      * accepted
      * Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
+            
+  ### C66. [Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494) 
+     * accepted
+     * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
+     * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022.
             
   ### C65. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
      * <a href="/publications/papers/PLACE_DAC2022_Mai.pdf" style="color:#3793ae">preprint</a>

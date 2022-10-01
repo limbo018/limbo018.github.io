@@ -213,6 +213,18 @@ Journal Papers
 Conference Papers
 ======
 
+* 2023
+
+  ### C71. MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy 
+     * accepted
+     * Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin** 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
+            
+  ### C70. A Robust FPGA Router with Concurrent Intra-CLB Rerouting 
+     * accepted
+     * Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
+            
 * 2022
 
   ### C69. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 

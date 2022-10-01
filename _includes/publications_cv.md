@@ -80,6 +80,10 @@
 **Conference Papers**
 
 
+* C71. Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin**, "MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
+            
+* C70. Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "A Robust FPGA Router with Concurrent Intra-CLB Rerouting," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
+            
 * C69. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
             
 * C68. Zizheng Guo, Feng Gu and **Yibo Lin**, "GPU-Accelerated Rectilinear Steiner Tree Generation," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. (accepted)

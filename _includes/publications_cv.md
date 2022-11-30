@@ -92,7 +92,7 @@
             
 * C68. Zizheng Guo, Feng Gu and **Yibo Lin**, "[GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/ROUTING_ICCAD2022_Guo.pdf){: .share-button-noborder})
             
-* C67. Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang, "[DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/DFM_ICCAD2022_Wang.pdf){: .share-button-noborder})(*Best Paper Nomination*)
+* C67. Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang, "[DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/DFM_ICCAD2022_Wang.pdf){: .share-button-noborder})([release](https://github.com/Brilight/DeePEB){: .share-button-noborder})(*Best Paper Nomination*)
             
 * C66. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "[Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494)," ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022. 
             

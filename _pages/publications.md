@@ -248,7 +248,7 @@ Conference Papers
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
             
   ### C67. [DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398) 
-     * <a href="/publications/papers/DFM_ICCAD2022_Wang.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
+     * <a href="/publications/papers/DFM_ICCAD2022_Wang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/Brilight/DeePEB" style="color:#3793ae">release</a> \| *Best Paper Nomination*
      * Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
             

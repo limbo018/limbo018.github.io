@@ -82,17 +82,19 @@
 **Conference Papers**
 
 
-* C72. Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023. (*Best Paper Nomination*)(accepted)
+* C73. Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023. (*Best Paper Nomination*)(accepted)
             
-* C71. Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin**, "MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
+* C72. Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin**, "MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
             
-* C70. Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "A Robust FPGA Router with Concurrent Intra-CLB Rerouting," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
+* C71. Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "A Robust FPGA Router with Concurrent Intra-CLB Rerouting," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
             
-* C69. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
+* C70. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
             
-* C68. Zizheng Guo, Feng Gu and **Yibo Lin**, "[GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/ROUTING_ICCAD2022_Guo.pdf){: .share-button-noborder})
+* C69. Zizheng Guo, Feng Gu and **Yibo Lin**, "[GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/ROUTING_ICCAD2022_Guo.pdf){: .share-button-noborder})
             
-* C67. Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang, "[DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/DFM_ICCAD2022_Wang.pdf){: .share-button-noborder})([release](https://github.com/Brilight/DeePEB){: .share-button-noborder})(*Best Paper Nomination*)
+* C68. Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang, "[DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/DFM_ICCAD2022_Wang.pdf){: .share-button-noborder})([release](https://github.com/Brilight/DeePEB){: .share-button-noborder})(*Best Paper Nomination*)
+            
+* C67. **Yibo Lin**, Xiaohan Gao, Haoyi Zhang, Runsheng Wang and Ru Huang, "[Intelligent and Interactive Analog Layout Design Automation](https://doi.org/10.1109/ICSICT55466.2022.9963217)," IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Nanjing, China, Oct 25-28, 2022. ([preprint](/publications/papers/ANALOG_ICSICT2022_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C66. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "[Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494)," ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022. 
             

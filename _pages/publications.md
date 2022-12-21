@@ -220,37 +220,42 @@ Conference Papers
 
 * 2023
 
-  ### C72. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
+  ### C73. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
      * *Best Paper Nomination* \| accepted
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
-  ### C71. MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy 
+  ### C72. MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy 
      * accepted
      * Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
-  ### C70. A Robust FPGA Router with Concurrent Intra-CLB Rerouting 
+  ### C71. A Robust FPGA Router with Concurrent Intra-CLB Rerouting 
      * accepted
      * Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
 * 2022
 
-  ### C69. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
+  ### C70. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
      * <a href="https://arxiv.org/pdf/2202.13564.pdf" style="color:#3793ae">preprint</a>
      * Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin** 
      * arXiv preprint, 2022.
             
-  ### C68. [GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434) 
+  ### C69. [GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434) 
      * <a href="/publications/papers/ROUTING_ICCAD2022_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Feng Gu and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
             
-  ### C67. [DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398) 
+  ### C68. [DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398) 
      * <a href="/publications/papers/DFM_ICCAD2022_Wang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/Brilight/DeePEB" style="color:#3793ae">release</a> \| *Best Paper Nomination*
      * Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
+            
+  ### C67. [Intelligent and Interactive Analog Layout Design Automation](https://doi.org/10.1109/ICSICT55466.2022.9963217) 
+     * <a href="/publications/papers/ANALOG_ICSICT2022_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
+     * **Yibo Lin**, Xiaohan Gao, Haoyi Zhang, Runsheng Wang and Ru Huang 
+     * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Nanjing, China, Oct 25-28, 2022.
             
   ### C66. [Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494) 
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 

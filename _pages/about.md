@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [School of Integrated Circuits](https://www.ime.pku.edu.cn/) at Peking University associated with the [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/). 
+I am an assistant professor in the [School of Integrated Circuits](https://ic.pku.edu.cn/) at Peking University associated with the [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/). 
 Previously, I worked as a postdoctoral researcher at the University of Texas at Austin from 2018 to 2019. 
 I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin in 2018 advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) 
 and the B.S. degree in Microelectronics from Shanghai Jiaotong University in 2013.

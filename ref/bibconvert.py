@@ -96,6 +96,7 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
         else:
             conferenceEntries.append(entry)
     # sort by years from large to small 
+    bookEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
     journalEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
     conferenceEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
     thesisEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)

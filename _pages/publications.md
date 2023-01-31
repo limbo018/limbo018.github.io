@@ -44,13 +44,17 @@ Journal Papers
 
 * 2023
 
-  ### J36. DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement 
+  ### J37. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
      * accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
 * 2022
 
+  ### J36. [Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123) 
+     * Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022.
+            
   ### J35. [FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
      * accepted
      * Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 

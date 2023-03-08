@@ -245,6 +245,30 @@ Conference Papers
 
 * 2023
 
+  ### C79. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
+     * Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
+  ### C78. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
+     * Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
+  ### C77. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
+     * Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
+  ### C76. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
+     * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
+  ### C75. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
+     * Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
+  ### C74. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
+     * Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
   ### C73. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
      * *Best Paper Nomination* \| accepted
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 

@@ -44,15 +44,24 @@ Journal Papers
 
 * 2023
 
-  ### J38. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
+  ### J40. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
      * accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J37. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
+  ### J39. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
+            
+  ### J38. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
+     * accepted
+     * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
+     * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
+            
+  ### J37. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
+     * **Yibo Lin**, Avi Ziv and Haoxing Ren 
+     * ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023.
             
 * 2022
 
@@ -279,13 +288,13 @@ Conference Papers
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
-  ### C72. MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy 
-     * accepted
+  ### C72. [MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899) 
+     * <a href="/publications/papers/PLACE_ASPDAC2023_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/MacroRank" style="color:#3793ae">release</a>
      * Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
-  ### C71. A Robust FPGA Router with Concurrent Intra-CLB Rerouting 
-     * accepted
+  ### C71. [A Robust FPGA Router with Concurrent Intra-CLB Rerouting](https://doi.org/10.1145/3566097.3567898) 
+     * <a href="/publications/papers/ROUTE_ASPDAC2023_Wang.pdf" style="color:#3793ae">preprint</a>
      * Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
@@ -326,7 +335,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
   ### C63. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
-     * <a href="/publications/papers/Timing_DAC2022_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/TimingPredict" style="color:#3793ae">release</a>
+     * <a href="/publications/papers/Timing_DAC2022_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/TimingPredict" style="color:#3793ae">release</a>
      * Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             

@@ -6,7 +6,7 @@ permalink: /softwares/8-TimingPredict
 date: 2022-07-14
 ---
 
-We present **[TimingPredict](https://github.com/TimingPredict/TimingPredict)**, 
+We present **[TimingPredict](https://github.com/PKU-IDEA/TimingPredict)**, 
 a timing engine inspired graph neural network model for pre-routing slack prediction.
 
 Fast and accurate pre-routing timing prediction is essential for timingdriven placement since repetitive routing and static timing analysis (STA) iterations are expensive and unacceptable. Prior work on timing prediction aims at estimating net delay and slew, lacking the ability to model global timing metrics. In this work, we present a timing engine

@@ -13,9 +13,13 @@
 **Journal Papers**
 
 
-* J38. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+* J40. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
             
-* J37. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+* J39. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+            
+* J38. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023. (accepted)
+            
+* J37. **Yibo Lin**, Avi Ziv and Haoxing Ren, "[Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023. 
             
 * J36. Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang, "[Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123)," IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022. 
             
@@ -106,9 +110,9 @@
             
 * C73. Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023. (*Best Paper Nomination*)(accepted)
             
-* C72. Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin**, "MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
+* C72. Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin**, "[MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. ([preprint](/publications/papers/PLACE_ASPDAC2023_Chen.pdf){: .share-button-noborder})([release](https://github.com/PKU-IDEA/MacroRank){: .share-button-noborder})
             
-* C71. Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "A Robust FPGA Router with Concurrent Intra-CLB Rerouting," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. (accepted)
+* C71. Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "[A Robust FPGA Router with Concurrent Intra-CLB Rerouting](https://doi.org/10.1145/3566097.3567898)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. ([preprint](/publications/papers/ROUTE_ASPDAC2023_Wang.pdf){: .share-button-noborder})
             
 * C70. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
             
@@ -124,7 +128,7 @@
             
 * C64. Zizheng Guo and **Yibo Lin**, "[Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/PLACE_DAC2022_Guo.pdf){: .share-button-noborder})
             
-* C63. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "[A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/Timing_DAC2022_Guo.pdf){: .share-button-noborder})([release](https://github.com/TimingPredict){: .share-button-noborder})
+* C63. Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin**, "[A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/Timing_DAC2022_Guo.pdf){: .share-button-noborder})([release](https://github.com/PKU-IDEA/TimingPredict){: .share-button-noborder})
             
 * C62. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022. ([preprint](/publications/papers/Timing_DAC2022_Zhang.pdf){: .share-button-noborder})
             

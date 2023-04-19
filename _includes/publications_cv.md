@@ -108,7 +108,7 @@
             
 * C74. Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu, "LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
             
-* C73. Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023. (*Best Paper Nomination*)(accepted)
+* C73. Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023. (*Best Paper Award*)(accepted)
             
 * C72. Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin**, "[MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. ([preprint](/publications/papers/PLACE_ASPDAC2023_Chen.pdf){: .share-button-noborder})([release](https://github.com/PKU-IDEA/MacroRank){: .share-button-noborder})
             

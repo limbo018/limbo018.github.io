@@ -284,7 +284,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
   ### C73. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
-     * *Best Paper Nomination* \| accepted
+     * *Best Paper Award* \| accepted
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             

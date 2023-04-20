@@ -83,7 +83,9 @@ Teaching experience
   
 Awards and Honors
 ======
+* Best Paper Award, DATE 2023
 * Best Paper Award, DATE 2022
+* Best Paper Award Nomination, ICCAD 2022
 * Donald O. Pederson Best Paper Award, TCAD 2021
 * Best Paper Award, ISPD 2020
 * Best Paper Award Nomination, ASPDAC 2020

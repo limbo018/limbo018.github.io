@@ -13,11 +13,13 @@
 **Journal Papers**
 
 
-* J40. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+* J41. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
             
-* J39. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+* J40. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
             
-* J38. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023. (accepted)
+* J39. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023. (accepted)
+            
+* J38. Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong, "[A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
             
 * J37. **Yibo Lin**, Avi Ziv and Haoxing Ren, "[Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023. 
             
@@ -96,17 +98,19 @@
 **Conference Papers**
 
 
-* C79. Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang, "General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+* C80. Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang, "General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
             
-* C78. Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+* C79. Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
             
-* C77. Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong, "On a Moreau Envelope Wirelength Model for Analytical Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+* C78. Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong, "On a Moreau Envelope Wirelength Model for Analytical Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
             
-* C76. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+* C77. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
             
-* C75. Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+* C76. Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
             
-* C74. Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu, "LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+* C75. Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu, "LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. 
+            
+* C74. Yuxiang Zhao, Zhuomin Chai, **Yibo Lin**, Runsheng Wang and Ru Huang, "[HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://arxiv.org/pdf/2305.05374.pdf)," IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023. 
             
 * C73. Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023. ([preprint](/publications/papers/ANALOG_DATE2023_Zhang.pdf){: .share-button-noborder})([release](https://github.com/PKU-IDEA/SAGERoute){: .share-button-noborder})(*Best Paper Award*)
             

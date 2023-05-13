@@ -44,20 +44,25 @@ Journal Papers
 
 * 2023
 
-  ### J40. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
+  ### J41. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
      * accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J39. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
+  ### J40. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J38. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
+  ### J39. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
      * accepted
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
+            
+  ### J38. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
+     * accepted
+     * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
   ### J37. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
      * **Yibo Lin**, Avi Ziv and Haoxing Ren 
@@ -259,29 +264,33 @@ Conference Papers
 
 * 2023
 
-  ### C79. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
+  ### C80. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
      * Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C78. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
+  ### C79. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
      * Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C77. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
+  ### C78. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
      * Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C76. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
+  ### C77. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C75. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
+  ### C76. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
      * Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C74. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
+  ### C75. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
      * Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
+            
+  ### C74. [HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://arxiv.org/pdf/2305.05374.pdf) 
+     * Yuxiang Zhao, Zhuomin Chai, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023.
             
   ### C73. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
      * <a href="/publications/papers/ANALOG_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/SAGERoute" style="color:#3793ae">release</a> \| *Best Paper Award*

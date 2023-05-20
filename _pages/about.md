@@ -10,11 +10,11 @@ redirect_from:
 
 I am an assistant professor in the [School of Integrated Circuits](https://ic.pku.edu.cn/) at Peking University associated with the [Center for Energy-efficient Computing and Applications (CECA)](https://ceca.pku.edu.cn/). 
 Previously, I worked as a postdoctoral researcher at the University of Texas at Austin from 2018 to 2019. 
-I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin in 2018 advised by Prof. [David Z. Pan](http://www.ece.utexas.edu/~dpan/) 
+I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin in 2018 
 and the B.S. degree in Microelectronics from Shanghai Jiaotong University in 2013.
-My research interests include physical design, machine learning applications, emerging technology in VLSI CAD, and hardware security. 
+My research interests include VLSI CAD, machine learning applications, heterogeneous computing. 
 I am a recipient of 
-the Best Paper Awards at DAC 2019, Integration, the VLSI Journal 2018, and SPIE Advanced Lithography Conference 2016. 
+the Best Paper Awards at DATE 2023, DATE 2022, TCAD 2021, DAC 2019, Integration, the VLSI Journal 2018, and SPIE Advanced Lithography Conference 2016. 
 
 I am always looking for motivated undergraduate and graduate students with background in computer science, microelectronics, electrical engineering, mathematics, statistics, or related areas, working on research fields of 
 

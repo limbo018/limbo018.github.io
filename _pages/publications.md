@@ -80,7 +80,6 @@ Journal Papers
      * IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022.
             
   ### J35. [FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
-     * accepted
      * Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022.
             

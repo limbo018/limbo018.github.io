@@ -1,8 +1,8 @@
 ---
-title: "Spring2022: 芯片设计自动化与智能优化 (Optimization and Machine Learning in VLSI Design Automation)"
+title: "芯片设计自动化与智能优化 (Optimization and Machine Learning in VLSI Design Automation)"
 collection: courses
 type: "Courses"
-permalink: /courses/spring2022-VLSICAD
+permalink: /courses/VLSICAD
 ---
 
 课号：04834590
@@ -65,7 +65,13 @@ Reference Material
 Schedule and Classroom
 ======
 
-- 1~16周 双周周三5-6节 二教319
-- 1~16周 每周周一5-6节 二教319
+- Fall 2023
+- 1~16周 每周周三3-4节 三教108
+- 1~16周 双周周五1-2节 三教108
 
-[Course Syllabus](/courses/spring2022-VLSICAD/syllabus.pdf){: .share-button}
+Syllabus
+======
+
+- [Fall 2023](/courses/VLSICAD-syllabus-fall2023.pdf){: .share-button}
+- [Spring 2022](/courses/VLSICAD-syllabus-spring2022.pdf){: .share-button}
+- [Spring 2021](/courses/VLSICAD-syllabus-spring2021.pdf){: .share-button}

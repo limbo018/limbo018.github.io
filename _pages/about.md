@@ -32,6 +32,8 @@ Highly-Recommended Resources
 News
 ======
 
+* 3/2023: Our paper, _SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility_, received the **Best Paper Award** at DATE 2023. Please checkout the [preprint](https://yibolin.com/publications/papers/ANALOG_DATE2023_Zhang.pdf) and binary [release](https://github.com/PKU-IDEA/SAGERoute). Cheers and thanks to all the co-authors!
+
 * 8/2022: We are pleased to release an open-source dataset [CircuitNet](https://circuitnet.github.io/) for machine learning tasks in EDA! You are very welcome to check it out and provide feedbacks. 
 
 * 6/2022: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **First Place** at the [2022 ACM Student Research Competition Grand Finals](https://src.acm.org/) (Undergraduate Category)! 

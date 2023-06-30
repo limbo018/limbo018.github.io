@@ -102,6 +102,8 @@
 **Conference Papers**
 
 
+* C81. Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin**, "[OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665)," International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023. ([preprint](https://arxiv.org/abs/2306.16665){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})(*Invited Paper*)
+            
 * C80. Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang, "General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
             
 * C79. Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)

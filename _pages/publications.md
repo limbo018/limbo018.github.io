@@ -270,6 +270,11 @@ Conference Papers
 
 * 2023
 
+  ### C81. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
+     * <a href="https://arxiv.org/abs/2306.16665" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| *Invited Paper*
+     * Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin** 
+     * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
+            
   ### C80. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
      * accepted
      * Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang 

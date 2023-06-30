@@ -23,7 +23,7 @@
             
 * J39. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
             
-* J38. Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+* J38. Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
             
 * J37. **Yibo Lin**, Avi Ziv and Haoxing Ren, "[Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023. 
             

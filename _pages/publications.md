@@ -70,7 +70,7 @@ Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
   ### J38. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
-     * accepted
+     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             

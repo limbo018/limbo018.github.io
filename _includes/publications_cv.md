@@ -13,7 +13,7 @@
 **Journal Papers**
 
 
-* J43. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+* J43. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
             
 * J42. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
             
@@ -146,7 +146,7 @@
             
 * C59. Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.23919/DATE54114.2022.9774606)," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/ROUTE_DATE2022_Liu.pdf){: .share-button-noborder})(**Best Paper Award**)
             
-* C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting](https://doi.org/10.23919/DATE54114.2022.9774725)," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Liao.pdf){: .share-button-noborder})
+* C58. Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting](https://doi.org/10.23919/DATE54114.2022.9774725)," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Liao.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})
             
 * C57. Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu, "[Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems](https://doi.org/10.23919/DATE54114.2022.9774671)," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022. ([preprint](/publications/papers/PLACE_DATE2022_Yang.pdf){: .share-button-noborder})
             
@@ -178,7 +178,7 @@
             
 * C43. **Yibo Lin**, "[Deep Learning for Mask Synthesis and Verification: A Survey](https://doi.org/10.1145/3394885.3431624)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021. ([preprint](/publications/papers/DFM_ASPDAC2021_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             
-* C42. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "[DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/PLACE_ICCAD2020_Gu.pdf){: .share-button-noborder})([slides](/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf){: .share-button-noborder})
+* C42. Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan, "[DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/PLACE_ICCAD2020_Gu.pdf){: .share-button-noborder})([slides](/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})
             
 * C41. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020. ([preprint](/publications/papers/TIMER_ICCAD2020_Guo.pdf){: .share-button-noborder})([slides](https://guozz.cn/publication/gputimericcad-20/slides-gputimer.pdf){: .share-button-noborder})
             
@@ -188,7 +188,7 @@
             
 * C38. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "[Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706)," ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020. ([preprint](http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector.pdf){: .share-button-noborder})([slides](http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector-slides.pdf){: .share-button-noborder})
             
-* C37. **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany, "DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs," China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020. ([preprint](/publications/papers/PLACE_CSTIC2020_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
+* C37. **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany, "DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs," China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020. ([preprint](/publications/papers/PLACE_CSTIC2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(*Invited Paper*)
             
 * C36. Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan, "[ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist](https://doi.org/10.1109/HOST45689.2020.9300272)," IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020. ([preprint](/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf){: .share-button-noborder})
             

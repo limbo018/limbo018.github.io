@@ -45,7 +45,7 @@ Journal Papers
 * 2023
 
   ### J43. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
-     * accepted
+     * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
@@ -382,7 +382,7 @@ Conference Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C58. [DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting](https://doi.org/10.23919/DATE54114.2022.9774725) 
-     * <a href="/publications/papers/PLACE_DATE2022_Liao.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/PLACE_DATE2022_Liao.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
@@ -466,7 +466,7 @@ Conference Papers
 * 2020
 
   ### C42. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
-     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a>
+     * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
@@ -491,7 +491,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020.
             
   ### C37. DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs 
-     * <a href="/publications/papers/PLACE_CSTIC2020_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
+     * <a href="/publications/papers/PLACE_CSTIC2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| *Invited Paper*
      * **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany 
      * China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020.
             

@@ -104,17 +104,17 @@
 
 * C81. Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin**, "[OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665)," International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023. ([preprint](https://arxiv.org/abs/2306.16665){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})(*Invited Paper*)
             
-* C80. Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang, "General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
+* C80. Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang, "General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. ([preprint](/publications/papers/SIM_DAC2023_Guo.pdf){: .share-button-noborder})
             
-* C79. Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
+* C79. Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. ([preprint](/publications/papers/ANALOG_DAC2023_Wang.pdf){: .share-button-noborder})
             
-* C78. Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong, "On a Moreau Envelope Wirelength Model for Analytical Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
+* C78. Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong, "On a Moreau Envelope Wirelength Model for Analytical Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. ([preprint](/publications/papers/PLACE_DAC2023_Liao.pdf){: .share-button-noborder})
             
-* C77. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
+* C77. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. ([preprint](/publications/papers/ROUTE_DAC2023_Liu.pdf){: .share-button-noborder})
             
-* C76. Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
+* C76. Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. ([preprint](/publications/papers/PLACE_DAC2023_Zheng.pdf){: .share-button-noborder})
             
-* C75. Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu, "LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. (accepted)
+* C75. Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu, "LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023. ([preprint](/publications/papers/MPL_DAC2023_Zhang.pdf){: .share-button-noborder})
             
 * C74. Yuxiang Zhao, Zhuomin Chai, **Yibo Lin**, Runsheng Wang and Ru Huang, "[HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://arxiv.org/pdf/2305.05374.pdf)," IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023. ([preprint](https://arxiv.org/pdf/2305.05374.pdf){: .share-button-noborder})
             

@@ -276,32 +276,32 @@ Conference Papers
      * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
             
   ### C80. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
-     * accepted
+     * <a href="/publications/papers/SIM_DAC2023_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
   ### C79. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
-     * accepted
+     * <a href="/publications/papers/ANALOG_DAC2023_Wang.pdf" style="color:#3793ae">preprint</a>
      * Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
   ### C78. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2023_Liao.pdf" style="color:#3793ae">preprint</a>
      * Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
   ### C77. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
-     * accepted
+     * <a href="/publications/papers/ROUTE_DAC2023_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
   ### C76. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2023_Zheng.pdf" style="color:#3793ae">preprint</a>
      * Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
   ### C75. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
-     * accepted
+     * <a href="/publications/papers/MPL_DAC2023_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             

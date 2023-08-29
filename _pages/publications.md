@@ -321,7 +321,7 @@ Conference Papers
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
   ### C71. [A Robust FPGA Router with Concurrent Intra-CLB Rerouting](https://doi.org/10.1145/3566097.3567898) 
-     * <a href="/publications/papers/ROUTE_ASPDAC2023_Wang.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/ROUTE_ASPDAC2023_Wang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a>
      * Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
@@ -352,7 +352,7 @@ Conference Papers
      * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022.
             
   ### C65. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
-     * <a href="/publications/papers/PLACE_DAC2022_Mai.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/PLACE_DAC2022_Mai.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a>
      * Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             

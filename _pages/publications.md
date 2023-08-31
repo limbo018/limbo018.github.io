@@ -44,34 +44,39 @@ Journal Papers
 
 * 2023
 
-  ### J43. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
+  ### J44. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
      * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J42. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
+  ### J43. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J41. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
+  ### J42. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
      * accepted
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
             
-  ### J40. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
+  ### J41. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
      * accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J39. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
+  ### J40. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
      * accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J38. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
+  ### J39. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
+            
+  ### J38. Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization 
+     * <a href="https://arxiv.org/abs/2303.09305" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| accepted
+     * Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
   ### J37. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 

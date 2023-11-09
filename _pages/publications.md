@@ -44,40 +44,45 @@ Journal Papers
 
 * 2023
 
-  ### J44. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
+  ### J45. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
      * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J43. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
+  ### J44. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J42. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
+  ### J43. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
      * accepted
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
             
-  ### J41. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
+  ### J42. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
      * accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J40. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
+  ### J41. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
      * accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J39. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
+  ### J40. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J38. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101) 
+  ### J39. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101) 
      * <a href="https://arxiv.org/abs/2303.09305" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| accepted
      * Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
+            
+  ### J38. [Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5) 
+     * <a href="https://arxiv.org/pdf/2310.14049" style="color:#3793ae">preprint</a>
+     * Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang and Ru Huang 
+     * SCIENCE CHINA Information Sciences, Oct, 2023.
             
   ### J37. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
      * **Yibo Lin**, Avi Ziv and Haoxing Ren 
@@ -275,14 +280,19 @@ Conference Papers
 
 * 2023
 
-  ### C82. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
+  ### C83. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
      * <a href="https://arxiv.org/abs/2306.16665" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| *Invited Paper*
      * Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin** 
      * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
             
-  ### C81. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
+  ### C82. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
      * <a href="/publications/papers/PLACE_ICCAD2023_Chen.pdf" style="color:#3793ae">preprint</a>
      * Yifan Chen, Zaiwen Wen, Yun Liang and **Yibo Lin** 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
+            
+  ### C81. Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms 
+     * <a href="/publications/papers/PD_ICCAD2023_Jiang.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
+     * Xun Jiang, Zizheng Guo, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
             
   ### C80. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 

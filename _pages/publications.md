@@ -44,92 +44,104 @@ Journal Papers
 
 * 2023
 
-  ### J45. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
+  ### J48. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
      * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J44. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
+  ### J47. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
      * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J43. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
+  ### J46. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
      * accepted
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
             
-  ### J42. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
+  ### J45. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
      * accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J41. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
+  ### J44. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
      * accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J40. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
+  ### J43. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J39. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101) 
+  ### J42. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101) 
      * <a href="https://arxiv.org/abs/2303.09305" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| accepted
      * Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J38. [Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5) 
+  ### J41. [Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5) 
      * <a href="https://arxiv.org/pdf/2310.14049" style="color:#3793ae">preprint</a>
-     * Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang and Ru Huang 
+     * Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang, **Yibo Lin** and Ru Huang 
      * SCIENCE CHINA Information Sciences, Oct, 2023.
             
-  ### J37. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
+  ### J40. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
      * **Yibo Lin**, Avi Ziv and Haoxing Ren 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023.
             
 * 2022
 
-  ### J36. [Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123) 
+  ### J39. [Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123) 
      * Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022.
             
-  ### J35. [FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
+  ### J38. [FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
      * Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022.
             
-  ### J34. [CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8) 
+  ### J37. [CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8) 
      * <a href="https://arxiv.org/pdf/2208.01040" style="color:#3793ae">preprint</a> \| <a href="https://circuitnet.github.io" style="color:#3793ae">release</a>
      * Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Wei Liu, Runsheng Wang and Ru Huang 
      * SCIENCE CHINA Information Sciences, Sep, 2022.
             
-  ### J33. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234) 
+  ### J36. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234) 
      * Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.
             
-  ### J32. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729) 
+  ### J35. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729) 
      * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2022.
             
 * 2021
 
-  ### J31. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758) 
+  ### J34. [模拟电路版图自动化与智能设计](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5743150191429632) 
+     * **Yibo Lin** 
+     * 中国计算机学会通讯, Dec, 2021.
+            
+  ### J33. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758) 
      * Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021.
             
-  ### J30. [MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762) 
+  ### J32. [MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762) 
      * *Invited Keynote Paper*
      * Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021.
             
-  ### J29. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
+  ### J31. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
      * **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2021.
             
-  ### J28. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
+  ### J30. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
      * <a href="https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
      * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
      * IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021.
+            
+  ### J29. [机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011) 
+     * **Yibo Lin**, Xiaohan Gao, Tinghuan Chen and Bei Yu 
+     * 微纳电子与智能制造, Feb, 2021.
+            
+  ### J28. [先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001) 
+     * Cheng Zhuo, Zizheng Guo, Xiao Dong, Qing He and **Yibo Lin** 
+     * 微纳电子与智能制造, Feb, 2021.
             
   ### J27. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
      * <a href="/publications/papers/FPGA_TCAD2021_Meng.pdf" style="color:#3793ae">preprint</a>

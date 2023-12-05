@@ -60,17 +60,15 @@ Journal Papers
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
             
   ### J45. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
-     * accepted
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
   ### J44. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
-     * accepted
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
   ### J43. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
-     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
+     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a>
      * Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
@@ -292,59 +290,64 @@ Conference Papers
 
 * 2023
 
-  ### C83. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
+  ### C84. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
      * <a href="https://arxiv.org/abs/2306.16665" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| *Invited Paper*
      * Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin** 
      * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
             
-  ### C82. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
+  ### C83. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
      * <a href="/publications/papers/PLACE_ICCAD2023_Chen.pdf" style="color:#3793ae">preprint</a>
      * Yifan Chen, Zaiwen Wen, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
             
-  ### C81. Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms 
+  ### C82. Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms 
      * <a href="/publications/papers/PD_ICCAD2023_Jiang.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Xun Jiang, Zizheng Guo, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
             
-  ### C80. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
+  ### C81. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
      * <a href="/publications/papers/SIM_DAC2023_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C79. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
+  ### C80. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
      * <a href="/publications/papers/ANALOG_DAC2023_Wang.pdf" style="color:#3793ae">preprint</a>
      * Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C78. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
+  ### C79. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
      * <a href="/publications/papers/PLACE_DAC2023_Liao.pdf" style="color:#3793ae">preprint</a>
      * Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C77. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
+  ### C78. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
      * <a href="/publications/papers/ROUTE_DAC2023_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C76. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
+  ### C77. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
      * <a href="/publications/papers/PLACE_DAC2023_Zheng.pdf" style="color:#3793ae">preprint</a>
      * Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C75. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
+  ### C76. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
      * <a href="/publications/papers/MPL_DAC2023_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C74. [HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://arxiv.org/pdf/2305.05374.pdf) 
+  ### C75. [HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://arxiv.org/pdf/2305.05374.pdf) 
      * <a href="https://arxiv.org/pdf/2305.05374.pdf" style="color:#3793ae">preprint</a>
      * Yuxiang Zhao, Zhuomin Chai, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023.
             
-  ### C73. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
+  ### C74. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
      * <a href="/publications/papers/ANALOG_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/SAGERoute" style="color:#3793ae">release</a> \| *Best Paper Award*
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
+            
+  ### C73. READ: Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction 
+     * <a href="/publications/papers/TIMING_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a>
+     * Zuodong Zhang, Meng Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
   ### C72. [MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899) 

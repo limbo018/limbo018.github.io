@@ -290,20 +290,25 @@ Conference Papers
 
 * 2023
 
-  ### C84. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
+  ### C85. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
      * <a href="https://arxiv.org/abs/2306.16665" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| *Invited Paper*
      * Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin** 
      * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
             
-  ### C83. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
+  ### C84. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
      * <a href="/publications/papers/PLACE_ICCAD2023_Chen.pdf" style="color:#3793ae">preprint</a>
      * Yifan Chen, Zaiwen Wen, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
             
-  ### C82. Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms 
+  ### C83. Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms 
      * <a href="/publications/papers/PD_ICCAD2023_Jiang.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Xun Jiang, Zizheng Guo, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
+            
+  ### C82. [Khronos: Fusing Memory Access for Improved Hardware RTL Simulation](https://doi.org/10.1145/3613424.3614301) 
+     * <a href="https://dl.acm.org/doi/pdf/10.1145/3613424.3614301" style="color:#3793ae">preprint</a>
+     * Kexing Zhou, Yun Liang, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Symposium on Microarchitecture (MICRO), Toronto, Canada, Oct, 2023.
             
   ### C81. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
      * <a href="/publications/papers/SIM_DAC2023_Guo.pdf" style="color:#3793ae">preprint</a>

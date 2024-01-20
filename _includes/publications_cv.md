@@ -4,7 +4,7 @@
 **Conference Papers**
 
 
-* C89. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. (accepted)
+* C89. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
             
 * C88. Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Heterogeneous Static Timing Analysis with Advanced Delay Calculator," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)
             

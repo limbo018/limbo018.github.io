@@ -20,7 +20,7 @@ Conference Papers
 * 2024
 
   ### C89. CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment 
-     * accepted
+     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024.
             

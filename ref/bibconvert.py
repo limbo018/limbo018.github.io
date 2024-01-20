@@ -111,9 +111,9 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
 = Publications
 
 """)
-        printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJemdoc(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
         #printJemdoc(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
     elif suffix.lower() == 'jekyll':
@@ -133,18 +133,18 @@ author_profile: true
 <br>
 
 """)
-        printJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printJekyll(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
         #printJekyll(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
     elif suffix.lower() == 'cv':
         print("""\\begin{rSection}{Publications}
 
 """)
-        printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         # printCV(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
         print("""
 \end{rSection}
@@ -154,9 +154,9 @@ author_profile: true
         print("""\\begin{rSection}{出版物}
 
 """)
-        printCVCN(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCVCN(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printCVCN(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
         print("""
 \end{rSection}
@@ -166,14 +166,14 @@ author_profile: true
         print("""
 {% include base_path %}
 """)
-        printCVJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCVJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         #printCVJekyll(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
     elif suffix.lower() == 'shortref': 
-        printShortRef(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printShortRef(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printShortRef(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
+        printShortRef(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printShortRef(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
         printShortRef(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
         #printShortRef(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
     else:

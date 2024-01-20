@@ -1,120 +1,6 @@
 
 {% include base_path %}
 
-**Book Chapters**
-
-
-* B3. **Yibo Lin**, Zizheng Guo and Jing Mai, "[Deep Learning Framework for Placement](https://doi.org/10.1007/978-3-031-13074-8)," Machine Learning Applications in Electronic Design Automation, Springer, 2023, edited by Haoxing Ren and Jiang Hu. (*Invited Book Chapter*)
-            
-* B2. Haoyu Yang, **Yibo Lin** and Bei Yu, "[Machine Learning for Mask Synthesis and Verification](https://doi.org/10.1007/978-3-031-13074-8)," Machine Learning Applications in Electronic Design Automation, Springer, 2023, edited by Haoxing Ren and Jiang Hu. (*Invited Book Chapter*)
-            
-* B1. **Yibo Lin** and David Z. Pan, "[Machine Learning in Physical Verification, Mask Synthesis, and Physical Design](http://dx.doi.org/10.1007/978-3-030-04666-8_4)," Machine Learning in VLSI Computer-Aided Design, Springer, 2018, edited by Abe Elfedel, Duane Boning and Xin Li. ([preprint](/publications/papers/ML4CAD_Springer2018_Pan.pdf){: .share-button-noborder})(*Invited Book Chapter*)
-            
-**Journal Papers**
-
-
-* J51. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
-            
-* J50. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
-            
-* J49. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023. (accepted)
-            
-* J48. Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong, "[A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. 
-            
-* J47. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. 
-            
-* J46. Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://circuitnet.github.io){: .share-button-noborder})
-            
-* J45. Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([preprint](https://arxiv.org/abs/2303.09305){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})(accepted)
-            
-* J44. Yufei Chen, Zizheng Guo, Runsheng Wang, Ru Huang, **Yibo Lin** and Cheng Zhuo, "[Dynamic Supply Noise Aware Timing Analysis With JIT Machine Learning Integration](https://doi.org/10.1109/TCAD.2023.3342603)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. (accepted)
-            
-* J43. Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen and **Yibo Lin**, "[LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization](https://doi.org/10.1109/TCSI.2023.3340554)," IEEE Transactions on Circuits and Systems I, Dec, 2023. ([preprint](https://arxiv.org/abs/2308.03233){: .share-button-noborder})(accepted)
-            
-* J42. Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu, "[Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. (accepted)
-            
-* J41. Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang, **Yibo Lin** and Ru Huang, "[Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5)," SCIENCE CHINA Information Sciences, Oct, 2023. ([preprint](https://arxiv.org/pdf/2310.14049){: .share-button-noborder})
-            
-* J40. **Yibo Lin**, Avi Ziv and Haoxing Ren, "[Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023. 
-            
-* J39. Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang, "[Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123)," IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022. 
-            
-* J38. Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022. 
-            
-* J37. Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Wei Liu, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8)," SCIENCE CHINA Information Sciences, Sep, 2022. ([preprint](https://arxiv.org/pdf/2208.01040){: .share-button-noborder})([release](https://circuitnet.github.io){: .share-button-noborder})
-            
-* J36. Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang, "[Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022. 
-            
-* J35. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "[Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2022. 
-            
-* J34. **Yibo Lin**, "[模拟电路版图自动化与智能设计](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5743150191429632)," 中国计算机学会通讯, Dec, 2021. 
-            
-* J33. Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin**, "[A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021. 
-            
-* J32. Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel, "[MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021. (*Invited Keynote Paper*)
-            
-* J31. **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2021. 
-            
-* J30. Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin**, "[Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255)," IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021. ([preprint](https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf){: .share-button-noborder})([release](https://github.com/taskflow/taskflow){: .share-button-noborder})
-            
-* J29. **Yibo Lin**, Xiaohan Gao, Tinghuan Chen and Bei Yu, "[机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011)," 微纳电子与智能制造, Feb, 2021. 
-            
-* J28. Cheng Zhuo, Zizheng Guo, Xiao Dong, Qing He and **Yibo Lin**, "[先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001)," 微纳电子与智能制造, Feb, 2021. 
-            
-* J27. Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan, "[elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2021. ([preprint](/publications/papers/FPGA_TCAD2021_Meng.pdf){: .share-button-noborder})
-            
-* J26. Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan, "[OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2020. ([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
-            
-* J25. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "[Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})
-            
-* J24. Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan, "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)," IEEE Design & Test, Sep, 2020. 
-            
-* J23. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571)," IEEE Electron Device Letters (EDL), Aug, 2020. 
-            
-* J22. Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei, "[EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590)," Optics Express, Jun, 2020. ([preprint](https://doi.org/10.1364/OE.394590){: .share-button-noborder})
-            
-* J21. **Yibo Lin**, Zixuan Jiang, Jiaqi Gu, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan, "[DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2020. ([preprint](/publications/papers/PLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(**Best Paper Award**)
-            
-* J20. Junzhe Cai, Changhao Yan, Yudong Tao, **Yibo Lin**, Sheng-Guo Wang, David Z. Pan and Xuan Zeng, "[A Novel and Unified Full-chip CMP Model Aware Dummy Fill Insertion Framework with SQP-Based Optimization Method](https://doi.org/10.1109/TCAD.2020.3001380)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2020. 
-            
-* J19. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "[GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks](https://doi.org/10.1109/TCAD.2020.2995338)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2020. ([preprint](/publications/papers/SRAF_TCAD2020_Alawieh.pdf){: .share-button-noborder})
-            
-* J18. **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan, "[ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb, 2020. ([preprint](/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})
-            
-* J17. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966)," IEEE Access, Feb, 2020. ([preprint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944){: .share-button-noborder})
-            
-* J16. Ying Chen, **Yibo Lin**, Lisong Dong, Tianyang Gai, Rui Chen, Yajuan Su, Yayi Wei and David Z. Pan, "[SoulNet: Ultrafast Optical Source Optimization Utilizing Generative Neural Networks for Advanced Lithography](https://dx.doi.org/10.1117/1.JMM.18.4.043506)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Nov, 2019. ([preprint](/publications/papers/SMO_JM32020_Chen.pdf){: .share-button-noborder})
-            
-* J15. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})
-            
-* J14. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Apr, 2019. ([preprint](/publications/papers/HSD_TCAD2019_Chen.pdf){: .share-button-noborder})
-            
-* J13. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Mar, 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
-            
-* J12. **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2018. ([preprint](/publications/papers/QUANTUM_TCAD2017_Lin.pdf){: .share-button-noborder})
-            
-* J11. Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z Pan, "[A practical split manufacturing framework for trojan prevention via simultaneous wire lifting and cell insertion](https://doi.org/10.1109/TCAD.2018.2859402)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2018. ([preprint](/publications/papers/SPM_TCAD2018_Li.pdf){: .share-button-noborder})
-            
-* J10. Xiaoqing Xu, **Yibo Lin**, Meng Li, Tetsuaki Matsunawa, Shigeki Nojima, Chikaaki Kodama, Toshiya Kotani and David Z. Pan, "[Subresolution Assist Feature Generation With Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018. ([preprint](/publications/papers/SRAF_TCAD2017_Xu.pdf){: .share-button-noborder})
-            
-* J9. **Yibo Lin**, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan, "[MrDP: Multiple-row detailed placement of heterogeneous-sized cells for advanced nodes](https://doi.org/10.1109/TCAD.2017.2748025)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018. ([preprint](/publications/papers/PLACE_TCAD2017_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/MrDP/index.html){: .share-button-noborder})
-            
-* J8. Wuxi Li, **Yibo Lin**, Meng Li, Shounak Dhar and David Z. Pan, "[UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine](https://doi.org/10.1145/3174849)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Jun, 2018. ([preprint](/publications/papers/FPGA_TODAES2017_Li.pdf){: .share-button-noborder})
-            
-* J7. **Yibo Lin**, Bei Yu and David Z. Pan, "[High performance dummy fill insertion with coupling and uniformity constraints](http://dx.doi.org/10.1109/TCAD.2016.2638452)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2017. ([preprint](/publications/papers/CMP_TCAD2016_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/DFI/index.html){: .share-button-noborder})
-            
-* J6. **Yibo Lin**, Bei Yu, Biying Xu and David Z. Pan, "[Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict](http://dx.doi.org/10.1109/TCAD.2017.2648843)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFMP_TCAD2017_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html){: .share-button-noborder})
-            
-* J5. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder})
-            
-* J4. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/DFMP_JVLSI2017_Lin.pdf){: .share-button-noborder})(**Best Paper Award**)
-            
-* J3. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Jun, 2017. ([preprint](/publications/papers/MPL_JM32017_Lin.pdf){: .share-button-noborder})
-            
-* J2. Bei Yu, Xiaoqing Xu, Subhendu Roy, **Yibo Lin**, Jiaojiao Ou and David Z. Pan, "[Design for manufacturability and reliability in extreme-scaling VLSI](http://link.springer.com/article/10.1007%2Fs11432-016-5560-6)," Science China Information Sciences, May, 2016. ([preprint](/publications/papers/DFM_SCIS2016_Yu.pdf){: .share-button-noborder})(*Invited Paper*)
-            
-* J1. Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, **Yibo Lin**, Zhuo Li, Charles Alpert and David Z. Pan, "[Methodology for standard cell compliance and detailed placement for triple patterning lithography](https://doi.org/10.1109/TCAD.2015.2401571)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2015. ([preprint](/publications/papers/DFMP_TCAD2015_Yu.pdf){: .share-button-noborder})
-            
 **Conference Papers**
 
 
@@ -295,4 +181,118 @@
 * C2. **Yibo Lin**, Bei Yu and David Z. Pan, "[High performance dummy fill insertion with coupling and uniformity constraints](http://dl.acm.org/citation.cfm?id=2744769.2744850)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 7-11, 2015. ([preprint](/publications/papers/CMP_DAC2015_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/CMP_DAC2015_Lin.slides.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/DFI/index.html){: .share-button-noborder})
             
 * C1. David Z. Pan, Lars Liebmann, Bei Yu, Xiaoqing Xu and **Yibo Lin**, "[Pushing multiple patterning in sub-10nm: are we ready?](http://dl.acm.org/citation.cfm?id=2744769.2747940)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 7-11, 2015. ([preprint](/publications/papers/MPL_DAC2015_Pan.pdf){: .share-button-noborder})(*Invited Paper*)
+            
+**Journal Papers**
+
+
+* J51. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(accepted)
+            
+* J50. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. (accepted)
+            
+* J49. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023. (accepted)
+            
+* J48. Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong, "[A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. 
+            
+* J47. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. 
+            
+* J46. Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://circuitnet.github.io){: .share-button-noborder})
+            
+* J45. Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([preprint](https://arxiv.org/abs/2303.09305){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})(accepted)
+            
+* J44. Yufei Chen, Zizheng Guo, Runsheng Wang, Ru Huang, **Yibo Lin** and Cheng Zhuo, "[Dynamic Supply Noise Aware Timing Analysis With JIT Machine Learning Integration](https://doi.org/10.1109/TCAD.2023.3342603)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. (accepted)
+            
+* J43. Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen and **Yibo Lin**, "[LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization](https://doi.org/10.1109/TCSI.2023.3340554)," IEEE Transactions on Circuits and Systems I, Dec, 2023. ([preprint](https://arxiv.org/abs/2308.03233){: .share-button-noborder})(accepted)
+            
+* J42. Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu, "[Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. (accepted)
+            
+* J41. Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang, **Yibo Lin** and Ru Huang, "[Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5)," SCIENCE CHINA Information Sciences, Oct, 2023. ([preprint](https://arxiv.org/pdf/2310.14049){: .share-button-noborder})
+            
+* J40. **Yibo Lin**, Avi Ziv and Haoxing Ren, "[Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023. 
+            
+* J39. Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang, "[Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123)," IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022. 
+            
+* J38. Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022. 
+            
+* J37. Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Wei Liu, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8)," SCIENCE CHINA Information Sciences, Sep, 2022. ([preprint](https://arxiv.org/pdf/2208.01040){: .share-button-noborder})([release](https://circuitnet.github.io){: .share-button-noborder})
+            
+* J36. Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang, "[Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022. 
+            
+* J35. Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu, "[Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2022. 
+            
+* J34. **Yibo Lin**, "[模拟电路版图自动化与智能设计](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5743150191429632)," 中国计算机学会通讯, Dec, 2021. 
+            
+* J33. Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin**, "[A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021. 
+            
+* J32. Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel, "[MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021. (*Invited Keynote Paper*)
+            
+* J31. **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei, "[Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2021. 
+            
+* J30. Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin**, "[Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255)," IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021. ([preprint](https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf){: .share-button-noborder})([release](https://github.com/taskflow/taskflow){: .share-button-noborder})
+            
+* J29. **Yibo Lin**, Xiaohan Gao, Tinghuan Chen and Bei Yu, "[机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011)," 微纳电子与智能制造, Feb, 2021. 
+            
+* J28. Cheng Zhuo, Zizheng Guo, Xiao Dong, Qing He and **Yibo Lin**, "[先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001)," 微纳电子与智能制造, Feb, 2021. 
+            
+* J27. Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan, "[elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2021. ([preprint](/publications/papers/FPGA_TCAD2021_Meng.pdf){: .share-button-noborder})
+            
+* J26. Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan, "[OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2020. ([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
+            
+* J25. Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong, "[Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2020. ([release](https://github.com/taskflow/taskflow){: .share-button-noborder})
+            
+* J24. Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan, "[MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)," IEEE Design & Test, Sep, 2020. 
+            
+* J23. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571)," IEEE Electron Device Letters (EDL), Aug, 2020. 
+            
+* J22. Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei, "[EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590)," Optics Express, Jun, 2020. ([preprint](https://doi.org/10.1364/OE.394590){: .share-button-noborder})
+            
+* J21. **Yibo Lin**, Zixuan Jiang, Jiaqi Gu, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan, "[DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2020. ([preprint](/publications/papers/PLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})(**Best Paper Award**)
+            
+* J20. Junzhe Cai, Changhao Yan, Yudong Tao, **Yibo Lin**, Sheng-Guo Wang, David Z. Pan and Xuan Zeng, "[A Novel and Unified Full-chip CMP Model Aware Dummy Fill Insertion Framework with SQP-Based Optimization Method](https://doi.org/10.1109/TCAD.2020.3001380)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2020. 
+            
+* J19. Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan, "[GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks](https://doi.org/10.1109/TCAD.2020.2995338)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2020. ([preprint](/publications/papers/SRAF_TCAD2020_Alawieh.pdf){: .share-button-noborder})
+            
+* J18. **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan, "[ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb, 2020. ([preprint](/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf){: .share-button-noborder})([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})
+            
+* J17. Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan, "[Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966)," IEEE Access, Feb, 2020. ([preprint](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944){: .share-button-noborder})
+            
+* J16. Ying Chen, **Yibo Lin**, Lisong Dong, Tianyang Gai, Rui Chen, Yajuan Su, Yayi Wei and David Z. Pan, "[SoulNet: Ultrafast Optical Source Optimization Utilizing Generative Neural Networks for Advanced Lithography](https://dx.doi.org/10.1117/1.JMM.18.4.043506)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Nov, 2019. ([preprint](/publications/papers/SMO_JM32020_Chen.pdf){: .share-button-noborder})
+            
+* J15. **Yibo Lin**, Meng Li, Yuki Watanabe, Taiki Kimura, Tetsuaki Matsunawa, Shigeki Nojima and David Z. Pan, "[Data Efficient Lithography Modeling with Transfer Learning and Active Data Selection](https://doi.org/10.1109/TCAD.2018.2864251)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2019. ([preprint](https://arxiv.org/pdf/1807.03257.pdf){: .share-button-noborder})([poster](/publications/papers/DFM_LithoWorkshop2018_Lin.poster.pdf){: .share-button-noborder})
+            
+* J14. Ying Chen, **Yibo Lin**, Tianyang Gai, Yajuan Su, Yayi Wei and David Z. Pan, "[Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1109/TCAD.2019.2912948)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Apr, 2019. ([preprint](/publications/papers/HSD_TCAD2019_Chen.pdf){: .share-button-noborder})
+            
+* J13. Jing Chen, **Yibo Lin**, Yufeng Guo, Maolin Zhang, Mohamed Baker Alawieh and David Z. Pan, "[Lithography Hotspot Detection Using a Double Inception Module Architecture](https://doi.org/10.1117/1.JMM.18.1.013507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Mar, 2019. ([preprint](/publications/papers/HSD_JM32019_Chen.pdf){: .share-button-noborder})
+            
+* J12. **Yibo Lin**, Bei Yu, Meng Li and David Z. Pan, "[Layout Synthesis for Topological Quantum Circuits with 1D and 2D Architectures](https://doi.org/10.1109/TCAD.2017.2760511)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2018. ([preprint](/publications/papers/QUANTUM_TCAD2017_Lin.pdf){: .share-button-noborder})
+            
+* J11. Meng Li, Bei Yu, **Yibo Lin**, Xiaoqing Xu, Wuxi Li and David Z Pan, "[A practical split manufacturing framework for trojan prevention via simultaneous wire lifting and cell insertion](https://doi.org/10.1109/TCAD.2018.2859402)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2018. ([preprint](/publications/papers/SPM_TCAD2018_Li.pdf){: .share-button-noborder})
+            
+* J10. Xiaoqing Xu, **Yibo Lin**, Meng Li, Tetsuaki Matsunawa, Shigeki Nojima, Chikaaki Kodama, Toshiya Kotani and David Z. Pan, "[Subresolution Assist Feature Generation With Supervised Data Learning](https://doi.org/10.1109/TCAD.2017.2748029)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018. ([preprint](/publications/papers/SRAF_TCAD2017_Xu.pdf){: .share-button-noborder})
+            
+* J9. **Yibo Lin**, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan, "[MrDP: Multiple-row detailed placement of heterogeneous-sized cells for advanced nodes](https://doi.org/10.1109/TCAD.2017.2748025)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2018. ([preprint](/publications/papers/PLACE_TCAD2017_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/MrDP/index.html){: .share-button-noborder})
+            
+* J8. Wuxi Li, **Yibo Lin**, Meng Li, Shounak Dhar and David Z. Pan, "[UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine](https://doi.org/10.1145/3174849)," ACM Transactions on Design Automation of Electronic Systems (TODAES), Jun, 2018. ([preprint](/publications/papers/FPGA_TODAES2017_Li.pdf){: .share-button-noborder})
+            
+* J7. **Yibo Lin**, Bei Yu and David Z. Pan, "[High performance dummy fill insertion with coupling and uniformity constraints](http://dx.doi.org/10.1109/TCAD.2016.2638452)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2017. ([preprint](/publications/papers/CMP_TCAD2016_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/DFI/index.html){: .share-button-noborder})
+            
+* J6. **Yibo Lin**, Bei Yu, Biying Xu and David Z. Pan, "[Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict](http://dx.doi.org/10.1109/TCAD.2017.2648843)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFMP_TCAD2017_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html){: .share-button-noborder})
+            
+* J5. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder})
+            
+* J4. **Yibo Lin**, Bei Yu, Yi Zou, Zhuo Li, Charles J Alpert and David Z. Pan, "[Stitch aware detailed placement for multiple e-beam lithography](http://dx.doi.org/10.1016/j.vlsi.2017.02.004)," Integration, the VLSI Journal, Jun, 2017. ([preprint](/publications/papers/DFMP_JVLSI2017_Lin.pdf){: .share-button-noborder})(**Best Paper Award**)
+            
+* J3. **Yibo Lin**, Xiaoqing Xu, Bei Yu, Ross Baldick and David Z. Pan, "[Triple/quadruple patterning layout decomposition via linear programming and iterative rounding](http://dx.doi.org/10.1117/1.JMM.16.2.023507)," Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3), Jun, 2017. ([preprint](/publications/papers/MPL_JM32017_Lin.pdf){: .share-button-noborder})
+            
+* J2. Bei Yu, Xiaoqing Xu, Subhendu Roy, **Yibo Lin**, Jiaojiao Ou and David Z. Pan, "[Design for manufacturability and reliability in extreme-scaling VLSI](http://link.springer.com/article/10.1007%2Fs11432-016-5560-6)," Science China Information Sciences, May, 2016. ([preprint](/publications/papers/DFM_SCIS2016_Yu.pdf){: .share-button-noborder})(*Invited Paper*)
+            
+* J1. Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, **Yibo Lin**, Zhuo Li, Charles Alpert and David Z. Pan, "[Methodology for standard cell compliance and detailed placement for triple patterning lithography](https://doi.org/10.1109/TCAD.2015.2401571)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2015. ([preprint](/publications/papers/DFMP_TCAD2015_Yu.pdf){: .share-button-noborder})
+            
+**Book Chapters**
+
+
+* B3. **Yibo Lin**, Zizheng Guo and Jing Mai, "[Deep Learning Framework for Placement](https://doi.org/10.1007/978-3-031-13074-8)," Machine Learning Applications in Electronic Design Automation, Springer, 2023, edited by Haoxing Ren and Jiang Hu. (*Invited Book Chapter*)
+            
+* B2. Haoyu Yang, **Yibo Lin** and Bei Yu, "[Machine Learning for Mask Synthesis and Verification](https://doi.org/10.1007/978-3-031-13074-8)," Machine Learning Applications in Electronic Design Automation, Springer, 2023, edited by Haoxing Ren and Jiang Hu. (*Invited Book Chapter*)
+            
+* B1. **Yibo Lin** and David Z. Pan, "[Machine Learning in Physical Verification, Mask Synthesis, and Physical Design](http://dx.doi.org/10.1007/978-3-030-04666-8_4)," Machine Learning in VLSI Computer-Aided Design, Springer, 2018, edited by Abe Elfedel, Duane Boning and Xin Li. ([preprint](/publications/papers/ML4CAD_Springer2018_Pan.pdf){: .share-button-noborder})(*Invited Book Chapter*)
             

@@ -305,6 +305,11 @@ Conference Papers
 
 * 2024
 
+  ### C89. CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment 
+     * accepted
+     * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024.
+            
   ### C88. Heterogeneous Static Timing Analysis with Advanced Delay Calculator 
      * accepted
      * Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 

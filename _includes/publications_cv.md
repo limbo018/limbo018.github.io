@@ -197,7 +197,7 @@
             
 * J46. Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://circuitnet.github.io){: .share-button-noborder})
             
-* J45. Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([preprint](https://arxiv.org/abs/2303.09305){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})(accepted)
+* J45. Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin**, "[Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([preprint](https://arxiv.org/abs/2303.09305){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})
             
 * J44. Yufei Chen, Zizheng Guo, Runsheng Wang, Ru Huang, **Yibo Lin** and Cheng Zhuo, "[Dynamic Supply Noise Aware Timing Analysis With JIT Machine Learning Integration](https://doi.org/10.1109/TCAD.2023.3342603)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. (accepted)
             

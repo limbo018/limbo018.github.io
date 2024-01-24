@@ -19,20 +19,25 @@ Conference Papers
 
 * 2024
 
-  ### C89. CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment 
+  ### C90. CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024.
             
-  ### C88. Heterogeneous Static Timing Analysis with Advanced Delay Calculator 
+  ### C89. Heterogeneous Static Timing Analysis with Advanced Delay Calculator 
      * accepted
      * Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024.
             
-  ### C87. SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios 
+  ### C88. SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios 
      * accepted
      * Haoyi Zhang, Xiaohan Gao, Zilong Shen, Jiahao Song, Xiaoxu Cheng, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024.
+            
+  ### C87. [An Efficient Task-parallel Pipeline Programming Framework](https://doi.org/10.1145/3635035.3635037) 
+     * accepted
+     * Cheng-Hsiang Chiu, Zhicheng Xiong, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * International Conference on High-Performance Computing in Asia-Pacific Region (HPC Asia), Nagoya, Japan, Jan, 2024.
             
 * 2023
 

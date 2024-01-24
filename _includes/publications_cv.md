@@ -4,11 +4,13 @@
 **Conference Papers**
 
 
-* C89. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
+* C90. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
             
-* C88. Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Heterogeneous Static Timing Analysis with Advanced Delay Calculator," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)
+* C89. Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Heterogeneous Static Timing Analysis with Advanced Delay Calculator," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)
             
-* C87. Haoyi Zhang, Xiaohan Gao, Zilong Shen, Jiahao Song, Xiaoxu Cheng, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)
+* C88. Haoyi Zhang, Xiaohan Gao, Zilong Shen, Jiahao Song, Xiaoxu Cheng, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang, "SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)
+            
+* C87. Cheng-Hsiang Chiu, Zhicheng Xiong, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**, "[An Efficient Task-parallel Pipeline Programming Framework](https://doi.org/10.1145/3635035.3635037)," International Conference on High-Performance Computing in Asia-Pacific Region (HPC Asia), Nagoya, Japan, Jan, 2024. (accepted)
             
 * C86. Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin**, "[OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665)," International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023. ([preprint](https://arxiv.org/abs/2306.16665){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})(*Invited Paper*)
             

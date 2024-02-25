@@ -25,23 +25,22 @@ Recommended Prerequisite
 Course Material (Tentative)
 ======
 
-1. Introduction: from electric symbols to the real physical world (基础背景介绍)
+1. [Introduction: from electric symbols to the real physical world (基础背景介绍)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/01-Introduction-I.pdf)
 
 2. Logic synthesis: manipulating circuit graph (逻辑综合)
-  -	Logic optimization (逻辑优化)
-  -	Technology mapping (工艺映射)
+  -	Logic optimization (逻辑优化): [Boolean Algebra](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/03-BooleanAlgebra.pdf), [BDD & SAT](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/04-BDD&SAT.pdf), [Logic Synthesis](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/05-LogicSynthesis.pdf)
+  -	[Technology mapping (工艺映射)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/05-TechnologyMapping.pdf)
 
 3. Placement: from facility location problem to ASIC placement (布局)
-  - Partitioning (分割)
-  - Floorplanning (布图规划)
-  - Placement (布局)
+  - [Partitioning (分割)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/06-Partitioning.pdf)
+  - [Floorplanning (布图规划)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/07-Floorplanning.pdf)
+  - Placement (布局): [GP](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/08-Placement-GP.pdf), [LG](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/08-Placement-LG.pdf), [DP](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/08-Placement-DP.pdf), [Other](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/08-Placement-Other.pdf)
 
 4. Routing: from vehicle routing to VLSI routing (布线)
-  - Tree generation (布线拓扑树生成)
-  - Routing (布线)
-  - Track assignment (布线轨道分配)
+  - [Tree generation & routing (布线拓扑树生成与布线)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/09-Routing.pdf)
+  - [Clock & power routing (时钟与电源布线)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/09-ClockPowerRouting.pdf)
 
-5. Timing analysis (时序分析)
+5. [Timing analysis (时序分析)](https://yibolin.com/courses/VLSICAD/VLSICAD-slides/10-STA.pdf)
   - Wire delay models (互联线延迟模型)
   - Static timing analysis (静态时序分析)
   - Incremental timing and CPPR (递进式分析和悲观路径过滤)

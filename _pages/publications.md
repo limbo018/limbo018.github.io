@@ -491,17 +491,15 @@ Journal Papers
 * 2023
 
   ### J51. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
-     * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| accepted
+     * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
   ### J50. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
-     * accepted
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
             
-  ### J49. DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction 
-     * accepted
+  ### J49. [DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3594666) 
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
             
@@ -529,7 +527,7 @@ Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
             
   ### J43. [LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization](https://doi.org/10.1109/TCSI.2023.3340554) 
-     * <a href="https://arxiv.org/abs/2308.03233" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="https://arxiv.org/abs/2308.03233" style="color:#3793ae">preprint</a>
      * Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen and **Yibo Lin** 
      * IEEE Transactions on Circuits and Systems I, Dec, 2023.
             

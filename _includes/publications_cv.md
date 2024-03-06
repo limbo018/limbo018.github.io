@@ -4,6 +4,18 @@
 **Conference Papers**
 
 
+* C96. Jiarui Wang, Xun Jiang and **Yibo Lin**, "Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
+* C95. Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
+* C94. Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang, "EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
+* C93. Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang, "PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
+* C92. Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu, "Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
+* C91. Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu, "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
 * C90. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
             
 * C89. Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Heterogeneous Static Timing Analysis with Advanced Delay Calculator," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)

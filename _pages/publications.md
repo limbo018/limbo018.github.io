@@ -19,6 +19,36 @@ Conference Papers
 
 * 2024
 
+  ### C96. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
+     * accepted
+     * Jiarui Wang, Xun Jiang and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
+            
+  ### C95. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
+     * accepted
+     * Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
+            
+  ### C94. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
+     * accepted
+     * Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
+            
+  ### C93. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
+     * accepted
+     * Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
+            
+  ### C92. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
+     * accepted
+     * Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
+            
+  ### C91. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
+     * accepted
+     * Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
+            
   ### C90. CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 

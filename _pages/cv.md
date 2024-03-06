@@ -83,6 +83,7 @@ Teaching experience
   
 Awards and Honors
 ======
+* Inaugural Best Reviewer Award, ICCAD 2023
 * Best Paper Award, DATE 2023
 * Best Paper Award, DATE 2022
 * Best Paper Award Nomination, ICCAD 2022

@@ -130,12 +130,12 @@ Conference Papers
      * Haoyi Zhang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023.
             
-  ### C74. SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility 
+  ### C74. [SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility](https://doi.org/10.23919/DATE56975.2023.10137296) 
      * <a href="/publications/papers/ANALOG_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/SAGERoute" style="color:#3793ae">release</a> \| *Best Paper Award*
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
-  ### C73. READ: Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction 
+  ### C73. [READ: Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction](https://doi.org/10.23919/DATE56975.2023.10137254) 
      * <a href="/publications/papers/TIMING_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Zuodong Zhang, Meng Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.

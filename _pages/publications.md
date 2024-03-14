@@ -70,7 +70,7 @@ Conference Papers
      * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
             
   ### C90. [Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs](https://doi.org/10.1145/3626184.3633322) 
-     * <a href="/publications/papers/PLACE_ISPD2024_Liu.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/ROUTE_ISPD2024_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Jiaxi Jiang, Zhuolun He, Ziyi Wang, **Yibo Lin** and Bei Yu 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
             

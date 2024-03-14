@@ -19,40 +19,60 @@ Conference Papers
 
 * 2024
 
-  ### C96. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
+  ### C100. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
+     * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
+     * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
+     * arXiv preprint, 2024.
+            
+  ### C99. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
      * accepted
      * Jiarui Wang, Xun Jiang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C95. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
+  ### C98. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
      * accepted
      * Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C94. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
+  ### C97. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
      * accepted
      * Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C93. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
+  ### C96. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
      * accepted
      * Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C92. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
+  ### C95. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
      * accepted
      * Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C91. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
+  ### C94. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
      * accepted
      * Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C90. CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment 
+  ### C93. [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment](https://openreview.net/pdf?id=nMFSUjxMIl) 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024.
+            
+  ### C92. [IncreMacro: Incremental Macro Placement Refinement](https://doi.org/10.1145/3626184.3633321) 
+     * <a href="/publications/papers/PLACE_ISPD2024_Pu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
+     * Yuan Pu, Tinghuan Chen, Zhuolun He, Chen Bai, Haisheng Zheng, **Yibo Lin** and Bei Yu 
+     * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
+            
+  ### C91. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://doi.org/10.1145/3626184.3633320) 
+     * <a href="/publications/papers/PLACE_ISPD2024_Zhang.pdf" style="color:#3793ae">preprint</a>
+     * Yu Zhang, Yuan Pu, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, Keren Zhu, **Yibo Lin** and Bei Yu 
+     * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
+            
+  ### C90. [Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs](https://doi.org/10.1145/3626184.3633322) 
+     * <a href="/publications/papers/PLACE_ISPD2024_Liu.pdf" style="color:#3793ae">preprint</a>
+     * Siting Liu, Jiaxi Jiang, Zhuolun He, Ziyi Wang, **Yibo Lin** and Bei Yu 
+     * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
             
   ### C89. Heterogeneous Static Timing Analysis with Advanced Delay Calculator 
      * accepted

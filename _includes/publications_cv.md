@@ -4,19 +4,27 @@
 **Conference Papers**
 
 
-* C96. Jiarui Wang, Xun Jiang and **Yibo Lin**, "Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+* C100. Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie, "[The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf)," arXiv preprint, 2024. ([preprint](https://arxiv.org/pdf/2403.07257.pdf){: .share-button-noborder})
             
-* C95. Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+* C99. Jiarui Wang, Xun Jiang and **Yibo Lin**, "Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
             
-* C94. Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang, "EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+* C98. Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
             
-* C93. Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang, "PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+* C97. Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang, "EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
             
-* C92. Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu, "Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+* C96. Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang, "PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
             
-* C91. Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu, "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+* C95. Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu, "Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
             
-* C90. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
+* C94. Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu, "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. (accepted)
+            
+* C93. Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang, "[CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment](https://openreview.net/pdf?id=nMFSUjxMIl)," International Conference on Learning Representations (ICLR), Vienna, Austria, May, 2024. ([release](https://circuitnet.github.io){: .share-button-noborder})(accepted)
+            
+* C92. Yuan Pu, Tinghuan Chen, Zhuolun He, Chen Bai, Haisheng Zheng, **Yibo Lin** and Bei Yu, "[IncreMacro: Incremental Macro Placement Refinement](https://doi.org/10.1145/3626184.3633321)," ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024. ([preprint](/publications/papers/PLACE_ISPD2024_Pu.pdf){: .share-button-noborder})(*Best Paper Nomination*)
+            
+* C91. Yu Zhang, Yuan Pu, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, Keren Zhu, **Yibo Lin** and Bei Yu, "[Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://doi.org/10.1145/3626184.3633320)," ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024. ([preprint](/publications/papers/PLACE_ISPD2024_Zhang.pdf){: .share-button-noborder})
+            
+* C90. Siting Liu, Jiaxi Jiang, Zhuolun He, Ziyi Wang, **Yibo Lin** and Bei Yu, "[Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs](https://doi.org/10.1145/3626184.3633322)," ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024. ([preprint](/publications/papers/PLACE_ISPD2024_Liu.pdf){: .share-button-noborder})
             
 * C89. Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Heterogeneous Static Timing Analysis with Advanced Delay Calculator," IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar, 2024. (accepted)
             

@@ -96,12 +96,12 @@ Conference Papers
      * Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin** 
      * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
             
-  ### C85. Stronger Mixed-Size Placement Backbone Considering Second-Order Information 
+  ### C85. [Stronger Mixed-Size Placement Backbone Considering Second-Order Information](https://doi.org/10.1109/ICCAD57390.2023.10323700) 
      * <a href="/publications/papers/PLACE_ICCAD2023_Chen.pdf" style="color:#3793ae">preprint</a>
      * Yifan Chen, Zaiwen Wen, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
             
-  ### C84. Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms 
+  ### C84. [Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms](https://doi.org/10.1109/ICCAD57390.2023.10323938) 
      * <a href="/publications/papers/PD_ICCAD2023_Jiang.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Xun Jiang, Zizheng Guo, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.

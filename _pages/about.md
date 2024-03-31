@@ -32,6 +32,8 @@ Highly-Recommended Resources
 News
 ======
 
+* 3/2024: We won the **First Place** at [ISPD 2024 GPU/ML-Enhanced Large Scale Global Routing Contest](https://liangrj2014.github.io/ISPD24_contest/). Cheers and congratulations to Chunyuan!
+
 * 7/2023: We are pleased to release [OpenPARF](https://github.com/PKU-IDEA/OpenPARF), an open-source placement and routing framework for large-scale heterogeneous FPGAs with deep learning toolkit. Please check it out!
 
 * 3/2023: Our paper, _SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility_, received the **Best Paper Award** at DATE 2023. Please checkout the [preprint](https://yibolin.com/publications/papers/ANALOG_DATE2023_Zhang.pdf) and binary [release](https://github.com/PKU-IDEA/SAGERoute). Cheers and thanks to all the co-authors!
@@ -49,28 +51,3 @@ News
 * 06/2020: Our co-authored paper, _TEMPO: Fast Mask Topography Effect Modeling with Deep Learning_, received the **Best Paper Award** at ISPD 2020. Please checkout the [preprint](https://limbo018.github.io/publications/papers/DFM_ISPD2020_Ye.pdf). Cheers!
 
 * 11/2019: Yibo presented _OpenMPL 2.0_ at ASICON 2019. Please checkout the [slides](https://limbo018.github.io/publications/papers/DFM_ASICON2019_Li.slides.pdf) and source code [release](https://github.com/limbo018/OpenMPL). Cheers and thanks to all the co-authors!
-
-* 07/2019: Yibo co-taught the class with Prof. David Z. Pan on _Machine Learning and Its Applications in IC Physical Design_ in the 3rd [IEEE/ACM Physical Design Automation Summer School](http://www.pda2019.com/). Please checkout the [slides](https://limbo018.github.io/publications/tutorials/PDSeasonableSchool_ML4PD.pdf). Thanks to the organizers!
-
-* 06/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Best Paper Award** at DAC 2019. Please checkout the [preprint](https://limbo018.github.io/publications/papers/PLACE_DAC2019_Lin.pdf), [slides](https://limbo018.github.io/publications/papers/PLACE_DAC2019_Lin.slides.pptx), and source code [release](https://github.com/limbo018/DREAMPlace). Cheers and thanks to all the co-authors!
-
-* 04/2019: Our recent work, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, is accepted by DAC 2019. Please checkout the [preprint](https://limbo018.github.io/publications/papers/PLACE_DAC2019_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers!
-
-* 06/2018: Yibo attended PhD forum at the 55th Design Automation Conference (DAC), San Francisco, CA. 
-
-* 06/2018: Yibo presented his work at Lithography Workshop 2018, Sun Valley, Idaho. 
-
-* 04/2018: Yibo passed his PhD defense. Cheers!
-
-* 03/2018: Yibo presented his work on transfer learning at ISPD 2018, Monterey, CA.
-
-* 03/2018: Yibo visited Texas A&M University and presented his recent research at Computer Engineering & Systems Group (CESG). 
-Thanks Dr. Alex Sprintson and Ms. Vickie Winston for hosting the event. 
-
-* 12/2017: One co-authored paper, _UTPlaceF 2.0: A High-Performance Clock-Aware FPGA Placement Engine_, is accepted by TODAES 2017. Cheers!
-
-* 09/2017: A VLSI CAD library [Limbo](https://github.com/limbo018/Limbo) that contains various utilities for CAD developement is released!
-
-* 05/2017: Yibo Lin starts his summer intern at Toshiba, Japan!
-
-* 03/2017: Congratulations to Yibo Lin for winning the prestigious University Graduate Continuing Fellowship!

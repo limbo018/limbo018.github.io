@@ -25,22 +25,22 @@ Recommended Prerequisite
 Course Material (Tentative)
 ======
 
-1. [Introduction: from electric symbols to the real physical world (基础背景介绍)](/courses/VLSICAD-slides/01-Introduction-I.pdf)
+1. Introduction: from electric symbols to the real physical world (基础背景介绍)
 
 2. Logic synthesis: manipulating circuit graph (逻辑综合)
-  -	Logic optimization (逻辑优化): [Boolean Algebra](/courses/VLSICAD-slides/03-BooleanAlgebra.pdf), [BDD & SAT](/courses/VLSICAD-slides/04-BDD&SAT.pdf), [Logic Synthesis](/courses/VLSICAD-slides/05-LogicSynthesis.pdf)
-  -	[Technology mapping (工艺映射)](/courses/VLSICAD-slides/05-TechnologyMapping.pdf)
+  -	Logic optimization (逻辑优化)
+  -	Technology mapping (工艺映射)
 
 3. Placement: from facility location problem to ASIC placement (布局)
-  - [Partitioning (分割)](/courses/VLSICAD-slides/06-Partitioning.pdf)
-  - [Floorplanning (布图规划)](/courses/VLSICAD-slides/07-Floorplanning.pdf)
-  - Placement (布局): [GP](/courses/VLSICAD-slides/08-Placement-GP.pdf), [LG](/courses/VLSICAD-slides/08-Placement-LG.pdf), [DP](/courses/VLSICAD-slides/08-Placement-DP.pdf), [Other](/courses/VLSICAD-slides/08-Placement-Other.pdf)
+  - Partitioning (分割)
+  - Floorplanning (布图规划)
+  - Placement (布局)
 
 4. Routing: from vehicle routing to VLSI routing (布线)
-  - [Tree generation & routing (布线拓扑树生成与布线)](/courses/VLSICAD-slides/09-Routing.pdf)
-  - [Clock & power routing (时钟与电源布线)](/courses/VLSICAD-slides/09-ClockPowerRouting.pdf)
+  - Tree generation & routing (布线拓扑树生成与布线)
+  - Clock & power routing (时钟与电源布线)
 
-5. [Timing analysis (时序分析)](/courses/VLSICAD-slides/10-STA.pdf)
+5. Timing analysis (时序分析)
   - Wire delay models (互联线延迟模型)
   - Static timing analysis (静态时序分析)
   - Incremental timing and CPPR (递进式分析和悲观路径过滤)

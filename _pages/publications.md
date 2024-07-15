@@ -19,53 +19,68 @@ Conference Papers
 
 * 2024
 
-  ### C100. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
+  ### C103. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
      * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
      * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
      * arXiv preprint, 2024.
             
-  ### C99. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
-     * accepted
+  ### C102. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
+     * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>
      * Jiarui Wang, Xun Jiang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C98. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
-     * accepted
+  ### C101. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
+     * <a href="/publications/papers/POWER_DAC2024_Du.pdf" style="color:#3793ae">preprint</a>
      * Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C97. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
-     * accepted
+  ### C100. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
+     * <a href="https://arxiv.org/abs/2404.13062" style="color:#3793ae">preprint</a>
      * Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C96. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
-     * accepted
+  ### C99. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
+     * <a href="/publications/papers/ANALOG_DAC2024_Kong.pdf" style="color:#3793ae">preprint</a>
      * Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C95. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
-     * accepted
+  ### C98. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
+     * <a href="/publications/papers/LOGIC_DAC2024_Pu.pdf" style="color:#3793ae">preprint</a>
      * Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
-  ### C94. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
-     * accepted
+  ### C97. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
+     * <a href="/publications/papers/PART_DAC2024_Lee.pdf" style="color:#3793ae">preprint</a>
      * Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
+  ### C96. Migrating Standard Cells for Multiple Drive Strengths by Routing Imitation 
+     * <a href="/publications/papers/CELL_ISEDA2024_Gao.pdf" style="color:#3793ae">preprint</a>
+     * Xiaohan Gao, Haoyi Zhang, Zhu Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
+            
+  ### C95. ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity 
+     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a>
+     * Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
+            
+  ### C94. OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions 
+     * <a href="/publications/papers/FPGA_ISEDA2024_Mai.pdf" style="color:#3793ae">preprint</a>
+     * Jing Mai, Jiarui Wang, Yifan Chen, Zizheng Guo, Xun Jiang, Yun Liang and **Yibo Lin** 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
+            
   ### C93. [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment](https://openreview.net/pdf?id=nMFSUjxMIl) 
-     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| accepted
+     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| <a href="https://openreview.net/pdf?id=nMFSUjxMIl," style="color:#3793ae">preprint</a>
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * International Conference on Learning Representations (ICLR), Vienna, Austria, May 7-11, 2024.
             
-  ### C92. Heterogeneous Static Timing Analysis with Advanced Delay Calculator 
-     * accepted
+  ### C92. [Heterogeneous Static Timing Analysis with Advanced Delay Calculator](https://ieeexplore.ieee.org/document/10546507) 
+     * <a href="/publications/papers/TIMER_DATE2024_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar 24-28, 2024.
             
-  ### C91. SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios 
-     * accepted
+  ### C91. [SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios](https://ieeexplore.ieee.org/document/10546542) 
+     * <a href="/publications/papers/ANALOG_DATE2024_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Haoyi Zhang, Xiaohan Gao, Zilong Shen, Jiahao Song, Xiaoxu Cheng, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar 24-28, 2024.
             

@@ -142,24 +142,24 @@ author_profile: true
         print("""\\begin{rSection}{Publications}
 
 """)
-        printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
+        printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
         # printCV(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
         print("""
-\end{rSection}
+\\end{rSection}
 
 """)
     elif suffix.lower() == 'cv_cn': 
         print("""\\begin{rSection}{出版物}
 
 """)
-        printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
         printCVCN(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
+        printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
+        printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
         printCVCN(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
         print("""
-\end{rSection}
+\\end{rSection}
 
 """)
     elif suffix.lower() == 'cvjekyll':
@@ -221,7 +221,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
             print("""
-- \[%s%d\] %s, 
+- \\[%s%d\\] %s, 
   "%s", 
   %s, %s, %s, edited by %s. 
   %s
@@ -230,14 +230,14 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             publisher = entry['publisher']
             number = entry['number']
             print("""
-- \[%s%d\] %s, 
+- \\[%s%d\\] %s, 
   "%s", 
   %s, %s, %s. 
   %s
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
         else:
             print("""
-- \[%s%d\] %s, 
+- \\[%s%d\\] %s, 
   "%s", 
   %s, %s. 
   %s
@@ -431,7 +431,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
             print("""
-\item[{[%s%d]}]{
+\\item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s, %s, edited by %s.
@@ -442,7 +442,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
             publisher = entry['publisher']
             number = entry['number']
             print("""
-\item[{[%s%d]}]{
+\\item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s, %s.
@@ -451,7 +451,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
         else:
             print("""
-\item[{[%s%d]}]{
+\\item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s.
@@ -462,7 +462,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
 
     print("""
 %}}}
-\end{description}
+\\end{description}
     """)
 
 def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
@@ -514,7 +514,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
             print("""
-\item[{[%s%d]}]{
+\\item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s, %s, edited by %s.
@@ -525,7 +525,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
             publisher = entry['publisher']
             number = entry['number']
             print("""
-\item[{[%s%d]}]{
+\\item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s, %s.
@@ -534,7 +534,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
         else:
             print("""
-\item[{[%s%d]}]{
+\\item[{[%s%d]}]{
         %s, 
     ``%s'', 
     %s, %s.
@@ -545,7 +545,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
 
     print("""
 %}}}
-\end{description}
+\\end{description}
     """)
 
 def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):

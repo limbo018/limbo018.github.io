@@ -77,12 +77,12 @@ Conference Papers
   ### C92. [Heterogeneous Static Timing Analysis with Advanced Delay Calculator](https://ieeexplore.ieee.org/document/10546507) 
      * <a href="/publications/papers/TIMER_DATE2024_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar 24-28, 2024.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Valencia, Spain, Mar 24-28, 2024.
             
   ### C91. [SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios](https://ieeexplore.ieee.org/document/10546542) 
      * <a href="/publications/papers/ANALOG_DATE2024_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Haoyi Zhang, Xiaohan Gao, Zilong Shen, Jiahao Song, Xiaoxu Cheng, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Valencia, Spain, Mar 24-28, 2024.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Valencia, Spain, Mar 24-28, 2024.
             
   ### C90. [IncreMacro: Incremental Macro Placement Refinement](https://doi.org/10.1145/3626184.3633321) 
      * <a href="/publications/papers/PLACE_ISPD2024_Pu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
@@ -168,12 +168,12 @@ Conference Papers
   ### C74. [SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility](https://doi.org/10.23919/DATE56975.2023.10137296) 
      * <a href="/publications/papers/ANALOG_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/SAGERoute" style="color:#3793ae">release</a> \| *Best Paper Award*
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
   ### C73. [READ: Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction](https://doi.org/10.23919/DATE56975.2023.10137254) 
      * <a href="/publications/papers/TIMING_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Zuodong Zhang, Meng Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
   ### C72. [MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899) 
      * <a href="/publications/papers/PLACE_ASPDAC2023_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/MacroRank" style="color:#3793ae">release</a>
@@ -239,22 +239,22 @@ Conference Papers
   ### C60. [EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis](https://doi.org/10.23919/DATE54114.2022.9774642) 
      * <a href="/publications/papers/TIMER_DATE2022_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C59. [FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.23919/DATE54114.2022.9774606) 
      * <a href="/publications/papers/ROUTE_DATE2022_Liu.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C58. [DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting](https://doi.org/10.23919/DATE54114.2022.9774725) 
      * <a href="/publications/papers/PLACE_DATE2022_Liao.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C57. [Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems](https://doi.org/10.23919/DATE54114.2022.9774671) 
      * <a href="/publications/papers/PLACE_DATE2022_Yang.pdf" style="color:#3793ae">preprint</a>
      * Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
   ### C56. [FPGA-Accelerated Maze Routing Kernel for VLSI Designs](https://doi.org/10.1109/ASP-DAC52403.2022.9712533) 
      * <a href="/publications/papers/ROUTE_ASPDAC2022_Jiang.pdf" style="color:#3793ae">preprint</a>
@@ -306,17 +306,17 @@ Conference Papers
   ### C47. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
      * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a>
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
   ### C46. [Global Placement with Deep Learning-Enabled Explicit Routability Optimization](https://doi.org/10.23919/DATE51398.2021.9473959) 
      * <a href="/publications/papers/PLACE_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
   ### C45. [Towards AQFP-Capable Physical Design Automation](https://doi.org/10.23919/DATE51398.2021.9474259) 
      * <a href="/publications/papers/QUANTUM_DATE2021_Li.pdf" style="color:#3793ae">preprint</a>
      * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Virtual Conference, Feb 01-05, 2021.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
   ### C44. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
      * <a href="/publications/papers/ANALOG_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
@@ -435,7 +435,7 @@ Conference Papers
   ### C22. [Litho-GPA: Gaussian Process Assurance for Lithography Hotspot Detection](https://doi.org/10.23919/DATE.2019.8714960) 
      * <a href="/publications/papers/HSD_DATE2019_Ye.pdf" style="color:#3793ae">preprint</a>
      * Wei Ye, Mohamed Baker Alawieh, Meng Li, **Yibo Lin** and David Z. Pan 
-     * IEEE/ACM Proceedings Design, Automation and Test in Eurpoe (DATE), Florence, Italy, Mar 25-29, 2019.
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Florence, Italy, Mar 25-29, 2019.
             
   ### C21. [Semi-Supervised Hotspot Detection with Self-Paced Multi-Task Learning](https://doi.org/10.1145/3287624.3287685) 
      * <a href="/publications/papers/HSD_ASPDAC2019_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/qwepi/SSL" style="color:#3793ae">release</a>

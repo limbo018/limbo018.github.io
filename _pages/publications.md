@@ -19,10 +19,45 @@ Conference Papers
 
 * 2024
 
-  ### C103. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
+  ### C110. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
      * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
      * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
      * arXiv preprint, 2024.
+            
+  ### C109. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
+     * accepted
+     * Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C108. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
+     * accepted
+     * Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, Yun Liang and **Yibo Lin** 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C107. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
+     * accepted
+     * Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C106. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
+     * accepted
+     * Xiaohan Gao, Haoyi Zhang, Bingyan Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C105. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
+     * accepted
+     * Yufan Du, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C104. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
+     * accepted
+     * Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C103. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
+     * accepted
+     * Jing Mai, Zuodong Zhang, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
   ### C102. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
      * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>
@@ -553,6 +588,13 @@ Conference Papers
 Journal Papers
 ======
 
+* 2024
+
+  ### J52. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
+     * accepted
+     * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+            
 * 2023
 
   ### J51. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
@@ -597,7 +639,6 @@ Journal Papers
      * IEEE Transactions on Circuits and Systems I, Dec, 2023.
             
   ### J42. [Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293) 
-     * accepted
      * Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
             

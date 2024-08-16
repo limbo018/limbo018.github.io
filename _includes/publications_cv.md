@@ -4,7 +4,21 @@
 **Conference Papers**
 
 
-* C103. Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie, "[The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf)," arXiv preprint, 2024. ([preprint](https://arxiv.org/pdf/2403.07257.pdf){: .share-button-noborder})
+* C110. Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie, "[The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf)," arXiv preprint, 2024. ([preprint](https://arxiv.org/pdf/2403.07257.pdf){: .share-button-noborder})
+            
+* C109. Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang, "ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
+            
+* C108. Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, Yun Liang and **Yibo Lin**, "HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
+            
+* C107. Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, **Yibo Lin**, Runsheng Wang and Ru Huang, "HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
+            
+* C106. Xiaohan Gao, Haoyi Zhang, Bingyan Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
+            
+* C105. Yufan Du, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Fusion of Global Placement and Gate Sizing with Differentiable Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
+            
+* C104. Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang, "FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
+            
+* C103. Jing Mai, Zuodong Zhang, **Yibo Lin**, Runsheng Wang and Ru Huang, "MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
             
 * C102. Jiarui Wang, Xun Jiang and **Yibo Lin**, "Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024. ([preprint](/publications/papers/ROUTE_DAC2024_Wang.pdf){: .share-button-noborder})
             
@@ -213,6 +227,8 @@
 **Journal Papers**
 
 
+* J52. Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu, "[Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+            
 * J51. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})
             
 * J50. Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. 
@@ -231,7 +247,7 @@
             
 * J43. Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen and **Yibo Lin**, "[LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization](https://doi.org/10.1109/TCSI.2023.3340554)," IEEE Transactions on Circuits and Systems I, Dec, 2023. ([preprint](https://arxiv.org/abs/2308.03233){: .share-button-noborder})
             
-* J42. Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu, "[Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. (accepted)
+* J42. Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu, "[Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. 
             
 * J41. Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang, **Yibo Lin** and Ru Huang, "[Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5)," SCIENCE CHINA Information Sciences, Oct, 2023. ([preprint](https://arxiv.org/pdf/2310.14049){: .share-button-noborder})
             

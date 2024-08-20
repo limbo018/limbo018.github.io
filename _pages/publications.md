@@ -111,7 +111,7 @@ Conference Papers
             
   ### C92. [Heterogeneous Static Timing Analysis with Advanced Delay Calculator](https://ieeexplore.ieee.org/document/10546507) 
      * <a href="/publications/papers/TIMER_DATE2024_Guo.pdf" style="color:#3793ae">preprint</a>
-     * Zizheng Guo, Tsung-Wei Huang, Jin Zhuo, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * Zizheng Guo, Tsung-Wei Huang, Zhou Jin, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Valencia, Spain, Mar 24-28, 2024.
             
   ### C91. [SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios](https://ieeexplore.ieee.org/document/10546542) 

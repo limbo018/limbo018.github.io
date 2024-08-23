@@ -590,9 +590,14 @@ Journal Papers
 
 * 2024
 
-  ### J52. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
+  ### J53. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
      * accepted
      * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+            
+  ### J52. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
+     * accepted
+     * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
             
 * 2023

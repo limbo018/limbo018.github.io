@@ -4,8 +4,6 @@
 **Conference Papers**
 
 
-* C111. Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie, "[The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf)," arXiv preprint, 2024. ([preprint](https://arxiv.org/pdf/2403.07257.pdf){: .share-button-noborder})
-            
 * C110. Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang, "ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
             
 * C109. Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, Yun Liang and **Yibo Lin**, "HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
@@ -229,9 +227,11 @@
 **Journal Papers**
 
 
-* J53. Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu, "[Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+* J54. Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu, "[Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
             
-* J52. Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "[A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+* J53. Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "[A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+            
+* J52. Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie, "[The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf)," arXiv preprint, 2024. ([preprint](https://arxiv.org/pdf/2403.07257.pdf){: .share-button-noborder})
             
 * J51. Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023. ([release](https://github.com/limbo018/DREAMPlace){: .share-button-noborder})
             

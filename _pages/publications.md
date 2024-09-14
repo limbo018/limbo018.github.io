@@ -19,11 +19,6 @@ Conference Papers
 
 * 2024
 
-  ### C111. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
-     * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
-     * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
-     * arXiv preprint, 2024.
-            
   ### C110. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
      * accepted
      * Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang 
@@ -595,15 +590,20 @@ Journal Papers
 
 * 2024
 
-  ### J53. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
+  ### J54. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
      * accepted
      * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
             
-  ### J52. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
+  ### J53. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
      * accepted
      * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+            
+  ### J52. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
+     * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
+     * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
+     * arXiv preprint, 2024.
             
 * 2023
 

@@ -83,6 +83,8 @@ Teaching experience
   
 Awards and Honors
 ======
+* Best Paper Award (x1) & Honorable Mention (x1), ISEDA 2024
+* Early Career Award, CCF Technical Committee in IC, 2023
 * Inaugural Best Reviewer Award, ICCAD 2023
 * Best Paper Award, DATE 2023
 * Best Paper Award, DATE 2022

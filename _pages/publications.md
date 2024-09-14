@@ -19,45 +19,50 @@ Conference Papers
 
 * 2024
 
-  ### C110. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
+  ### C111. [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/pdf/2403.07257.pdf) 
      * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
      * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
      * arXiv preprint, 2024.
             
-  ### C109. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
+  ### C110. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
      * accepted
      * Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C108. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
+  ### C109. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
      * accepted
      * Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C107. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
+  ### C108. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
      * accepted
      * Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C106. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
+  ### C107. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
      * accepted
      * Xiaohan Gao, Haoyi Zhang, Bingyan Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C105. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
+  ### C106. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
      * accepted
      * Yufan Du, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C104. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
+  ### C105. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
      * accepted
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C103. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
+  ### C104. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
      * accepted
      * Jing Mai, Zuodong Zhang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
+            
+  ### C103. [First Experimental Demonstration of Self-Aligned Flip FET (FFET): A Breakthrough Stacked Transistor Technology with 2.5T Design, Dual-Side Active and Interconnects](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631460) 
+     * <a href="https://vlsi24.mapyourshow.com/mys_shared/vlsi24/handouts/T11.4_Thu_Lu.pdf" style="color:#3793ae">preprint</a>
+     * Haoran Lu, Y Ge, ong , Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu and Ru Huang 
+     * IEEE Symposium on VLSI Technology and Circuits (VLSI), Honolulu, HI, Jun 16-20, 2024.
             
   ### C102. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
      * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>
@@ -95,17 +100,17 @@ Conference Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
   ### C95. ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity 
-     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a>
+     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a> \| *Honorable Mention*
      * Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
   ### C94. OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions 
-     * <a href="/publications/papers/FPGA_ISEDA2024_Mai.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/FPGA_ISEDA2024_Mai.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Award*
      * Jing Mai, Jiarui Wang, Yifan Chen, Zizheng Guo, Xun Jiang, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
   ### C93. [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment](https://openreview.net/pdf?id=nMFSUjxMIl) 
-     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| <a href="https://openreview.net/pdf?id=nMFSUjxMIl," style="color:#3793ae">preprint</a>
+     * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| <a href="https://openreview.net/pdf?id=nMFSUjxMIl" style="color:#3793ae">preprint</a>
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * International Conference on Learning Representations (ICLR), Vienna, Austria, May 7-11, 2024.
             

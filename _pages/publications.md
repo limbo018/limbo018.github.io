@@ -14,7 +14,7 @@ author_profile: true
 <br>
 
 
-Conference Papers
+Conference and Journal Papers
 ======
 
 * 2025

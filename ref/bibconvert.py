@@ -259,7 +259,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType):
     elif publishType == 'patent':
         print("=== Patents\n")
     elif publishType == 'conference_journal':
-        print("=== Conference and Journal Papers")
+        print("=== Conference and Journal Papers\n")
     else:
         print("=== Conference Papers\n")
     # print 
@@ -328,6 +328,8 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
         print("PhD Thesis\n======\n")
     elif publishType == 'patent':
         print("Patents\n======\n")
+    elif publishType == 'conference_journal':
+        print("Conference and Journal Papers\n======\n")
     else:
         print("Conference Papers\n======\n")
     # print 

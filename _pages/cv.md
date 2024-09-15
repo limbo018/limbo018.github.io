@@ -135,7 +135,9 @@ Professional Service
 * EC member
   * ACM/IEEE MLCAD 2021, financial chair
   * ACM/IEEE MLCAD 2022, financial chair
+  * IEEE ISEDA 2023, panel chair
   * ACM/IEEE MLCAD 2023, financial chair
+  * IEEE ISEDA 2024, panel chair
   * ACM/IEEE MLCAD 2024, program chair
 
 Skills

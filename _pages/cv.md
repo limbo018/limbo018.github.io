@@ -66,10 +66,16 @@ Work experience
 Teaching experience
 ======
 
+* Spring 2023-2024
+  * 集成电路工程算法 (Fundamental Algorithms for Engineering in Integrated Circuits)
+
+* Fall 2022-2024
+  * 设计自动化与计算系统 (Design Automation and Computing System)
+
 * Spring 2021-2022
   * 芯片设计自动化与智能优化 (Optimization and Machine Learning in VLSI Design Automation)
 
-* Fall 2020-2021
+* Fall 2020-2022
   * 计算概论B (Introduction to Computing B)
 
 * Fall 2018: Guest Lecture 
@@ -122,9 +128,15 @@ Professional Service
   * SPIE JM3
   * Elsevier Integration
 * Journal editor
-  * ACM TODAES Special Issue on MLCAD, 2022
+  * Guest Editor @ ACM TODAES Special Issue on MLCAD, 2022
+  * Guest Editor @ ACM TODAES Special Issue on MLCAD, 2024
+  * Associate Editor @ ACM TODAES Special Issue on MLCAD, 2024 - present
+  * Associate Editor @ Elsevier Integration, the VLSI Journal, 2024 - present
 * EC member
   * ACM/IEEE MLCAD 2021, financial chair
+  * ACM/IEEE MLCAD 2022, financial chair
+  * ACM/IEEE MLCAD 2023, financial chair
+  * ACM/IEEE MLCAD 2024, program chair
 
 Skills
 ======

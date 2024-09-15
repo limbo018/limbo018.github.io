@@ -11,6 +11,7 @@
 import sys
 import re
 import datetime
+import bisect
 import bibtexparser 
 import pdb
 
@@ -58,6 +59,38 @@ def getAddressAndDate(entry):
         addressAndDate += prefix + entry['year']
     return addressAndDate
 
+def getBooktitle(stringMap, publishType, entry): 
+    booktitleKeyMap = {'book' : 'booktitle', 'journal' : 'journal', 'conference' : 'booktitle', 'patent' : 'publisher', 'phdthesis' : 'booktitle'}
+    if publishType == 'conference_journal':
+        if 'journal' in entry: # journal, must be consistent to the function printBibDB 
+            booktitle = entry[booktitleKeyMap['journal']]
+        else: # conference 
+            booktitle = entry[booktitleKeyMap['conference']]
+    else: 
+        booktitle = entry[booktitleKeyMap[publishType]]
+
+    booktitle = stringMap[booktitle] if booktitle in stringMap else booktitle 
+    return booktitle 
+
+def getPrefix(publishType, entry): 
+    if publishType == 'book':
+        prefix = "B"
+    elif publishType == 'journal':
+        prefix = "J"
+    elif publishType == 'phdthesis': 
+        prefix = ""
+    elif publishType == 'patent':
+        prefix = "P"
+    elif publishType == 'conference_journal':
+        if 'journal' in entry: 
+            prefix = 'J'
+        else:
+            prefix = 'C'
+    else:
+        prefix = "C"
+    return prefix 
+
+
 # switch from [last name, first name] to [first name last name]
 def switchToFirstLastNameStyle(author):
     authorArray = author.split('and')
@@ -78,29 +111,41 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
     # differentiate journal and conference 
     # I assume journal uses 'journal' 
     # conference uses 'booktitle'
-    bookEntries = []
-    journalEntries = []
-    conferenceEntries = []
-    thesisEntries = []
-    patentEntries = []
+    bookEntries = {'UT' : [], 'PKU' : [], 'all' : []}
+    journalEntries = {'UT' : [], 'PKU' : [], 'all' : []}
+    conferenceEntries = {'UT' : [], 'PKU' : [], 'all' : []}
+    conferenceJournalEntries = {'UT' : [], 'PKU' : [], 'all' : []}
+    thesisEntries = {'UT' : [], 'PKU' : [], 'all' : []}
+    patentEntries = {'UT' : [], 'PKU' : [], 'all' : []}
 
     for entry in bibDB.entries:
         if 'editor' in entry and 'publisher' in entry:
-            bookEntries.append(entry)
+            bookEntries[entry['affiliation']].append(entry)
         elif 'journal' in entry:
-            journalEntries.append(entry)
+            journalEntries[entry['affiliation']].append(entry)
         elif entry['ENTRYTYPE'].lower() == 'phdthesis':
-            thesisEntries.append(entry)
+            thesisEntries[entry['affiliation']].append(entry)
         elif entry['ENTRYTYPE'].lower() == 'misc' and 'publisher' in entry and 'patent' in entry['publisher'].lower():
-            patentEntries.append(entry)
+            patentEntries[entry['affiliation']].append(entry)
         else:
-            conferenceEntries.append(entry)
+            conferenceEntries[entry['affiliation']].append(entry)
+
+    for affi in ['UT', 'PKU']: 
+        bookEntries['all'].extend(bookEntries[affi])
+        journalEntries['all'].extend(journalEntries[affi])
+        conferenceEntries['all'].extend(conferenceEntries[affi])
+        thesisEntries['all'].extend(thesisEntries[affi])
+        patentEntries['all'].extend(patentEntries[affi])
+
     # sort by years from large to small 
-    bookEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
-    journalEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
-    conferenceEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
-    thesisEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
-    patentEntries.sort(key=lambda entry: getDatetime(entry), reverse=True)
+    for affi in ['UT', 'PKU', 'all']: 
+        bookEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
+        journalEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
+        conferenceEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
+        conferenceJournalEntries[affi] = journalEntries[affi] + conferenceEntries[affi] 
+        conferenceJournalEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
+        thesisEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
+        patentEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
     stringMap = dict(bibDB.strings)
 
     # call kernel print functions 
@@ -111,11 +156,12 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
 = Publications
 
 """)
-        printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printJemdoc(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
-        #printJemdoc(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
+        printJemdoc(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['all'], 'conference_journal')
+        #printJemdoc(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference')
+        #printJemdoc(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal')
+        printJemdoc(bibDB, stringMap, highlightAuthors, bookEntries['all'], 'book')
+        printJemdoc(bibDB, stringMap, highlightAuthors, thesisEntries['all'], 'phdthesis')
+        #printJemdoc(bibDB, stringMap, highlightAuthors, patentEntries['all'], 'patent')
     elif suffix.lower() == 'jekyll':
         print("""---
 layout: archive
@@ -133,19 +179,30 @@ author_profile: true
 <br>
 
 """)
-        printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printJekyll(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
-        #printJekyll(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
+        printJekyll(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['all'], 'conference_journal')
+        #printJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference')
+        #printJekyll(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal')
+        printJekyll(bibDB, stringMap, highlightAuthors, bookEntries['all'], 'book')
+        printJekyll(bibDB, stringMap, highlightAuthors, thesisEntries['all'], 'phdthesis')
+        #printJekyll(bibDB, stringMap, highlightAuthors, patentEntries['all'], 'patent')
     elif suffix.lower() == 'cv':
         print("""\\begin{rSection}{Publications}
 
 """)
-        printCV(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printCV(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printCV(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        # printCV(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
+        printCV(bibDB, stringMap, highlightAuthors, bookEntries['PKU'], 'book', len(bookEntries['UT']))
+        printCV(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['PKU'], 'conference_journal', len(conferenceJournalEntries['UT']))
+        # printCV(bibDB, stringMap, highlightAuthors, patentEntries['PKU'], 'patent', 0)
+        print("""
+\\begin{description}[font=\\normalfont, rightmargin=2em]
+%{{{
+    \item \\textbf{========== Below are publications during Ph.D. and Postdoc ==========}
+%}}}
+\\end{description}
+        """)
+        printCV(bibDB, stringMap, highlightAuthors, bookEntries['UT'], 'book', 0)
+        printCV(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['UT'], 'conference_journal', 0)
+        #printCV(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal', 0)
+        #printCV(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference', 0)
         print("""
 \\end{rSection}
 
@@ -154,10 +211,20 @@ author_profile: true
         print("""\\begin{rSection}{出版物}
 
 """)
-        printCVCN(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printCVCN(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printCVCN(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
+        printCVCN(bibDB, stringMap, highlightAuthors, bookEntries['PKU'], 'book', len(bookEntries['UT']))
+        printCVCN(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['PKU'], 'conference_journal', len(conferenceJournalEntries['UT']))
+        printCVCN(bibDB, stringMap, highlightAuthors, patentEntries['PKU'], 'patent', 0)
+        print("""
+\\begin{description}[font=\\normalfont, rightmargin=2em]
+%{{{
+    \item \\textbf{================ 以下为博士及博后期间发表内容 ================}
+%}}}
+\\end{description}
+        """)
+        printCVCN(bibDB, stringMap, highlightAuthors, bookEntries['UT'], 'book', 0)
+        printCVCN(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['UT'], 'conference_journal', 0)
+        #printCVCN(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal', 0)
+        #printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference', 0)
         print("""
 \\end{rSection}
 
@@ -166,36 +233,35 @@ author_profile: true
         print("""
 {% include base_path %}
 """)
-        printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printCVJekyll(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        #printCVJekyll(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
+        printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['all'], 'conference_journal')
+        #printCVJekyll(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference')
+        #printCVJekyll(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal')
+        printCVJekyll(bibDB, stringMap, highlightAuthors, bookEntries['all'], 'book')
+        #printCVJekyll(bibDB, stringMap, highlightAuthors, patentEntries['all'], 'patent')
     elif suffix.lower() == 'shortref': 
-        printShortRef(bibDB, stringMap, highlightAuthors, conferenceEntries, 'conference', 'booktitle')
-        printShortRef(bibDB, stringMap, highlightAuthors, journalEntries, 'journal', 'journal')
-        printShortRef(bibDB, stringMap, highlightAuthors, bookEntries, 'book', 'booktitle')
-        printShortRef(bibDB, stringMap, highlightAuthors, thesisEntries, 'phdthesis', 'booktitle')
-        #printShortRef(bibDB, stringMap, highlightAuthors, patentEntries, 'patent', 'publisher')
+        printShortRef(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['all'], 'conference_journal')
+        #printShortRef(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference')
+        #printShortRef(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal')
+        printShortRef(bibDB, stringMap, highlightAuthors, bookEntries['all'], 'book')
+        printShortRef(bibDB, stringMap, highlightAuthors, thesisEntries['all'], 'phdthesis')
+        #printShortRef(bibDB, stringMap, highlightAuthors, patentEntries['all'], 'patent')
     else:
         assert 0, "unknown suffix = %s" % suffix
 
-def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType):
     prefix = ""
     if publishType == 'book':
         print("=== Book Chapters\n")
-        prefix = "B"
     elif publishType == 'journal':
         print("=== Journal Papers\n")
-        prefix = "J"
     elif publishType == 'phdthesis': 
         print("=== PhD Thesis\n")
-        prefix = ""
     elif publishType == 'patent':
         print("=== Patents\n")
-        prefix = "P"
+    elif publishType == 'conference_journal':
+        print("=== Conference and Journal Papers")
     else:
         print("=== Conference Papers\n")
-        prefix = "C"
     # print 
     currentYear = '' 
     count = len(entries)
@@ -209,7 +275,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "*"+highlightAuthor+"*")
         title = entry['title'].replace("/", "\\/").replace("{", "").replace("}", "")
-        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = getBooktitle(stringMap, publishType, entry)
         booktitle = booktitle.replace("\\", "")
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
@@ -217,6 +283,7 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         if publishlink: # create link if publishlink is set 
             title = "[" + publishlink + " " + title +"]"
         addressAndDate = getAddressAndDate(entry)
+        prefix = getPrefix(publishType, entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
@@ -235,6 +302,13 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
   %s, %s, %s. 
   %s
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
+        elif publishType == 'conference_journal': 
+            print("""
+- \\[%s%d\\] %s, 
+  "%s", 
+  %s, %s. 
+  %s
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         else:
             print("""
 - \\[%s%d\\] %s, 
@@ -244,23 +318,18 @@ def printJemdoc(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
-def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
     prefix = ""
     if publishType == 'book':
         print("Book Chapters\n======\n")
-        prefix = "B"
     elif publishType == 'journal':
         print("Journal Papers\n======\n")
-        prefix = "J"
     elif publishType == 'phdthesis':
         print("PhD Thesis\n======\n")
-        prefix = ""
     elif publishType == 'patent':
         print("Patents\n======\n")
-        prefix = "P"
     else:
         print("Conference Papers\n======\n")
-        prefix = "C"
     # print 
     currentYear = '' 
     count = len(entries)
@@ -275,7 +344,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
                 author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
         title = entry['title'].replace("{", "").replace("}", "")
         htmltitle = title
-        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = getBooktitle(stringMap, publishType, entry)
         booktitle = booktitle.replace("\\", "")
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
@@ -283,7 +352,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
         # change delimiter
         annotate = annotate.replace(")(", " \\| ").replace("(", "").replace(")", "")
         # change link syntax 
-        annotateLinks = re.findall('\[([^\]]*)\]', annotate)
+        annotateLinks = re.findall('\\[([^\\]]*)\\]', annotate)
         for annotateLink in annotateLinks: 
             tokens = annotateLink.strip().split()
             link = tokens[0]
@@ -297,6 +366,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             htmltitle = "<a href=\"%s\" style=\"color:#3793ae\">%s</a>" % (publishlink, title) # not used
             title = "[" + title + "](" + publishlink + ")"
         addressAndDate = getAddressAndDate(entry)
+        prefix = getPrefix(publishType, entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
@@ -314,6 +384,12 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
      * %s 
      * %s, %s, %s.
             """ % (prefix, count, title, annotate, author.replace(" and", ","), publisher, number, addressAndDate))
+        elif publishType == 'conference_journal':
+            print("""\
+  ### %s%d. %s %s
+     * %s 
+     * %s, %s.
+            """ % (prefix, count, title, annotate, author, booktitle, addressAndDate))
         else:
             print("""\
   ### %s%d. %s %s
@@ -322,20 +398,18 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, bookti
             """ % (prefix, count, title, annotate, author, booktitle, addressAndDate))
         count = count-1
 
-def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
     prefix = ""
     if publishType == 'book':
         print("**Book Chapters**\n\n")
-        prefix = "B"
     elif publishType == 'journal':
         print("**Journal Papers**\n\n")
-        prefix = "J"
     elif publishType == 'patent':
         print("**Patents**\n\n")
-        prefix = "P"
+    elif publishType == 'conference_journal': 
+        print("**Conference and Journal Papers**\n\n")
     else:
         print("**Conference Papers**\n\n")
-        prefix = "C"
     # print 
     currentYear = '' 
     count = len(entries)
@@ -348,13 +422,13 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, book
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
         title = entry['title'].replace("{", "").replace("}", "")
-        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = getBooktitle(stringMap, publishType, entry)
         booktitle = booktitle.replace("\\", "")
         address = entry['address'] if 'address' in entry else ""
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotateweb'] if 'annotateweb' in entry else ""
         # change link syntax 
-        annotateLinks = re.findall('\[([^\]]*)\]', annotate)
+        annotateLinks = re.findall('\\[([^\\]]*)\\]', annotate)
         for annotateLink in annotateLinks: 
             tokens = annotateLink.strip().split()
             link = tokens[0]
@@ -364,6 +438,7 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, book
         if publishlink: # create link if publishlink is set 
             title = "[" + title + "](" + publishlink + ")"
         addressAndDate = getAddressAndDate(entry)
+        prefix = getPrefix(publishType, entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
@@ -376,34 +451,38 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType, book
             print("""\
 * %s%d. %s, "%s," %s, %s, %s. %s
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
+        elif publishType == 'conference_journal': 
+            print("""\
+* %s%d. %s, "%s," %s, %s. %s
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         else:
             print("""\
 * %s%d. %s, "%s," %s, %s. %s
             """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
-def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffset):
     prefix = ""
     if publishType == 'book':
         print("""
 \\textbf{Book Chapters}
         """)
-        prefix = "B"
     elif publishType == 'journal':
         print("""
 \\textbf{Journal Papers}
         """)
-        prefix = "J"
     elif publishType == 'patent':
         print("""
 \\textbf{Patents}
         """)
-        prefix = "P"
+    elif publishType == 'conference_journal': 
+        print("""
+\\textbf{Conference and Journal Papers}
+        """)
     else:
         print("""
 \\textbf{Conference Papers}
         """)
-        prefix = "C"
     print("""
 \\begin{description}[font=\\normalfont, rightmargin=2em]
 %{{{
@@ -411,7 +490,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
 
     # print 
     currentYear = '' 
-    count = len(entries)
+    count = len(entries) + indexOffset
     for i, entry in enumerate(entries):
         if not currentYear or currentYear.lower() != entry['year'].lower():
             currentYear = entry['year']
@@ -421,12 +500,13 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")
         title = entry['title']
-        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = getBooktitle(stringMap, publishType, entry)
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotatecv'] if 'annotatecv' in entry else ""
         if publishlink: # create link if publishlink is set 
             title = "\\href{" + publishlink + "}{" + title +"}"
         addressAndDate = getAddressAndDate(entry)
+        prefix = getPrefix(publishType, entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
@@ -449,6 +529,15 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
     %s
 }
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
+        elif publishType == 'conference_journal':
+            print("""
+\\item[{[%s%d]}]{
+        %s, 
+    ``%s'', 
+    %s, %s.
+    %s
+}
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         else:
             print("""
 \\item[{[%s%d]}]{
@@ -465,28 +554,28 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleK
 \\end{description}
     """)
 
-def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
+def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffset):
     prefix = ""
     if publishType == 'book':
         print("""
 \\textbf{书籍章节}
         """)
-        prefix = "B"
     elif publishType == 'journal':
         print("""
 \\textbf{期刊论文}
         """)
-        prefix = "J"
     elif publishType == 'patent':
         print("""
 \\textbf{专利}
         """)
-        prefix = "P"
+    elif publishType == 'conference_journal': 
+        print("""
+\\textbf{会议及期刊论文}
+        """)
     else:
         print("""
 \\textbf{会议论文}
         """)
-        prefix = "C"
     print("""
 \\begin{description}[font=\\normalfont, rightmargin=2em]
 %{{{
@@ -494,7 +583,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
 
     # print 
     currentYear = '' 
-    count = len(entries)
+    count = len(entries) + indexOffset
     for i, entry in enumerate(entries):
         if not currentYear or currentYear.lower() != entry['year'].lower():
             currentYear = entry['year']
@@ -504,12 +593,13 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")
         title = entry['title']
-        booktitle = stringMap[entry[booktitleKey]] if entry[booktitleKey] in stringMap else entry[booktitleKey]
+        booktitle = getBooktitle(stringMap, publishType, entry) 
         publishlink = entry['publishlink'] if 'publishlink' in entry else ""
         annotate = entry['annotatecv'] if 'annotatecv' in entry else ""
         if publishlink: # create link if publishlink is set 
             title = "\\href{" + publishlink + "}{" + title +"}"
         addressAndDate = getAddressAndDate(entry)
+        prefix = getPrefix(publishType, entry)
         if publishType == 'book': 
             editor = switchToFirstLastNameStyle(entry['editor'])
             publisher = entry['publisher']
@@ -532,6 +622,15 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
     %s
 }
             """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
+        elif publishType == 'conference_journal':
+            print("""
+\\item[{[%s%d]}]{
+        %s, 
+    ``%s'', 
+    %s, %s.
+    %s
+}
+            """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         else:
             print("""
 \\item[{[%s%d]}]{
@@ -548,22 +647,11 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, booktitl
 \\end{description}
     """)
 
-def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType, booktitleKey):
-    prefix = ""
-    if publishType == 'book':
-        prefix = "B"
-    elif publishType == 'journal':
-        prefix = "J"
-    elif publishType == 'phdthesis':
-        prefix = ""
-    elif publishType == 'patent':
-        prefix = "P"
-    else:
-        prefix = "C"
-
+def printShortRef(bibDB, stringMap, highlightAuthors, entries, publishType):
     # print 
     count = len(entries)
     for i, entry in enumerate(entries):
+        prefix = getPrefix(publishType, entry)
         print("\\DefMacro{%s}{%s%d}" % (entry['ID'], prefix, count))
         count = count-1
 

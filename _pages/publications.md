@@ -17,6 +17,13 @@ author_profile: true
 Conference Papers
 ======
 
+* 2025
+
+  ### C111. PathGen: An Efficient Parallel Critical Path Generation Algorithm 
+     * accepted
+     * Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025.
+            
 * 2024
 
   ### C110. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
@@ -54,40 +61,40 @@ Conference Papers
      * Jing Mai, Zuodong Zhang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C103. [First Experimental Demonstration of Self-Aligned Flip FET (FFET): A Breakthrough Stacked Transistor Technology with 2.5T Design, Dual-Side Active and Interconnects](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631460) 
+  ### C103. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
+     * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>
+     * Jiarui Wang, Xun Jiang and **Yibo Lin** 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+            
+  ### C102. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
+     * <a href="/publications/papers/POWER_DAC2024_Du.pdf" style="color:#3793ae">preprint</a>
+     * Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+            
+  ### C101. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
+     * <a href="https://arxiv.org/abs/2404.13062" style="color:#3793ae">preprint</a>
+     * Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+            
+  ### C100. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
+     * <a href="/publications/papers/ANALOG_DAC2024_Kong.pdf" style="color:#3793ae">preprint</a>
+     * Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+            
+  ### C99. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
+     * <a href="/publications/papers/LOGIC_DAC2024_Pu.pdf" style="color:#3793ae">preprint</a>
+     * Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+            
+  ### C98. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
+     * <a href="/publications/papers/PART_DAC2024_Lee.pdf" style="color:#3793ae">preprint</a>
+     * Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
+            
+  ### C97. [First Experimental Demonstration of Self-Aligned Flip FET (FFET): A Breakthrough Stacked Transistor Technology with 2.5T Design, Dual-Side Active and Interconnects](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631460) 
      * <a href="https://vlsi24.mapyourshow.com/mys_shared/vlsi24/handouts/T11.4_Thu_Lu.pdf" style="color:#3793ae">preprint</a>
      * Haoran Lu, Y Ge, ong , Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu and Ru Huang 
      * IEEE Symposium on VLSI Technology and Circuits (VLSI), Honolulu, HI, Jun 16-20, 2024.
-            
-  ### C102. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
-     * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>
-     * Jiarui Wang, Xun Jiang and **Yibo Lin** 
-     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
-            
-  ### C101. PowPrediCT: Cross-Stage Power Prediction with Circuit-Transformation-Aware Learning 
-     * <a href="/publications/papers/POWER_DAC2024_Du.pdf" style="color:#3793ae">preprint</a>
-     * Yufan Du, Zizheng Guo, Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
-            
-  ### C100. EasyACIM: An End-to-End Automated Analog CIM with Synthesizable Architecture and Agile Design Space Exploration 
-     * <a href="https://arxiv.org/abs/2404.13062" style="color:#3793ae">preprint</a>
-     * Haoyi Zhang, Jiahao Song, Xiaohan Gao, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
-            
-  ### C99. PVTSizing: A TuRBO-RL-Based Batch-Sampling Optimization Framework for PVT-Robust Analog Circuit Synthesis 
-     * <a href="/publications/papers/ANALOG_DAC2024_Kong.pdf" style="color:#3793ae">preprint</a>
-     * Zichen Kong, Xiyuan Tang, Wei Shi, Yiheng Du, **Yibo Lin** and Yuan Wang 
-     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
-            
-  ### C98. Lesyn: Placement-aware Logic Resynthesis for Non-Integer Multiple-Cell-Height Designs 
-     * <a href="/publications/papers/LOGIC_DAC2024_Pu.pdf" style="color:#3793ae">preprint</a>
-     * Yuan Pu, Fangzhou Liu, Yu Zhang, Zhuolun He, Kai-Yuan Chao, **Yibo Lin** and Bei Yu 
-     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
-            
-  ### C97. G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner 
-     * <a href="/publications/papers/PART_DAC2024_Lee.pdf" style="color:#3793ae">preprint</a>
-     * Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu 
-     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun, 2024.
             
   ### C96. Migrating Standard Cells for Multiple Drive Strengths by Routing Imitation 
      * <a href="/publications/papers/CELL_ISEDA2024_Gao.pdf" style="color:#3793ae">preprint</a>

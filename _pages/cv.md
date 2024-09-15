@@ -72,7 +72,7 @@ Teaching experience
 * Fall 2022-2024
   * 设计自动化与计算系统 (Design Automation and Computing System)
 
-* Spring 2021-2022
+* Spring 2021-2022, Fall 2023-2024
   * 芯片设计自动化与智能优化 (Optimization and Machine Learning in VLSI Design Automation)
 
 * Fall 2020-2022

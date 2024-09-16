@@ -92,7 +92,7 @@ def getPrefix(publishType, entry):
 
 
 # switch from [last name, first name] to [first name last name]
-def switchToFirstLastNameStyle(author):
+def switchToFirstLastNameStyle(author, getArray=False):
     authorArray = author.split('and')
     for i, oneAuthor in enumerate(authorArray):
         if ',' in oneAuthor:
@@ -105,7 +105,10 @@ def switchToFirstLastNameStyle(author):
             author += ", " + authorArray[i]
         else:
             author += " and " + authorArray[i]
-    return author
+    if getArray: 
+        return authorArray
+    else: 
+        return author
 
 def printBibDB(bibDB, highlightAuthors, suffix, header):
     # differentiate journal and conference 
@@ -471,7 +474,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffse
         """)
     elif publishType == 'journal':
         print("""
-\\textbf{Journal Papers}
+\\textbf{Journal Papers} (* denotes corresponding authors)
         """)
     elif publishType == 'patent':
         print("""
@@ -479,11 +482,11 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffse
         """)
     elif publishType == 'conference_journal': 
         print("""
-\\textbf{Conference and Journal Papers}
+\\textbf{Conference and Journal Papers} (* denotes corresponding authors)
         """)
     else:
         print("""
-\\textbf{Conference Papers}
+\\textbf{Conference Papers} (* denotes corresponding authors)
         """)
     print("""
 \\begin{description}[font=\\normalfont, rightmargin=2em]
@@ -498,6 +501,10 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffse
             currentYear = entry['year']
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
+        if 'corresponding' in entry: # mark corresponding authors
+            correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
+            for correspondingAuthor in correspondingAuthors: 
+                author = author.replace(correspondingAuthor, correspondingAuthor+"*")
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")
@@ -564,7 +571,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOff
         """)
     elif publishType == 'journal':
         print("""
-\\textbf{期刊论文}
+\\textbf{期刊论文} (标*表示通讯作者)
         """)
     elif publishType == 'patent':
         print("""
@@ -572,11 +579,11 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOff
         """)
     elif publishType == 'conference_journal': 
         print("""
-\\textbf{会议及期刊论文}
+\\textbf{会议及期刊论文} (标*表示通讯作者)
         """)
     else:
         print("""
-\\textbf{会议论文}
+\\textbf{会议论文} (标*表示通讯作者)
         """)
     print("""
 \\begin{description}[font=\\normalfont, rightmargin=2em]
@@ -591,6 +598,10 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOff
             currentYear = entry['year']
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
+        if 'corresponding' in entry: # mark corresponding authors
+            correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
+            for correspondingAuthor in correspondingAuthors: 
+                author = author.replace(correspondingAuthor, correspondingAuthor+"*")
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "\\textbf{"+highlightAuthor+"}")

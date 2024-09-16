@@ -116,7 +116,7 @@
             
 * C110. Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "[A Robust FPGA Router with Concurrent Intra-CLB Rerouting](https://doi.org/10.1145/3566097.3567898)," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023. ([preprint](/publications/papers/ROUTE_ASPDAC2023_Wang.pdf){: .share-button-noborder})([release](https://github.com/PKU-IDEA/OpenPARF){: .share-button-noborder})
             
-* C109. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
+* J109. Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin**, "Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview," arXiv preprint, 2022. ([preprint](https://arxiv.org/pdf/2202.13564.pdf){: .share-button-noborder})
             
 * C108. Zizheng Guo, Feng Gu and **Yibo Lin**, "[GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022. ([preprint](/publications/papers/ROUTING_ICCAD2022_Guo.pdf){: .share-button-noborder})
             
@@ -126,7 +126,7 @@
             
 * J105. Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang, "[Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123)," IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022. 
             
-* J104. Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022. 
+* J104. Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu, "[FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022. 
             
 * C103. Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong, "[Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494)," ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022. 
             
@@ -304,7 +304,7 @@
             
 * J16. **Yibo Lin**, Bei Yu, Biying Xu and David Z. Pan, "[Triple patterning aware detailed placement toward zero cross-row middle-of-line conflict](http://dx.doi.org/10.1109/TCAD.2017.2648843)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFMP_TCAD2017_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/TPLPlace/index.html){: .share-button-noborder})
             
-* J15. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder})
+* J15. Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou, Brian Cline and David Z. Pan, "[Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017. ([preprint](/publications/papers/DFM_TCAD2017_Xu.pdf){: .share-button-noborder})
             
 * C14. Xiaoqing Xu, **Yibo Lin**, Vinicius Livramento and David Z. Pan, "[Concurrent Pin Access Optimization for Unidirectional Routing](https://doi.org/10.1145/3061639.3062214)," ACM/IEEE Design Automation Conference (DAC), Austin, TX, Jun 18-22, 2017. ([preprint](/publications/papers/DFMR_DAC2017_Xu.pdf){: .share-button-noborder})
             

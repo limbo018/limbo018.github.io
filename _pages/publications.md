@@ -298,7 +298,7 @@ Conference and Journal Papers
             
 * 2022
 
-  ### C109. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
+  ### J109. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
      * <a href="https://arxiv.org/pdf/2202.13564.pdf" style="color:#3793ae">preprint</a>
      * Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin** 
      * arXiv preprint, 2022.
@@ -322,7 +322,7 @@ Conference and Journal Papers
      * Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022.
             
-  ### J104. [FastGR : Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
+  ### J104. [FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
      * Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022.
             
@@ -767,7 +767,7 @@ Conference and Journal Papers
             
   ### J15. [Redundant local-Loop insertion for unidirectional routing](http://dx.doi.org/10.1109/TCAD.2017.2651811) 
      * <a href="/publications/papers/DFM_TCAD2017_Xu.pdf" style="color:#3793ae">preprint</a>
-     * Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou,  B. Cline  and  D. Z. Pan 
+     * Xiaoqing Xu, **Yibo Lin**, Meng Li, Jiaojiao Ou, Brian Cline and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2017.
             
   ### C14. [Concurrent Pin Access Optimization for Unidirectional Routing](https://doi.org/10.1145/3061639.3062214) 

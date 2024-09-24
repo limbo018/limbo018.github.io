@@ -138,7 +138,7 @@ Professional Service
   * IEEE ISEDA 2023, panel chair
   * ACM/IEEE MLCAD 2023, financial chair
   * IEEE ISEDA 2024, panel chair
-  * ACM/IEEE MLCAD 2024, program chair
+  * ACM/IEEE MLCAD 2024, program co-chair
 
 Skills
 ======

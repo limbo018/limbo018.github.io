@@ -457,98 +457,98 @@ Conference and Journal Papers
      * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
      * IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021.
             
-  ### J76. [机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011) 
+  ### J76. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843) 
+     * <a href="/publications/papers/PLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| **Best Paper Award**
+     * **Yibo Lin**, Zixuan Jiang, Jiaqi Gu, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Apr, 2021.
+            
+  ### J75. [机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011) 
      * **Yibo Lin**, Xiaohan Gao, Tinghuan Chen and Bei Yu 
      * 微纳电子与智能制造, Feb, 2021.
             
-  ### J75. [先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001) 
+  ### J74. [先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001) 
      * Cheng Zhuo, Zizheng Guo, Xiao Dong, Qing He and **Yibo Lin** 
      * 微纳电子与智能制造, Feb, 2021.
             
-  ### C74. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
+  ### C73. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
      * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a>
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C73. [Global Placement with Deep Learning-Enabled Explicit Routability Optimization](https://doi.org/10.23919/DATE51398.2021.9473959) 
+  ### C72. [Global Placement with Deep Learning-Enabled Explicit Routability Optimization](https://doi.org/10.23919/DATE51398.2021.9473959) 
      * <a href="/publications/papers/PLACE_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C72. [Towards AQFP-Capable Physical Design Automation](https://doi.org/10.23919/DATE51398.2021.9474259) 
+  ### C71. [Towards AQFP-Capable Physical Design Automation](https://doi.org/10.23919/DATE51398.2021.9474259) 
      * <a href="/publications/papers/QUANTUM_DATE2021_Li.pdf" style="color:#3793ae">preprint</a>
      * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C71. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
+  ### C70. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
      * <a href="/publications/papers/ANALOG_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
-  ### C70. [Deep Learning for Mask Synthesis and Verification: A Survey](https://doi.org/10.1145/3394885.3431624) 
+  ### C69. [Deep Learning for Mask Synthesis and Verification: A Survey](https://doi.org/10.1145/3394885.3431624) 
      * <a href="/publications/papers/DFM_ASPDAC2021_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
-  ### J69. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
+  ### J68. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
      * <a href="/publications/papers/FPGA_TCAD2021_Meng.pdf" style="color:#3793ae">preprint</a>
      * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2021.
             
 * 2020
 
-  ### J68. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
+  ### J67. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
      * <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a>
      * Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2020.
             
-  ### C67. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
+  ### C66. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
      * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C66. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
+  ### C65. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
      * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://guozz.cn/publication/gputimericcad-20/slides-gputimer.pdf" style="color:#3793ae">slides</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C65. [GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765) 
+  ### C64. [GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765) 
      * <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.slides.pdf" style="color:#3793ae">slides</a> \| *Invited Tutorial*
      * **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C64. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 
+  ### C63. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 
      * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020.
             
-  ### J63. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
+  ### J62. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
      * Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan 
      * IEEE Design & Test, Sep, 2020.
             
-  ### J62. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507) 
+  ### J61. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507) 
      * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
      * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2020.
             
-  ### J61. [Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571) 
+  ### J60. [Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571) 
      * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
      * IEEE Electron Device Letters (EDL), Aug, 2020.
             
-  ### C60. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706) 
+  ### C59. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706) 
      * <a href="http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector-slides.pdf" style="color:#3793ae">slides</a>
      * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020.
             
-  ### J59. [EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590) 
+  ### J58. [EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590) 
      * <a href="https://doi.org/10.1364/OE.394590" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei 
      * Optics Express, Jun, 2020.
-            
-  ### J58. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843) 
-     * <a href="/publications/papers/PLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| **Best Paper Award**
-     * **Yibo Lin**, Zixuan Jiang, Jiaqi Gu, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2020.
             
   ### J57. [A Novel and Unified Full-chip CMP Model Aware Dummy Fill Insertion Framework with SQP-Based Optimization Method](https://doi.org/10.1109/TCAD.2020.3001380) 
      * Junzhe Cai, Changhao Yan, Yudong Tao, **Yibo Lin**, Sheng-Guo Wang, David Z. Pan and Xuan Zeng 

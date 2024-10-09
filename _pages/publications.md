@@ -19,22 +19,27 @@ Conference and Journal Papers
 
 * 2025
 
-  ### C165. PathGen: An Efficient Parallel Critical Path Generation Algorithm 
+  ### C166. PathGen: An Efficient Parallel Critical Path Generation Algorithm 
      * accepted
      * Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025.
             
 * 2024
 
-  ### J164. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
+  ### J165. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
      * accepted
      * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
             
-  ### J163. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
+  ### J164. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
      * accepted
      * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+            
+  ### C163. Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis 
+     * <a href="/publications/papers/TIMING_ICSICT2024_Guo.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
+     * Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Zhuhai, China, Oct 22-25, 2024.
             
   ### C162. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
      * accepted
@@ -117,7 +122,7 @@ Conference and Journal Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
   ### C146. ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity 
-     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a> \| *Honorable Mention*
+     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a> \| *Honorable Mention Paper Award*
      * Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             

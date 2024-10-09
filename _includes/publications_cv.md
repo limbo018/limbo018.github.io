@@ -4,11 +4,13 @@
 **Conference and Journal Papers**
 
 
-* C165. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. (accepted)
+* C166. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. (accepted)
             
-* J164. Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu, "[Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+* J165. Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu, "[Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
             
-* J163. Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "[A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+* J164. Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**, "[A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. (accepted)
+            
+* C163. Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis," IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Zhuhai, China, Oct 22-25, 2024. ([preprint](/publications/papers/TIMING_ICSICT2024_Guo.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * C162. Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang, "ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. (accepted)
             
@@ -42,7 +44,7 @@
             
 * C147. Xiaohan Gao, Haoyi Zhang, Zhu Pan, **Yibo Lin**, Runsheng Wang and Ru Huang, "Migrating Standard Cells for Multiple Drive Strengths by Routing Imitation," IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024. ([preprint](/publications/papers/CELL_ISEDA2024_Gao.pdf){: .share-button-noborder})
             
-* C146. Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Runsheng Wang and Ru Huang, "ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity," IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024. ([preprint](https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity){: .share-button-noborder})(*Honorable Mention*)
+* C146. Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Runsheng Wang and Ru Huang, "ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity," IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024. ([preprint](https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity){: .share-button-noborder})(*Honorable Mention Paper Award*)
             
 * C145. Jing Mai, Jiarui Wang, Yifan Chen, Zizheng Guo, Xun Jiang, Yun Liang and **Yibo Lin**, "OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions," IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024. ([preprint](/publications/papers/FPGA_ISEDA2024_Mai.pdf){: .share-button-noborder})(*Best Paper Award*)
             

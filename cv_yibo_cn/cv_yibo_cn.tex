@@ -1,6 +1,7 @@
 
-\documentclass{resume}  % Use the custom resume.cls style
+\documentclass[a4paper]{resume}  % Use the custom resume.cls style
 \usepackage[UTF8]{ctex} % support Chinese characters
+\setCJKmainfont[AutoFakeBold=true]{STFangsong}
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
 \usepackage{enumitem}
 \usepackage{url}
@@ -50,7 +51,7 @@
 
 \address{助理教授 \\ 设计自动化与计算系统系 \\ 集成电路学院 \\ 北京大学}
 %\address{理科5号楼, 100871 \\ 北京大学}
-\address{yibolin@pku.edu.cn \\ \url{www.yibolin.com}}
+\address{yibolin@pku.edu.cn \\ www.yibolin.com}
 
 \begin{document}
 
@@ -64,8 +65,9 @@
 \input{doc/service}
 %\input{doc/funding}
 % \newpage
+\input{doc/repr_pubs}
 \input{doc/publication}
-\input{doc/talk}
+%\input{doc/talk}
 %\input{doc/service}
 %\clearpage
 %\input{doc/reference}

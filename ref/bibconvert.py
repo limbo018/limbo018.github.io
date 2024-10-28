@@ -151,6 +151,22 @@ def printBibDB(bibDB, highlightAuthors, suffix, header):
         patentEntries[affi].sort(key=lambda entry: getDatetime(entry), reverse=True)
     stringMap = dict(bibDB.strings)
 
+    # compute statistics 
+    stats = {}
+    for affi in ['UT', 'PKU', 'all']: 
+        stats[affi] = {}
+        dac_count = 0
+        iccad_count = 0
+        date_count = 0
+        tcad_count = 0
+        for entry in conferenceEntries[affi]: 
+            dac_count += (entry['booktitle'] == stringMap['dac'])
+            iccad_count += (entry['booktitle'] == stringMap['iccad'])
+            date_count += (entry['booktitle'] == stringMap['date'])
+        for entry in journalEntries[affi]: 
+            tcad_count += (entry['journal'] == stringMap['tcad'])
+        stats[affi] = {'dac' : dac_count, 'iccad' : iccad_count, 'date' : date_count, 'tcad' : tcad_count} 
+
     # call kernel print functions 
     if header:
         print(header)
@@ -190,20 +206,17 @@ author_profile: true
         #printJekyll(bibDB, stringMap, highlightAuthors, patentEntries['all'], 'patent')
     elif suffix.lower() == 'cv':
         print("""\\begin{rSection}{Publications}
-
 """)
         printCV(bibDB, stringMap, highlightAuthors, bookEntries['PKU'], 'book', len(bookEntries['UT']))
-        printCV(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['PKU'], 'conference_journal', len(conferenceJournalEntries['UT']))
+        printCV(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['PKU'], 'conference_journal', len(conferenceJournalEntries['UT']), stats['PKU'])
         # printCV(bibDB, stringMap, highlightAuthors, patentEntries['PKU'], 'patent', 0)
         print("""
 \\begin{description}[font=\\normalfont, rightmargin=2em]
-%{{{
     \item \\textbf{========== Below are publications during Ph.D. and Postdoc ==========}
-%}}}
 \\end{description}
         """)
         printCV(bibDB, stringMap, highlightAuthors, bookEntries['UT'], 'book', 0)
-        printCV(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['UT'], 'conference_journal', 0)
+        printCV(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['UT'], 'conference_journal', 0, stats['UT'])
         #printCV(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal', 0)
         #printCV(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference', 0)
         print("""
@@ -211,21 +224,28 @@ author_profile: true
 
 """)
     elif suffix.lower() == 'cv_cn': 
-        print("""\\begin{rSection}{出版物}
+        print("""\\begin{rSection}{发明专利列表}
+
+""")
+        printCVCN(bibDB, stringMap, highlightAuthors, patentEntries['PKU'], 'patent', 0)
+        print("""
+\\end{rSection}
+
+""")
+        print("""\\begin{rSection}{著作及论文列表}
 
 """)
         printCVCN(bibDB, stringMap, highlightAuthors, bookEntries['PKU'], 'book', len(bookEntries['UT']))
-        printCVCN(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['PKU'], 'conference_journal', len(conferenceJournalEntries['UT']))
-        printCVCN(bibDB, stringMap, highlightAuthors, patentEntries['PKU'], 'patent', 0)
+        printCVCN(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['PKU'], 'conference_journal', len(conferenceJournalEntries['UT']), stats['PKU'])
         print("""
 \\begin{description}[font=\\normalfont, rightmargin=2em]
 %{{{
-    \item \\textbf{================ 以下为博士及博后期间发表内容 ================}
+    \item \\textbf{================ 以下为博士及博士后期间发表内容 ================}
 %}}}
 \\end{description}
         """)
         printCVCN(bibDB, stringMap, highlightAuthors, bookEntries['UT'], 'book', 0)
-        printCVCN(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['UT'], 'conference_journal', 0)
+        printCVCN(bibDB, stringMap, highlightAuthors, conferenceJournalEntries['UT'], 'conference_journal', 0, stats['UT'])
         #printCVCN(bibDB, stringMap, highlightAuthors, journalEntries['all'], 'journal', 0)
         #printCVCN(bibDB, stringMap, highlightAuthors, conferenceEntries['all'], 'conference', 0)
         print("""
@@ -466,7 +486,7 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
             """ % (prefix, count, author, title, booktitle, addressAndDate, annotate))
         count = count-1
 
-def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffset):
+def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffset, stats=None):
     prefix = ""
     if publishType == 'book':
         print("""
@@ -477,13 +497,18 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffse
 \\textbf{Journal Papers} (* denotes corresponding authors)
         """)
     elif publishType == 'patent':
-        print("""
-\\textbf{Patents}
-        """)
+        pass 
+        # print("""
+        # \\textbf{Patents}
+        # """)
     elif publishType == 'conference_journal': 
         print("""
 \\textbf{Conference and Journal Papers} (* denotes corresponding authors)
         """)
+        if stats: 
+            print("""
+            \\textit{\\underline{Summary: DAC (%d), ICCAD (%d), IEEE TCAD (%d), DATE (%d), etc.}} 
+    """ % (stats['dac'], stats['iccad'], stats['tcad'], stats['date']))
     else:
         print("""
 \\textbf{Conference Papers} (* denotes corresponding authors)
@@ -563,7 +588,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffse
 \\end{description}
     """)
 
-def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffset):
+def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffset, stats=None):
     prefix = ""
     if publishType == 'book':
         print("""
@@ -574,13 +599,18 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOff
 \\textbf{期刊论文} (标*表示通讯作者)
         """)
     elif publishType == 'patent':
-        print("""
-\\textbf{专利}
-        """)
+        pass 
+        # print("""
+        # \\textbf{专利}
+        # """)
     elif publishType == 'conference_journal': 
         print("""
 \\textbf{会议及期刊论文} (标*表示通讯作者)
         """)
+        if stats: 
+            print("""
+            \\underline{论文成果包括: DAC (%d篇), ICCAD (%d篇), IEEE TCAD (%d篇), DATE (%d篇), ...} 
+    """ % (stats['dac'], stats['iccad'], stats['tcad'], stats['date']))
     else:
         print("""
 \\textbf{会议论文} (标*表示通讯作者)
@@ -634,7 +664,9 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOff
     %s, %s, %s.
     %s
 }
-            """ % (prefix, count, author.replace(" and", ","), title, publisher, number, addressAndDate, annotate))
+            """ % (prefix, count, author.replace(" and", ","), title, 
+                   "中国专利" if publisher == 'Chinese Patent' else publisher, 
+                   number, addressAndDate, annotate))
         elif publishType == 'conference_journal':
             print("""
 \\item[{[%s%d]}]{

@@ -26,60 +26,60 @@ Conference and Journal Papers
             
 * 2024
 
-  ### J165. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
-     * accepted
-     * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
-            
-  ### J164. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
-     * accepted
-     * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
-            
-  ### C163. Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis 
+  ### C165. Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis 
      * <a href="/publications/papers/TIMING_ICSICT2024_Guo.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Zhuhai, China, Oct 22-25, 2024.
             
-  ### C162. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
-     * accepted
+  ### C164. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
+     * <a href="/publications/papers/PLACE_ICCAD2024_Wang.pdf" style="color:#3793ae">preprint</a>
      * Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C161. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
-     * accepted
+  ### C163. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
+     * <a href="/publications/papers/ROUTE_ICCAD2024_Zhao.pdf" style="color:#3793ae">preprint</a>
      * Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C160. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
-     * accepted
+  ### C162. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
+     * <a href="/publications/papers/TIMING_ICCAD2024_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C159. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
-     * accepted
+  ### C161. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
+     * <a href="/publications/papers/ANALOG_ICCAD2024_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Haoyi Zhang, Bingyan Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C158. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
-     * accepted
+  ### C160. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
+     * <a href="/publications/papers/OPT_ICCAD2024_Du.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Yufan Du, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C157. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
-     * accepted
+  ### C159. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
+     * <a href="/publications/papers/THERMAL_ICCAD2024_Zhu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C156. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
-     * accepted
+  ### C158. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
+     * <a href="/publications/papers/PLACE_ICCAD2024_Mai.pdf" style="color:#3793ae">preprint</a>
      * Jing Mai, Zuodong Zhang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### J155. [Large Circuit Models: Opportunities and Challenges](https://arxiv.org/pdf/2403.07257.pdf) 
-     * <a href="https://arxiv.org/pdf/2403.07257.pdf" style="color:#3793ae">preprint</a>
+  ### J157. [Large Circuit Models: Opportunities and Challenges](https://doi.org/10.1007/s11432-024-4155-7) 
+     * <a href="https://dds.sciengine.com/cfs/files/pdfs/view/1674-733X/004D8F9453BB4AE39205F819D9341C66-mark.pdf" style="color:#3793ae">preprint</a>
      * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
      * Science China Information Sciences, Sep, 2024.
+            
+  ### J156. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
+     * accepted
+     * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2024.
+            
+  ### J155. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
+     * accepted
+     * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2024.
             
   ### C154. Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing 
      * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>
@@ -116,468 +116,467 @@ Conference and Journal Papers
      * Haoran Lu, Y Ge, ong , Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu and Ru Huang 
      * IEEE Symposium on VLSI Technology and Circuits (VLSI), Honolulu, HI, Jun 16-20, 2024.
             
-  ### C147. Migrating Standard Cells for Multiple Drive Strengths by Routing Imitation 
+  ### J147. [Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293) 
+     * Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2024.
+            
+  ### C146. [Migrating Standard Cells for Multiple Drive Strengths by Routing Imitation](https://doi.org/10.1109/ISEDA62518.2024.10617650) 
      * <a href="/publications/papers/CELL_ISEDA2024_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Haoyi Zhang, Zhu Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
-  ### C146. ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity 
+  ### C145. [ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity](https://doi.org/10.1109/ISEDA62518.2024.10617604) 
      * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a> \| *Honorable Mention Paper Award*
      * Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
-  ### C145. OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions 
+  ### C144. [OpenPARF 3.0: Robust Multi-Electrostatics Based FPGA Macro Placement Considering Cascaded Macros Groups and Fence Regions](https://doi.org/10.1109/ISEDA62518.2024.10617535) 
      * <a href="/publications/papers/FPGA_ISEDA2024_Mai.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Award*
      * Jing Mai, Jiarui Wang, Yifan Chen, Zizheng Guo, Xun Jiang, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
-  ### C144. [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment](https://openreview.net/pdf?id=nMFSUjxMIl) 
+  ### C143. [CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment](https://openreview.net/pdf?id=nMFSUjxMIl) 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a> \| <a href="https://openreview.net/pdf?id=nMFSUjxMIl" style="color:#3793ae">preprint</a>
      * Xun Jiang, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * International Conference on Learning Representations (ICLR), Vienna, Austria, May 7-11, 2024.
             
-  ### C143. [Heterogeneous Static Timing Analysis with Advanced Delay Calculator](https://ieeexplore.ieee.org/document/10546507) 
+  ### J142. [Dynamic Supply Noise Aware Timing Analysis With JIT Machine Learning Integration](https://doi.org/10.1109/TCAD.2023.3342603) 
+     * accepted
+     * Yufei Chen, Zizheng Guo, Runsheng Wang, Ru Huang, **Yibo Lin** and Cheng Zhuo 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2024.
+            
+  ### C141. [Heterogeneous Static Timing Analysis with Advanced Delay Calculator](https://ieeexplore.ieee.org/document/10546507) 
      * <a href="/publications/papers/TIMER_DATE2024_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang, Zhou Jin, Cheng Zhuo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Valencia, Spain, Mar 24-28, 2024.
             
-  ### C142. [SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios](https://ieeexplore.ieee.org/document/10546542) 
+  ### C140. [SAGERoute 2.0: Hierarchical Analog and Mixed Signal Routing Considering Versatile Routing Scenarios](https://ieeexplore.ieee.org/document/10546542) 
      * <a href="/publications/papers/ANALOG_DATE2024_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Haoyi Zhang, Xiaohan Gao, Zilong Shen, Jiahao Song, Xiaoxu Cheng, Xiyuan Tang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Valencia, Spain, Mar 24-28, 2024.
             
-  ### C141. [IncreMacro: Incremental Macro Placement Refinement](https://doi.org/10.1145/3626184.3633321) 
+  ### C139. [IncreMacro: Incremental Macro Placement Refinement](https://doi.org/10.1145/3626184.3633321) 
      * <a href="/publications/papers/PLACE_ISPD2024_Pu.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Yuan Pu, Tinghuan Chen, Zhuolun He, Chen Bai, Haisheng Zheng, **Yibo Lin** and Bei Yu 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
             
-  ### C140. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://doi.org/10.1145/3626184.3633320) 
+  ### C138. [Multi-Electrostatics Based Placement for Non-Integer Multiple-Height Cells](https://doi.org/10.1145/3626184.3633320) 
      * <a href="/publications/papers/PLACE_ISPD2024_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Yu Zhang, Yuan Pu, Fangzhou Liu, Peiyu Liao, Kaiyuan Chao, Keren Zhu, **Yibo Lin** and Bei Yu 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
             
-  ### C139. [Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs](https://doi.org/10.1145/3626184.3633322) 
+  ### C137. [Routing-aware Legal Hybrid Bonding Terminal Assignment for 3D Face-to-Face Stacked ICs](https://doi.org/10.1145/3626184.3633322) 
      * <a href="/publications/papers/ROUTE_ISPD2024_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Jiaxi Jiang, Zhuolun He, Ziyi Wang, **Yibo Lin** and Bei Yu 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Mar 12-15, 2024.
             
-  ### C138. [An Efficient Task-parallel Pipeline Programming Framework](https://doi.org/10.1145/3635035.3635037) 
-     * accepted
+  ### J136. [LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization](https://doi.org/10.1109/TCSI.2023.3340554) 
+     * <a href="https://arxiv.org/abs/2308.03233" style="color:#3793ae">preprint</a>
+     * Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen and **Yibo Lin** 
+     * IEEE Transactions on Circuits and Systems I, Mar, 2024.
+            
+  ### J135. [Multielectrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101) 
+     * <a href="https://arxiv.org/abs/2303.09305" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a>
+     * Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin** 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb, 2024.
+            
+  ### C134. [An Efficient Task-parallel Pipeline Programming Framework](https://doi.org/10.1145/3635035.3635037) 
      * Cheng-Hsiang Chiu, Zhicheng Xiong, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * International Conference on High-Performance Computing in Asia-Pacific Region (HPC Asia), Nagoya, Japan, Jan, 2024.
             
 * 2023
 
-  ### J137. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
-     * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
-     * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
+  ### J133. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
+     * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
             
-  ### J136. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
-     * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
-            
-  ### J135. [DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3594666) 
-     * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
-     * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2023.
-            
-  ### J134. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
-     * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
-            
-  ### J133. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
+  ### J132. [CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970) 
      * <a href="https://circuitnet.github.io" style="color:#3793ae">release</a>
      * Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.
-            
-  ### J132. [Dynamic Supply Noise Aware Timing Analysis With JIT Machine Learning Integration](https://doi.org/10.1109/TCAD.2023.3342603) 
-     * accepted
-     * Yufei Chen, Zizheng Guo, Runsheng Wang, Ru Huang, **Yibo Lin** and Cheng Zhuo 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
             
-  ### J131. [LEAPS: Topological-Layout-Adaptable Multi-Die FPGA Placement for Super Long Line Minimization](https://doi.org/10.1109/TCSI.2023.3340554) 
-     * <a href="https://arxiv.org/abs/2308.03233" style="color:#3793ae">preprint</a>
-     * Zhixiong Di, Runzhe Tao, Jing Mai, Lin Chen and **Yibo Lin** 
-     * IEEE Transactions on Circuits and Systems I, Dec, 2023.
+  ### J131. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167) 
+     * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2023.
             
-  ### J130. [Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293) 
-     * Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023.
+  ### J130. [A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274) 
+     * Guannan Guo, Tsung-Wei Huang, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2023.
             
   ### C129. [Stronger Mixed-Size Placement Backbone Considering Second-Order Information](https://doi.org/10.1109/ICCAD57390.2023.10323700) 
      * <a href="/publications/papers/PLACE_ICCAD2023_Chen.pdf" style="color:#3793ae">preprint</a>
      * Yifan Chen, Zaiwen Wen, Yun Liang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct 29-31, 2023.
             
-  ### J128. [Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5) 
+  ### J128. [DREAMPlace 4.0: Timing-driven Placement with Momentum-based Net Weighting and Lagrangian-based Refinement](https://doi.org/10.1109/TCAD.2023.3240132) 
+     * <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
+     * Peiyu Liao, Dawei Guo, Zizheng Guo, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2023.
+            
+  ### J127. [Post-Layout Simulation Driven Analog Circuit Sizing](https://doi.org/10.1007/s11432-022-3878-5) 
      * <a href="https://arxiv.org/pdf/2310.14049" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Haoyi Zhang, Siyuan Ye, Mingjie Liu, David Z. Pan, Linxiao Shen, Runsheng Wang, **Yibo Lin** and Ru Huang 
      * SCIENCE CHINA Information Sciences, Oct, 2023.
             
-  ### C127. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://arxiv.org/abs/2306.16665) 
+  ### C126. [OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit](https://doi.org/10.1109/ASICON58565.2023.10396248) 
      * <a href="https://arxiv.org/abs/2306.16665" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a> \| *Invited Paper*
      * Jing Mai, Jiaru Wang, Zhixiong Di, Guojie Luo, Yun Liang and **Yibo Lin** 
      * International Conference on ASIC (ASICON), Nanjing, China, Oct, 2023.
             
-  ### C126. [Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms](https://doi.org/10.1109/ICCAD57390.2023.10323938) 
+  ### C125. [Accelerating Routability and Timing Optimization with Open-Source AI4EDA Dataset CircuitNet and Heterogeneous Platforms](https://doi.org/10.1109/ICCAD57390.2023.10323938) 
      * <a href="/publications/papers/PD_ICCAD2023_Jiang.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Xun Jiang, Zizheng Guo, Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Francisco, CA, Oct, 2023.
             
-  ### C125. [Khronos: Fusing Memory Access for Improved Hardware RTL Simulation](https://doi.org/10.1145/3613424.3614301) 
+  ### C124. [Khronos: Fusing Memory Access for Improved Hardware RTL Simulation](https://doi.org/10.1145/3613424.3614301) 
      * <a href="https://dl.acm.org/doi/pdf/10.1145/3613424.3614301" style="color:#3793ae">preprint</a>
      * Kexing Zhou, Yun Liang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium on Microarchitecture (MICRO), Toronto, Canada, Oct, 2023.
             
-  ### J124. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity, Clock Feasibility, and Timing Optimization](https://doi.org/10.1109/TCAD.2023.3313101) 
-     * <a href="https://arxiv.org/abs/2303.09305" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a>
-     * Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin** 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2023.
+  ### J123. [DRC-SG 2.0: Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3594666) 
+     * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
+     * ACM Transactions on Design Automation of Electronic Systems (TODAES), Sep, 2023.
             
-  ### C123. General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism 
+  ### C122. [General-Purpose Gate-Level Simulation with Partition-Agnostic Parallelism](https://doi.org/10.1109/DAC56929.2023.10247907) 
      * <a href="/publications/papers/SIM_DAC2023_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Zuodong Zhang, Xun Jiang, Wuxi Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C122. MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line 
+  ### C121. [MTL-Designer: An Integrated Flow for Analysis and Synthesis of Microstrip Transmission Line](https://doi.org/10.1109/DAC56929.2023.10247759) 
      * <a href="/publications/papers/ANALOG_DAC2023_Wang.pdf" style="color:#3793ae">preprint</a>
      * Qipan Wang, Ping Liu, Ligguo Jiang, Mingjie Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C121. On a Moreau Envelope Wirelength Model for Analytical Global Placement 
+  ### C120. [On a Moreau Envelope Wirelength Model for Analytical Global Placement](https://doi.org/10.1109/DAC56929.2023.10247712) 
      * <a href="/publications/papers/PLACE_DAC2023_Liao.pdf" style="color:#3793ae">preprint</a>
      * Peiyu Liao, Hongduo Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C120. Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement 
+  ### C119. [Concurrent Sign-off Timing Optimization via Deep Steiner Points Refinement](https://doi.org/10.1109/DAC56929.2023.10247794) 
      * <a href="/publications/papers/ROUTE_DAC2023_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C119. Mitigating Distribution Shift for Congestion Optimization in Global Placement 
+  ### C118. [Mitigating Distribution Shift for Congestion Optimization in Global Placement](https://doi.org/10.1109/DAC56929.2023.10247660) 
      * <a href="/publications/papers/PLACE_DAC2023_Zheng.pdf" style="color:#3793ae">preprint</a>
      * Su Zheng, Lancheng Zou, Siting Liu, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### C118. LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition 
+  ### C117. [LRSDP: Low-Rank SDP for Triple Patterning Lithography Layout Decomposition](https://doi.org/10.1109/DAC56929.2023.10247846) 
      * <a href="/publications/papers/MPL_DAC2023_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Yu Zhang, Yifan Chen, Zhonglin Xie, Hong Xu, Zaiwen Wen, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 9-13, 2023.
             
-  ### J117. [Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261) 
-     * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2023.
+  ### J116. [FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
+     * Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2023.
             
-  ### C116. [HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://arxiv.org/pdf/2305.05374.pdf) 
+  ### C115. [HybridNet: Dual-Branch Fusion of Geometrical and Topological Views for VLSI Congestion Prediction](https://doi.org/10.1109/ISEDA59274.2023.10218656) 
      * <a href="https://arxiv.org/pdf/2305.05374.pdf" style="color:#3793ae">preprint</a>
      * Yuxiang Zhao, Zhuomin Chai, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023.
             
-  ### C115. [Multi-Scenario Analog and Mixed-Signal Circuit Routing with Agile Human Interaction](https://doi.org/10.1109/ISEDA59274.2023.10218434) 
+  ### C114. [Multi-Scenario Analog and Mixed-Signal Circuit Routing with Agile Human Interaction](https://doi.org/10.1109/ISEDA59274.2023.10218434) 
      * Haoyi Zhang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Nanjing, China, May 8-11, 2023.
             
-  ### C114. [SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility](https://doi.org/10.23919/DATE56975.2023.10137296) 
+  ### C113. [SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility](https://doi.org/10.23919/DATE56975.2023.10137296) 
      * <a href="/publications/papers/ANALOG_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/SAGERoute" style="color:#3793ae">release</a> \| *Best Paper Award*
      * Haoyi Zhang, Xiaohan Gao, Haoyang Luo, Jiahao Song, Xiyuan Tang, Junhua Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
-  ### C113. [READ: Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction](https://doi.org/10.23919/DATE56975.2023.10137254) 
+  ### C112. [READ: Reliability-Enhanced Accelerator Dataflow Optimization using Critical Input Pattern Reduction](https://doi.org/10.23919/DATE56975.2023.10137254) 
      * <a href="/publications/papers/TIMING_DATE2023_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Zuodong Zhang, Meng Li, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Apr 17-19, 2023.
             
-  ### J112. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
+  ### J111. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234) 
+     * Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Mar, 2023.
+            
+  ### J110. [Introduction to the Special Issue on Machine Learning for CAD/EDA](https://doi.org/10.1145/3586208) 
      * **Yibo Lin**, Avi Ziv and Haoxing Ren 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), Mar, 2023.
             
-  ### C111. [MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899) 
+  ### J109. [Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123) 
+     * Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Circuits and Systems II: Express Briefs, Feb, 2023.
+            
+  ### C108. [MacroRank: Ranking Macro Placement Solutions Leveraging Translation Equivariancy](https://doi.org/10.1145/3566097.3567899) 
      * <a href="/publications/papers/PLACE_ASPDAC2023_Chen.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/MacroRank" style="color:#3793ae">release</a>
      * Yifan Chen, Jing Mai, Xiaohan Gao, Muhan Zhang and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
-  ### C110. [A Robust FPGA Router with Concurrent Intra-CLB Rerouting](https://doi.org/10.1145/3566097.3567898) 
+  ### C107. [A Robust FPGA Router with Concurrent Intra-CLB Rerouting](https://doi.org/10.1145/3566097.3567898) 
      * <a href="/publications/papers/ROUTE_ASPDAC2023_Wang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a>
      * Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 16-19, 2023.
             
 * 2022
 
-  ### J109. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
+  ### J106. Towards Machine Learning for Placement and Routing in Chip Design: a Methodological Overview 
      * <a href="https://arxiv.org/pdf/2202.13564.pdf" style="color:#3793ae">preprint</a>
      * Junchi Yan, Xianglong Lyu, Ruoyu Cheng and **Yibo Lin** 
      * arXiv preprint, 2022.
             
-  ### C108. [GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434) 
+  ### J105. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729) 
+     * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2022.
+            
+  ### C104. [GPU-Accelerated Rectilinear Steiner Tree Generation](https://doi.org/10.1145/3508352.3549434) 
      * <a href="/publications/papers/ROUTING_ICCAD2022_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Feng Gu and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
             
-  ### C107. [DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398) 
+  ### C103. [DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography](https://doi.org/10.1145/3508352.3549398) 
      * <a href="/publications/papers/DFM_ICCAD2022_Wang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/Brilight/DeePEB" style="color:#3793ae">release</a> \| *Best Paper Nomination*
      * Qipan Wang, Xiaohan Gao, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov 01-03, 2022.
             
-  ### C106. [Intelligent and Interactive Analog Layout Design Automation](https://doi.org/10.1109/ICSICT55466.2022.9963217) 
+  ### C102. [Intelligent and Interactive Analog Layout Design Automation](https://doi.org/10.1109/ICSICT55466.2022.9963217) 
      * <a href="/publications/papers/ANALOG_ICSICT2022_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * **Yibo Lin**, Xiaohan Gao, Haoyi Zhang, Runsheng Wang and Ru Huang 
      * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Nanjing, China, Oct 25-28, 2022.
             
-  ### J105. [Efficient Aging-Aware Standard Cell Library Characterization Based on Sensitivity Analysis](https://doi.org/10.1109/TCSII.2022.3212123) 
-     * Xinfa Zhang, Zuodong Zhang, **Yibo Lin**, Zhigang Ji, Runsheng Wang and Ru Huang 
-     * IEEE Transactions on Circuits and Systems II: Express Briefs, Oct, 2022.
-            
-  ### J104. [FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.1109/TCAD.2022.3217668) 
-     * Siting Liu, Yuan Pu, Peiyu Liao, Hongzhong Wu, Rui Zhang, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
+  ### J101. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758) 
+     * Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022.
             
-  ### C103. [Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494) 
+  ### J100. [MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762) 
+     * *Invited Keynote Paper*
+     * Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2022.
+            
+  ### C99. [Efficient Design Rule Checking Script Generation via Key Information Extraction](https://doi.org/10.1145/3551901.3556494) 
      * Binwu Zhu, Xinyun Zhang, **Yibo Lin**, Bei Yu and Martin Wong 
      * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Snowbird, Utah, Sep 12-13, 2022.
             
-  ### J102. [CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://www.sciengine.com/SCIS/doi/10.1007/s11432-022-3571-8) 
+  ### J98. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
+     * **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2022.
+            
+  ### J97. [CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA)](https://doi.org/10.1007/s11432-022-3571-8) 
      * <a href="https://arxiv.org/pdf/2208.01040" style="color:#3793ae">preprint</a> \| <a href="https://circuitnet.github.io" style="color:#3793ae">release</a>
      * Zhuomin Chai, Yuxiang Zhao, **Yibo Lin**, Wei Liu, Runsheng Wang and Ru Huang 
      * SCIENCE CHINA Information Sciences, Sep, 2022.
             
-  ### C101. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
+  ### C96. [Multi-Electrostatic FPGA Placement Considering SLICEL-SLICEM Heterogeneity and Clock Feasibility](https://doi.org/10.1145/3489517.3530568) 
      * <a href="/publications/papers/PLACE_DAC2022_Mai.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/OpenPARF" style="color:#3793ae">release</a>
      * Jing Mai, Yibai Meng, Zhixiong Di and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C100. [Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486) 
+  ### C95. [Differentiable-Timing-Driven Global Placement](https://doi.org/10.1145/3489517.3530486) 
      * <a href="/publications/papers/PLACE_DAC2022_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C99. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
+  ### C94. [A Timing Engine Inspired Graph Neural Network Model for Pre-Routing Slack Prediction](https://doi.org/10.1145/3489517.3530597) 
      * <a href="/publications/papers/Timing_DAC2022_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/TimingPredict" style="color:#3793ae">release</a>
      * Zizheng Guo, Mingjie Liu, Jiaqi Gu, Shuhan Zhang, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C98. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530) 
+  ### C93. [AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Application-based DVAFS](https://doi.org/10.1145/3489517.3530530) 
      * <a href="/publications/papers/Timing_DAC2022_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### C97. LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction 
+  ### C92. LHNN: Lattice Hypergraph Neural Network for VLSI Congestion Prediction 
      * <a href="https://arxiv.org/pdf/2203.12831.pdf" style="color:#3793ae">preprint</a>
      * Bowen Wang, Guibao Shen, Dong Li, Jianye Hao, Wulong Liu, Yu Huang, Hongzhong Wu, **Yibo Lin**, Guangyong Chen and Pheng Ann Heng 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul 10-14, 2022.
             
-  ### J96. [Interactive Analog Layout Editing with Instant Placement and Routing Legalization](https://doi.org/10.1109/TCAD.2022.3190234) 
-     * Xiaohan Gao, Haoyi Zhang, Mingjie Liu, Linxiao Shen, David Z. Pan, **Yibo Lin**, Runsheng Wang and Ru Huang 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jul, 2022.
+  ### J91. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
+     * <a href="https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
+     * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
+     * IEEE Transactions on Parallel and Distributed Systems (TPDS), Jun, 2022.
             
-  ### C95. [EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis](https://doi.org/10.23919/DATE54114.2022.9774642) 
+  ### C90. [EventTimer: Fast and Accurate Event-Based Dynamic Timing Analysis](https://doi.org/10.23919/DATE54114.2022.9774642) 
      * <a href="/publications/papers/TIMER_DATE2022_Zhang.pdf" style="color:#3793ae">preprint</a>
      * Zuodong Zhang, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
-  ### C94. [FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.23919/DATE54114.2022.9774606) 
+  ### C89. [FastGR: Global Routing on CPU-GPU with Heterogeneous Task Graph Scheduler](https://doi.org/10.23919/DATE54114.2022.9774606) 
      * <a href="/publications/papers/ROUTE_DATE2022_Liu.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * Siting Liu, Peiyu Liao, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
-  ### C93. [DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting](https://doi.org/10.23919/DATE54114.2022.9774725) 
+  ### C88. [DREAMPlace 4.0: Timing-driven Global Placement with Momentum-based Net Weighting](https://doi.org/10.23919/DATE54114.2022.9774725) 
      * <a href="/publications/papers/PLACE_DATE2022_Liao.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Peiyu Liao, Siting Liu, Zhitang Chen, Wenlong Lv, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
-  ### C92. [Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems](https://doi.org/10.23919/DATE54114.2022.9774671) 
+  ### C87. [Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems](https://doi.org/10.23919/DATE54114.2022.9774671) 
      * <a href="/publications/papers/PLACE_DATE2022_Yang.pdf" style="color:#3793ae">preprint</a>
      * Haoyu Yang, Kit Fung, Yuxuan Zhao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar 14-23, 2022.
             
-  ### C91. [FPGA-Accelerated Maze Routing Kernel for VLSI Designs](https://doi.org/10.1109/ASP-DAC52403.2022.9712533) 
+  ### C86. [FPGA-Accelerated Maze Routing Kernel for VLSI Designs](https://doi.org/10.1109/ASP-DAC52403.2022.9712533) 
      * <a href="/publications/papers/ROUTE_ASPDAC2022_Jiang.pdf" style="color:#3793ae">preprint</a>
      * Xun Jiang, **Yibo Lin** and Zhongfeng Wang 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
             
-  ### C90. [Efficient Critical Paths Search Algorithm using Mergeable Heap](https://doi.org/10.1109/ASP-DAC52403.2022.9712566) 
+  ### C85. [Efficient Critical Paths Search Algorithm using Mergeable Heap](https://doi.org/10.1109/ASP-DAC52403.2022.9712566) 
      * <a href="/publications/papers/Timing_ASPDAC2022_Zhou.pdf" style="color:#3793ae">preprint</a>
      * Kexing Zhou, Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Virtual Conference, Jan 17-20, 2022.
             
-  ### J89. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/TCAD.2022.3140729) 
-     * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
+  ### J84. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
+     * <a href="/publications/papers/FPGA_TCAD2021_Meng.pdf" style="color:#3793ae">preprint</a>
+     * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2022.
             
 * 2021
 
-  ### C88. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/DAC18074.2021.9586085) 
+  ### C83. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/DAC18074.2021.9586085) 
      * <a href="/publications/papers/TIMER_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C87. [GPU-accelerated Path-based Timing Analysis](https://doi.org/10.1109/DAC18074.2021.9586316) 
+  ### C82. [GPU-accelerated Path-based Timing Analysis](https://doi.org/10.1109/DAC18074.2021.9586316) 
      * <a href="/publications/papers/TIMER_TopK_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C86. [Ultrafast CPU/GPU Kernels for Density Accumulation in Placement](https://doi.org/10.1109/DAC18074.2021.9586149) 
+  ### C81. [Ultrafast CPU/GPU Kernels for Density Accumulation in Placement](https://doi.org/10.1109/DAC18074.2021.9586149) 
      * <a href="/publications/papers/PLACE_DAC2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Jing Mai and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### C85. [Interactive Analog Layout Editing with Instant Placement Legalization](https://doi.org/10.1109/DAC18074.2021.9586234) 
+  ### C80. [Interactive Analog Layout Editing with Instant Placement Legalization](https://doi.org/10.1109/DAC18074.2021.9586234) 
      * <a href="/publications/papers/ANALOG_DAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Mingjie Liu, David Z. Pan and **Yibo Lin** 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Dec 05-09, 2021.
             
-  ### J84. [模拟电路版图自动化与智能设计](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5743150191429632) 
+  ### J79. [模拟电路版图自动化与智能设计](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5743150191429632) 
      * **Yibo Lin** 
      * 中国计算机学会通讯, Dec, 2021.
             
-  ### J83. [A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs](https://doi.org/10.1109/TCAD.2021.3124758) 
-     * Zizheng Guo, Mingwei Yang, Tsung-Wei Huang and **Yibo Lin** 
+  ### J78. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
+     * <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a>
+     * Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021.
             
-  ### J82. [MLCAD: A Survey of Research in Machine Learning for CAD](https://doi.org/10.1109/TCAD.2021.3124762) 
-     * *Invited Keynote Paper*
-     * Martin Rapp, Hussam Amrouch, **Yibo Lin**, Bei Yu, David Z. Pan, Marilyn Wolf and Jörg Henkel 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021.
-            
-  ### C81. [HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism](https://doi.org/10.1109/ICCAD51958.2021.9643457) 
+  ### C77. [HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism](https://doi.org/10.1109/ICCAD51958.2021.9643457) 
      * <a href="/publications/papers/TIMER_ICCAD2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
             
-  ### C80. [GPU-accelerated Critical Path Generation with Path Constraints](https://doi.org/10.1109/ICCAD51958.2021.9643504) 
+  ### C76. [GPU-accelerated Critical Path Generation with Path Constraints](https://doi.org/10.1109/ICCAD51958.2021.9643504) 
      * <a href="/publications/papers/TIMER_TopK_ICCAD2021_Guo.pdf" style="color:#3793ae">preprint</a>
      * Guannan Guo, Tsung-Wei Huang, **Yibo Lin** and Martin Wong 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021.
             
-  ### J79. [Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing](https://doi.org/10.1109/TCAD.2021.3117505) 
-     * **Yibo Lin**, Tong Qu, Zongqing Lu, Yajuan Su and Yayi Wei 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Oct, 2021.
-            
-  ### C78. [Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network](https://doi.org/10.1117/12.2601685) 
+  ### C75. [Litho-Aware Redundant Local-Loop Insertion Framework With Convolutional Neural Network](https://doi.org/10.1117/12.2601685) 
      * <a href="/publications/papers/ROUTE_SPIE2021_Qu.pdf" style="color:#3793ae">preprint</a>
      * Tong Qu, **Yibo Lin**, Tianyang Gai, Xiaojing Su, Shuhan Wang, Bojie Ma, Yajuan Su and Yayi Wei 
      * Proceedings of SPIE, San Jose, CA, Sep 27, 2021.
             
-  ### J77. [Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System](https://doi.org/10.1109/TPDS.2021.3104255) 
-     * <a href="https://tsung-wei-huang.github.io/papers/tpds21-taskflow.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
-     * Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin and **Yibo Lin** 
-     * IEEE Transactions on Parallel and Distributed Systems (TPDS), Aug, 2021.
+  ### J74. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2020.3025075) 
+     * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
+     * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2021.
             
-  ### J76. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843) 
+  ### J73. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
+     * Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan 
+     * IEEE Design & Test, Apr, 2021.
+            
+  ### J72. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843) 
      * <a href="/publications/papers/PLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| **Best Paper Award**
      * **Yibo Lin**, Zixuan Jiang, Jiaqi Gu, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Apr, 2021.
             
-  ### J75. [机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011) 
+  ### J71. [A Novel and Unified Full-chip CMP Model Aware Dummy Fill Insertion Framework with SQP-Based Optimization Method](https://doi.org/10.1109/TCAD.2020.3001380) 
+     * Junzhe Cai, Changhao Yan, Yudong Tao, **Yibo Lin**, Sheng-Guo Wang, David Z. Pan and Xuan Zeng 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Mar, 2021.
+            
+  ### J70. [GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks](https://doi.org/10.1109/TCAD.2020.2995338) 
+     * <a href="/publications/papers/SRAF_TCAD2020_Alawieh.pdf" style="color:#3793ae">preprint</a>
+     * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb, 2021.
+            
+  ### J69. [机器学习辅助数字集成电路后端设计方法](https://doi.org/10.19816/j.cnki.10-1594/tn.2021.02.011) 
      * **Yibo Lin**, Xiaohan Gao, Tinghuan Chen and Bei Yu 
      * 微纳电子与智能制造, Feb, 2021.
             
-  ### J74. [先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001) 
+  ### J68. [先进工艺下的数字签核](https://doi.org/ 10.19816/j.cnki.10-1594/tn.2021.02.001) 
      * Cheng Zhuo, Zizheng Guo, Xiao Dong, Qing He and **Yibo Lin** 
      * 微纳电子与智能制造, Feb, 2021.
             
-  ### C73. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
+  ### C67. [Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing](https://doi.org/10.23919/DATE51398.2021.9474007) 
      * <a href="/publications/papers/ROUTE_DATE2021_Qu.pdf" style="color:#3793ae">preprint</a>
      * Tong Qu, **Yibo Lin**, Zongqing Lu, Yajuan Su and Yayi Wei 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C72. [Global Placement with Deep Learning-Enabled Explicit Routability Optimization](https://doi.org/10.23919/DATE51398.2021.9473959) 
+  ### C66. [Global Placement with Deep Learning-Enabled Explicit Routability Optimization](https://doi.org/10.23919/DATE51398.2021.9473959) 
      * <a href="/publications/papers/PLACE_DATE2021_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Qi Sun, Peiyu Liao, **Yibo Lin** and Bei Yu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C71. [Towards AQFP-Capable Physical Design Automation](https://doi.org/10.23919/DATE51398.2021.9474259) 
+  ### C65. [Towards AQFP-Capable Physical Design Automation](https://doi.org/10.23919/DATE51398.2021.9474259) 
      * <a href="/publications/papers/QUANTUM_DATE2021_Li.pdf" style="color:#3793ae">preprint</a>
      * Hongjia Li, Mengshu Sun, Tianyun Zhang, Olivia Chen, Nobuyuki Yoshikawa, Bei Yu, Yanzhi Wang and **Yibo Lin** 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual Conference, Feb 01-05, 2021.
             
-  ### C70. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
+  ### C64. [Layout Symmetry Annotation for Analog Circuits with Graph Neural Networks](https://doi.org/10.1145/3394885.3431545) 
      * <a href="/publications/papers/ANALOG_ASPDAC2021_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Chenhui Deng, Mingjie Liu, Zhiru Zhang, David Z. Pan and **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
-  ### C69. [Deep Learning for Mask Synthesis and Verification: A Survey](https://doi.org/10.1145/3394885.3431624) 
+  ### C63. [Deep Learning for Mask Synthesis and Verification: A Survey](https://doi.org/10.1145/3394885.3431624) 
      * <a href="/publications/papers/DFM_ASPDAC2021_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * **Yibo Lin** 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan 18-21, 2021.
             
-  ### J68. [elfPlace: Electrostatics-based Placement for Large-Scale Heterogeneous FPGAs](https://doi.org/10.1109/TCAD.2021.3053191) 
-     * <a href="/publications/papers/FPGA_TCAD2021_Meng.pdf" style="color:#3793ae">preprint</a>
-     * Yibai Meng, Wuxi Li, **Yibo Lin** and David Z. Pan 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jan, 2021.
-            
 * 2020
 
-  ### J67. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
-     * <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a>
-     * Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu and David Z. Pan 
+  ### J62. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531) 
+     * <a href="/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
+     * **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2020.
             
-  ### C66. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
+  ### C61. [DREAMPlace 3.0: Multi-Electrostatics Based Robust VLSI Placement with Region Constraints](https://doi.org/10.1145/3400302.3415691) 
      * <a href="/publications/papers/PLACE_ICCAD2020_Gu.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/PLACE_ICCAD2020_Gu.slides.pdf" style="color:#3793ae">slides</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
      * Jiaqi Gu, Zixuan Jiang, **Yibo Lin** and David Z. Pan 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C65. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
+  ### C60. [GPU-Accelerated Static Timing Analysis](https://doi.org/10.1145/3400302.3415631) 
      * <a href="/publications/papers/TIMER_ICCAD2020_Guo.pdf" style="color:#3793ae">preprint</a> \| <a href="https://guozz.cn/publication/gputimericcad-20/slides-gputimer.pdf" style="color:#3793ae">slides</a>
      * Zizheng Guo, Tsung-Wei Huang and **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C64. [GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765) 
+  ### C59. [GPU Acceleration in VLSI Back-end Design: Overview and Case Studies](https://doi.org/10.1145/3400302.3415765) 
      * <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="/publications/papers/GPUCAD_ICCAD2020_Lin.slides.pdf" style="color:#3793ae">slides</a> \| *Invited Tutorial*
      * **Yibo Lin** 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2-5, 2020.
             
-  ### C63. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 
+  ### C58. [TEMPO: Fast Mask Topography Effect Modeling with Deep Learning](https://doi.org/10.1145/3372780.3375565) 
      * <a href="/publications/papers/DFM_ISPD2020_Ye.pdf" style="color:#3793ae">preprint</a> \| **Best Paper Award**
      * Wei Ye, Mohamed Baker Alawieh, Yuki Watanabe, Shigeki Nojima, **Yibo Lin** and David Z. Pan 
      * ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, Sep 20-23, 2020.
             
-  ### J62. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153) 
-     * Hao Chen, Mingjie Liu, Biying Xu, Keren Zhu, Xiyuan Tang, Shaolan Li, **Yibo Lin**, Nan Sun and David Z. Pan 
-     * IEEE Design & Test, Sep, 2020.
-            
-  ### J61. [Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale](https://doi.org/10.1109/TCAD.2021.3082507) 
-     * <a href="https://github.com/taskflow/taskflow" style="color:#3793ae">release</a>
-     * Tsung-Wei Huang, **Yibo Lin**, Chun-Xun Lin, Guannan Guo and Martin Wong 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2020.
-            
-  ### J60. [Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571) 
+  ### J57. [Automatic Selection of Structure Parameters of Silicon on Insulator Lateral Power Device Using Bayesian Optimization](https://doi.org/10.1109/LED.2020.3013571) 
      * Jing Chen, Mohamed Baker Alawieh, **Yibo Lin**, Maolin Zhang, Jun Zhang, Yufeng Guo and David Z. Pan 
-     * IEEE Electron Device Letters (EDL), Aug, 2020.
+     * IEEE Electron Device Letters (EDL), Sep, 2020.
             
-  ### C59. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706) 
+  ### C56. [Adaptive Layout Decomposition with Graph Embedding Neural Networks](https://doi.org/10.1109/DAC18072.2020.9218706) 
      * <a href="http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector.pdf" style="color:#3793ae">preprint</a> \| <a href="http://www.cse.cuhk.edu.hk/~byu/papers/C98-DAC2020-MPL-Selector-slides.pdf" style="color:#3793ae">slides</a>
      * Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, **Yibo Lin** and Bei Yu 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, Jul 19-23, 2020.
             
-  ### J58. [EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590) 
+  ### J55. [EUV Multilayer Defect Characterization via Cycle-Consistent Learning](https://doi.org/10.1364/OE.394590) 
      * <a href="https://doi.org/10.1364/OE.394590" style="color:#3793ae">preprint</a>
      * Ying Chen, **Yibo Lin**, Rui Chen, Lisong Dong, Ruixuan Wu, Tianyang Gai, Le Ma, Yajuan Su and Yayi Wei 
      * Optics Express, Jun, 2020.
             
-  ### J57. [A Novel and Unified Full-chip CMP Model Aware Dummy Fill Insertion Framework with SQP-Based Optimization Method](https://doi.org/10.1109/TCAD.2020.3001380) 
-     * Junzhe Cai, Changhao Yan, Yudong Tao, **Yibo Lin**, Sheng-Guo Wang, David Z. Pan and Xuan Zeng 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2020.
-            
-  ### C56. DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs 
+  ### C54. DREAMPlace 2.0: Open-Source GPU-Accelerated Global and Detailed Placement for Large-Scale VLSI Designs 
      * <a href="/publications/papers/PLACE_CSTIC2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a> \| *Invited Paper*
      * **Yibo Lin**, David Z. Pan, Haoxing Ren and Brucek Khailany 
      * China Semiconductor Technology International Conference (CSTIC), Shanghai, China, Jun, 2020.
             
-  ### C55. [ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist](https://doi.org/10.1109/HOST45689.2020.9300272) 
+  ### C53. [ReGDS: A Reverse Engineering Framework from GDSII to Gate-level Netlist](https://doi.org/10.1109/HOST45689.2020.9300272) 
      * <a href="/publications/papers/SECURITY_HOST2020_Rajarathnam.pdf" style="color:#3793ae">preprint</a>
      * Rachel Selina Rajarathnam, **Yibo Lin**, Yier Jin and David Z. Pan 
      * IEEE International Workshop on Hardware-Oriented Security and Trust (HOST), San Jose, CA, May 4, 2020.
-            
-  ### J54. [GAN-SRAF: Sub-Resolution Assist Feature Generation using Generative Adversarial Networks](https://doi.org/10.1109/TCAD.2020.2995338) 
-     * <a href="/publications/papers/SRAF_TCAD2020_Alawieh.pdf" style="color:#3793ae">preprint</a>
-     * Mohamed Baker Alawieh, **Yibo Lin**, Zaiwei Zhang, Meng Li, Qixing Huang and David Z. Pan 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), May, 2020.
-            
-  ### J53. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531) 
-     * <a href="/publications/papers/ABCDPLACE_TCAD2020_Lin.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/limbo018/DREAMPlace" style="color:#3793ae">release</a>
-     * **Yibo Lin**, Wuxi Li, Jiaqi Gu, Haoxing Ren, Brucek Khailany and David Z. Pan 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb, 2020.
             
   ### J52. [Powernet: SOI Lateral Power Device Breakdown Prediction With Deep Neural Networks](https://doi.org/10.1109/ACCESS.2020.2970966) 
      * <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8978944" style="color:#3793ae">preprint</a>

@@ -3,5 +3,8 @@ all:
 	xelatex cv_yibo.tex
 	xelatex cv_yibo_address.tex
 
+repr: 
+	xelatex repr_pub_list.tex
+
 clean:
 	rm *.aux *.log *.nav *.out *.snm *.toc

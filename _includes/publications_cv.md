@@ -8,11 +8,11 @@
             
 * J172. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**, Runsheng Wang and Ru Huang, "PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
-* C171. Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang, "MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. 
+* C171. Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang, "MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. (accepted)
             
-* C170. Xizhe Shi, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Handling Latch Loops in Timing Analysis with Improved Complexity and Divergent Loop Detection," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. 
+* C170. Xizhe Shi, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Handling Latch Loops in Timing Analysis with Improved Complexity and Divergent Loop Detection," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. (accepted)
             
-* C169. Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang, "SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. 
+* C169. Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang, "SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. (accepted)
             
 * C168. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. (accepted)
             

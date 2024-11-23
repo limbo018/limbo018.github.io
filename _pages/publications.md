@@ -30,14 +30,17 @@ Conference and Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
   ### C171. MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC 
+     * accepted
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C170. Handling Latch Loops in Timing Analysis with Improved Complexity and Divergent Loop Detection 
+     * accepted
      * Xizhe Shi, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C169. SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support 
+     * accepted
      * Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             

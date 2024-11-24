@@ -26,7 +26,7 @@
             
 * C163. Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, **Yibo Lin**, Runsheng Wang and Ru Huang, "HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. ([preprint](/publications/papers/TIMING_ICCAD2024_Guo.pdf){: .share-button-noborder})
             
-* C162. Xiaohan Gao, Haoyi Zhang, Bingyan Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. ([preprint](/publications/papers/ANALOG_ICCAD2024_Gao.pdf){: .share-button-noborder})
+* C162. Xiaohan Gao, Haoyi Zhang, Bingyang Liu, **Yibo Lin**, Runsheng Wang and Ru Huang, "Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. ([preprint](/publications/papers/ANALOG_ICCAD2024_Gao.pdf){: .share-button-noborder})
             
 * C161. Yufan Du, Zizheng Guo, **Yibo Lin**, Runsheng Wang and Ru Huang, "Fusion of Global Placement and Gate Sizing with Differentiable Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024. ([preprint](/publications/papers/OPT_ICCAD2024_Du.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

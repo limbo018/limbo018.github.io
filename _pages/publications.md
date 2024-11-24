@@ -78,7 +78,7 @@ Conference and Journal Papers
             
   ### C162. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
      * <a href="/publications/papers/ANALOG_ICCAD2024_Gao.pdf" style="color:#3793ae">preprint</a>
-     * Xiaohan Gao, Haoyi Zhang, Bingyan Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
+     * Xiaohan Gao, Haoyi Zhang, Bingyang Liu, **Yibo Lin**, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
   ### C161. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 

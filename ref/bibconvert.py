@@ -346,15 +346,15 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
     if publishType == 'book':
         print("Book Chapters\n======\n")
     elif publishType == 'journal':
-        print("Journal Papers\n======\n")
+        print("Journal Papers\n======\n(&ast; denotes corresponding authors)\n")
     elif publishType == 'phdthesis':
         print("PhD Thesis\n======\n")
     elif publishType == 'patent':
         print("Patents\n======\n")
     elif publishType == 'conference_journal':
-        print("Conference and Journal Papers\n======\n")
+        print("Conference and Journal Papers\n======\n(&ast; denotes corresponding authors)\n")
     else:
-        print("Conference Papers\n======\n")
+        print("Conference Papers\n======\n(&ast; denotes corresponding authors)\n")
     # print 
     currentYear = '' 
     count = len(entries)
@@ -364,6 +364,10 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
             print("* %s\n" % (currentYear))
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
+        if 'corresponding' in entry: # mark corresponding authors
+            correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
+            for correspondingAuthor in correspondingAuthors: 
+                author = author.replace(correspondingAuthor, correspondingAuthor+"&ast;")
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")
@@ -428,13 +432,13 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
     if publishType == 'book':
         print("**Book Chapters**\n\n")
     elif publishType == 'journal':
-        print("**Journal Papers**\n\n")
+        print("**Journal Papers**\n\n(&ast; denotes corresponding authors)\n\n")
     elif publishType == 'patent':
         print("**Patents**\n\n")
     elif publishType == 'conference_journal': 
-        print("**Conference and Journal Papers**\n\n")
+        print("**Conference and Journal Papers**\n\n(&ast; denotes corresponding authors)\n\n")
     else:
-        print("**Conference Papers**\n\n")
+        print("**Conference Papers**\n\n(&ast; denotes corresponding authors)\n\n")
     # print 
     currentYear = '' 
     count = len(entries)
@@ -443,6 +447,10 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
             currentYear = entry['year']
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
+        if 'corresponding' in entry: # mark corresponding authors
+            correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
+            for correspondingAuthor in correspondingAuthors: 
+                author = author.replace(correspondingAuthor, correspondingAuthor+"&ast;")
         if highlightAuthors: # highlight some authors 
             for highlightAuthor in highlightAuthors:
                 author = author.replace(highlightAuthor, "**"+highlightAuthor+"**")

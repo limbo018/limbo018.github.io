@@ -93,7 +93,7 @@ def getPrefix(publishType, entry):
 
 # switch from [last name, first name] to [first name last name]
 def switchToFirstLastNameStyle(author, getArray=False):
-    authorArray = author.split('and')
+    authorArray = author.split(' and ')
     for i, oneAuthor in enumerate(authorArray):
         if ',' in oneAuthor:
             nameArray = oneAuthor.split(',')

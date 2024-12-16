@@ -54,9 +54,9 @@
             
 * C151. Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang\*, Shui Jiang, Tsung-Yi Ho, **Yibo Lin** and Bei Yu, "[G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner](https://doi.org/10.1145/3649329.3656238)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024. ([preprint](/publications/papers/PART_DAC2024_Lee.pdf){: .share-button-noborder})
             
-* C150. Chenhao Xue, Chen Zhang, Xun Jiang,  Gao Zhutianya , **Yibo Lin** and Guangyu Sun\*, "[Oltron: Algorithm-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation](https://doi.org/10.1145/3649329.3656221)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024. ([preprint](https://dl.acm.org/doi/pdf/10.1145/3649329.3656221){: .share-button-noborder})
+* C150. Chenhao Xue, Chen Zhang, Xun Jiang, Gao Zhutianya, **Yibo Lin** and Guangyu Sun\*, "[Oltron: Algorithm-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation](https://doi.org/10.1145/3649329.3656221)," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024. ([preprint](https://dl.acm.org/doi/pdf/10.1145/3649329.3656221){: .share-button-noborder})
             
-* C149. Haoran Lu, Y Ge, ong , Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu\* and Ru Huang, "[First Experimental Demonstration of Self-Aligned Flip FET (FFET): A Breakthrough Stacked Transistor Technology with 2.5T Design, Dual-Side Active and Interconnects](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631460)," IEEE Symposium on VLSI Technology and Circuits (VLSI), Honolulu, HI, Jun 16-20, 2024. ([preprint](https://vlsi24.mapyourshow.com/mys_shared/vlsi24/handouts/T11.4_Thu_Lu.pdf){: .share-button-noborder})
+* C149. Haoran Lu, Yandong Ge, Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu\* and Ru Huang, "[First Experimental Demonstration of Self-Aligned Flip FET (FFET): A Breakthrough Stacked Transistor Technology with 2.5T Design, Dual-Side Active and Interconnects](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631460)," IEEE Symposium on VLSI Technology and Circuits (VLSI), Honolulu, HI, Jun 16-20, 2024. ([preprint](https://vlsi24.mapyourshow.com/mys_shared/vlsi24/handouts/T11.4_Thu_Lu.pdf){: .share-button-noborder})
             
 * J148. Peiyu Liao, Yuxuan Zhao, Dawei Guo, **Yibo Lin** and Bei Yu\*, "[Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2024. 
             
@@ -198,7 +198,7 @@
             
 * J79. **Yibo Lin**\*, "[模拟电路版图自动化与智能设计](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=5743150191429632)," 中国计算机学会通讯, Dec, 2021. 
             
-* J78. Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu\* and David Z. Pan, "[OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021. ([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
+* J78. Wei Li, Yuzhe Ma, Qi Sun, Zhang Lu, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu\* and David Z. Pan, "[OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021. ([release](https://github.com/limbo018/OpenMPL){: .share-button-noborder})
             
 * C77. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**\*, "[HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism](https://doi.org/10.1109/ICCAD51958.2021.9643457)," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Conference, Nov 01-04, 2021. ([preprint](/publications/papers/TIMER_ICCAD2021_Guo.pdf){: .share-button-noborder})
             

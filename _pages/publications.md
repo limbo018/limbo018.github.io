@@ -144,12 +144,12 @@ Conference and Journal Papers
             
   ### C150. [Oltron: Algorithm-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation](https://doi.org/10.1145/3649329.3656221) 
      * <a href="https://dl.acm.org/doi/pdf/10.1145/3649329.3656221" style="color:#3793ae">preprint</a>
-     * Chenhao Xue, Chen Zhang, Xun Jiang,  Gao Zhutianya , **Yibo Lin** and Guangyu Sun\* 
+     * Chenhao Xue, Chen Zhang, Xun Jiang, Gao Zhutianya, **Yibo Lin** and Guangyu Sun\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 23-27, 2024.
             
   ### C149. [First Experimental Demonstration of Self-Aligned Flip FET (FFET): A Breakthrough Stacked Transistor Technology with 2.5T Design, Dual-Side Active and Interconnects](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631460) 
      * <a href="https://vlsi24.mapyourshow.com/mys_shared/vlsi24/handouts/T11.4_Thu_Lu.pdf" style="color:#3793ae">preprint</a>
-     * Haoran Lu, Y Ge, ong , Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu\* and Ru Huang 
+     * Haoran Lu, Yandong Ge, Xun Jiang, Jiacheng Sun, Wanyue Peng, Rui Guo, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu\* and Ru Huang 
      * IEEE Symposium on VLSI Technology and Circuits (VLSI), Honolulu, HI, Jun 16-20, 2024.
             
   ### J148. [Analytical Die-to-Die 3D Placement With Bistratal Wirelength Model and GPU Acceleration](https://doi.org/10.1109/TCAD.2023.3347293) 
@@ -493,7 +493,7 @@ Conference and Journal Papers
             
   ### J78. [OpenMPL: An Open Source Layout Decomposer](https://doi.org/10.1109/TCAD.2020.3042175) 
      * <a href="https://github.com/limbo018/OpenMPL" style="color:#3793ae">release</a>
-     * Wei Li, Yuzhe Ma, Qi Sun,  Zhang Lu , **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu\* and David Z. Pan 
+     * Wei Li, Yuzhe Ma, Qi Sun, Zhang Lu, **Yibo Lin**, Iris Hui-Ru Jiang, Bei Yu\* and David Z. Pan 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2021.
             
   ### C77. [HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism](https://doi.org/10.1109/ICCAD51958.2021.9643457) 

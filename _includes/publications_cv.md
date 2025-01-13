@@ -92,11 +92,11 @@
             
 * J134. Zizheng Guo, Tsung-Wei Huang and **Yibo Lin**\*, "[Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism](https://doi.org/10.1109/TCAD.2023.3286261)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. 
             
-* J133. Zhuomin Chai, Yuxiang Zhao, Wei Liu, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. ([release](https://circuitnet.github.io){: .share-button-noborder})
+* J133. Zhuomin Chai, Yuxiang Zhao, Wei Liu\*, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[CircuitNet: An Open-Source Dataset for Machine Learning in VLSI CAD Applications with Improved Domain-Specific Evaluation Metric and Learning Strategies](https://doi.org/10.1109/TCAD.2023.3287970)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Dec, 2023. ([release](https://circuitnet.github.io){: .share-button-noborder})
             
 * J132. Jing Mai, Jiarui Wang, Zhixiong Di and **Yibo Lin**\*, "[OpenPARF: 基于深度学习工具包的大规模异构FPGA开源布局布线框架](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT230387)," 电子与信息学报, 2023. 
             
-* J131. Zuodong Zhang, Zizheng Guo, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2023. 
+* J131. Zuodong Zhang, Zizheng Guo, **Yibo Lin**\*, Meng Li\*, Runsheng Wang and Ru Huang, "[AVATAR: An Aging- and Variation-Aware Dynamic Timing Analyzer for Error-Efficient Computing](https://doi.org/10.1109/TCAD.2023.3255167)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2023. 
             
 * J130. Guannan Guo, Tsung-Wei Huang\*, **Yibo Lin**, Zizheng Guo, Sushma Yellapragada and Martin Wong, "[A GPU-accelerated Framework for Path-based Timing Analysis](https://doi.org/10.1109/TCAD.2023.3272274)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Nov, 2023. 
             

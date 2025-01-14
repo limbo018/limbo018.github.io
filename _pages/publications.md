@@ -25,7 +25,7 @@ Conference and Journal Papers
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J175. PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction 
+  ### J175. [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796) 
      * accepted
      * Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.

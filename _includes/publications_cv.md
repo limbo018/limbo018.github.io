@@ -8,7 +8,7 @@
 
 * J176. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong, "[Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
-* J175. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J175. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
 * J174. Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang, "A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             

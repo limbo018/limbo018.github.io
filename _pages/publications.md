@@ -56,12 +56,11 @@ Conference and Journal Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C169. PathGen: An Efficient Parallel Critical Path Generation Algorithm 
-     * accepted
+     * *Best Paper Nomination*
      * Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025.
             
   ### C168. iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis 
-     * accepted
      * Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025.
             

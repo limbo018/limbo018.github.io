@@ -20,9 +20,9 @@
             
 * C170. Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang\*, "SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. (accepted)
             
-* C169. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\*, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. (accepted)
+* C169. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\*, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. (*Best Paper Nomination*)
             
-* C168. Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\*, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. (accepted)
+* C168. Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\*, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025. 
             
 * C167. Zizheng Guo, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis," IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Zhuhai, China, Oct 22-25, 2024. ([preprint](/publications/papers/TIMING_ICSICT2024_Guo.pdf){: .share-button-noborder})(*Invited Paper*)
             

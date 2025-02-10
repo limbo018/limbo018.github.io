@@ -29,25 +29,44 @@ Highly-Recommended Resources
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-News
+Recent News
 ======
 
-* 3/2024: We won the **First Place** at [ISPD 2024 GPU/ML-Enhanced Large Scale Global Routing Contest](https://liangrj2014.github.io/ISPD24_contest/). Cheers and congratulations to Chunyuan!
+* 10/2024: We won the **First Place** at [ICCAD 2024 CAD Contest Problem C: Scalable Logic Gate Sizing Using ML Techniques and GPU Acceleration](https://www.iccad-contest.org/) and [ICCAD 2024 CADathlon](https://2024.iccad.com/cadathlon-iccad-2024). Cheers and congratulations to Yufan Du, Zizheng Guo, and Jing Mai!
 
-* 7/2023: We are pleased to release [OpenPARF](https://github.com/PKU-IDEA/OpenPARF), an open-source placement and routing framework for large-scale heterogeneous FPGAs with deep learning toolkit. Please check it out!
+* 3/2024: We won the **First Place** at [ISPD 2024 GPU/ML-Enhanced Large Scale Global Routing Contest](https://liangrj2014.github.io/ISPD24_contest/). Cheers and congratulations to Chunyuan Zhao!
 
-* 3/2023: Our paper, _SAGERoute: Synergistic Analog Routing Considering Geometric and Electrical Constraints with Manual Design Compatibility_, received the **Best Paper Award** at DATE 2023. Please checkout the [preprint](https://yibolin.com/publications/papers/ANALOG_DATE2023_Zhang.pdf) and binary [release](https://github.com/PKU-IDEA/SAGERoute). Cheers and thanks to all the co-authors!
+Selected Awards and Honors
+======
+* Best Paper Award, ISEDA 2024
+* Best Paper Award, DATE 2023
+* Best Paper Award, DATE 2022
+* Donald O. Pederson Best Paper Award, TCAD 2021
+* Best Paper Award, ISPD 2020
+* Best Paper Award, DAC 2019
+* Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
+* Franco Cerrina Memorial Best Student Paper Award, SPIE Advanced Lithography Conference, 2016
 
-* 8/2022: We are pleased to release an open-source dataset [CircuitNet](https://circuitnet.github.io/) for machine learning tasks in EDA! You are very welcome to check it out and provide feedbacks. 
+* Best Paper Award Nomination, ASPDAC 2025
+* Honorable Mention, ISEDA 2024
+* Best Paper Award Nomination, ICCAD 2024
+* Best Paper Award Nomination, ICCAD 2022
+* Best Paper Award Nomination, ASPDAC 2020
+* Best Paper Award Nomination, DAC 2019
+* Best Paper Award Nomination, ISPD 2019
 
-* 6/2022: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **First Place** at the [2022 ACM Student Research Competition Grand Finals](https://src.acm.org/) (Undergraduate Category)! 
+* Inaugural Best Reviewer Award, ICCAD 2023
+* Early Career Award, CCF Technical Committee in IC, 2023
+* Graduate Continuing Fellowship, University of Texas at Austin, 2017
 
-* 11/2021: Congratulations to [Zizheng Guo](https://guozz.cn/) for winning the **Gold Medal** at the [2021 ACM/SIGDA Student Research Competition](https://www.sigda.org/sigda-events/src/) (Undergraduate Category)! 
-
-* 10/2021: Our journal paper, _DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement_, received the **Best Paper Award** at TCAD 2021. Please checkout the [preprint](https://limbo018.github.io/publications/papers/PLACE_TCAD2020_Lin.pdf) and source code [release](https://github.com/limbo018/DREAMPlace). Cheers and thanks to all the co-authors!
-
-* 08/2021: DREAMPlace 3.0 has been released on Github. Please checkout the source code [release](https://github.com/limbo018/DREAMPlace). Cheers!
-
-* 06/2020: Our co-authored paper, _TEMPO: Fast Mask Topography Effect Modeling with Deep Learning_, received the **Best Paper Award** at ISPD 2020. Please checkout the [preprint](https://limbo018.github.io/publications/papers/DFM_ISPD2020_Ye.pdf). Cheers!
-
-* 11/2019: Yibo presented _OpenMPL 2.0_ at ASICON 2019. Please checkout the [slides](https://limbo018.github.io/publications/papers/DFM_ASICON2019_Li.slides.pdf) and source code [release](https://github.com/limbo018/OpenMPL). Cheers and thanks to all the co-authors!
+Selected Contest Awards by Students in My Group
+======
+* Best Poster Award at Student Research Forum, ASPDAC 2025
+* 1st Place in 2024 China Postgraduate IC Innovation Competition - EDA Elite Challenge Grand Finals (中国研究生创芯大赛-EDA精英挑战赛决赛麒麟杯)
+* 1st Place in ICCAD 2024 CAD Contest
+* 1st Place in ICCAD 2024 CADathlon 
+* 1st Place in ISPD 2024 Contest 
+* 2nd Place in MLCAD 2023 Contest
+* 1st Place in EDAthon 2022
+* 2nd Place in 2022 EDA Elite Challenge Grand Finals (EDA精英挑战赛决赛菁英杯)
+* 1st Place in 2022 ACM Student Research Competition Grand Finals (Undergraduate Category)

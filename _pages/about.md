@@ -31,8 +31,9 @@ Highly-Recommended Resources
 
 Recent News
 ======
+* 1/2025: Congratuations to [Xiaohan Gao](https://gaoxiaohan.com/) who won the Best Poster Award at ASPDAC 2025 Student Research Forum!
 
-* 10/2024: We won the **First Place** at [ICCAD 2024 CAD Contest Problem C: Scalable Logic Gate Sizing Using ML Techniques and GPU Acceleration](https://www.iccad-contest.org/) and [ICCAD 2024 CADathlon](https://2024.iccad.com/cadathlon-iccad-2024). Cheers and congratulations to Yufan Du, Zizheng Guo, and Jing Mai!
+* 10/2024: We won the **First Place** at [ICCAD 2024 CAD Contest Problem C: Scalable Logic Gate Sizing Using ML Techniques and GPU Acceleration](https://www.iccad-contest.org/) and [ICCAD 2024 CADathlon](https://2024.iccad.com/cadathlon-iccad-2024). Cheers and congratulations to [Yufan Du](https://yufandu.com/), [Zizheng Guo](https://guozz.cn/), and [Jing Mai](https://magic3007.github.io/)!
 
 * 3/2024: We won the **First Place** at [ISPD 2024 GPU/ML-Enhanced Large Scale Global Routing Contest](https://liangrj2014.github.io/ISPD24_contest/). Cheers and congratulations to Chunyuan Zhao!
 

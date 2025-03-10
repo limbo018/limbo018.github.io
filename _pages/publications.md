@@ -99,66 +99,65 @@ Conference and Journal Papers
      * Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025.
             
-  ### C168. PathGen: An Efficient Parallel Critical Path Generation Algorithm 
+  ### J168. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
+     * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**\* 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Mar, 2025.
+            
+  ### C167. [PathGen: An Efficient Parallel Critical Path Generation Algorithm](https://doi.org/10.1145/3658617.3697741) 
      * *Best Paper Nomination*
      * Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025.
             
-  ### C167. iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis 
+  ### C166. [iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis](https://dl.acm.org/doi/abs/10.1145/3658617.3697738) 
      * Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan Luan Lee, Zizheng Guo, **Yibo Lin** and Tsung-Wei Huang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Tokyo, Japan, Jan, 2025.
             
 * 2024
 
-  ### C166. Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis 
+  ### C165. [Analyzing Timing in Shorter Time: A Journey through Heterogeneous Parallelism for Static Timing Analysis](https://doi.org/10.1109/ICSICT62049.2024.10831648) 
      * <a href="/publications/papers/TIMING_ICSICT2024_Guo.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Zizheng Guo, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), Zhuhai, China, Oct 22-25, 2024.
             
-  ### C165. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
+  ### C164. ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC 
      * <a href="/publications/papers/PLACE_ICCAD2024_Wang.pdf" style="color:#3793ae">preprint</a>
      * Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C164. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
+  ### C163. HeLEM-GR: Heterogeneous Global Routing with Linearized Exponential Multiplier Method 
      * <a href="/publications/papers/ROUTE_ICCAD2024_Zhao.pdf" style="color:#3793ae">preprint</a>
      * Chunyuan Zhao, Zizheng Guo, Rui Wang, Zaiwen Wen, Yun Liang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C163. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
+  ### C162. HeteroExcept: A CPU-GPU Heterogeneous Algorithm to Accelerate Exception-aware Static Timing Analysis 
      * <a href="/publications/papers/TIMING_ICCAD2024_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C162. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
+  ### C161. Joint Placement Optimization for Hierarchical Analog/Mixed-Signal Circuits 
      * <a href="/publications/papers/ANALOG_ICCAD2024_Gao.pdf" style="color:#3793ae">preprint</a>
      * Xiaohan Gao, Haoyi Zhang, Bingyang Liu, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C161. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
+  ### C160. Fusion of Global Placement and Gate Sizing with Differentiable Optimization 
      * <a href="/publications/papers/OPT_ICCAD2024_Du.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Yufan Du, Zizheng Guo, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C160. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
+  ### C159. FaStTherm: Fast and Stable Full-Chip Transient Thermal Predictor Considering Nonlinear Effects 
      * <a href="/publications/papers/THERMAL_ICCAD2024_Zhu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### C159. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
+  ### C158. MORPH: More Robust ASIC Placement for Hybrid Region Constraint Management 
      * <a href="/publications/papers/PLACE_ICCAD2024_Mai.pdf" style="color:#3793ae">preprint</a>
      * Jing Mai, Zuodong Zhang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
-  ### J158. [Large Circuit Models: Opportunities and Challenges](https://doi.org/10.1007/s11432-024-4155-7) 
+  ### J157. [Large Circuit Models: Opportunities and Challenges](https://doi.org/10.1007/s11432-024-4155-7) 
      * <a href="https://dds.sciengine.com/cfs/files/pdfs/view/1674-733X/004D8F9453BB4AE39205F819D9341C66-mark.pdf" style="color:#3793ae">preprint</a>
      * Tsung-Yi Ho, Sadaf Khan, Jinwei Liu, Yi Liu, Zhengyuan Shi, Ziyi Wang, Qiang Xu\*, Evangeline F.Y. Young, Bei Yu, Ziyang Zheng, Binwu Zhu, Keren Zhu, Yiqi Che, Yun Liang, **Yibo Lin**, Guojie Luo, Guangyu Sun, Runsheng Wang, Xinming Wei, Chenhao Xue, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Sunan Zou, Lei Chen, Yu Huang, Min Li, Dimitrios Tsaras, Mingxuan Yuan, Hui-Ling Zhen, Zhufei Chu, Wenji Fang, Xingquan Li and Zhiyao Xie 
      * Science China Information Sciences, Sep, 2024.
-            
-  ### J157. [A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218) 
-     * accepted
-     * Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**\* 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2024.
             
   ### C156. [Top-Level Routing for Multiply-Instantiated Blocks with Topology Hashing](https://doi.org/10.1145/3649329.3655900) 
      * <a href="/publications/papers/ROUTE_DAC2024_Wang.pdf" style="color:#3793ae">preprint</a>

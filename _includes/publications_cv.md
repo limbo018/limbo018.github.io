@@ -8,11 +8,11 @@
 
 * J184. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong, "[Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
-* J183. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J183. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2403.18569){: .share-button-noborder})(accepted)
             
-* J182. Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang, "A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J182. Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang, "[A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
-* J181. Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J181. Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2406.18873){: .share-button-noborder})(accepted)
             
 * J180. Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu\*, "[Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2025. 
             

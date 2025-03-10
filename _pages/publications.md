@@ -26,17 +26,17 @@ Conference and Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
   ### J183. [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796) 
-     * accepted
+     * <a href="https://arxiv.org/abs/2403.18569" style="color:#3793ae">preprint</a> \| accepted
      * Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J182. A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree 
+  ### J182. [A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429) 
      * accepted
      * Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J181. LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design 
-     * accepted
+  ### J181. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
+     * <a href="https://arxiv.org/abs/2406.18873" style="color:#3793ae">preprint</a> \| accepted
      * Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             

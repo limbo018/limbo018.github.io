@@ -20,44 +20,79 @@ Conference and Journal Papers
 
 * 2025
 
-  ### J176. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 
+  ### J183. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 
      * accepted
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J175. [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796) 
+  ### J182. [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796) 
      * accepted
      * Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J174. A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree 
+  ### J181. A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree 
      * accepted
      * Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J173. LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design 
+  ### J180. LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design 
      * accepted
      * Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J172. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
+  ### J179. [Analytical Heterogeneous Die-to-Die 3D Placement With Macros](https://doi.org/10.1109/TCAD.2024.3444716) 
      * Yuxuan Zhao, Peiyu Liao, Siting Liu, Jiaxi Jiang, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2025.
             
-  ### C171. MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC 
+  ### C178. G-SpNN: GPU-Accelerated Passivity Enforcement for S-Parameter Modeling with Neural Networks 
+     * accepted
+     * Lijie Zeng, Jiatai Sun, Xiao Wu, Dan Niu, Tianshi Wang, **Yibo Lin**, Zuochang Ye and Zhou Jin\* 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
+            
+  ### C177. SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation 
+     * accepted
+     * Ziyang Yu, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang, Bei Yu\* and Martin Wong 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
+            
+  ### C176. GEM: GPU-Accelerated Emulator-Inspired RTL Simulation 
+     * accepted
+     * \*Z\*i\*z\*h\*e\*n\*g\* \*G\*u\*o\*,\* \*Y\*a\*n\*q\*i\*n\*g\* \*Z\*h\*a\*n\*g\*,\* \*R\*u\*n\*s\*h\*e\*n\*g\* \*W\*a\*n\*g\*,\* \*Y\*i\*b\*o\* \*L\*i\*n\* \*a\*n\*d\* \*H\*a\*o\*x\*i\*n\*g\* \*R\*e\*n\* 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
+            
+  ### C175. A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis 
+     * accepted
+     * Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\* 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
+            
+  ### C174. Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization 
+     * accepted
+     * Jiarui Wang, Yanjing Liu and **Yibo Lin**\* 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
+            
+  ### C173. RUPlace: Optimizing Routability via Unified Placement and Routing Formulation 
+     * accepted
+     * Yifan Chen, Jing Mai, Zuodong Zhang and **Yibo Lin**\* 
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
+            
+  ### C172. MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC 
      * accepted
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
-  ### C170. Handling Latch Loops in Timing Analysis with Improved Complexity and Divergent Loop Detection 
+  ### C171. Handling Latch Loops in Timing Analysis with Improved Complexity and Divergent Loop Detection 
      * accepted
      * Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
-  ### C169. SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support 
+  ### C170. SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support 
      * accepted
      * Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
+            
+  ### C169. LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method 
+     * accepted
+     * Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
+     * ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025.
             
   ### C168. PathGen: An Efficient Parallel Critical Path Generation Algorithm 
      * *Best Paper Nomination*

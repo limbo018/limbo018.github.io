@@ -20,7 +20,7 @@
             
 * C177. Ziyang Yu, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang, Bei Yu\* and Martin Wong, "SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
             
-* C176. \*Z\*i\*z\*h\*e\*n\*g\* \*G\*u\*o\*,\* \*Y\*a\*n\*q\*i\*n\*g\* \*Z\*h\*a\*n\*g\*,\* \*R\*u\*n\*s\*h\*e\*n\*g\* \*W\*a\*n\*g\*,\* \*Y\*i\*b\*o\* \*L\*i\*n\* \*a\*n\*d\* \*H\*a\*o\*x\*i\*n\*g\* \*R\*e\*n\*, "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
+* C176. Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren, "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
             
 * C175. Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\*, "A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
             

@@ -56,7 +56,7 @@ Conference and Journal Papers
             
   ### C176. GEM: GPU-Accelerated Emulator-Inspired RTL Simulation 
      * accepted
-     * \*Z\*i\*z\*h\*e\*n\*g\* \*G\*u\*o\*,\* \*Y\*a\*n\*q\*i\*n\*g\* \*Z\*h\*a\*n\*g\*,\* \*R\*u\*n\*s\*h\*e\*n\*g\* \*W\*a\*n\*g\*,\* \*Y\*i\*b\*o\* \*L\*i\*n\* \*a\*n\*d\* \*H\*a\*o\*x\*i\*n\*g\* \*R\*e\*n\* 
+     * Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C175. A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis 

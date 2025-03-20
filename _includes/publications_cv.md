@@ -22,7 +22,7 @@
             
 * C177. Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren, "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
             
-* C176. Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\*, "A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](/publications/papers/CTS_DAC2025_Jiang.pdf){: .share-button-noborder})(accepted)
+* C176. Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\*, "A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](https://arxiv.org/abs/2503.12512){: .share-button-noborder})(accepted)
             
 * C175. Jiarui Wang, Yanjing Liu and **Yibo Lin**\*, "Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
             

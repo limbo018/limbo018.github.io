@@ -60,7 +60,7 @@ Conference and Journal Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C176. A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis 
-     * <a href="/publications/papers/CTS_DAC2025_Jiang.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="https://arxiv.org/abs/2503.12512" style="color:#3793ae">preprint</a> \| accepted
      * Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             

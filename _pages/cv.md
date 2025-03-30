@@ -132,6 +132,7 @@ Professional Service
 * Journal editor
   * Guest Editor @ ACM TODAES Special Issue on MLCAD, 2022
   * Guest Editor @ ACM TODAES Special Issue on MLCAD, 2024
+  * Associate Editor @ IEEE TCAD, 2024 - present
   * Associate Editor @ ACM TODAES Special Issue on MLCAD, 2024 - present
   * Associate Editor @ Elsevier Integration, the VLSI Journal, 2024 - present
 * EC member

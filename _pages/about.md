@@ -31,7 +31,7 @@ Highly-Recommended Resources
 
 Recent News
 ======
-* 3/2025: We won the **First Place** at [ISPD 2025 Performance-Driven Large Scale Global Routing](https://github.com/liangrj2014/ISPD25_contest/blob/main/index.md). Cheers and congratulations to Chunyuan Zhao!
+* 3/2025: We won the **First Place** at [ISPD 2025 Performance-Driven Large Scale Global Routing Contest](https://github.com/liangrj2014/ISPD25_contest/blob/main/index.md). Cheers and congratulations to Chunyuan Zhao!
 
 * 1/2025: Congratulations to [Xiaohan Gao](https://gaoxiaohan.com/) for winning the **Best Poster Award** at ASPDAC 2025 Student Research Forum!
 

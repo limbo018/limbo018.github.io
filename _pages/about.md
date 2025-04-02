@@ -31,6 +31,8 @@ Highly-Recommended Resources
 
 Recent News
 ======
+* 3/2025: We won the **First Place** at [ISPD 2025 Performance-Driven Large Scale Global Routing](https://github.com/liangrj2014/ISPD25_contest/blob/main/index.md). Cheers and congratulations to Chunyuan Zhao!
+
 * 1/2025: Congratulations to [Xiaohan Gao](https://gaoxiaohan.com/) for winning the **Best Poster Award** at ASPDAC 2025 Student Research Forum!
 
 * 10/2024: We won the **First Place** at [ICCAD 2024 CAD Contest Problem C: Scalable Logic Gate Sizing Using ML Techniques and GPU Acceleration](https://www.iccad-contest.org/) and [ICCAD 2024 CADathlon](https://2024.iccad.com/cadathlon-iccad-2024). Cheers and congratulations to [Yufan Du](https://yufandu.com/), [Zizheng Guo](https://guozz.cn/), and [Jing Mai](https://magic3007.github.io/)!
@@ -62,6 +64,7 @@ Selected Awards and Honors
 
 Selected Contest Awards by Students in My Group
 ======
+* 1st Place in ISPD 2025 Contest 
 * Best Poster Award at Student Research Forum, ASPDAC 2025
 * 1st Place in 2024 China Postgraduate IC Innovation Competition - EDA Elite Challenge Grand Finals (中国研究生创芯大赛-EDA精英挑战赛决赛麒麟杯)
 * 1st Place in ICCAD 2024 CAD Contest

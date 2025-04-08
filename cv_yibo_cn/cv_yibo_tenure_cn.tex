@@ -1,0 +1,76 @@
+
+\documentclass[a4paper]{resume}  % Use the custom resume.cls style
+\usepackage[UTF8]{ctex} % support Chinese characters
+\setCJKmainfont[AutoFakeBold=true]{STFangsong}
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{enumitem}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+
+\makeatletter
+
+% Functional foreach construct 
+% #1 - Function to call on each comma-separated item in #2
+% #2 - Comma-separated list of items to pass as second parameter to function #1
+\def\foreach#1#2{%
+  \@foreach{#1}#2,\@end@token%
+}
+
+% Internal helper function - Eats one input
+\def\@swallow#1{}
+
+% Internal helper function - Checks the next character after #1 and 
+% continues loop iteration if \@end@token is not found 
+\def\@test@foreach#1{%
+  \@ifnextchar\@end@token%
+    {\@swallow}%
+    {, \@foreach{#1}}%
+}
+
+% Internal helper function - Calls #1{#2} and recurses
+% The magic of splitting the third parameter occurs in the pattern matching of the \def
+\def\@foreach#1#2,#3\@end@token{%
+  #1{#2}%
+  \@test@foreach{#1}#3\@end@token%
+}
+
+\makeatother
+
+\newcommand{\DefMacro}[2]{\expandafter\newcommand\csname rmk-#1\endcsname{#2}}
+\newcommand{\UseMacro}[1]{\csname rmk-#1\endcsname}
+\def\CiteMacro#1{[\foreach{\UseMacro}{#1}]}
+
+\name{林亦波}
+
+\address{助理教授 \\ 设计自动化与计算系统系 \\ 集成电路学院 \\ 北京大学}
+%\address{理科5号楼, 100871 \\ 北京大学}
+\address{yibolin@pku.edu.cn \\ www.yibolin.com}
+
+\begin{document}
+
+\input{doc/interest}
+\input{doc/education}
+\input{doc/experience}
+\input{doc/teaching}
+\input{doc/award}
+%\input{doc/skills}
+%\input{doc/courses}
+\input{doc/service}
+\input{doc/funding}
+% \newpage
+\input{doc/repr_pubs}
+\input{doc/publication}
+\input{doc/talk}
+%\clearpage
+%\input{doc/reference}
+%\input{doc/reference_sim}
+
+\end{document}
+

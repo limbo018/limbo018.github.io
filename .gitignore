@@ -4,8 +4,10 @@
 *.DS_Store
 tmp.jemdoc
 cv_yibo/cv_yibo_*.pdf
+cv_yibo/cv_yibo_tenure*.pdf
 cv_yibo/doc/publication.tex
 cv_yibo_short
+cv_yibo_cn/cv_yibo_tenure*.pdf
 publications.jemdoc
 vendor
 _site

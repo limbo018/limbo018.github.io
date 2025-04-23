@@ -76,7 +76,7 @@ Conference and Journal Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C178. [AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824) 
-     * https://arxiv.org/abs/2412.19824 preprint \| accepted
+     * <a href="https://arxiv.org/abs/2412.19824" style="color:#3793ae">preprint</a> \| accepted
      * Haoyi Zhang, Shizhao Sun, **Yibo Lin**, Runsheng Wang and Jiang Bian 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             

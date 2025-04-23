@@ -28,7 +28,7 @@
             
 * C179. Yifan Chen, Jing Mai, Zuodong Zhang and **Yibo Lin**\*, "RUPlace: Optimizing Routability via Unified Placement and Routing Formulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
             
-* C178. Haoyi Zhang, Shizhao Sun, **Yibo Lin**, Runsheng Wang and Jiang Bian, "[AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824)," IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025. (https://arxiv.org/abs/2412.19824 preprint)(accepted)
+* C178. Haoyi Zhang, Shizhao Sun, **Yibo Lin**, Runsheng Wang and Jiang Bian, "[AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824)," IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025. ([preprint](https://arxiv.org/abs/2412.19824){: .share-button-noborder})(accepted)
             
 * C177. Yufan Du, Zizheng Guo, Yang Hsu, Zhili Xiong, Seunggeun Kim, David Z. Pan, Runsheng Wang and **Yibo Lin**\*, "Addressing Continuity and Expressivity Limitations in Differentiable Physical Optimization: A Case Study in Gate Sizing," IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025. (accepted)
             

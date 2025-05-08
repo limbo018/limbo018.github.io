@@ -20,89 +20,99 @@ Conference and Journal Papers
 
 * 2025
 
-  ### J191. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 
+  ### J193. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 
      * accepted
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J190. [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796) 
+  ### J192. [PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796) 
      * <a href="https://arxiv.org/abs/2403.18569" style="color:#3793ae">preprint</a> \| accepted
      * Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J189. [A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429) 
+  ### J191. [A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429) 
      * accepted
      * Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J188. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
+  ### J190. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
      * <a href="https://arxiv.org/abs/2406.18873" style="color:#3793ae">preprint</a> \| accepted
      * Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J187. [Design Optimization of Flip FET Standard Cells With Dual-Sided Pins for Ultimate Scaling](https://doi.org/10.1109/TED.2025.3558759) 
+  ### J189. [Design Optimization of Flip FET Standard Cells With Dual-Sided Pins for Ultimate Scaling](https://doi.org/10.1109/TED.2025.3558759) 
      * <a href="https://arxiv.org/abs/2504.10122" style="color:#3793ae">preprint</a> \| accepted
      * Rui Guo, Haoran Lu, Jiacheng Sun, Xun Jiang, Lining Zhangm, Ming Li, **Yibo Lin**, Runsheng Wang, Heng Wu\* and Ru Huang 
      * IEEE Transactions on Electron Devices (TED), 2025.
             
-  ### J186. [Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297) 
+  ### J188. [Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297) 
      * <a href="https://arxiv.org/abs/2407.02079" style="color:#3793ae">preprint</a> \| accepted
      * Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, **Yibo Lin**, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang and Guangyu Sun\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### C185. DeepLayout: Learning Neural Representations of Circuit Placement Layout 
+  ### C187. DeepLayout: Learning Neural Representations of Circuit Placement Layout 
      * accepted
      * Yuxiang Zhao, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang and **Yibo Lin**\* 
      * International Conference on Machine Learning (ICML), Vancouver, Canada, Jul 13-19, 2025.
             
-  ### C184. G-SpNN: GPU-Accelerated Passivity Enforcement for S-Parameter Modeling with Neural Networks 
+  ### C186. G-SpNN: GPU-Accelerated Passivity Enforcement for S-Parameter Modeling with Neural Networks 
      * accepted
      * Lijie Zeng, Jiatai Sun, Xiao Wu, Dan Niu, Tianshi Wang, **Yibo Lin**, Zuochang Ye and Zhou Jin\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
-  ### C183. SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation 
+  ### C185. SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation 
      * accepted
      * Ziyang Yu, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang, Bei Yu\* and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
-  ### C182. GEM: GPU-Accelerated Emulator-Inspired RTL Simulation 
+  ### C184. GEM: GPU-Accelerated Emulator-Inspired RTL Simulation 
      * accepted
      * Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
-  ### C181. A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis 
+  ### C183. A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis 
      * <a href="https://arxiv.org/abs/2503.12512" style="color:#3793ae">preprint</a> \| accepted
      * Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
-  ### C180. Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization 
+  ### C182. Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization 
      * accepted
      * Jiarui Wang, Yanjing Liu and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
-  ### C179. RUPlace: Optimizing Routability via Unified Placement and Routing Formulation 
+  ### C181. RUPlace: Optimizing Routability via Unified Placement and Routing Formulation 
      * accepted
      * Yifan Chen, Jing Mai, Zuodong Zhang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
-  ### C178. [AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824) 
+  ### C180. [AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824) 
      * <a href="https://arxiv.org/abs/2412.19824" style="color:#3793ae">preprint</a> \| accepted
      * Haoyi Zhang, Shizhao Sun, **Yibo Lin**, Runsheng Wang and Jiang Bian 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
-  ### C177. Addressing Continuity and Expressivity Limitations in Differentiable Physical Optimization: A Case Study in Gate Sizing 
+  ### C179. Addressing Continuity and Expressivity Limitations in Differentiable Physical Optimization: A Case Study in Gate Sizing 
      * accepted
      * Yufan Du, Zizheng Guo, Yang Hsu, Zhili Xiong, Seunggeun Kim, David Z. Pan, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
-  ### C176. Multi-Row Standard Cell Layout Synthesis with Enhanced Scalability 
+  ### C178. Multi-Row Standard Cell Layout Synthesis with Enhanced Scalability 
      * accepted
      * Kairong Guo and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
-  ### C175. ATSim3.5D: A Multiscale Thermal Simulator for 3.5D-IC Systems based on Nonlinear Multigrid Method 
+  ### C177. ATSim3.5D: A Multiscale Thermal Simulator for 3.5D-IC Systems based on Nonlinear Multigrid Method 
      * accepted
      * Qipan Wang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
+            
+  ### C176. DOMAC: Differentiable Optimization for High-Speed Multipliers and Multiply-Accumulators 
+     * accepted
+     * Chenhao Xue, Yi Ren, Jinwei Zhou, Kezhi Li, Chen Zhang, **Yibo Lin**, Lining Zhang, Qiang Xu and Guangyu Sun\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
+            
+  ### C175. DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization 
+     * accepted
+     * Yi Ren, Chenhao Xue, Jiaxing Zhang, Chen Zhang, Qiang Xu, **Yibo Lin** and Guangyu Sun\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C174. A Tale of Two Sides of Wafer: Physical Implementation and Block-Level PPA on Flip FET with Dual-sided Signals 

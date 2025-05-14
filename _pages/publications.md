@@ -86,32 +86,32 @@ Conference and Journal Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C180. [AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824) 
-     * <a href="https://arxiv.org/abs/2412.19824" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="https://arxiv.org/abs/2412.19824" style="color:#3793ae">preprint</a>
      * Haoyi Zhang, Shizhao Sun, **Yibo Lin**, Runsheng Wang and Jiang Bian 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C179. Addressing Continuity and Expressivity Limitations in Differentiable Physical Optimization: A Case Study in Gate Sizing 
-     * accepted
+     * <a href="/publications/papers/OPT_ISEDA2025_Du.pdf" style="color:#3793ae">preprint</a> \| *Honorable Mention Paper Award*
      * Yufan Du, Zizheng Guo, Yang Hsu, Zhili Xiong, Seunggeun Kim, David Z. Pan, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C178. Multi-Row Standard Cell Layout Synthesis with Enhanced Scalability 
-     * accepted
+     * <a href="/publications/papers/CELL_ISEDA2025_Guo.pdf" style="color:#3793ae">preprint</a>
      * Kairong Guo and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C177. ATSim3.5D: A Multiscale Thermal Simulator for 3.5D-IC Systems based on Nonlinear Multigrid Method 
-     * accepted
+     * <a href="https://www.researchgate.net/publication/390616577_ATSim35D_A_Multiscale_Thermal_Simulator_for_35D-IC_Systems_based_on_Nonlinear_Multigrid_Method" style="color:#3793ae">preprint</a> \| *Honorable Mention Paper Award*
      * Qipan Wang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C176. DOMAC: Differentiable Optimization for High-Speed Multipliers and Multiply-Accumulators 
-     * accepted
+     * <a href="https://arxiv.org/abs/2503.23943" style="color:#3793ae">preprint</a>
      * Chenhao Xue, Yi Ren, Jinwei Zhou, Kezhi Li, Chen Zhang, **Yibo Lin**, Lining Zhang, Qiang Xu and Guangyu Sun\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C175. DiffuSE: Cross-Layer Design Space Exploration of DNN Accelerator via Diffusion-Driven Optimization 
-     * accepted
+     * <a href="https://arxiv.org/abs/2503.23945" style="color:#3793ae">preprint</a>
      * Yi Ren, Chenhao Xue, Jiaxing Zhang, Chen Zhang, Qiang Xu, **Yibo Lin** and Guangyu Sun\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             

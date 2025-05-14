@@ -50,6 +50,7 @@ Selected Awards and Honors
 * Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
 * Franco Cerrina Memorial Best Student Paper Award, SPIE Advanced Lithography Conference, 2016
 
+* Honorable Mention (x2), ISEDA 2025
 * Best Paper Award Nomination, ASPDAC 2025
 * Honorable Mention, ISEDA 2024
 * Best Paper Award Nomination, ICCAD 2024

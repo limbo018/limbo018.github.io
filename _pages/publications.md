@@ -135,7 +135,7 @@ Conference and Journal Papers
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C170. LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method 
-     * <a href="/publications/papers/PLACE_ISPD2025_Mai.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/PLACE_ISPD2025_Mai.pdf" style="color:#3793ae">preprint</a>
      * Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025.
             

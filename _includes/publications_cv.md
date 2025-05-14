@@ -52,7 +52,7 @@
             
 * C171. Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang\*, "SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025. 
             
-* C170. Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method," ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025. ([preprint](/publications/papers/PLACE_ISPD2025_Mai.pdf){: .share-button-noborder})(accepted)
+* C170. Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "LEGALM: Efficient Legalization for Mixed-Cell-Height Circuits with Linearized Augmented Lagrangian Method," ACM International Symposium on Physical Design (ISPD), Austin, TX, Mar 16-19, 2025. ([preprint](/publications/papers/PLACE_ISPD2025_Mai.pdf){: .share-button-noborder})
             
 * J169. Xun Jiang, Jiarui Wang, Jing Mai, Zhixiong Di and **Yibo Lin**\*, "[A Robust FPGA Router With Optimization of High-Fanout Nets and Intra-CLB Connections](https://doi.org/10.1109/TCAD.2024.3447218)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Mar, 2025. 
             

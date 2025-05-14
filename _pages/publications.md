@@ -116,22 +116,21 @@ Conference and Journal Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C174. A Tale of Two Sides of Wafer: Physical Implementation and Block-Level PPA on Flip FET with Dual-sided Signals 
-     * <a href="/publications/papers/FFET_DATE2025_Lu.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/FFET_DATE2025_Lu.pdf" style="color:#3793ae">preprint</a>
      * Haoran Lu, Xun Jiang, Yanbang Chu, Ziqiao Xu, Rui Guo, Wanyue Peng, **Yibo Lin**, Runsheng Wang, Heng Wu\* and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C173. MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC 
-     * accepted
+     * <a href="https://arxiv.org/abs/2411.12690" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C172. Handling Latch Loops in Timing Analysis with Improved Complexity and Divergent Loop Detection 
-     * accepted
+     * <a href="/publications/papers/TIMING_DATE2025_Shi.pdf" style="color:#3793ae">preprint</a>
      * Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             
   ### C171. SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support 
-     * accepted
      * Haikang Diao, Haoyi Zhang, Jiahao Song, Haoyang Luo, **Yibo Lin**, Runsheng Wang, Yuan Wang and Xiyuan Tang\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Lyon, France, Mar 31, 2025.
             

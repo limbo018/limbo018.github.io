@@ -16,17 +16,17 @@
             
 * C190. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang and **Yibo Lin**\*, "DeepLayout: Learning Neural Representations of Circuit Placement Layout," International Conference on Machine Learning (ICML), Vancouver, Canada, Jul 13-19, 2025. (accepted)
             
-* C189. Lijie Zeng, Jiatai Sun, Xiao Wu, Dan Niu, Tianshi Wang, **Yibo Lin**, Zuochang Ye and Zhou Jin\*, "G-SpNN: GPU-Accelerated Passivity Enforcement for S-Parameter Modeling with Neural Networks," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
+* C189. Lijie Zeng, Jiatai Sun, Xiao Wu, Dan Niu, Tianshi Wang, **Yibo Lin**, Zuochang Ye and Zhou Jin\*, "G-SpNN: GPU-Accelerated Passivity Enforcement for S-Parameter Modeling with Neural Networks," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](/publications/papers/SPICE_DAC2025_Zeng.pdf){: .share-button-noborder})
             
-* C188. Ziyang Yu, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang, Bei Yu\* and Martin Wong, "SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
+* C188. Ziyang Yu, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang, Bei Yu\* and Martin Wong, "SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](/publications/papers/LITHO_DAC2025_Yu.pdf){: .share-button-noborder})
             
-* C187. Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren, "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
+* C187. Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren, "GEM: GPU-Accelerated Emulator-Inspired RTL Simulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](/publications/papers/SIM_DAC2025_Guo.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             
-* C186. Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\*, "A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](https://arxiv.org/abs/2503.12512){: .share-button-noborder})(accepted)
+* C186. Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\*, "A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](https://arxiv.org/abs/2503.12512){: .share-button-noborder})
             
-* C185. Jiarui Wang, Yanjing Liu and **Yibo Lin**\*, "Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
+* C185. Jiarui Wang, Yanjing Liu and **Yibo Lin**\*, "Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](/publications/papers/ROUTE_DAC2025_Wang.pdf){: .share-button-noborder})
             
-* C184. Yifan Chen, Jing Mai, Zuodong Zhang and **Yibo Lin**\*, "RUPlace: Optimizing Routability via Unified Placement and Routing Formulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. (accepted)
+* C184. Yifan Chen, Jing Mai, Zuodong Zhang and **Yibo Lin**\*, "RUPlace: Optimizing Routability via Unified Placement and Routing Formulation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025. ([preprint](/publications/papers/PLACE_DAC2025_Chen.pdf){: .share-button-noborder})
             
 * J183. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[PDNNet: PDN-Aware GNN-CNN Heterogeneous Network for Dynamic IR Drop Prediction](https://doi.org/10.1109/TCAD.2024.3509796)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun, 2025. ([preprint](https://arxiv.org/abs/2403.18569){: .share-button-noborder})
             

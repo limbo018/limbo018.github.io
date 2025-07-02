@@ -46,32 +46,32 @@ Conference and Journal Papers
      * International Conference on Machine Learning (ICML), Vancouver, Canada, Jul 13-19, 2025.
             
   ### C189. G-SpNN: GPU-Accelerated Passivity Enforcement for S-Parameter Modeling with Neural Networks 
-     * accepted
+     * <a href="/publications/papers/SPICE_DAC2025_Zeng.pdf" style="color:#3793ae">preprint</a>
      * Lijie Zeng, Jiatai Sun, Xiao Wu, Dan Niu, Tianshi Wang, **Yibo Lin**, Zuochang Ye and Zhou Jin\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C188. SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation 
-     * accepted
+     * <a href="/publications/papers/LITHO_DAC2025_Yu.pdf" style="color:#3793ae">preprint</a>
      * Ziyang Yu, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, **Yibo Lin**, Runsheng Wang, Bei Yu\* and Martin Wong 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C187. GEM: GPU-Accelerated Emulator-Inspired RTL Simulation 
-     * accepted
+     * <a href="/publications/papers/SIM_DAC2025_Guo.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Zizheng Guo, Yanqing Zhang, Runsheng Wang, **Yibo Lin** and Haoxing Ren 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C186. A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis 
-     * <a href="https://arxiv.org/abs/2503.12512" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="https://arxiv.org/abs/2503.12512" style="color:#3793ae">preprint</a>
      * Xun Jiang, Haoran Lu, Yuxuan Zhao, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C185. Synergistic Die-Level Router for Multi-FPGA System with Time-Division Multiplexing Optimization 
-     * accepted
+     * <a href="/publications/papers/ROUTE_DAC2025_Wang.pdf" style="color:#3793ae">preprint</a>
      * Jiarui Wang, Yanjing Liu and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             
   ### C184. RUPlace: Optimizing Routability via Unified Placement and Routing Formulation 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2025_Chen.pdf" style="color:#3793ae">preprint</a>
      * Yifan Chen, Jing Mai, Zuodong Zhang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun 22-25, 2025.
             

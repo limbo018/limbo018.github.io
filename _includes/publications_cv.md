@@ -6,27 +6,29 @@
 (\* denotes corresponding authors)
 
 
-* J201. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong, "[Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J202. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong, "[Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
-* J200. Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang, "[A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J201. Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang, "[A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
-* J199. Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2406.18873){: .share-button-noborder})(accepted)
+* J200. Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang, "[LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2406.18873){: .share-button-noborder})(accepted)
             
-* J198. Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, **Yibo Lin**, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang and Guangyu Sun\*, "[Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2407.02079){: .share-button-noborder})(accepted)
+* J199. Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, **Yibo Lin**, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang and Guangyu Sun\*, "[Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2407.02079){: .share-button-noborder})(accepted)
             
-* C197. Chunyuan Zhao, Jiarui Wang, Xun Jiang, Jincheng Lou and **Yibo Lin**\*, "GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C198. Chunyuan Zhao, Jiarui Wang, Xun Jiang, Jincheng Lou and **Yibo Lin**\*, "GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
-* C196. Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "Differentiable Physical Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C197. Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "Differentiable Physical Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
-* C195. Yuhao Ji, Yuntao Lu, Zuodong Zhang, Zizheng Guo, **Yibo Lin** and Bei Yu\*, "DiffCCD: Differentiable Concurrent Clock and Data Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C196. Yuhao Ji, Yuntao Lu, Zuodong Zhang, Zizheng Guo, **Yibo Lin** and Bei Yu\*, "DiffCCD: Differentiable Concurrent Clock and Data Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
-* C194. Yuan Pu, Yuhao Ji, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, **Yibo Lin**, David Z. Pan and Bei Yu\*, "GPU Acceleration for Versatile Buffer Insertion," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C195. Yuan Pu, Yuhao Ji, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, **Yibo Lin**, David Z. Pan and Bei Yu\*, "GPU Acceleration for Versatile Buffer Insertion," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
-* C193. Yi Ren, Baokang Peng, Chenhao Xue, Kairong Guo, Yukun Wang, Guoyao Cheng, **Yibo Lin**, Lining Zhang and Guangyu Sun\*, "Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C194. Yi Ren, Baokang Peng, Chenhao Xue, Kairong Guo, Yukun Wang, Guoyao Cheng, **Yibo Lin**, Lining Zhang and Guangyu Sun\*, "Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
-* C192. Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "IncreGPUSTA: GPU-Accelerated Incremental Static Timing Analysis for Iterative Design Flows," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C193. Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "IncreGPUSTA: GPU-Accelerated Incremental Static Timing Analysis for Iterative Design Flows," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
-* C191. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang, "High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+* C192. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang, "High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
+            
+* C191. Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Waa Gwok-Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, Chenhao Xue, Ying Wang, **Yibo Lin**, Jun Yang, Ning Xu, Xi Wang and Qiang Xu\*, "MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. (accepted)
             
 * C190. Yuxiang Zhao, Zhuomin Chai, Xun Jiang, Qiang Xu, Runsheng Wang and **Yibo Lin**\*, "DeepLayout: Learning Neural Representations of Circuit Placement Layout," International Conference on Machine Learning (ICML), Vancouver, Canada, Jul 13-19, 2025. (accepted)
             

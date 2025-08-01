@@ -72,7 +72,7 @@ Conference and Journal Papers
             
   ### C192. High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity 
      * accepted
-     * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang 
+     * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C191. MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs 

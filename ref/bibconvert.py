@@ -364,7 +364,7 @@ def printJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
             print("* %s\n" % (currentYear))
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
-        if 'corresponding' in entry: # mark corresponding authors
+        if 'corresponding' in entry and entry['corresponding']: # mark corresponding authors
             correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
             for correspondingAuthor in correspondingAuthors: 
                 author = author.replace(correspondingAuthor, correspondingAuthor+"\\*")
@@ -447,7 +447,7 @@ def printCVJekyll(bibDB, stringMap, highlightAuthors, entries, publishType):
             currentYear = entry['year']
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
-        if 'corresponding' in entry: # mark corresponding authors
+        if 'corresponding' in entry and entry['corresponding']: # mark corresponding authors
             correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
             for correspondingAuthor in correspondingAuthors: 
                 author = author.replace(correspondingAuthor, correspondingAuthor+"\\*")
@@ -534,7 +534,7 @@ def printCV(bibDB, stringMap, highlightAuthors, entries, publishType, indexOffse
             currentYear = entry['year']
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
-        if 'corresponding' in entry: # mark corresponding authors
+        if 'corresponding' in entry and entry['corresponding']: # mark corresponding authors
             correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
             for correspondingAuthor in correspondingAuthors: 
                 author = author.replace(correspondingAuthor, correspondingAuthor+"*")
@@ -636,7 +636,7 @@ def printCVCN(bibDB, stringMap, highlightAuthors, entries, publishType, indexOff
             currentYear = entry['year']
         # switch from [last name, first name] to [first name last name]
         author = switchToFirstLastNameStyle(entry['author'])
-        if 'corresponding' in entry: # mark corresponding authors
+        if 'corresponding' in entry and entry['corresponding']: # mark corresponding authors
             correspondingAuthors = switchToFirstLastNameStyle(entry['corresponding'], getArray=True)
             for correspondingAuthor in correspondingAuthors: 
                 author = author.replace(correspondingAuthor, correspondingAuthor+"*")

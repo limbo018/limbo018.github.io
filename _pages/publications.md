@@ -20,24 +20,34 @@ Conference and Journal Papers
 
 * 2025
 
-  ### J202. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 
+  ### J204. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 
      * accepted
      * Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J201. [A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429) 
+  ### J203. [A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429) 
      * accepted
      * Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J200. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
+  ### J202. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
      * <a href="https://arxiv.org/abs/2406.18873" style="color:#3793ae">preprint</a> \| accepted
      * Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J199. [Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297) 
+  ### J201. [Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297) 
      * <a href="https://arxiv.org/abs/2407.02079" style="color:#3793ae">preprint</a> \| accepted
      * Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, **Yibo Lin**, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang and Guangyu Sun\* 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+            
+  ### J200. [A Post-Routing Layout Optimization Framework for Lithography Process Window Enlargement](https://doi.org/10.1109/TCAD.2025.3594247) 
+     * accepted
+     * \*Y\*a\*j\*u\*a\*n\* \*S\*u\*,\* \*Z\*i\*x\*i\* \*L\*i\*u\*,\* \*Y\*i\*b\*o\* \*L\*i\*n\*,\* \*X\*i\*a\*o\*j\*i\*n\*g\* \*S\*u\*,\* \*Y\*u\*q\*i\*n\* \*W\*a\*n\*g\*,\* \*X\*i\*n\* \*H\*o\*n\*g\*,\* \*Y\*u\*j\*i\*e\* \*J\*i\*a\*n\*g\*,\* \*P\*e\*n\*g\*y\*u\* \*R\*e\*n\* \*a\*n\*d\* \*Y\*a\*y\*i\* \*W\*e\*i\* 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
+            
+  ### J199. LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization 
+     * accepted
+     * Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, Runsheng Wang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
   ### C198. GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection 

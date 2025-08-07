@@ -14,7 +14,7 @@
             
 * J201. Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, **Yibo Lin**, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang and Guangyu Sun\*, "[Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. ([preprint](https://arxiv.org/abs/2407.02079){: .share-button-noborder})(accepted)
             
-* J200. \*Y\*a\*j\*u\*a\*n\* \*S\*u\*,\* \*Z\*i\*x\*i\* \*L\*i\*u\*,\* \*Y\*i\*b\*o\* \*L\*i\*n\*,\* \*X\*i\*a\*o\*j\*i\*n\*g\* \*S\*u\*,\* \*Y\*u\*q\*i\*n\* \*W\*a\*n\*g\*,\* \*X\*i\*n\* \*H\*o\*n\*g\*,\* \*Y\*u\*j\*i\*e\* \*J\*i\*a\*n\*g\*,\* \*P\*e\*n\*g\*y\*u\* \*R\*e\*n\* \*a\*n\*d\* \*Y\*a\*y\*i\* \*W\*e\*i\*, "[A Post-Routing Layout Optimization Framework for Lithography Process Window Enlargement](https://doi.org/10.1109/TCAD.2025.3594247)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
+* J200. Yajuan Su, Zixi Liu, **Yibo Lin**, Xiaojing Su, Yuqin Wang, Xin Hong, Yujie Jiang, Pengyu Ren and Yayi Wei, "[A Post-Routing Layout Optimization Framework for Lithography Process Window Enlargement](https://doi.org/10.1109/TCAD.2025.3594247)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
 * J199. Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, Runsheng Wang and **Yibo Lin**\*, "LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             

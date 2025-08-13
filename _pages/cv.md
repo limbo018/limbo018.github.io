@@ -89,6 +89,7 @@ Teaching experience
   
 Awards and Honors
 ======
+* Best Paper Award Nomination, DAC 2025
 * Honorable Mention (x2), ISEDA 2025
 * Best Paper Award Nomination, ASPDAC 2025
 * Best Paper Award Nomination, ICCAD 2024

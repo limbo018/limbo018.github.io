@@ -24,7 +24,12 @@ Education
 
 Work experience
 ======
-* Since Summer 2019: Assistant Professor
+* Since Summer 2025: Associate Professor
+  * Department of Design Automation and Computing System, School of Integrated Circuits 
+  * Center for Energy-efficient Computing and Applications, School of EECS
+  * Peking University
+
+* Summer 2019 to Summer 2025: Assistant Professor
   * Department of Design Automation and Computing System, School of Integrated Circuits (since Nov. 2021) 
   * Center for Energy-efficient Computing and Applications, School of EECS
   * Peking University

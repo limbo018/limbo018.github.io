@@ -61,16 +61,24 @@ Reference Material
   -	ISBN-13 : 978-0849372421
   -	Publisher : Auerbach Publications; 1st Edition (November 12, 2008)
 
+2. Machine Learning Applications in Electronic Design Automation
+- Edited by Haoxing Ren and Jiang Hu
+- Hardcover ISBN: 978-3-031-13073-1
+- Softcover ISBN: 978-3-031-13076-2
+- eBook ISBN: 978-3-031-13074-8
+- Publisher: Springer 
+
 Schedule and Classroom
 ======
 
-- Fall 2023
-- 1~16周 每周周三3-4节 三教108
-- 1~16周 双周周五1-2节 三教108
+- Fall 2025
+- 1~16周 双周周一5-6节 二教410
+- 1~16周 每周周三7-8节 二教410
 
 Syllabus
 ======
 
+- [Fall 2025](/courses/VLSICAD-syllabus-fall2025.pdf){: .share-button}
 - [Fall 2023](/courses/VLSICAD-syllabus-fall2023.pdf){: .share-button}
 - [Spring 2022](/courses/VLSICAD-syllabus-spring2022.pdf){: .share-button}
 - [Spring 2021](/courses/VLSICAD-syllabus-spring2021.pdf){: .share-button}

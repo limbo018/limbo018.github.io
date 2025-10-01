@@ -22,7 +22,7 @@ Education
 * M.S. in University of Texas at Austin, Texas, US, 2017
 * B.S. in Shanghai Jiao Tong University, Shanghai, P.R.China, 2013
 
-Work experience
+Work Experience
 ======
 * Since Summer 2025: Associate Professor
   * Department of Design Automation and Computing System, School of Integrated Circuits 
@@ -68,7 +68,7 @@ Work experience
   * Memory lithography group
   * Manager: Shigeki Nojima 
 
-Teaching experience
+Teaching Experience
 ======
 
 * Spring 2023-2024

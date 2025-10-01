@@ -2,7 +2,7 @@
 title: "OpenPARF: An Open-Source Placement and Routing Framework for Large-Scale Heterogeneous FPGAs with Deep Learning Toolkit"
 collection: softwares
 type: "Softwares"
-permalink: /softwares/11-OpenPARF
+permalink: /softwares/10-OpenPARF
 date: 2023-06-29
 ---
 

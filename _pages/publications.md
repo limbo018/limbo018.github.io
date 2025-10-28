@@ -56,7 +56,7 @@ Conference and Journal Papers
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C197. Differentiable Physical Optimization 
-     * <a href="/publications/papers/OPT_ICCAD2025_Du.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/OPT_ICCAD2025_Du.pdf" style="color:#3793ae">preprint</a>
      * Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             

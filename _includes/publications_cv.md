@@ -20,7 +20,7 @@
             
 * C198. Chunyuan Zhao, Jiarui Wang, Xun Jiang, Jincheng Lou and **Yibo Lin**\*, "GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/ROUTE_ICCAD2025_Zhao.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             
-* C197. Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "Differentiable Physical Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/OPT_ICCAD2025_Du.pdf){: .share-button-noborder})(accepted)
+* C197. Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "Differentiable Physical Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/OPT_ICCAD2025_Du.pdf){: .share-button-noborder})
             
 * C196. Yuhao Ji, Yuntao Lu, Zuodong Zhang, Zizheng Guo, **Yibo Lin** and Bei Yu\*, "DiffCCD: Differentiable Concurrent Clock and Data Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/OPT_ICCAD2025_Ji.pdf){: .share-button-noborder})
             

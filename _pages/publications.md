@@ -51,42 +51,42 @@ Conference and Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
   ### C198. GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection 
-     * accepted
+     * <a href="/publications/papers/ROUTE_ICCAD2025_Zhao.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Chunyuan Zhao, Jiarui Wang, Xun Jiang, Jincheng Lou and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C197. Differentiable Physical Optimization 
-     * accepted
+     * <a href="/publications/papers/OPT_ICCAD2025_Du.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C196. DiffCCD: Differentiable Concurrent Clock and Data Optimization 
-     * accepted
+     * <a href="/publications/papers/OPT_ICCAD2025_Ji.pdf" style="color:#3793ae">preprint</a>
      * Yuhao Ji, Yuntao Lu, Zuodong Zhang, Zizheng Guo, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C195. GPU Acceleration for Versatile Buffer Insertion 
-     * accepted
+     * <a href="/publications/papers/OPT_ICCAD2025_Pu.pdf" style="color:#3793ae">preprint</a>
      * Yuan Pu, Yuhao Ji, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, **Yibo Lin**, David Z. Pan and Bei Yu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C194. Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization 
-     * accepted
+     * <a href="/publications/papers/STCO_ICCAD2025_Ren.pdf" style="color:#3793ae">preprint</a>
      * Yi Ren, Baokang Peng, Chenhao Xue, Kairong Guo, Yukun Wang, Guoyao Cheng, **Yibo Lin**, Lining Zhang and Guangyu Sun\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C193. IncreGPUSTA: GPU-Accelerated Incremental Static Timing Analysis for Iterative Design Flows 
-     * accepted
+     * <a href="/publications/papers/TIMING_ICCAD2025_Liu.pdf" style="color:#3793ae">preprint</a>
      * Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C192. High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity 
-     * accepted
+     * <a href="/publications/papers/TIMING_ICCAD2025_Liu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C191. MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs 
-     * accepted
+     * <a href="/publications/papers/LLM_ICCAD2025_Zhao.pdf" style="color:#3793ae">preprint</a>
      * Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Waa Gwok-Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, Chenhao Xue, Ying Wang, **Yibo Lin**, Jun Yang, Ning Xu, Xi Wang and Qiang Xu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             

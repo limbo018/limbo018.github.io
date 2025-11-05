@@ -6,6 +6,16 @@
 (\* denotes corresponding authors)
 
 
+* C209. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis En- gine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+            
+* C208. Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\*, "HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+            
+* C207. Kairong Guo, Haoran Lu, Rui Guo, Jiarui Wang, Chunyuan Zhao, Heng Wu, Runsheng Wang and **Yibo Lin**\*, "Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+            
+* C206. Weijian Fan, Haoyi Zhang, Weibin Lin, Runsheng Wang and **Yibo Lin**\*, "MOSTAR: Multi-Stage Hierarchical Bayesian Optimization for Substructure-Aware High-Dimensional Analog Circuit Sizing," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+            
+* C205. Chenhao Xue, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, **Yibo Lin**, Lining Zhang, Qiang Xu and Guangyu Sun\*, "AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+            
 * J204. Siting Liu, Ziyi Wang, Fangzhou Liu, **Yibo Lin**, Bei Yu\* and Martin Wong, "[Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)
             
 * J203. Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang, "[A Unified Deep Reinforcement Learning Approach for Constructing Rectilinear and Octilinear Steiner Minimum Tree](https://doi.org/10.1109/TCAD.2024.3523429)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025. (accepted)

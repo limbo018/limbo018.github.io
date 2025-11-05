@@ -18,6 +18,33 @@ Conference and Journal Papers
 ======
 (\* denotes corresponding authors)
 
+* 2026
+
+  ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis En- gine with Holistic Industrial Design Support 
+     * accepted
+     * Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
+            
+  ### C208. HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine 
+     * accepted
+     * Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\* 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
+            
+  ### C207. Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors 
+     * accepted
+     * Kairong Guo, Haoran Lu, Rui Guo, Jiarui Wang, Chunyuan Zhao, Heng Wu, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
+            
+  ### C206. MOSTAR: Multi-Stage Hierarchical Bayesian Optimization for Substructure-Aware High-Dimensional Analog Circuit Sizing 
+     * accepted
+     * Weijian Fan, Haoyi Zhang, Weibin Lin, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
+            
+  ### C205. AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models 
+     * accepted
+     * Chenhao Xue, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, **Yibo Lin**, Lining Zhang, Qiang Xu and Guangyu Sun\* 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
+            
 * 2025
 
   ### J204. [Sign-off Timing Considerations via Concurrent Routing Topology Optimization](https://doi.org/10.1109/TCAD.2024.3506216) 

@@ -20,7 +20,7 @@ Conference and Journal Papers
 
 * 2026
 
-  ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis En- gine with Holistic Industrial Design Support 
+  ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
      * accepted
      * Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.

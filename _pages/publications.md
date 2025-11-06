@@ -108,7 +108,7 @@ Conference and Journal Papers
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
   ### C192. High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity 
-     * <a href="/publications/papers/TIMING_ICCAD2025_Liu.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/THERMAL_ICCAD2025_Zhu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             

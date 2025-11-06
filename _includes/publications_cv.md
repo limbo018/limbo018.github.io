@@ -40,7 +40,7 @@
             
 * C193. Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "IncreGPUSTA: GPU-Accelerated Incremental Static Timing Analysis for Iterative Design Flows," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/TIMING_ICCAD2025_Liu.pdf){: .share-button-noborder})
             
-* C192. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/TIMING_ICCAD2025_Liu.pdf){: .share-button-noborder})
+* C192. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/THERMAL_ICCAD2025_Zhu.pdf){: .share-button-noborder})
             
 * C191. Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Waa Gwok-Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, Chenhao Xue, Ying Wang, **Yibo Lin**, Jun Yang, Ning Xu, Xi Wang and Qiang Xu\*, "MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025. ([preprint](/publications/papers/LLM_ICCAD2025_Zhao.pdf){: .share-button-noborder})
             

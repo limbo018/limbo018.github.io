@@ -6,7 +6,7 @@
 (\* denotes corresponding authors)
 
 
-* C209. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+* C209. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)(*Invited Paper*)
             
 * C208. Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\*, "HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
             

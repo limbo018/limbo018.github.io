@@ -27,7 +27,7 @@ Conference and Journal Papers
             
   ### C208. HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine 
      * accepted
-     * Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\* 
+     * Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Zuodong Zhang, Yun Liang and Runsheng Wang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
   ### C207. Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors 

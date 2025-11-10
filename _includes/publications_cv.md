@@ -8,7 +8,7 @@
 
 * C209. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)(*Invited Paper*)
             
-* C208. Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\*, "HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
+* C208. Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Zuodong Zhang, Yun Liang and Runsheng Wang\*, "HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
             
 * C207. Kairong Guo, Haoran Lu, Rui Guo, Jiarui Wang, Chunyuan Zhao, Heng Wu, Runsheng Wang and **Yibo Lin**\*, "Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)
             

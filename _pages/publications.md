@@ -20,6 +20,11 @@ Conference and Journal Papers
 
 * 2026
 
+  ### J210. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+     * accepted
+     * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+            
   ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
      * accepted \| *Invited Paper*
      * Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\* 

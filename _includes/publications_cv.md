@@ -6,6 +6,8 @@
 (\* denotes corresponding authors)
 
 
+* J210. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+            
 * C209. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)(*Invited Paper*)
             
 * C208. Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Zuodong Zhang, Yun Liang and Runsheng Wang\*, "HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)

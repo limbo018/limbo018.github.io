@@ -20,25 +20,30 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J213. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J214. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J212. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J213. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J211. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J212. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J210. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J211. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+            
+  ### C210. TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement 
+     * <a href="/publications/papers/FPGA_ISFPGA2026_Wang.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\* 
+     * International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026.
             
   ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
      * accepted \| *Invited Paper*

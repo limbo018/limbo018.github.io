@@ -6,13 +6,15 @@
 (\* denotes corresponding authors)
 
 
-* J213. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J214. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J212. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+* J213. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
             
-* J211. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
+* J212. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
             
-* J210. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J211. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+            
+* C210. Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\*, "TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement," International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026. ([preprint](/publications/papers/FPGA_ISFPGA2026_Wang.pdf){: .share-button-noborder})(accepted)
             
 * C209. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. (accepted)(*Invited Paper*)
             

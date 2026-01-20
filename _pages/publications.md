@@ -46,27 +46,27 @@ Conference and Journal Papers
      * International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026.
             
   ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
-     * accepted \| *Invited Paper*
+     * <a href="https://arxiv.org/abs/2511.11660" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
   ### C208. HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine 
-     * accepted
+     * <a href="/publications/papers/TIMING_ASPDAC2026_Shi.pdf" style="color:#3793ae">preprint</a>
      * Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Zuodong Zhang, Yun Liang and Runsheng Wang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
   ### C207. Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors 
-     * accepted
+     * <a href="/publications/papers/CELL_ASPDAC2026_Guo.pdf" style="color:#3793ae">preprint</a>
      * Kairong Guo, Haoran Lu, Rui Guo, Jiarui Wang, Chunyuan Zhao, Heng Wu, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
   ### C206. MOSTAR: Multi-Stage Hierarchical Bayesian Optimization for Substructure-Aware High-Dimensional Analog Circuit Sizing 
-     * accepted
+     * <a href="/publications/papers/ANALOG_ASPDAC2026_Fan.pdf" style="color:#3793ae">preprint</a>
      * Weijian Fan, Haoyi Zhang, Weibin Lin, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
   ### C205. AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models 
-     * accepted
+     * <a href="/publications/papers/ARCH_ASPDAC2026_Xue.pdf" style="color:#3793ae">preprint</a>
      * Chenhao Xue, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, **Yibo Lin**, Lining Zhang, Qiang Xu and Guangyu Sun\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             

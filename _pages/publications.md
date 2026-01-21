@@ -20,54 +20,59 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J214. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J215. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J213. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J214. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J212. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J213. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J211. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J212. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### C210. TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement 
+  ### C211. TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement 
      * <a href="/publications/papers/FPGA_ISFPGA2026_Wang.pdf" style="color:#3793ae">preprint</a> \| accepted
      * Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\* 
      * International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026.
             
-  ### C209. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
+  ### C210. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
      * <a href="https://arxiv.org/abs/2511.11660" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
-  ### C208. HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine 
+  ### C209. HeteroLatch: A CPU-GPU Heterogeneous Latch-Aware Timing Analysis Engine 
      * <a href="/publications/papers/TIMING_ASPDAC2026_Shi.pdf" style="color:#3793ae">preprint</a>
      * Xizhe Shi, Zizheng Guo, **Yibo Lin**\*, Zuodong Zhang, Yun Liang and Runsheng Wang\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
-  ### C207. Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors 
+  ### C208. Standard Cell Layout Synthesis for Dual-Sided 3D-Stacked Transistors 
      * <a href="/publications/papers/CELL_ASPDAC2026_Guo.pdf" style="color:#3793ae">preprint</a>
      * Kairong Guo, Haoran Lu, Rui Guo, Jiarui Wang, Chunyuan Zhao, Heng Wu, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
-  ### C206. MOSTAR: Multi-Stage Hierarchical Bayesian Optimization for Substructure-Aware High-Dimensional Analog Circuit Sizing 
+  ### C207. MOSTAR: Multi-Stage Hierarchical Bayesian Optimization for Substructure-Aware High-Dimensional Analog Circuit Sizing 
      * <a href="/publications/papers/ANALOG_ASPDAC2026_Fan.pdf" style="color:#3793ae">preprint</a>
      * Weijian Fan, Haoyi Zhang, Weibin Lin, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
-  ### C205. AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models 
+  ### C206. AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models 
      * <a href="/publications/papers/ARCH_ASPDAC2026_Xue.pdf" style="color:#3793ae">preprint</a>
      * Chenhao Xue, Kezhi Li, Jiaxing Zhang, Yi Ren, Zhengyuan Shi, Chen Zhang, **Yibo Lin**, Lining Zhang, Qiang Xu and Guangyu Sun\* 
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
+            
+  ### C205. IR Drop-Aware ECO: A Fast Approach to Minimize Layout and Timing Disturbance 
+     * <a href="/publications/papers/ECO_ASPDAC2026_Hu.pdf" style="color:#3793ae">preprint</a>
+     * Jingchao Hu, **Yibo Lin**, Hao Yu, Quan Chen, Zhou Jin\* and Cheng Zhuo 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
 * 2025

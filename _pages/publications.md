@@ -80,8 +80,8 @@ Conference and Journal Papers
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C212. [GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)(extended abstract)) 
-     * accepted \| extended abstract
+  ### C212. [GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)([limbo018.github.io/papers/ANALOG_DATE2026_Liu.pdf preprint])) 
+     * accepted
      * Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             

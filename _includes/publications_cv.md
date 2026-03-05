@@ -30,7 +30,7 @@
             
 * C213. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "[Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted)([limbo018.github.io/papers/THERMAL_DATE2026_Zhu.pdf preprint]))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)
             
-* C212. Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\*, "[GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)(extended abstract))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)(extended abstract)
+* C212. Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\*, "[GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)([limbo018.github.io/papers/ANALOG_DATE2026_Liu.pdf preprint]))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)
             
 * C211. Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\*, "TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement," International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026. ([preprint](/publications/papers/FPGA_ISFPGA2026_Wang.pdf){: .share-button-noborder})
             

@@ -75,7 +75,7 @@ Conference and Journal Papers
      * Siting Liu, Peng Xu, Peiyu Liao, Keren Zhu, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C213. [Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted)) 
+  ### C213. [Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted)([limbo018.github.io/papers/THERMAL_DATE2026_Zhu.pdf preprint])) 
      * accepted
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.

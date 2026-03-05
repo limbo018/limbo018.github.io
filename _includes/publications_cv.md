@@ -28,7 +28,7 @@
             
 * C214. Siting Liu, Peng Xu, Peiyu Liao, Keren Zhu, **Yibo Lin** and Bei Yu\*, "[Submodular Maximization-Inspired Adaptive Routing Bend Space Planning]((accepted))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)
             
-* C213. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "[Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)
+* C213. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "[Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted)([limbo018.github.io/papers/THERMAL_DATE2026_Zhu.pdf preprint]))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)
             
 * C212. Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\*, "[GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)(extended abstract))," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)(extended abstract)
             

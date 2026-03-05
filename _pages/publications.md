@@ -20,28 +20,73 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J215. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J224. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J214. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J223. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J213. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J222. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J212. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J221. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
+  ### C220. [CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB) 
+     * <a href="https://openreview.net/forum?id=lEDb4gQ4dB" style="color:#3793ae">preprint</a> \| accepted
+     * Mingjun Wang, Yihan Wen, Yuntao Lu, Fengrui Liu, Yuxiang Zhao, Boyu Han, Jianan Mu, **Yibo Lin**, Runsheng Wang, Huawei Li and Bei Yu 
+     * International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026.
+            
+  ### C219. [Soft-Constrained Triple Patterning Layout Decomposition]((accepted)) 
+     * accepted
+     * Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\* 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C218. [EMAPER: Cross-Level Electromigration Aware Placement and Routing EDA Workflow for Interconnects Hotspot Prediction and Mitigation]((accepted)) 
+     * accepted
+     * Chenglin Ye, Yuze Lu, Yizhan Liu, Ligong Zhang, Jinghan Xu, Fei Liu, Zheng Zhou and Xiaoyan Liu 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C217. [SONIC: Smart Optimization for Neural-Integrated CMP with Timing-Aware Fills]((accepted)) 
+     * accepted
+     * Jiajun Tan, Qichao Ma, Yiming Du, Yiming Gan, Ling Liang, **Yibo Lin**, Ming Zhu, Zongwei Wang and Yimao Cai 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C216. [Provably Optimal Planar Pareto Nearest Neighbor Search with Double Monotone Chains]((accepted)) 
+     * accepted
+     * Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C215. [DSR: A Systematic Approach for Efficient Double-Sided Signal Routing]((accepted)) 
+     * accepted
+     * Jianqing Chen, Zhenkun Lin, Xun Jiang, Genggeng Liu\*, **Yibo Lin** and Gang Du 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C214. [Submodular Maximization-Inspired Adaptive Routing Bend Space Planning]((accepted)) 
+     * accepted
+     * Siting Liu, Peng Xu, Peiyu Liao, Keren Zhu, **Yibo Lin** and Bei Yu\* 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C213. [Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted)) 
+     * accepted
+     * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C212. [GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)(extended abstract)) 
+     * accepted \| extended abstract
+     * Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\* 
+     * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
   ### C211. TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement 
-     * <a href="/publications/papers/FPGA_ISFPGA2026_Wang.pdf" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="/publications/papers/FPGA_ISFPGA2026_Wang.pdf" style="color:#3793ae">preprint</a>
      * Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\* 
      * International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026.
             
@@ -87,65 +132,65 @@ Conference and Journal Papers
      * Zhenkun Lin, Genggeng Liu\*, Xing Huang, **Yibo Lin**, Jixin Zhang, Wenhao Liu and Ting-Chi Wang 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J202. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
-     * <a href="https://arxiv.org/abs/2406.18873" style="color:#3793ae">preprint</a> \| accepted
-     * Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
-     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
-            
-  ### J201. [Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297) 
+  ### J202. [Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models](https://doi.org/10.1109/TCAD.2025.3566297) 
      * <a href="https://arxiv.org/abs/2407.02079" style="color:#3793ae">preprint</a> \| accepted
      * Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, **Yibo Lin**, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang and Guangyu Sun\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J200. [A Post-Routing Layout Optimization Framework for Lithography Process Window Enlargement](https://doi.org/10.1109/TCAD.2025.3594247) 
+  ### J201. [A Post-Routing Layout Optimization Framework for Lithography Process Window Enlargement](https://doi.org/10.1109/TCAD.2025.3594247) 
      * accepted
      * Yajuan Su, Zixi Liu, **Yibo Lin**, Xiaojing Su, Yuqin Wang, Xin Hong, Yujie Jiang, Pengyu Ren and Yayi Wei 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### J199. [LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization](https://doi.org/10.1109/TCAD.2025.3597526) 
+  ### J200. [LEGALM 2.0: A Versatile Augmented Lagrangian Method-Based Methodology for Mixed-Cell-Height Legalization](https://doi.org/10.1109/TCAD.2025.3597526) 
      * accepted
      * Jing Mai, Chunyuan Zhao, Zuodong Zhang, Zhixiong Di, Runsheng Wang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.
             
-  ### C198. GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection 
+  ### C199. GTA: GPU-Accelerated Track Assignment with Lightweight Lookup Table for Conflict Detection 
      * <a href="/publications/papers/ROUTE_ICCAD2025_Zhao.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Chunyuan Zhao, Jiarui Wang, Xun Jiang, Jincheng Lou and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C197. Differentiable Physical Optimization 
+  ### C198. Differentiable Physical Optimization 
      * <a href="/publications/papers/OPT_ICCAD2025_Du.pdf" style="color:#3793ae">preprint</a>
      * Yufan Du, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C196. DiffCCD: Differentiable Concurrent Clock and Data Optimization 
+  ### C197. DiffCCD: Differentiable Concurrent Clock and Data Optimization 
      * <a href="/publications/papers/OPT_ICCAD2025_Ji.pdf" style="color:#3793ae">preprint</a>
      * Yuhao Ji, Yuntao Lu, Zuodong Zhang, Zizheng Guo, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C195. GPU Acceleration for Versatile Buffer Insertion 
+  ### C196. GPU Acceleration for Versatile Buffer Insertion 
      * <a href="/publications/papers/OPT_ICCAD2025_Pu.pdf" style="color:#3793ae">preprint</a>
      * Yuan Pu, Yuhao Ji, Siying Yu, Zuodong Zhang, Zizheng Guo, Zhuolun He, **Yibo Lin**, David Z. Pan and Bei Yu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C194. Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization 
+  ### C195. Orthrus: Dual-Loop Automated Framework for System-Technology Co-Optimization 
      * <a href="/publications/papers/STCO_ICCAD2025_Ren.pdf" style="color:#3793ae">preprint</a>
      * Yi Ren, Baokang Peng, Chenhao Xue, Kairong Guo, Yukun Wang, Guoyao Cheng, **Yibo Lin**, Lining Zhang and Guangyu Sun\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C193. IncreGPUSTA: GPU-Accelerated Incremental Static Timing Analysis for Iterative Design Flows 
+  ### C194. IncreGPUSTA: GPU-Accelerated Incremental Static Timing Analysis for Iterative Design Flows 
      * <a href="/publications/papers/TIMING_ICCAD2025_Liu.pdf" style="color:#3793ae">preprint</a>
      * Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C192. High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity 
+  ### C193. High-Resolution Full-Chip Thermal Resistance Extraction of BEOL Interconnects in 3-D ICs Considering Detailed Via Connectivity 
      * <a href="/publications/papers/THERMAL_ICCAD2025_Zhu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
             
-  ### C191. MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs 
+  ### C192. MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs 
      * <a href="/publications/papers/LLM_ICCAD2025_Zhao.pdf" style="color:#3793ae">preprint</a>
      * Chenchen Zhao, Zhengyuan Shi, Xiangyu Wen, Chengjie Liu, Yi Liu, Yunhao Zhou, Yuxiang Zhao, Hefei Feng, Yinan Zhu, Waa Gwok-Wan, Xin Cheng, Weiyu Chen, Yongqi Fu, Chujie Chen, Chenhao Xue, Ying Wang, **Yibo Lin**, Jun Yang, Ning Xu, Xi Wang and Qiang Xu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Munich, Germany, Oct, 2025.
+            
+  ### J191. [LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design](https://doi.org/10.1109/TCAD.2025.3529805) 
+     * <a href="https://arxiv.org/abs/2406.18873" style="color:#3793ae">preprint</a>
+     * Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Aug, 2025.
             
   ### C190. [DeepLayout: Learning Neural Representations of Circuit Placement Layout](https://openreview.net/forum?id=XAlUoJFFQR) 
      * <a href="https://openreview.net/forum?id=XAlUoJFFQR" style="color:#3793ae">preprint</a>

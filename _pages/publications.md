@@ -45,43 +45,43 @@ Conference and Journal Papers
      * Mingjun Wang, Yihan Wen, Yuntao Lu, Fengrui Liu, Yuxiang Zhao, Boyu Han, Jianan Mu, **Yibo Lin**, Runsheng Wang, Huawei Li and Bei Yu 
      * International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026.
             
-  ### C219. [Soft-Constrained Triple Patterning Layout Decomposition]((accepted)) 
+  ### C219. Soft-Constrained Triple Patterning Layout Decomposition 
      * accepted
      * Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C218. [EMAPER: Cross-Level Electromigration Aware Placement and Routing EDA Workflow for Interconnects Hotspot Prediction and Mitigation]((accepted)) 
+  ### C218. EMAPER: Cross-Level Electromigration Aware Placement and Routing EDA Workflow for Interconnects Hotspot Prediction and Mitigation 
      * accepted
-     * Chenglin Ye, Yuze Lu, Yizhan Liu, Ligong Zhang, Jinghan Xu, Fei Liu, Zheng Zhou and Xiaoyan Liu 
+     * Chenglin Ye, Yuze Lu, Yizhan Liu, Ligong Zhang, Jinghan Xu, Fei Liu, **Yibo Lin**, Zheng Zhou and Xiaoyan Liu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C217. [SONIC: Smart Optimization for Neural-Integrated CMP with Timing-Aware Fills]((accepted)) 
+  ### C217. SONIC: Smart Optimization for Neural-Integrated CMP with Timing-Aware Fills 
      * accepted
      * Jiajun Tan, Qichao Ma, Yiming Du, Yiming Gan, Ling Liang, **Yibo Lin**, Ming Zhu, Zongwei Wang and Yimao Cai 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C216. [Provably Optimal Planar Pareto Nearest Neighbor Search with Double Monotone Chains]((accepted)) 
+  ### C216. Provably Optimal Planar Pareto Nearest Neighbor Search with Double Monotone Chains 
      * accepted
      * Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C215. [DSR: A Systematic Approach for Efficient Double-Sided Signal Routing]((accepted)) 
+  ### C215. DSR: A Systematic Approach for Efficient Double-Sided Signal Routing 
      * accepted
      * Jianqing Chen, Zhenkun Lin, Xun Jiang, Genggeng Liu\*, **Yibo Lin** and Gang Du 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C214. [Submodular Maximization-Inspired Adaptive Routing Bend Space Planning]((accepted)) 
+  ### C214. Submodular Maximization-Inspired Adaptive Routing Bend Space Planning 
      * accepted
      * Siting Liu, Peng Xu, Peiyu Liao, Keren Zhu, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C213. [Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory]((accepted)([limbo018.github.io/papers/THERMAL_DATE2026_Zhu.pdf preprint])) 
-     * accepted
+  ### C213. Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory 
+     * accepted \| <a href="/publications/papers/THERMAL_DATE2026_Zhu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C212. [GRAIN: A Design-Intent-Driven Analog Layout Migration Framework]((accepted)([limbo018.github.io/papers/ANALOG_DATE2026_Liu.pdf preprint])) 
-     * accepted
+  ### C212. GRAIN: A Design-Intent-Driven Analog Layout Migration Framework 
+     * accepted \| <a href="/publications/papers/ANALOG_DATE2026_Liu.pdf" style="color:#3793ae">preprint</a>
      * Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             

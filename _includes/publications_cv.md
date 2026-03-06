@@ -32,7 +32,7 @@
             
 * C212. Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\*, "GRAIN: A Design-Intent-Driven Analog Layout Migration Framework," IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026. (accepted)([preprint](/publications/papers/ANALOG_DATE2026_Liu.pdf){: .share-button-noborder})
             
-* C211. Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\*, "TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement," International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026. ([preprint](/publications/papers/FPGA_ISFPGA2026_Wang.pdf){: .share-button-noborder})
+* C211. Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\*, "TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement," International Symposium on Field-Programmable Gate Arrays (FPGA), Monterey, CA, Feb 22-24, 2026. ([preprint](/publications/papers/FPGA_ISFPGA2026_Wang.pdf){: .share-button-noborder})
             
 * C210. Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\*, "HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support," IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026. ([preprint](https://arxiv.org/abs/2511.11660){: .share-button-noborder})(*Invited Paper*)
             

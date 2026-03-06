@@ -88,7 +88,7 @@ Conference and Journal Papers
   ### C211. TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement 
      * <a href="/publications/papers/FPGA_ISFPGA2026_Wang.pdf" style="color:#3793ae">preprint</a>
      * Jiarui Wang, Runzhe Tao, Jing Mai, Xun Jiang, Shenghua Wang, Cuiliu Yang, Haoyu Jie, Kan Huang, Richard Y. Sun and **Yibo Lin**\* 
-     * International Symposium on Field-Programmable Gate Arrays (ISFPGA), Monterey, CA, Feb 22-24, 2026.
+     * International Symposium on Field-Programmable Gate Arrays (FPGA), Monterey, CA, Feb 22-24, 2026.
             
   ### C210. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
      * <a href="https://arxiv.org/abs/2511.11660" style="color:#3793ae">preprint</a> \| *Invited Paper*

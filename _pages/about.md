@@ -31,6 +31,8 @@ Highly-Recommended Resources
 
 Recent News
 ======
+* 1/2026: Congratulations to [Zizheng Guo](https://guozz.cn) for winning the **Best Poster Award** (Research) at ASPDAC 2026 Student Research Forum!
+
 * 3/2025: We won the **First Place** at [ISPD 2025 Performance-Driven Large Scale Global Routing Contest](https://github.com/liangrj2014/ISPD25_contest/blob/main/index.md). Cheers and congratulations to Chunyuan Zhao!
 
 * 1/2025: Congratulations to [Xiaohan Gao](https://gaoxiaohan.com/) for winning the **Best Poster Award** at ASPDAC 2025 Student Research Forum!
@@ -67,6 +69,7 @@ Selected Awards and Honors
 
 Selected Contest Awards by Students in My Group
 ======
+* Best Poster Award (Research) at Student Research Forum, ASPDAC 2026
 * 1st Place in ISPD 2025 Contest 
 * Best Poster Award at Student Research Forum, ASPDAC 2025
 * 1st Place in 2024 China Postgraduate IC Innovation Competition - EDA Elite Challenge Grand Finals (中国研究生创芯大赛-EDA精英挑战赛决赛麒麟杯)

@@ -40,7 +40,7 @@
             
 * C222. Xun Jiang, Haoran Lu, Yifan Chen, Jiarui Wang, Chunyuan Zhao, Yibo Zhang, Jianxiang Jin, Heng Wu, Runsheng Wang and **Yibo Lin**\*, "Flexible Double-Side Pin Redistribution with Efficient Virtual-Net-Guided Cell Type Assignment," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
             
-* C221. Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "ElmoreCeff: An Elmore-like Delay Calculator based on a Closed-Form Effective Capacitance Model for GPU-Accelerated Timing-Driven Optimization," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
+* C221. Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "ElmoreCeff: A GPU-Friendly Elmore-Like Delay Calculator with a Closed-Form Effective Capacitance Model," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
             
 * C220. Mingjun Wang, Yihan Wen, Yuntao Lu, Fengrui Liu, Yuxiang Zhao, Boyu Han, Jianan Mu, **Yibo Lin**, Runsheng Wang, Huawei Li and Bei Yu, "[CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB)," International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026. ([preprint](https://openreview.net/forum?id=lEDb4gQ4dB){: .share-button-noborder})(accepted)
             

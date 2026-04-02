@@ -105,7 +105,7 @@ Conference and Journal Papers
      * Xun Jiang, Haoran Lu, Yifan Chen, Jiarui Wang, Chunyuan Zhao, Yibo Zhang, Jianxiang Jin, Heng Wu, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C221. ElmoreCeff: An Elmore-like Delay Calculator based on a Closed-Form Effective Capacitance Model for GPU-Accelerated Timing-Driven Optimization 
+  ### C221. ElmoreCeff: A GPU-Friendly Elmore-Like Delay Calculator with a Closed-Form Effective Capacitance Model 
      * accepted
      * Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.

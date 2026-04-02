@@ -6,13 +6,41 @@
 (\* denotes corresponding authors)
 
 
-* J224. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J238. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J223. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+* J237. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
             
-* J222. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
+* J236. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
             
-* J221. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J235. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+            
+* C234. Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\*, "Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C233. Yi Ren, Yukun Wang, Xiang Meng, Guoyao Cheng, Baokang Peng, Lining Zhang, **Yibo Lin**, Runsheng Wang and Guangyu Sun\*, "CellE: Automated Standard Cell Library Extension via Equality Saturation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C232. Jing Mai, Yi-Chen Lu, **Yibo Lin** and Haoxing Ren, "LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C231. Wenbo An, Kairong Guo, Haoyi Zhang and **Yibo Lin**\*, "EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C230. Yuhao Ji, Yunqi Shi, Tianshu Hou, Yuxuan Zhao, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\*, "Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C229. Kexing Zhou, Youwei Zhuo, **Yibo Lin**, Weikang Qian, Pengpeng Ren and Yun Liang\*, "Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C228. Jiechen Huang, Hector R. Rodriguez, Dingcheng Yang, Zuochang Ye, **Yibo Lin** and Wenjian Yu\*, "AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+            
+* C227. Haoyi Zhang, Weijian Fan, Xiaohan Gao, Bingyang Liu, Runsheng Wang and **Yibo Lin**\*, "PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)(*Invited Paper*)
+            
+* C226. Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\*, "HeteroPower: A CPU-GPU Heterogeneous Engine to Accelerate Gate-Level Power Analysis," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
+            
+* C225. Kairong Guo, Jiechen Huang, Wenjian Yu and **Yibo Lin**\*, "CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
+            
+* C224. Jincheng Lou, Ruohan Xu, Jiecheng Ma, Runzhe Tao, Xinyu Qu and **Yibo Lin**\*, "LEGO: An LLM Skill-Based Front-End Design Generation Platform," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
+            
+* C223. Zizhuo Fu, Yifan Zhou, Zhaoxin Lu, Guangyu Sun, Runsheng Wang, Meng Li\* and **Yibo Lin**\*, "RePart: Efficient Hypergraph Partitioning with Logic Replication Optimization for Multi-FPGA System," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
+            
+* C222. Xun Jiang, Haoran Lu, Yifan Chen, Jiarui Wang, Chunyuan Zhao, Yibo Zhang, Jianxiang Jin, Heng Wu, Runsheng Wang and **Yibo Lin**\*, "Flexible Double-Side Pin Redistribution with Efficient Virtual-Net-Guided Cell Type Assignment," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
+            
+* C221. Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\*, "ElmoreCeff: An Elmore-like Delay Calculator based on a Closed-Form Effective Capacitance Model for GPU-Accelerated Timing-Driven Optimization," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. (accepted)
             
 * C220. Mingjun Wang, Yihan Wen, Yuntao Lu, Fengrui Liu, Yuxiang Zhao, Boyu Han, Jianan Mu, **Yibo Lin**, Runsheng Wang, Huawei Li and Bei Yu, "[CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB)," International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026. ([preprint](https://openreview.net/forum?id=lEDb4gQ4dB){: .share-button-noborder})(accepted)
             
@@ -416,7 +444,7 @@
             
 * C20. **Yibo Lin**, Peter Debacker, Darko Trivkovic, Ryoung-han Kim, Praveen Raghavan and David Z. Pan\*, "[Patterning Aware Design Optimization of Selective Etching in N5 and Beyond](https://doi.org/10.1109/ICCD.2017.72)," IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017. ([preprint](/publications/papers/DFM_ICCD2017_Lin.pdf){: .share-button-noborder})([slides](/publications/papers/DFM_ICCD2017_Lin.slides.pdf){: .share-button-noborder})
             
-* C19. **Yibo Lin**, Xiaoqing Xu, Jiaojiao Ou and David Z Pan, "[Machine learning for mask/wafer hotspot detection and mask synthesis](http://dx.doi.org/10.1117/12.2282943)," Photomask Technology, Oct 16, 2017. ([preprint](/publications/papers/MASK_PT2017_Lin.pdf){: .share-button-noborder})(*Invited paper*)
+* C19. **Yibo Lin**, Xiaoqing Xu, Jiaojiao Ou and David Z Pan, "[Machine learning for mask/wafer hotspot detection and mask synthesis](http://dx.doi.org/10.1117/12.2282943)," Photomask Technology, Oct 16, 2017. ([preprint](/publications/papers/MASK_PT2017_Lin.pdf){: .share-button-noborder})(*Invited Paper*)
             
 * J18. **Yibo Lin**, Bei Yu and David Z. Pan\*, "[High performance dummy fill insertion with coupling and uniformity constraints](http://dx.doi.org/10.1109/TCAD.2016.2638452)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sep, 2017. ([preprint](/publications/papers/CMP_TCAD2016_Lin.pdf){: .share-button-noborder})([release](http://www.cerc.utexas.edu/utda/download/DFI/index.html){: .share-button-noborder})
             

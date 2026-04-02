@@ -20,25 +20,95 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J224. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J238. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J223. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J237. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J222. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J236. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J221. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J235. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+            
+  ### C234. Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing 
+     * accepted
+     * Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C233. CellE: Automated Standard Cell Library Extension via Equality Saturation 
+     * accepted
+     * Yi Ren, Yukun Wang, Xiang Meng, Guoyao Cheng, Baokang Peng, Lining Zhang, **Yibo Lin**, Runsheng Wang and Guangyu Sun\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C232. LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement 
+     * accepted
+     * Jing Mai, Yi-Chen Lu, **Yibo Lin** and Haoxing Ren 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C231. EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction 
+     * accepted
+     * Wenbo An, Kairong Guo, Haoyi Zhang and **Yibo Lin**\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C230. Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs 
+     * accepted
+     * Yuhao Ji, Yunqi Shi, Tianshu Hou, Yuxuan Zhao, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C229. Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation 
+     * accepted
+     * Kexing Zhou, Youwei Zhuo, **Yibo Lin**, Weikang Qian, Pengpeng Ren and Yun Liang\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C228. AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction 
+     * accepted
+     * Jiechen Huang, Hector R. Rodriguez, Dingcheng Yang, Zuochang Ye, **Yibo Lin** and Wenjian Yu\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C227. PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation 
+     * accepted \| *Invited Paper*
+     * Haoyi Zhang, Weijian Fan, Xiaohan Gao, Bingyang Liu, Runsheng Wang and **Yibo Lin**\* 
+     * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
+            
+  ### C226. HeteroPower: A CPU-GPU Heterogeneous Engine to Accelerate Gate-Level Power Analysis 
+     * accepted
+     * Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
+            
+  ### C225. CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling 
+     * accepted
+     * Kairong Guo, Jiechen Huang, Wenjian Yu and **Yibo Lin**\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
+            
+  ### C224. LEGO: An LLM Skill-Based Front-End Design Generation Platform 
+     * accepted
+     * Jincheng Lou, Ruohan Xu, Jiecheng Ma, Runzhe Tao, Xinyu Qu and **Yibo Lin**\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
+            
+  ### C223. RePart: Efficient Hypergraph Partitioning with Logic Replication Optimization for Multi-FPGA System 
+     * accepted
+     * Zizhuo Fu, Yifan Zhou, Zhaoxin Lu, Guangyu Sun, Runsheng Wang, Meng Li\* and **Yibo Lin**\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
+            
+  ### C222. Flexible Double-Side Pin Redistribution with Efficient Virtual-Net-Guided Cell Type Assignment 
+     * accepted
+     * Xun Jiang, Haoran Lu, Yifan Chen, Jiarui Wang, Chunyuan Zhao, Yibo Zhang, Jianxiang Jin, Heng Wu, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
+            
+  ### C221. ElmoreCeff: An Elmore-like Delay Calculator based on a Closed-Form Effective Capacitance Model for GPU-Accelerated Timing-Driven Optimization 
+     * accepted
+     * Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
   ### C220. [CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB) 
      * <a href="https://openreview.net/forum?id=lEDb4gQ4dB" style="color:#3793ae">preprint</a> \| accepted
@@ -1037,7 +1107,7 @@ Conference and Journal Papers
      * IEEE International Conference on Computer Design (ICCD), Boston, MA, Nov 5-8, 2017.
             
   ### C19. [Machine learning for mask/wafer hotspot detection and mask synthesis](http://dx.doi.org/10.1117/12.2282943) 
-     * <a href="/publications/papers/MASK_PT2017_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited paper*
+     * <a href="/publications/papers/MASK_PT2017_Lin.pdf" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * **Yibo Lin**, Xiaoqing Xu, Jiaojiao Ou and David Z Pan 
      * Photomask Technology, Oct 16, 2017.
             

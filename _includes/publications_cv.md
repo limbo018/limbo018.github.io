@@ -32,7 +32,7 @@
             
 * C226. Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\*, "HeteroPower: A CPU-GPU Heterogeneous Engine to Accelerate Gate-Level Power Analysis," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. ([preprint](/publications/papers/POWER_ISEDA2026_Shi.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             
-* C225. Kairong Guo, Jiechen Huang, Wenjian Yu and **Yibo Lin**\*, "CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. ([preprint](/publications/papers/POWER_ISEDA2026_Shi.pdf){: .share-button-noborder})
+* C225. Kairong Guo, Jiechen Huang, Wenjian Yu and **Yibo Lin**\*, "CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. ([preprint](/publications/papers/CELL_ISEDA2026_Guo.pdf){: .share-button-noborder})
             
 * C224. Jincheng Lou, Ruohan Xu, Jiecheng Ma, Runzhe Tao, Xinyu Qu and **Yibo Lin**\*, "LEGO: An LLM Skill-Based Front-End Design Generation Platform," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. ([preprint](/publications/papers/RTL_ISEDA2026_Lou.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

@@ -86,7 +86,7 @@ Conference and Journal Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
   ### C225. CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling 
-     * <a href="/publications/papers/POWER_ISEDA2026_Shi.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/CELL_ISEDA2026_Guo.pdf" style="color:#3793ae">preprint</a>
      * Kairong Guo, Jiechen Huang, Wenjian Yu and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             

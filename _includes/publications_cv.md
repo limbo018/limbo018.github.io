@@ -6,29 +6,31 @@
 (\* denotes corresponding authors)
 
 
-* J238. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J239. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J237. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+* J238. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
             
-* J236. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
+* J237. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
             
-* J235. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J236. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* C234. Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\*, "Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C235. Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\*, "Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C233. Yi Ren, Yukun Wang, Xiang Meng, Guoyao Cheng, Baokang Peng, Lining Zhang, **Yibo Lin**, Runsheng Wang and Guangyu Sun\*, "CellE: Automated Standard Cell Library Extension via Equality Saturation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C234. Yi Ren, Yukun Wang, Xiang Meng, Guoyao Cheng, Baokang Peng, Lining Zhang, **Yibo Lin**, Runsheng Wang and Guangyu Sun\*, "CellE: Automated Standard Cell Library Extension via Equality Saturation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C232. Jing Mai, Yi-Chen Lu, **Yibo Lin** and Haoxing Ren, "LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C233. Jing Mai, Yi-Chen Lu, **Yibo Lin** and Haoxing Ren, "LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C231. Wenbo An, Kairong Guo, Haoyi Zhang and **Yibo Lin**\*, "EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C232. Wenbo An, Kairong Guo, Haoyi Zhang and **Yibo Lin**\*, "EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C230. Yuhao Ji, Yunqi Shi, Tianshu Hou, Yuxuan Zhao, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\*, "Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C231. Yuhao Ji, Yunqi Shi, Tianshu Hou, Yuxuan Zhao, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\*, "Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C229. Kexing Zhou, Youwei Zhuo, **Yibo Lin**, Weikang Qian, Pengpeng Ren and Yun Liang\*, "Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C230. Kexing Zhou, Youwei Zhuo, **Yibo Lin**, Weikang Qian, Pengpeng Ren and Yun Liang\*, "Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C228. Jiechen Huang, Hector R. Rodriguez, Dingcheng Yang, Zuochang Ye, **Yibo Lin** and Wenjian Yu\*, "AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
+* C229. Jiechen Huang, Hector R. Rodriguez, Dingcheng Yang, Zuochang Ye, **Yibo Lin** and Wenjian Yu\*, "AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)
             
-* C227. Haoyi Zhang, Weijian Fan, Xiaohan Gao, Bingyang Liu, Runsheng Wang and **Yibo Lin**\*, "PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)(*Invited Paper*)
+* C228. Haoyi Zhang, Weijian Fan, Xiaohan Gao, Bingyang Liu, Runsheng Wang and **Yibo Lin**\*, "PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. (accepted)(*Invited Paper*)
+            
+* C227. Haoyi Zhang, Kairong Guo, Bojie Zhang, **Yibo Lin**\* and Runsheng Wang, "[FusionCell: Cross-Attentive Fusion of Layout Geometry and Netlist Topology for Standard-Cell Performance Prediction](https://openreview.net/pdf?id=os54CnlmbR)," International Conference on Machine Learning (ICML), Seoul, Korea, Jul 6-11, 2026. ([preprint](https://openreview.net/pdf?id=os54CnlmbR){: .share-button-noborder})
             
 * C226. Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\*, "HeteroPower: A CPU-GPU Heterogeneous Engine to Accelerate Gate-Level Power Analysis," IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026. ([preprint](/publications/papers/POWER_ISEDA2026_Shi.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

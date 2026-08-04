@@ -20,145 +20,150 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J239. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J240. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J238. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J239. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J237. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J238. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J236. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J237. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### C235. Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing 
+  ### C236. Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing 
      * accepted
      * Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C234. CellE: Automated Standard Cell Library Extension via Equality Saturation 
+  ### C235. CellE: Automated Standard Cell Library Extension via Equality Saturation 
      * accepted
      * Yi Ren, Yukun Wang, Xiang Meng, Guoyao Cheng, Baokang Peng, Lining Zhang, **Yibo Lin**, Runsheng Wang and Guangyu Sun\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C233. LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement 
+  ### C234. LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement 
      * accepted
      * Jing Mai, Yi-Chen Lu, **Yibo Lin** and Haoxing Ren 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C232. EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction 
+  ### C233. EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction 
      * accepted
      * Wenbo An, Kairong Guo, Haoyi Zhang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C231. Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs 
+  ### C232. Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs 
      * accepted
      * Yuhao Ji, Yunqi Shi, Tianshu Hou, Yuxuan Zhao, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C230. Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation 
+  ### C231. Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation 
      * accepted
      * Kexing Zhou, Youwei Zhuo, **Yibo Lin**, Weikang Qian, Pengpeng Ren and Yun Liang\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C229. AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction 
+  ### C230. AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction 
      * accepted
      * Jiechen Huang, Hector R. Rodriguez, Dingcheng Yang, Zuochang Ye, **Yibo Lin** and Wenjian Yu\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C228. PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation 
+  ### C229. PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation 
      * accepted \| *Invited Paper*
      * Haoyi Zhang, Weijian Fan, Xiaohan Gao, Bingyang Liu, Runsheng Wang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
-  ### C227. [FusionCell: Cross-Attentive Fusion of Layout Geometry and Netlist Topology for Standard-Cell Performance Prediction](https://openreview.net/pdf?id=os54CnlmbR) 
+  ### C228. [FusionCell: Cross-Attentive Fusion of Layout Geometry and Netlist Topology for Standard-Cell Performance Prediction](https://openreview.net/pdf?id=os54CnlmbR) 
      * <a href="https://openreview.net/pdf?id=os54CnlmbR" style="color:#3793ae">preprint</a>
      * Haoyi Zhang, Kairong Guo, Bojie Zhang, **Yibo Lin**\* and Runsheng Wang 
      * International Conference on Machine Learning (ICML), Seoul, Korea, Jul 6-11, 2026.
             
-  ### C226. HeteroPower: A CPU-GPU Heterogeneous Engine to Accelerate Gate-Level Power Analysis 
+  ### C227. HeteroPower: A CPU-GPU Heterogeneous Engine to Accelerate Gate-Level Power Analysis 
      * <a href="/publications/papers/POWER_ISEDA2026_Shi.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Xizhe Shi, Zizheng Guo, Zuodong Zhang, Yun Liang, Runsheng Wang\* and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C225. CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling 
+  ### C226. CAPCell: Standard Cell Layout Synthesis with Parasitic Capacitance Aware Parallel Sampling 
      * <a href="/publications/papers/CELL_ISEDA2026_Guo.pdf" style="color:#3793ae">preprint</a>
      * Kairong Guo, Jiechen Huang, Wenjian Yu and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C224. LEGO: An LLM Skill-Based Front-End Design Generation Platform 
+  ### C225. LEGO: An LLM Skill-Based Front-End Design Generation Platform 
      * <a href="/publications/papers/RTL_ISEDA2026_Lou.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Jincheng Lou, Ruohan Xu, Jiecheng Ma, Runzhe Tao, Xinyu Qu and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C223. RePart: Efficient Hypergraph Partitioning with Logic Replication Optimization for Multi-FPGA System 
+  ### C224. RePart: Efficient Hypergraph Partitioning with Logic Replication Optimization for Multi-FPGA System 
      * <a href="/publications/papers/PART_ISEDA2026_Fu.pdf" style="color:#3793ae">preprint</a>
      * Zizhuo Fu, Yifan Zhou, Zhaoxin Lu, Guangyu Sun, Runsheng Wang, Meng Li\* and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C222. Flexible Double-Side Pin Redistribution with Efficient Virtual-Net-Guided Cell Type Assignment 
+  ### C223. Flexible Double-Side Pin Redistribution with Efficient Virtual-Net-Guided Cell Type Assignment 
      * <a href="/publications/papers/ROUTE_ISEDA2026_Jiang.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Xun Jiang, Haoran Lu, Yifan Chen, Jiarui Wang, Chunyuan Zhao, Yibo Zhang, Jianxiang Jin, Heng Wu, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C221. ElmoreCeff: A GPU-Friendly Elmore-Like Delay Calculator with a Closed-Form Effective Capacitance Model 
+  ### C222. ElmoreCeff: A GPU-Friendly Elmore-Like Delay Calculator with a Closed-Form Effective Capacitance Model 
      * <a href="/publications/papers/TIMING_ISEDA2026_Liu.pdf" style="color:#3793ae">preprint</a>
      * Haichuan Liu, Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C220. GRAIN: A Design-Intent-Driven Analog Layout Migration Framework 
+  ### C221. GRAIN: A Design-Intent-Driven Analog Layout Migration Framework 
      * <a href="/publications/papers/ANALOG_ISEDA2026_Liu.pdf" style="color:#3793ae">preprint</a>
      * Bingyang Liu, Haoning Jiang, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, David Z. Pan and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C219. PowerCube: A Formula-in-the-Loop Framework for Cross-Stage Power Map Prediction 
+  ### C220. PowerCube: A Formula-in-the-Loop Framework for Cross-Stage Power Map Prediction 
      * <a href="/publications/papers/POWER_ISEDA2026_Zhao.pdf" style="color:#3793ae">preprint</a>
      * Yuxiang Zhao, Jing Mai, Zishu Li, Haoyi Zhang, Jincheng Lou, Qing He, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
-  ### C218. [CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB) 
+  ### C219. [CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB) 
      * <a href="https://openreview.net/forum?id=lEDb4gQ4dB" style="color:#3793ae">preprint</a> \| accepted
      * Mingjun Wang, Yihan Wen, Yuntao Lu, Fengrui Liu, Yuxiang Zhao, Boyu Han, Jianan Mu, **Yibo Lin**, Runsheng Wang, Huawei Li and Bei Yu 
      * International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026.
             
-  ### C217. EMAPER: Cross-Level Electromigration Aware Placement and Routing EDA Workflow for Interconnects Hotspot Prediction and Mitigation 
+  ### C218. EMAPER: Cross-Level Electromigration Aware Placement and Routing EDA Workflow for Interconnects Hotspot Prediction and Mitigation 
      * <a href="/publications/papers/EM_DATE2026_Ye.pdf" style="color:#3793ae">preprint</a>
      * Chenglin Ye, Yuze Lu, Yizhan Liu, Ligong Zhang, Jinghan Xu, Fei Liu, **Yibo Lin**, Zheng Zhou and Xiaoyan Liu 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C216. SONIC: Smart Optimization for Neural-Integrated CMP with Timing-Aware Fills 
+  ### C217. SONIC: Smart Optimization for Neural-Integrated CMP with Timing-Aware Fills 
      * <a href="/publications/papers/DFM_DATE2026_Tan.pdf" style="color:#3793ae">preprint</a>
      * Jiajun Tan, Qichao Ma, Yiming Du, Yiming Gan, Ling Liang, **Yibo Lin**, Ming Zhu, Zongwei Wang and Yimao Cai 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C215. Provably Optimal Planar Pareto Nearest Neighbor Search with Double Monotone Chains 
+  ### C216. Provably Optimal Planar Pareto Nearest Neighbor Search with Double Monotone Chains 
      * <a href="/publications/papers/ROUTING_DATE2026_Guo.pdf" style="color:#3793ae">preprint</a>
      * Zizheng Guo, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C214. DSR: A Systematic Approach for Efficient Double-Sided Signal Routing 
+  ### C215. DSR: A Systematic Approach for Efficient Double-Sided Signal Routing 
      * <a href="/publications/papers/ROUTING_DATE2026_Chen.pdf" style="color:#3793ae">preprint</a>
      * Jianqing Chen, Zhenkun Lin, Xun Jiang, Genggeng Liu\*, **Yibo Lin** and Gang Du 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C213. Submodular Maximization-Inspired Adaptive Routing Bend Space Planning 
+  ### C214. Submodular Maximization-Inspired Adaptive Routing Bend Space Planning 
      * <a href="/publications/papers/ROUTING_DATE2026_Liu.pdf" style="color:#3793ae">preprint</a>
      * Siting Liu, Peng Xu, Peiyu Liao, Keren Zhu, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
             
-  ### C212. Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory 
+  ### C213. Efficient Warpage Simulation Of Complex 2.5-D/3-D IC Structures with Novel Meshing Algorithm and Layerwise Plate Theory 
      * <a href="/publications/papers/THERMAL_DATE2026_Zhu.pdf" style="color:#3793ae">preprint</a>
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, Apr 20-22, 2026.
+            
+  ### C212. [HeteroSTA3D: A CPU-GPU Heterogeneous Static Timing Analysis Engine for 3D ICs](https://doi.org/10.1109/CSTIC68613.2026.11537849) 
+     * <a href="https://heterosta3d.pkueda.org.cn/" style="color:#3793ae">release</a> \| *Invited Paper*
+     * Yuhao Ji, Zizheng Guo, **Yibo Lin** and Bei Yu\* 
+     * China Semiconductor Technology International Conference (CSTIC), Shanghai, Mar, 2026.
             
   ### C211. TDM Signal Grouping and Package Pin Assignment for 2.5D Multi-FPGA Systems with Lookahead Placement 
      * <a href="/publications/papers/FPGA_ISFPGA2026_Wang.pdf" style="color:#3793ae">preprint</a>
@@ -166,7 +171,7 @@ Conference and Journal Papers
      * International Symposium on Field-Programmable Gate Arrays (FPGA), Monterey, CA, Feb 22-24, 2026.
             
   ### C210. HeteroSTA: A CPU-GPU Heterogeneous Static Timing Analysis Engine with Holistic Industrial Design Support 
-     * <a href="https://arxiv.org/abs/2511.11660" style="color:#3793ae">preprint</a> \| *Invited Paper*
+     * <a href="https://arxiv.org/abs/2511.11660" style="color:#3793ae">preprint</a> \| <a href="https://heterosta.pkueda.org.cn/" style="color:#3793ae">release</a> \| *Invited Paper*
      * Zizheng Guo, Haichuan Liu, Xizhe Shi, Shenglu Hua, Zuodong Zhang, Chunyuan Zhao, Runsheng Wang and **Yibo Lin**\* 
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), Hong Kong, Jan, 2026.
             
@@ -328,7 +333,7 @@ Conference and Journal Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
   ### C178. [ATSim3.5D: A Multiscale Thermal Simulator for 3.5D-IC Systems based on Nonlinear Multigrid Method](https://doi.org/10.1109/ISEDA65950.2025.11101154) 
-     * <a href="https://www.researchgate.net/publication/390616577_ATSim35D_A_Multiscale_Thermal_Simulator_for_35D-IC_Systems_based_on_Nonlinear_Multigrid_Method" style="color:#3793ae">preprint</a> \| *Honorable Mention Paper Award*
+     * <a href="https://www.researchgate.net/publication/390616577_ATSim35D_A_Multiscale_Thermal_Simulator_for_35D-IC_Systems_based_on_Nonlinear_Multigrid_Method" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/ATSim_pub" style="color:#3793ae">release</a> \| *Honorable Mention Paper Award*
      * Qipan Wang, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Hong Kong, May 9-12, 2025.
             
@@ -395,7 +400,7 @@ Conference and Journal Papers
      * Nature Electronics, Oct, 2024.
             
   ### C164. [ATPlace2.5D: Analytical Thermal-Aware Chiplet Placement Framework for Large-Scale 2.5D-IC](https://doi.org/10.1145/3676536.3676648) 
-     * <a href="/publications/papers/PLACE_ICCAD2024_Wang.pdf" style="color:#3793ae">preprint</a>
+     * <a href="/publications/papers/PLACE_ICCAD2024_Wang.pdf" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/ATPlace_pub" style="color:#3793ae">release</a>
      * Qipan Wang, Xueqing Li, Tianyu Jia, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New Jersey, Oct, 2024.
             
@@ -484,7 +489,7 @@ Conference and Journal Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             
   ### C146. [ATSim3D: Towards Accurate Thermal Simulator for Heterogeneous 3D IC Systems Considering Nonlinear Leakage and Conductivity](https://doi.org/10.1109/ISEDA62518.2024.10617604) 
-     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a> \| *Honorable Mention Paper Award*
+     * <a href="https://www.researchgate.net/publication/379661538_ATSim3D_Towards_Accurate_Thermal_Simulator_for_Heterogeneous_3D-IC_Systems_Considering_Nonlinear_Leakage_and_Conductivity" style="color:#3793ae">preprint</a> \| <a href="https://github.com/PKU-IDEA/ATSim_pub" style="color:#3793ae">release</a> \| *Honorable Mention Paper Award*
      * Qipan Wang, Tianxiang Zhu, **Yibo Lin**\*, Runsheng Wang and Ru Huang 
      * IEEE/ACM International Symposium of EDA (ISEDA), Xi'an, China, May 10-13, 2024.
             

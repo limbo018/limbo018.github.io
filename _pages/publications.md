@@ -41,42 +41,42 @@ Conference and Journal Papers
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
   ### C236. Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing 
-     * accepted
+     * <a href="/publications/papers/OPT_DAC2026_Pan.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*
      * Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C235. CellE: Automated Standard Cell Library Extension via Equality Saturation 
-     * accepted
+     * <a href="/publications/papers/DTCO_DAC2026_Ren.pdf" style="color:#3793ae">preprint</a>
      * Yi Ren, Yukun Wang, Xiang Meng, Guoyao Cheng, Baokang Peng, Lining Zhang, **Yibo Lin**, Runsheng Wang and Guangyu Sun\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C234. LATTE: Legality-Assured Differentiable Timing-Driven Detailed Placement 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2026_Mai.pdf" style="color:#3793ae">preprint</a>
      * Jing Mai, Yi-Chen Lu, **Yibo Lin** and Haoxing Ren 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C233. EPiCell: Electro-Physical Co-Modeling for Standard Cell PPA Prediction 
-     * accepted
+     * <a href="/publications/papers/CELL_DAC2026_An.pdf" style="color:#3793ae">preprint</a>
      * Wenbo An, Kairong Guo, Haoyi Zhang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C232. Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs 
-     * accepted
+     * <a href="/publications/papers/PLACE_DAC2026_Ji.pdf" style="color:#3793ae">preprint</a>
      * Yuhao Ji, Yunqi Shi, Tianshu Hou, Yuxuan Zhao, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C231. Activity-Aware Partitioning for Effective Multi-Threaded Event-Driven RTL Simulation 
-     * accepted
+     * <a href="/publications/papers/SIM_DAC2026_Zhou.pdf" style="color:#3793ae">preprint</a>
      * Kexing Zhou, Youwei Zhuo, **Yibo Lin**, Weikang Qian, Pengpeng Ren and Yun Liang\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C230. AttentionCap: Transformer Based Capacitance Matrix Learning Toward Full-Chip Extraction 
-     * accepted
+     * <a href="/publications/papers/PEX_DAC2026_Huang.pdf" style="color:#3793ae">preprint</a>
      * Jiechen Huang, Hector R. Rodriguez, Dingcheng Yang, Zuochang Ye, **Yibo Lin** and Wenjian Yu\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
   ### C229. PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation 
-     * accepted \| *Invited Paper*
+     * <a href="https://arxiv.org/pdf/2606.15052" style="color:#3793ae">preprint</a> \| *Invited Paper*
      * Haoyi Zhang, Weijian Fan, Xiaohan Gao, Bingyang Liu, Runsheng Wang and **Yibo Lin**\* 
      * ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026.
             
@@ -126,7 +126,7 @@ Conference and Journal Papers
      * IEEE/ACM International Symposium of EDA (ISEDA), Singapore, May 8-12, 2026.
             
   ### C219. [CircuitNet 3.0: A Multi-Modal Dataset with Task-Oriented Augmentation for AI-Driven Circuit Design](https://openreview.net/forum?id=lEDb4gQ4dB) 
-     * <a href="https://openreview.net/forum?id=lEDb4gQ4dB" style="color:#3793ae">preprint</a> \| accepted
+     * <a href="https://openreview.net/forum?id=lEDb4gQ4dB" style="color:#3793ae">preprint</a>
      * Mingjun Wang, Yihan Wen, Yuntao Lu, Fengrui Liu, Yuxiang Zhao, Boyu Han, Jianan Mu, **Yibo Lin**, Runsheng Wang, Huawei Li and Bei Yu 
      * International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, Apr 23-27, 2026.
             

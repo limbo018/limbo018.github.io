@@ -29,18 +29,6 @@ Highly-Recommended Resources
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
-Recent News
-======
-* 1/2026: Congratulations to [Zizheng Guo](https://guozz.cn) for winning the **Best Poster Award** (Research) at ASPDAC 2026 Student Research Forum!
-
-* 3/2025: We won the **First Place** at [ISPD 2025 Performance-Driven Large Scale Global Routing Contest](https://github.com/liangrj2014/ISPD25_contest/blob/main/index.md). Cheers and congratulations to Chunyuan Zhao!
-
-* 1/2025: Congratulations to [Xiaohan Gao](https://gaoxiaohan.com/) for winning the **Best Poster Award** at ASPDAC 2025 Student Research Forum!
-
-* 10/2024: We won the **First Place** at [ICCAD 2024 CAD Contest Problem C: Scalable Logic Gate Sizing Using ML Techniques and GPU Acceleration](https://www.iccad-contest.org/) and [ICCAD 2024 CADathlon](https://2024.iccad.com/cadathlon-iccad-2024). Cheers and congratulations to [Yufan Du](https://yufandu.com/), [Zizheng Guo](https://guozz.cn/), and [Jing Mai](https://magic3007.github.io/)!
-
-* 3/2024: We won the **First Place** at [ISPD 2024 GPU/ML-Enhanced Large Scale Global Routing Contest](https://liangrj2014.github.io/ISPD24_contest/). Cheers and congratulations to Chunyuan Zhao!
-
 Selected Awards and Honors
 ======
 * Best Paper Award, ISEDA 2024
@@ -52,6 +40,8 @@ Selected Awards and Honors
 * Inaugural Best Paper Award, Integration, the VLSI Journal, 2018
 * Franco Cerrina Memorial Best Student Paper Award, SPIE Advanced Lithography Conference, 2016
 
+* Best Paper Award Nomination, DAC 2026
+* Best Paper Award Nomination (x3), ISEDA 2026
 * Best Paper Award Nomination, ICCAD 2025
 * Best Paper Award Nomination, DAC 2025
 * Honorable Mention (x2), ISEDA 2025

@@ -53,6 +53,7 @@ Selected Awards and Honors
 * Best Paper Award Nomination, DAC 2019
 * Best Paper Award Nomination, ISPD 2019
 
+* DAC Under-40 Innovators Award, DAC 2026
 * Inaugural Best Reviewer Award, ICCAD 2023
 * Early Career Award, CCF Technical Committee in IC, 2023
 * Graduate Continuing Fellowship, University of Texas at Austin, 2017

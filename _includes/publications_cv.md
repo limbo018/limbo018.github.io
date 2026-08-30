@@ -6,13 +6,15 @@
 (\* denotes corresponding authors)
 
 
-* J240. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J241. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J239. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+* J240. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
             
-* J238. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
+* J239. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
             
-* J237. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J238. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+            
+* J237. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "[M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
 * C236. Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\*, "Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. ([preprint](/publications/papers/OPT_DAC2026_Pan.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

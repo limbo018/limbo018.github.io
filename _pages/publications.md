@@ -51,38 +51,47 @@ Conference and Journal Papers
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
   ### C245. Soft-Constrained Triple Patterning Layout Decomposition 
+     * accepted
      * Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\* 
      * IEEE International Conference on Computer Design (ICCD), Hong Kong, China, Nov 16-18, 2026.
             
   ### C244. TAT: Timing-Aware Steiner Tree Generation for Buffer Insertion 
+     * accepted
      * Xiang Li, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C243. Clock Tree Synthesis with Cross-Tier Skew and Wirelength Co-Optimization for Face-to-Face Hybrid Bonding 3D ICs 
+     * accepted
      * Yuxi Lin, **Yibo Lin**, Zepeng Li, Weijie Fang, Guangyong Chen and Genggeng Liu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C242. VULCAN: Unified Multi-Scale Chip Thermal Simulation System for Design-Technology Co-Optimization 
+     * accepted
      * Zhenkun Lin, Taoyu Zhou, Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Meng Li, Runsheng Wang, Yandong He and Gang Du\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C241. GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization 
+     * accepted
      * Jingxin Wang, Sinian Zhang, Yun Liang, **Yibo Lin**, Pengpeng Ren, Runsheng Wang and Weikang Qian\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C240. LEGO 2.0: A Unified Agentic Platform for Digital Chip Design and Optimization 
+     * accepted
      * Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, Yuhao Ji, Chunyuan Zhao, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, Bei Yu, Zhixiong Di and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C239. VinePlace: Compact Analog and Mixed-Signal Placement via Core-Centered Vine Representation 
+     * accepted
      * Weijian Fan, Zhiyuan Zhao, Jinpeng Wang, Haoyi Zhang, Jincheng Lou, Runsheng Wang, Xiyuan Tang and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C238. HeteroOpt3D: Timing Optimization for Heterogeneous Hybrid-bonding-based Face-to-Face 3D ICs 
+     * accepted
      * Yuhao Ji, Siying Yu, Yunqi Shi, Fangzhou Liu, Yuxuan Zhao, Jiaxi Jiang, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C237. ScoutCell: Sensitivity-Guided Coupling Optimization for Timing-Driven Standard Cell Synthesis 
+     * accepted
      * Kairong Guo, Haoyi Zhang, Haichuan Liu, Chunyuan Zhao and **Yibo Lin**\* 
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             

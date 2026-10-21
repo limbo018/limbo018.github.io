@@ -18,23 +18,23 @@
             
 * J246. Haoyi Zhang, Jiechen Huang, Bingyang Liu, Wenjian Yu\*, **Yibo Lin**\* and Runsheng Wang, "[APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
             
-* C245. Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\*, "Soft-Constrained Triple Patterning Layout Decomposition," IEEE International Conference on Computer Design (ICCD), Hong Kong, China, Nov 16-18, 2026. 
+* C245. Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\*, "Soft-Constrained Triple Patterning Layout Decomposition," IEEE International Conference on Computer Design (ICCD), Hong Kong, China, Nov 16-18, 2026. (accepted)
             
-* C244. Xiang Li, Zuodong Zhang and **Yibo Lin**\*, "TAT: Timing-Aware Steiner Tree Generation for Buffer Insertion," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C244. Xiang Li, Zuodong Zhang and **Yibo Lin**\*, "TAT: Timing-Aware Steiner Tree Generation for Buffer Insertion," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C243. Yuxi Lin, **Yibo Lin**, Zepeng Li, Weijie Fang, Guangyong Chen and Genggeng Liu\*, "Clock Tree Synthesis with Cross-Tier Skew and Wirelength Co-Optimization for Face-to-Face Hybrid Bonding 3D ICs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C243. Yuxi Lin, **Yibo Lin**, Zepeng Li, Weijie Fang, Guangyong Chen and Genggeng Liu\*, "Clock Tree Synthesis with Cross-Tier Skew and Wirelength Co-Optimization for Face-to-Face Hybrid Bonding 3D ICs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C242. Zhenkun Lin, Taoyu Zhou, Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Meng Li, Runsheng Wang, Yandong He and Gang Du\*, "VULCAN: Unified Multi-Scale Chip Thermal Simulation System for Design-Technology Co-Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C242. Zhenkun Lin, Taoyu Zhou, Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Meng Li, Runsheng Wang, Yandong He and Gang Du\*, "VULCAN: Unified Multi-Scale Chip Thermal Simulation System for Design-Technology Co-Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C241. Jingxin Wang, Sinian Zhang, Yun Liang, **Yibo Lin**, Pengpeng Ren, Runsheng Wang and Weikang Qian\*, "GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C241. Jingxin Wang, Sinian Zhang, Yun Liang, **Yibo Lin**, Pengpeng Ren, Runsheng Wang and Weikang Qian\*, "GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C240. Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, Yuhao Ji, Chunyuan Zhao, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, Bei Yu, Zhixiong Di and **Yibo Lin**\*, "LEGO 2.0: A Unified Agentic Platform for Digital Chip Design and Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C240. Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, Yuhao Ji, Chunyuan Zhao, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, Bei Yu, Zhixiong Di and **Yibo Lin**\*, "LEGO 2.0: A Unified Agentic Platform for Digital Chip Design and Optimization," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C239. Weijian Fan, Zhiyuan Zhao, Jinpeng Wang, Haoyi Zhang, Jincheng Lou, Runsheng Wang, Xiyuan Tang and **Yibo Lin**\*, "VinePlace: Compact Analog and Mixed-Signal Placement via Core-Centered Vine Representation," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C239. Weijian Fan, Zhiyuan Zhao, Jinpeng Wang, Haoyi Zhang, Jincheng Lou, Runsheng Wang, Xiyuan Tang and **Yibo Lin**\*, "VinePlace: Compact Analog and Mixed-Signal Placement via Core-Centered Vine Representation," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C238. Yuhao Ji, Siying Yu, Yunqi Shi, Fangzhou Liu, Yuxuan Zhao, Jiaxi Jiang, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\*, "HeteroOpt3D: Timing Optimization for Heterogeneous Hybrid-bonding-based Face-to-Face 3D ICs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C238. Yuhao Ji, Siying Yu, Yunqi Shi, Fangzhou Liu, Yuxuan Zhao, Jiaxi Jiang, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\*, "HeteroOpt3D: Timing Optimization for Heterogeneous Hybrid-bonding-based Face-to-Face 3D ICs," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
-* C237. Kairong Guo, Haoyi Zhang, Haichuan Liu, Chunyuan Zhao and **Yibo Lin**\*, "ScoutCell: Sensitivity-Guided Coupling Optimization for Timing-Driven Standard Cell Synthesis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. 
+* C237. Kairong Guo, Haoyi Zhang, Haichuan Liu, Chunyuan Zhao and **Yibo Lin**\*, "ScoutCell: Sensitivity-Guided Coupling Optimization for Timing-Driven Standard Cell Synthesis," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026. (accepted)
             
 * C236. Zixuan Pan, Zizheng Guo, Yufan Du, Runsheng Wang and **Yibo Lin**\*, "Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing," ACM/IEEE Design Automation Conference (DAC), Long Beach, CA, Jul 26-29, 2026. ([preprint](/publications/papers/OPT_DAC2026_Pan.pdf){: .share-button-noborder})(*Best Paper Nomination*)
             

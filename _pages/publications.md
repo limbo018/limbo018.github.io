@@ -20,35 +20,71 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J242. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J251. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J241. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J250. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J240. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J249. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J239. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J248. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J238. [M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619) 
+  ### J247. [M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619) 
      * accepted
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J237. [APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639) 
+  ### J246. [APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639) 
      * accepted
      * Haoyi Zhang, Jiechen Huang, Bingyang Liu, Wenjian Yu\*, **Yibo Lin**\* and Runsheng Wang 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
+            
+  ### C245. Soft-Constrained Triple Patterning Layout Decomposition 
+     * Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\* 
+     * IEEE International Conference on Computer Design (ICCD), Hong Kong, China, Nov 16-18, 2026.
+            
+  ### C244. TAT: Timing-Aware Steiner Tree Generation for Buffer Insertion 
+     * Xiang Li, Zuodong Zhang and **Yibo Lin**\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C243. Clock Tree Synthesis with Cross-Tier Skew and Wirelength Co-Optimization for Face-to-Face Hybrid Bonding 3D ICs 
+     * Yuxi Lin, **Yibo Lin**, Zepeng Li, Weijie Fang, Guangyong Chen and Genggeng Liu\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C242. VULCAN: Unified Multi-Scale Chip Thermal Simulation System for Design-Technology Co-Optimization 
+     * Zhenkun Lin, Taoyu Zhou, Qipan Wang, Tianxiang Zhu, **Yibo Lin**, Meng Li, Runsheng Wang, Yandong He and Gang Du\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C241. GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization 
+     * Jingxin Wang, Sinian Zhang, Yun Liang, **Yibo Lin**, Pengpeng Ren, Runsheng Wang and Weikang Qian\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C240. LEGO 2.0: A Unified Agentic Platform for Digital Chip Design and Optimization 
+     * Jincheng Lou, Ruohan Xu, Jiecheng Ma, Boyang Wu, Yuhao Ji, Chunyuan Zhao, Xinyu Qu, Yuxiang Zhao, Runzhe Tao, Bei Yu, Zhixiong Di and **Yibo Lin**\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C239. VinePlace: Compact Analog and Mixed-Signal Placement via Core-Centered Vine Representation 
+     * Weijian Fan, Zhiyuan Zhao, Jinpeng Wang, Haoyi Zhang, Jincheng Lou, Runsheng Wang, Xiyuan Tang and **Yibo Lin**\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C238. HeteroOpt3D: Timing Optimization for Heterogeneous Hybrid-bonding-based Face-to-Face 3D ICs 
+     * Yuhao Ji, Siying Yu, Yunqi Shi, Fangzhou Liu, Yuxuan Zhao, Jiaxi Jiang, Zizheng Guo, Chao Qian, **Yibo Lin** and Bei Yu\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
+            
+  ### C237. ScoutCell: Sensitivity-Guided Coupling Optimization for Timing-Driven Standard Cell Synthesis 
+     * Kairong Guo, Haoyi Zhang, Haichuan Liu, Chunyuan Zhao and **Yibo Lin**\* 
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Jose, CA, Nov 8-12, 2026.
             
   ### C236. Disentangled Differentiable Timing-Power Co-Optimization with Quad-Gradient Gate sizing 
      * <a href="/publications/papers/OPT_DAC2026_Pan.pdf" style="color:#3793ae">preprint</a> \| *Best Paper Nomination*

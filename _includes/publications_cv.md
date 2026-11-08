@@ -6,17 +6,19 @@
 (\* denotes corresponding authors)
 
 
-* J251. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J252. Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du, "[URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J250. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+* J251. Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo, "[Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
             
-* J249. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
+* J250. Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\*, "[GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. ([preprint](https://arxiv.org/pdf/2507.13375){: .share-button-noborder})(accepted)
             
-* J248. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J249. Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\*, "EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J247. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "[M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
+* J248. Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\*, "[M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619)," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
-* J246. Haoyi Zhang, Jiechen Huang, Bingyang Liu, Wenjian Yu\*, **Yibo Lin**\* and Runsheng Wang, "[APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+* J247. Haoyi Zhang, Jiechen Huang, Bingyang Liu, Wenjian Yu\*, **Yibo Lin**\* and Runsheng Wang, "[APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639)," ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026. (accepted)
+            
+* J246. Yifan Chen, Zixiao Wang, Zhe Liu, Ke Xu, Meng Li, Bei Yu, Runsheng Wang and **Yibo Lin**\*, "SoftClay3D: Exploring Intra-Module Partitioning with True-3D Floorplan and Placement Engines," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. (accepted)
             
 * C245. Mengjia Dai, Hongduo Liu, Yuhao Ji, Xiaojing Su, **Yibo Lin** and Bei Yu\*, "Soft-Constrained Triple Patterning Layout Decomposition," IEEE International Conference on Computer Design (ICCD), Hong Kong, China, Nov 16-18, 2026. (accepted)
             

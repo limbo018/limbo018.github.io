@@ -20,35 +20,40 @@ Conference and Journal Papers
 
 * 2026
 
-  ### J251. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
+  ### J252. [URoute: Universal Routability Prediction](https://doi.org/10.1109/TCAD.2025.3636449) 
      * accepted
      * Zhenkun Lin, **Yibo Lin**, Genggeng Liu\* and Gang Du 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J250. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
+  ### J251. [Efficient Timing Prediction and Optimization Using Derivable Gradient Boosting Machine Model at Placement Stage](https://doi.org/10.1145/3780100) 
      * accepted
      * Xu He\*, Yushan Wang, Chenjing Yang, Renjun Zhao, **Yibo Lin**, Peiyu Liao, Bei Yu, Yao Wang, Chang Liu and Yang Guo 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
             
-  ### J249. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
+  ### J250. [GAP-LA: GPU-Accelerated Performance-Driven Layer Assignment](https://doi.org/10.1109/TCAD.2025.3650401) 
      * <a href="https://arxiv.org/pdf/2507.13375" style="color:#3793ae">preprint</a> \| accepted
      * Chunyuan Zhao, Zizheng Guo, Zuodong Zhang and **Yibo Lin**\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J248. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
+  ### J249. EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models 
      * accepted
      * Xufeng Yao, Jiaxi Jiang, Yuxuan Zhao, Peiyu Liao, **Yibo Lin** and Bei Yu\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J247. [M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619) 
+  ### J248. [M2MOR: Multi-scale Thermo-mechanical Coupling Simulation of Chiplet Heterogeneous Integration Systems Based on Model Order Reduction](https://doi.org/10.1109/TCAD.2026.3728619) 
      * accepted
      * Tianxiang Zhu, Qipan Wang, **Yibo Lin**\* and Runsheng Wang\* 
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
-  ### J246. [APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639) 
+  ### J247. [APEC-Route: Guiding Analog Routing with On-the-Fly Parasitic Extraction Based on a Neural Capacitance Model](https://doi.org/10.1145/3848639) 
      * accepted
      * Haoyi Zhang, Jiechen Huang, Bingyang Liu, Wenjian Yu\*, **Yibo Lin**\* and Runsheng Wang 
      * ACM Transactions on Design Automation of Electronic Systems (TODAES), 2026.
+            
+  ### J246. SoftClay3D: Exploring Intra-Module Partitioning with True-3D Floorplan and Placement Engines 
+     * accepted
+     * Yifan Chen, Zixiao Wang, Zhe Liu, Ke Xu, Meng Li, Bei Yu, Runsheng Wang and **Yibo Lin**\* 
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
             
   ### C245. Soft-Constrained Triple Patterning Layout Decomposition 
      * accepted
